@@ -1,0 +1,9416 @@
+train_strong
+2016-12-22 20:51:59.409858
+--------------------------------------------------
+=== outstanding, right
+
+outstanding > right
+cluster id: 6.0
+
+modifying outstanding:
+
+modifying right:
+all
+
+--------------------------------------------------
+=== excited, pleased
+
+excited > pleased
+cluster id: 10.0
+
+modifying excited:
+really
+so
+a little
+
+modifying pleased:
+extremely
+so
+
+--------------------------------------------------
+=== fortunate, timely
+
+fortunate > timely
+cluster id: 3.0
+
+modifying fortunate:
+
+modifying timely:
+very
+
+--------------------------------------------------
+=== concrete, real
+
+concrete > real
+cluster id: 1.0
+
+modifying concrete:
+very
+
+modifying real:
+
+--------------------------------------------------
+=== appropriate, ideal
+
+appropriate > ideal
+cluster id: 1.0
+
+modifying appropriate:
+most
+very
+
+modifying ideal:
+
+--------------------------------------------------
+=== amazing, magic
+
+amazing > magic
+cluster id: 3.0
+
+modifying amazing:
+
+modifying magic:
+pretty
+
+--------------------------------------------------
+=== prominent, visible
+
+prominent > visible
+cluster id: 7.0
+
+modifying prominent:
+
+modifying visible:
+highly
+clearly
+readily
+very
+
+--------------------------------------------------
+=== horrendous, worst
+
+horrendous > worst
+cluster id: 1.0
+
+modifying horrendous:
+
+modifying worst:
+the
+
+--------------------------------------------------
+=== crucial, mandatory
+
+crucial > mandatory
+cluster id: 1.0
+
+modifying crucial:
+absolutely
+
+modifying mandatory:
+
+--------------------------------------------------
+=== active, underway
+
+active > underway
+cluster id: 1.0
+
+modifying active:
+
+modifying underway:
+currently
+
+--------------------------------------------------
+=== accurate, right
+
+accurate > right
+cluster id: 1.0
+
+modifying accurate:
+
+modifying right:
+exactly
+about
+quite
+all
+absolutely
+only
+just
+
+--------------------------------------------------
+=== achievable, affordable
+
+achievable > affordable
+cluster id: 3.0
+
+modifying achievable:
+economically
+
+modifying affordable:
+very
+more
+
+--------------------------------------------------
+=== cool, fine
+
+cool > fine
+cluster id: 1.0
+
+modifying cool:
+really
+pretty
+
+modifying fine:
+
+--------------------------------------------------
+=== lovelier, nice
+
+lovelier > nice
+cluster id: 1.0
+
+modifying lovelier:
+
+modifying nice:
+very
+so
+pretty
+
+--------------------------------------------------
+=== brilliant, fantastic
+
+brilliant > fantastic
+cluster id: 1.0
+
+modifying brilliant:
+absolutely
+so
+just
+
+modifying fantastic:
+quite
+really
+so
+most
+just
+
+--------------------------------------------------
+=== awesome, outstanding
+
+awesome > outstanding
+cluster id: 1.0
+
+modifying awesome:
+so
+really
+
+modifying outstanding:
+
+--------------------------------------------------
+=== crucial, needed
+
+crucial > needed
+cluster id: 1.0
+
+modifying crucial:
+
+modifying needed:
+vitally
+urgently
+most
+much
+
+--------------------------------------------------
+=== recent, up-to-date
+
+recent > up-to-date
+cluster id: 1.0
+
+modifying recent:
+most
+
+modifying up-to-date:
+most
+
+--------------------------------------------------
+=== obvious, visible
+
+obvious > visible
+cluster id: 2.0
+
+modifying obvious:
+so
+quite
+pretty
+very
+perfectly
+more
+patently
+
+modifying visible:
+very
+clearly
+
+--------------------------------------------------
+=== grateful, happy
+
+grateful > happy
+cluster id: 1.0
+
+modifying grateful:
+so
+very
+
+modifying happy:
+very
+really
+so
+just
+
+--------------------------------------------------
+=== stringent, strong
+
+stringent > strong
+cluster id: 3.0
+
+modifying stringent:
+
+modifying strong:
+very
+
+--------------------------------------------------
+=== huge, major
+
+huge > major
+cluster id: 3.0
+
+modifying huge:
+
+modifying major:
+very
+
+--------------------------------------------------
+=== prominent, remarkable
+
+prominent > remarkable
+cluster id: 3.0
+
+modifying prominent:
+most
+
+modifying remarkable:
+
+--------------------------------------------------
+=== fine, okay
+
+fine > okay
+cluster id: 3.0
+
+modifying fine:
+absolutely
+perfectly
+just
+all
+really
+
+modifying okay:
+fine 
+really
+everything
+
+--------------------------------------------------
+=== attractive, cute
+
+attractive > cute
+cluster id: 1.0
+
+modifying attractive:
+very
+
+modifying cute:
+really
+so
+quite
+pretty
+very
+
+--------------------------------------------------
+=== powerful, tougher
+
+powerful > tougher
+cluster id: 1.0
+
+modifying powerful:
+most
+more
+
+modifying tougher:
+
+--------------------------------------------------
+=== limited, small
+
+limited > small
+cluster id: 1.0
+
+modifying limited:
+
+modifying small:
+relatively
+
+--------------------------------------------------
+=== sound, sturdy
+
+sound > sturdy
+cluster id: 2.0
+
+modifying sound:
+structurally
+
+modifying sturdy:
+
+--------------------------------------------------
+=== awesome, well
+
+awesome > well
+cluster id: 1.0
+
+modifying awesome:
+
+modifying well:
+perfectly
+real
+very
+
+--------------------------------------------------
+=== effective, good
+
+effective > good
+cluster id: 3.0
+
+modifying effective:
+most
+
+modifying good:
+so
+
+--------------------------------------------------
+=== perfect, shipshape
+
+perfect > shipshape
+cluster id: 6.0
+
+modifying perfect:
+so
+all
+
+modifying shipshape:
+
+--------------------------------------------------
+=== lowest, smaller
+
+lowest > smaller
+cluster id: 1.0
+
+modifying lowest:
+very
+
+modifying smaller:
+much
+
+--------------------------------------------------
+=== amazing, topnotch
+
+amazing > topnotch
+cluster id: 1.0
+
+modifying amazing:
+
+modifying topnotch:
+really
+
+--------------------------------------------------
+=== excellent, qualified
+
+excellent > qualified
+cluster id: 6.0
+
+modifying excellent:
+
+modifying qualified:
+well
+
+--------------------------------------------------
+=== comprehensive, detailed
+
+comprehensive > detailed
+cluster id: 1.0
+
+modifying comprehensive:
+very
+
+modifying detailed:
+very
+
+--------------------------------------------------
+=== crazy, rogue
+
+crazy > rogue
+cluster id: 1.0
+
+modifying crazy:
+really
+guys
+
+modifying rogue:
+
+--------------------------------------------------
+=== easiest, simple
+
+easiest > simple
+cluster id: 1.0
+
+modifying easiest:
+
+modifying simple:
+most
+quite
+more
+very
+that
+as
+
+--------------------------------------------------
+=== appropriate, better
+
+appropriate > better
+cluster id: 10.0
+
+modifying appropriate:
+most
+
+modifying better:
+
+--------------------------------------------------
+=== exceptional, remarkable
+
+exceptional > remarkable
+cluster id: 1.0
+
+modifying exceptional:
+
+modifying remarkable:
+very
+quite
+most
+truly
+
+--------------------------------------------------
+=== interesting, relevant
+
+interesting > relevant
+cluster id: 1.0
+
+modifying interesting:
+very
+that
+
+modifying relevant:
+
+--------------------------------------------------
+=== convenient, easier
+
+convenient > easier
+cluster id: 1.0
+
+modifying convenient:
+more
+
+modifying easier:
+really
+
+--------------------------------------------------
+=== gorgeous, perfect
+
+gorgeous > perfect
+cluster id: 1.0
+
+modifying gorgeous:
+
+modifying perfect:
+just
+
+--------------------------------------------------
+=== dangerous, hazardous
+
+dangerous > hazardous
+cluster id: 1.0
+
+modifying dangerous:
+potentially
+so
+very
+quite
+rather
+most
+particularly
+as
+highly
+extremely
+pretty
+all that
+truly
+a bit
+kind of
+too
+especially
+awfully
+
+modifying hazardous:
+potentially
+more
+very
+severely
+
+--------------------------------------------------
+=== critical, significant
+
+critical > significant
+cluster id: 1.0
+
+modifying critical:
+
+modifying significant:
+very
+most
+highly
+extremely
+
+--------------------------------------------------
+=== stringent, tough
+
+stringent > tough
+cluster id: 3.0
+
+modifying stringent:
+very
+more
+
+modifying tough:
+
+--------------------------------------------------
+=== flattering, neat
+
+flattering > neat
+cluster id: 6.0
+
+modifying flattering:
+
+modifying neat:
+pretty
+
+--------------------------------------------------
+=== demented, insane
+
+demented > insane
+cluster id: 1.0
+
+modifying demented:
+
+modifying insane:
+so
+
+--------------------------------------------------
+=== happy, satisfactory
+
+happy > satisfactory
+cluster id: 4.0
+
+modifying happy:
+quite
+
+modifying satisfactory:
+
+--------------------------------------------------
+=== beneficial, positive
+
+beneficial > positive
+cluster id: 3.0
+
+modifying beneficial:
+
+modifying positive:
+very
+as
+more
+
+--------------------------------------------------
+=== magnificent, perfect
+
+magnificent > perfect
+cluster id: 1.0
+
+modifying magnificent:
+
+modifying perfect:
+so
+
+--------------------------------------------------
+=== foolish, senseless
+
+foolish > senseless
+cluster id: 3.0
+
+modifying foolish:
+very
+
+modifying senseless:
+
+--------------------------------------------------
+=== awful, sad
+
+awful > sad
+cluster id: 9.0
+
+modifying awful:
+absolutely
+
+modifying sad:
+very
+
+--------------------------------------------------
+=== broader, diverse
+
+broader > diverse
+cluster id: 10.0
+
+modifying broader:
+
+modifying diverse:
+most
+more
+
+--------------------------------------------------
+=== obvious, self-explanatory
+
+obvious > self-explanatory
+cluster id: 1.0
+
+modifying obvious:
+quite
+very
+patently
+perfectly
+therefore
+rather
+most
+glaringly
+
+modifying self-explanatory:
+pretty
+
+--------------------------------------------------
+=== crucial, useful
+
+crucial > useful
+cluster id: 1.0
+
+modifying crucial:
+
+modifying useful:
+very
+
+--------------------------------------------------
+=== distinctive, special
+
+distinctive > special
+cluster id: 3.0
+
+modifying distinctive:
+
+modifying special:
+very
+
+--------------------------------------------------
+=== vast, wide-ranging
+
+vast > wide-ranging
+cluster id: 6.0
+
+modifying vast:
+
+modifying wide-ranging:
+very
+
+--------------------------------------------------
+=== marvellous, remarkable
+
+marvellous > remarkable
+cluster id: 1.0
+
+modifying marvellous:
+
+modifying remarkable:
+quite
+most
+very
+rather
+pretty
+truly
+that
+mighty
+
+--------------------------------------------------
+=== overwhelming, tremendous
+
+overwhelming > tremendous
+cluster id: 1.0
+
+modifying overwhelming:
+almost
+
+modifying tremendous:
+
+--------------------------------------------------
+=== interesting, worthwhile
+
+interesting > worthwhile
+cluster id: 1.0
+
+modifying interesting:
+quite
+most
+so
+really
+rather
+pretty
+particularly
+more
+very
+that
+highly
+extremely
+kind of
+
+modifying worthwhile:
+
+--------------------------------------------------
+=== amazing, dreamy
+
+amazing > dreamy
+cluster id: 3.0
+
+modifying amazing:
+just so
+
+modifying dreamy:
+
+--------------------------------------------------
+=== astonishing, incredible
+
+astonishing > incredible
+cluster id: 1.0
+
+modifying astonishing:
+
+modifying incredible:
+absolutely
+totally
+most
+so
+quite
+pretty
+really
+just
+
+--------------------------------------------------
+=== broader, widespread
+
+broader > widespread
+cluster id: 3.0
+
+modifying broader:
+
+modifying widespread:
+more
+
+--------------------------------------------------
+=== severe, stringent
+
+severe > stringent
+cluster id: 3.0
+
+modifying severe:
+very
+
+modifying stringent:
+more
+
+--------------------------------------------------
+=== gentle, nice
+
+gentle > nice
+cluster id: 1.0
+
+modifying gentle:
+
+modifying nice:
+so
+really
+
+--------------------------------------------------
+=== real, specific
+
+real > specific
+cluster id: 1.0
+
+modifying real:
+very
+
+modifying specific:
+very
+
+--------------------------------------------------
+=== strong, thought-out
+
+strong > thought-out
+cluster id: 4.0
+
+modifying strong:
+
+modifying thought-out:
+well
+
+--------------------------------------------------
+=== crazy, delirious
+
+crazy > delirious
+cluster id: 1.0
+
+modifying crazy:
+just
+
+modifying delirious:
+
+--------------------------------------------------
+=== horrendous, horrific
+
+horrendous > horrific
+cluster id: 1.0
+
+modifying horrendous:
+
+modifying horrific:
+most
+
+--------------------------------------------------
+=== effective, fruitful
+
+effective > fruitful
+cluster id: 1.0
+
+modifying effective:
+very
+more
+
+modifying fruitful:
+highly
+very
+
+--------------------------------------------------
+=== amazing, exceptional
+
+amazing > exceptional
+cluster id: 1.0
+
+modifying amazing:
+
+modifying exceptional:
+truly
+
+--------------------------------------------------
+=== effective, responsive
+
+effective > responsive
+cluster id: 1.0
+
+modifying effective:
+very
+as
+
+modifying responsive:
+
+--------------------------------------------------
+=== incredible, neat
+
+incredible > neat
+cluster id: 3.0
+
+modifying incredible:
+pretty
+really
+
+modifying neat:
+really
+pretty
+
+--------------------------------------------------
+=== exceptional, topnotch
+
+exceptional > topnotch
+cluster id: 1.0
+
+modifying exceptional:
+
+modifying topnotch:
+really
+
+--------------------------------------------------
+=== broader, wider
+
+broader > wider
+cluster id: 3.0
+
+modifying broader:
+much
+
+modifying wider:
+even
+much
+
+--------------------------------------------------
+=== honest, honorable
+
+honest > honorable
+cluster id: 3.0
+
+modifying honest:
+completely
+
+modifying honorable:
+
+--------------------------------------------------
+=== adequate, right
+
+adequate > right
+cluster id: 1.0
+
+modifying adequate:
+
+modifying right:
+only
+all
+
+--------------------------------------------------
+=== marvelous, perfect
+
+marvelous > perfect
+cluster id: 1.0
+
+modifying marvelous:
+
+modifying perfect:
+absolutely
+completely
+so
+all
+just
+this
+that
+
+--------------------------------------------------
+=== honest, open
+
+honest > open
+cluster id: 1.0
+
+modifying honest:
+quite
+perfectly
+totally
+
+modifying open:
+quite
+very
+as
+
+--------------------------------------------------
+=== crazy, nut
+
+crazy > nut
+cluster id: 1.0
+
+modifying crazy:
+absolutely
+completely
+
+modifying nut:
+
+--------------------------------------------------
+=== awesome, interesting
+
+awesome > interesting
+cluster id: 10.0
+
+modifying awesome:
+
+modifying interesting:
+really
+
+--------------------------------------------------
+=== gentle, mild
+
+gentle > mild
+cluster id: 1.0
+
+modifying gentle:
+so
+
+modifying mild:
+
+--------------------------------------------------
+=== successful, valuable
+
+successful > valuable
+cluster id: 1.0
+
+modifying successful:
+very
+
+modifying valuable:
+
+--------------------------------------------------
+=== impressive, remarkable
+
+impressive > remarkable
+cluster id: 1.0
+
+modifying impressive:
+pretty
+most
+very
+
+modifying remarkable:
+very
+quite
+rather
+pretty
+most
+truly
+that
+
+--------------------------------------------------
+=== best, satisfactory
+
+best > satisfactory
+cluster id: 1.0
+
+modifying best:
+
+modifying satisfactory:
+most
+
+--------------------------------------------------
+=== severe, tough
+
+severe > tough
+cluster id: 3.0
+
+modifying severe:
+very
+
+modifying tough:
+
+--------------------------------------------------
+=== significant, vital
+
+significant > vital
+cluster id: 3.0
+
+modifying significant:
+very
+most
+highly
+extremely
+particularly
+
+modifying vital:
+absolutely
+
+--------------------------------------------------
+=== heinous, worst
+
+heinous > worst
+cluster id: 1.0
+
+modifying heinous:
+most
+
+modifying worst:
+
+--------------------------------------------------
+=== excessive, great
+
+excessive > great
+cluster id: 2.0
+
+modifying excessive:
+
+modifying great:
+disproportionately
+too
+very
+
+--------------------------------------------------
+=== superb, valuable
+
+superb > valuable
+cluster id: 15.0
+
+modifying superb:
+
+modifying valuable:
+very
+
+--------------------------------------------------
+=== best, outstanding
+
+best > outstanding
+cluster id: 1.0
+
+modifying best:
+
+modifying outstanding:
+most
+
+--------------------------------------------------
+=== right, strong
+
+right > strong
+cluster id: 6.0
+
+modifying right:
+all
+
+modifying strong:
+
+--------------------------------------------------
+=== best, desirable
+
+best > desirable
+cluster id: 10.0
+
+modifying best:
+
+modifying desirable:
+most
+more
+therefore
+
+--------------------------------------------------
+=== bad, distressing
+
+bad > distressing
+cluster id: 1.0
+
+modifying bad:
+so
+pretty
+
+modifying distressing:
+
+--------------------------------------------------
+=== awesome, terrific
+
+awesome > terrific
+cluster id: 10.0
+
+modifying awesome:
+pretty
+totally
+really
+so
+just
+kind of
+
+modifying terrific:
+really
+just
+
+--------------------------------------------------
+=== clever, sensible
+
+clever > sensible
+cluster id: 3.0
+
+modifying clever:
+very
+
+modifying sensible:
+
+--------------------------------------------------
+=== broader, large
+
+broader > large
+cluster id: 3.0
+
+modifying broader:
+much
+
+modifying large:
+very
+as
+
+--------------------------------------------------
+=== possible, possibly
+
+possible > possibly
+cluster id: 1.0
+
+modifying possible:
+quite
+even
+at all
+as
+reasonably
+that
+
+modifying possibly:
+
+--------------------------------------------------
+=== colossal, substantial
+
+colossal > substantial
+cluster id: 1.0
+
+modifying colossal:
+
+modifying substantial:
+very
+
+--------------------------------------------------
+=== marvelous, right
+
+marvelous > right
+cluster id: 1.0
+
+modifying marvelous:
+
+modifying right:
+gonna be all
+all
+just
+
+--------------------------------------------------
+=== pleased, satisfied
+
+pleased > satisfied
+cluster id: 3.0
+
+modifying pleased:
+
+modifying satisfied:
+completely
+totally
+quite
+
+--------------------------------------------------
+=== amazing, cool
+
+amazing > cool
+cluster id: 3.0
+
+modifying amazing:
+
+modifying cool:
+totally
+
+--------------------------------------------------
+=== considerable, sharp
+
+considerable > sharp
+cluster id: 1.0
+
+modifying considerable:
+very
+
+modifying sharp:
+very
+
+--------------------------------------------------
+=== crazy, mental
+
+crazy > mental
+cluster id: 1.0
+
+modifying crazy:
+fucking
+
+modifying mental:
+completely
+
+--------------------------------------------------
+=== attractive, delightful
+
+attractive > delightful
+cluster id: 6.0
+
+modifying attractive:
+very
+
+modifying delightful:
+
+--------------------------------------------------
+=== impressive, tough
+
+impressive > tough
+cluster id: 15.0
+
+modifying impressive:
+very
+
+modifying tough:
+
+--------------------------------------------------
+=== beneficial, valuable
+
+beneficial > valuable
+cluster id: 1.0
+
+modifying beneficial:
+very
+most
+particularly
+more
+
+modifying valuable:
+very
+
+--------------------------------------------------
+=== crazy, screwy
+
+crazy > screwy
+cluster id: 1.0
+
+modifying crazy:
+absolutely
+completely
+really
+pretty
+so
+just so
+just
+
+modifying screwy:
+
+--------------------------------------------------
+=== sound, thought-out
+
+sound > thought-out
+cluster id: 1.0
+
+modifying sound:
+
+modifying thought-out:
+well
+
+--------------------------------------------------
+=== valuable, worthwhile
+
+valuable > worthwhile
+cluster id: 10.0
+
+modifying valuable:
+highly
+most
+extremely
+very
+
+modifying worthwhile:
+very
+
+--------------------------------------------------
+=== atrocious, bad
+
+atrocious > bad
+cluster id: 1.0
+
+modifying atrocious:
+
+modifying bad:
+so
+really
+pretty
+
+--------------------------------------------------
+=== attractive, lovelier
+
+attractive > lovelier
+cluster id: 1.0
+
+modifying attractive:
+very
+
+modifying lovelier:
+
+--------------------------------------------------
+=== scary, tough
+
+scary > tough
+cluster id: 8.0
+
+modifying scary:
+
+modifying tough:
+so
+
+--------------------------------------------------
+=== crazy, queer
+
+crazy > queer
+cluster id: 3.0
+
+modifying crazy:
+really
+
+modifying queer:
+
+--------------------------------------------------
+=== amazing, spectacular
+
+amazing > spectacular
+cluster id: 1.0
+
+modifying amazing:
+really
+
+modifying spectacular:
+
+--------------------------------------------------
+=== unacceptable, wrong
+
+unacceptable > wrong
+cluster id: 3.0
+
+modifying unacceptable:
+totally
+completely
+
+modifying wrong:
+
+--------------------------------------------------
+=== scary, spooky
+
+scary > spooky
+cluster id: 6.0
+
+modifying scary:
+pretty
+so
+really
+
+modifying spooky:
+
+--------------------------------------------------
+=== okay, right
+
+okay > right
+cluster id: 1.0
+
+modifying okay:
+right 
+
+modifying right:
+all
+only
+quite
+about
+so
+
+--------------------------------------------------
+=== beneficial, right
+
+beneficial > right
+cluster id: 10.0
+
+modifying beneficial:
+
+modifying right:
+all
+only
+quite
+
+--------------------------------------------------
+=== accurate, precise
+
+accurate > precise
+cluster id: 1.0
+
+modifying accurate:
+quite
+most
+very
+more
+highly
+as
+
+modifying precise:
+very
+quite
+so
+more
+
+--------------------------------------------------
+=== efficient, worthwhile
+
+efficient > worthwhile
+cluster id: 1.0
+
+modifying efficient:
+cost
+economically
+
+modifying worthwhile:
+
+--------------------------------------------------
+=== comfortable, well-off
+
+comfortable > well-off
+cluster id: 2.0
+
+modifying comfortable:
+relatively
+
+modifying well-off:
+
+--------------------------------------------------
+=== beautiful, cute
+
+beautiful > cute
+cluster id: 1.0
+
+modifying beautiful:
+quite
+so
+most
+pretty
+really
+very
+beautiful 
+just
+
+modifying cute:
+so
+quite
+really
+pretty
+kinda
+very
+
+--------------------------------------------------
+=== fabulous, marvelous
+
+fabulous > marvelous
+cluster id: 3.0
+
+modifying fabulous:
+
+modifying marvelous:
+so
+simply
+
+--------------------------------------------------
+=== fantastic, finest
+
+fantastic > finest
+cluster id: 1.0
+
+modifying fantastic:
+most
+
+modifying finest:
+
+--------------------------------------------------
+=== critical, right
+
+critical > right
+cluster id: 1.0
+
+modifying critical:
+
+modifying right:
+all
+
+--------------------------------------------------
+=== appropriate, fitting
+
+appropriate > fitting
+cluster id: 6.0
+
+modifying appropriate:
+really
+where
+most
+very
+as
+more
+therefore
+highly
+particularly
+entirely
+
+modifying fitting:
+therefore
+
+--------------------------------------------------
+=== active, vigorous
+
+active > vigorous
+cluster id: 3.0
+
+modifying active:
+particularly
+very
+more
+
+modifying vigorous:
+
+--------------------------------------------------
+=== hot, warmer
+
+hot > warmer
+cluster id: 3.0
+
+modifying hot:
+really
+
+modifying warmer:
+
+--------------------------------------------------
+=== abundant, considerable
+
+abundant > considerable
+cluster id: 3.0
+
+modifying abundant:
+
+modifying considerable:
+very
+
+--------------------------------------------------
+=== adequate, well-formed
+
+adequate > well-formed
+cluster id: 1.0
+
+modifying adequate:
+perfectly
+
+modifying well-formed:
+
+--------------------------------------------------
+=== inadequate, poor
+
+inadequate > poor
+cluster id: 3.0
+
+modifying inadequate:
+
+modifying poor:
+very
+
+--------------------------------------------------
+=== insignificant, low
+
+insignificant > low
+cluster id: 1.0
+
+modifying insignificant:
+
+modifying low:
+quite
+so
+relatively
+extremely
+very
+
+--------------------------------------------------
+=== gentle, sweet
+
+gentle > sweet
+cluster id: 1.0
+
+modifying gentle:
+so
+very
+as
+
+modifying sweet:
+so
+really
+pretty
+very
+real
+awfully
+sweet 
+kind of
+too
+
+--------------------------------------------------
+=== major, tremendous
+
+major > tremendous
+cluster id: 1.0
+
+modifying major:
+very
+
+modifying tremendous:
+
+--------------------------------------------------
+=== excited, happy
+
+excited > happy
+cluster id: 3.0
+
+modifying excited:
+really
+
+modifying happy:
+nice 
+completely
+
+--------------------------------------------------
+=== better, easier
+
+better > easier
+cluster id: 4.0
+
+modifying better:
+something
+
+modifying easier:
+
+--------------------------------------------------
+=== brilliant, fabulous
+
+brilliant > fabulous
+cluster id: 1.0
+
+modifying brilliant:
+absolutely
+so
+just
+
+modifying fabulous:
+
+--------------------------------------------------
+=== larger, pronounced
+
+larger > pronounced
+cluster id: 1.0
+
+modifying larger:
+
+modifying pronounced:
+most
+
+--------------------------------------------------
+=== formidable, huge
+
+formidable > huge
+cluster id: 1.0
+
+modifying formidable:
+
+modifying huge:
+so
+
+--------------------------------------------------
+=== foolish, idiot
+
+foolish > idiot
+cluster id: 3.0
+
+modifying foolish:
+really
+
+modifying idiot:
+
+--------------------------------------------------
+=== remarkable, special
+
+remarkable > special
+cluster id: 1.0
+
+modifying remarkable:
+
+modifying special:
+very
+
+--------------------------------------------------
+=== excellent, perfect
+
+excellent > perfect
+cluster id: 1.0
+
+modifying excellent:
+quite
+very
+
+modifying perfect:
+so
+all
+just
+
+--------------------------------------------------
+=== largest, wider
+
+largest > wider
+cluster id: 1.0
+
+modifying largest:
+
+modifying wider:
+much
+
+--------------------------------------------------
+=== distressing, unfortunate
+
+distressing > unfortunate
+cluster id: 1.0
+
+modifying distressing:
+
+modifying unfortunate:
+rather
+most
+extremely
+very
+
+--------------------------------------------------
+=== accessible, available
+
+accessible > available
+cluster id: 1.0
+
+modifying accessible:
+easily
+more
+publicly
+fully
+generally
+readily
+equally
+
+modifying available:
+readily
+currently
+now
+widely
+easily
+publicly
+more readily
+already
+universally
+broadly
+more widely
+
+--------------------------------------------------
+=== awesome, marvelous
+
+awesome > marvelous
+cluster id: 3.0
+
+modifying awesome:
+totally
+really
+so
+pretty
+
+modifying marvelous:
+so
+simply
+
+--------------------------------------------------
+=== affirmative, sure
+
+affirmative > sure
+cluster id: 1.0
+
+modifying affirmative:
+
+modifying sure:
+quite
+
+--------------------------------------------------
+=== admirable, fine
+
+admirable > fine
+cluster id: 6.0
+
+modifying admirable:
+
+modifying fine:
+really
+very
+
+--------------------------------------------------
+=== substantial, useful
+
+substantial > useful
+cluster id: 1.0
+
+modifying substantial:
+
+modifying useful:
+very
+
+--------------------------------------------------
+=== few, limited
+
+few > limited
+cluster id: 1.0
+
+modifying few:
+relatively
+
+modifying limited:
+relatively
+extremely
+only rather
+quite
+rather
+
+--------------------------------------------------
+=== hot, lukewarm
+
+hot > lukewarm
+cluster id: 3.0
+
+modifying hot:
+really
+
+modifying lukewarm:
+
+--------------------------------------------------
+=== amazing, marvellous
+
+amazing > marvellous
+cluster id: 1.0
+
+modifying amazing:
+just so
+most
+quite
+really
+so
+pretty
+just
+
+modifying marvellous:
+
+--------------------------------------------------
+=== accessible, open
+
+accessible > open
+cluster id: 3.0
+
+modifying accessible:
+easily
+readily
+
+modifying open:
+
+--------------------------------------------------
+=== infrequent, little
+
+infrequent > little
+cluster id: 3.0
+
+modifying infrequent:
+
+modifying little:
+very
+
+--------------------------------------------------
+=== beneficial, better
+
+beneficial > better
+cluster id: 10.0
+
+modifying beneficial:
+most
+more
+
+modifying better:
+
+--------------------------------------------------
+=== extensive, longest
+
+extensive > longest
+cluster id: 1.0
+
+modifying extensive:
+more
+
+modifying longest:
+
+--------------------------------------------------
+=== awesome, special
+
+awesome > special
+cluster id: 10.0
+
+modifying awesome:
+
+modifying special:
+something
+very
+
+--------------------------------------------------
+=== excellent, fine
+
+excellent > fine
+cluster id: 3.0
+
+modifying excellent:
+quite
+really
+most
+very
+absolutely
+excellent 
+truly
+
+modifying fine:
+just
+perfectly
+very
+really
+
+--------------------------------------------------
+=== perfect, seamless
+
+perfect > seamless
+cluster id: 6.0
+
+modifying perfect:
+absolutely
+so
+
+modifying seamless:
+
+--------------------------------------------------
+=== insane, nuts
+
+insane > nuts
+cluster id: 1.0
+
+modifying insane:
+completely
+totally
+
+modifying nuts:
+completely
+
+--------------------------------------------------
+=== embarrassed, uncomfortable
+
+embarrassed > uncomfortable
+cluster id: 3.0
+
+modifying embarrassed:
+so
+
+modifying uncomfortable:
+really
+
+--------------------------------------------------
+=== appropriate, proper
+
+appropriate > proper
+cluster id: 3.0
+
+modifying appropriate:
+where
+really
+very
+most
+as
+more
+entirely
+
+modifying proper:
+quite
+
+--------------------------------------------------
+=== brilliant, marvelous
+
+brilliant > marvelous
+cluster id: 1.0
+
+modifying brilliant:
+absolutely
+so
+
+modifying marvelous:
+so
+simply
+
+--------------------------------------------------
+=== concise, succinct
+
+concise > succinct
+cluster id: 6.0
+
+modifying concise:
+very
+as
+
+modifying succinct:
+
+--------------------------------------------------
+=== excellent, robust
+
+excellent > robust
+cluster id: 4.0
+
+modifying excellent:
+
+modifying robust:
+very
+
+--------------------------------------------------
+=== primary, significant
+
+primary > significant
+cluster id: 1.0
+
+modifying primary:
+
+modifying significant:
+most
+extremely
+
+--------------------------------------------------
+=== grand, special
+
+grand > special
+cluster id: 1.0
+
+modifying grand:
+
+modifying special:
+very
+
+--------------------------------------------------
+=== hopeless, sad
+
+hopeless > sad
+cluster id: 1.0
+
+modifying hopeless:
+
+modifying sad:
+very
+
+--------------------------------------------------
+=== outstanding, pleasant
+
+outstanding > pleasant
+cluster id: 3.0
+
+modifying outstanding:
+
+modifying pleasant:
+very
+
+--------------------------------------------------
+=== beneficial, preferable
+
+beneficial > preferable
+cluster id: 10.0
+
+modifying beneficial:
+more
+
+modifying preferable:
+
+--------------------------------------------------
+=== distressing, sad
+
+distressing > sad
+cluster id: 1.0
+
+modifying distressing:
+
+modifying sad:
+quite
+rather
+pretty
+really
+a little
+extremely
+so
+very
+incredibly
+just
+
+--------------------------------------------------
+=== fantastic, terrific
+
+fantastic > terrific
+cluster id: 3.0
+
+modifying fantastic:
+quite
+really
+so
+most
+truly
+just
+
+modifying terrific:
+really
+just
+
+--------------------------------------------------
+=== substantial, wider
+
+substantial > wider
+cluster id: 1.0
+
+modifying substantial:
+more
+
+modifying wider:
+
+--------------------------------------------------
+=== horrendous, worse
+
+horrendous > worse
+cluster id: 1.0
+
+modifying horrendous:
+most
+
+modifying worse:
+
+--------------------------------------------------
+=== ridiculous, senseless
+
+ridiculous > senseless
+cluster id: 7.0
+
+modifying ridiculous:
+close to being
+
+modifying senseless:
+
+--------------------------------------------------
+=== obvious, remarkable
+
+obvious > remarkable
+cluster id: 2.0
+
+modifying obvious:
+very
+
+modifying remarkable:
+
+--------------------------------------------------
+=== handsome, sweet
+
+handsome > sweet
+cluster id: 1.0
+
+modifying handsome:
+really
+so
+very
+
+modifying sweet:
+so
+really
+pretty
+very
+real
+
+--------------------------------------------------
+=== awkward, uncomfortable
+
+awkward > uncomfortable
+cluster id: 6.0
+
+modifying awkward:
+really
+so
+just
+kind of
+a little
+
+modifying uncomfortable:
+
+--------------------------------------------------
+=== concrete, specific
+
+concrete > specific
+cluster id: 1.0
+
+modifying concrete:
+very
+more
+
+modifying specific:
+very
+quite
+more
+
+--------------------------------------------------
+=== crazy, foolish
+
+crazy > foolish
+cluster id: 3.0
+
+modifying crazy:
+absolutely
+so
+completely
+really
+all
+pretty
+just so
+just
+
+modifying foolish:
+really
+
+--------------------------------------------------
+=== limited, low
+
+limited > low
+cluster id: 10.0
+
+modifying limited:
+extremely
+
+modifying low:
+relatively
+
+--------------------------------------------------
+=== substantial, wide-ranging
+
+substantial > wide-ranging
+cluster id: 6.0
+
+modifying substantial:
+very
+
+modifying wide-ranging:
+
+--------------------------------------------------
+=== insignificant, limited
+
+insignificant > limited
+cluster id: 1.0
+
+modifying insignificant:
+
+modifying limited:
+relatively
+very
+
+--------------------------------------------------
+=== interesting, right
+
+interesting > right
+cluster id: 11.0
+
+modifying interesting:
+
+modifying right:
+all
+
+--------------------------------------------------
+=== lethal, worse
+
+lethal > worse
+cluster id: 1.0
+
+modifying lethal:
+most
+
+modifying worse:
+
+--------------------------------------------------
+=== crucial, vital
+
+crucial > vital
+cluster id: 3.0
+
+modifying crucial:
+absolutely
+therefore
+particularly
+most
+quite
+so
+very
+really
+pretty
+
+modifying vital:
+absolutely
+very
+most
+therefore
+quite
+as
+
+--------------------------------------------------
+=== desirable, helpful
+
+desirable > helpful
+cluster id: 1.0
+
+modifying desirable:
+highly
+
+modifying helpful:
+
+--------------------------------------------------
+=== expedient, quicker
+
+expedient > quicker
+cluster id: 1.0
+
+modifying expedient:
+more
+
+modifying quicker:
+
+--------------------------------------------------
+=== prominent, top
+
+prominent > top
+cluster id: 1.0
+
+modifying prominent:
+most
+
+modifying top:
+
+--------------------------------------------------
+=== excellent, remarkable
+
+excellent > remarkable
+cluster id: 1.0
+
+modifying excellent:
+very
+quite
+
+modifying remarkable:
+very
+quite
+truly
+rather
+most
+pretty
+that
+
+--------------------------------------------------
+=== relevant, topical
+
+relevant > topical
+cluster id: 6.0
+
+modifying relevant:
+
+modifying topical:
+very
+highly
+
+--------------------------------------------------
+=== beneficial, useful
+
+beneficial > useful
+cluster id: 3.0
+
+modifying beneficial:
+very
+particularly
+most
+
+modifying useful:
+so
+really
+quite
+very
+most
+as
+more
+
+--------------------------------------------------
+=== awesome, big
+
+awesome > big
+cluster id: 5.0
+
+modifying awesome:
+so
+
+modifying big:
+so
+pretty
+really
+awfully
+
+--------------------------------------------------
+=== few, least
+
+few > least
+cluster id: 3.0
+
+modifying few:
+as
+
+modifying least:
+
+--------------------------------------------------
+=== insane, wacko
+
+insane > wacko
+cluster id: 1.0
+
+modifying insane:
+totally
+
+modifying wacko:
+
+--------------------------------------------------
+=== fruitful, useful
+
+fruitful > useful
+cluster id: 1.0
+
+modifying fruitful:
+very
+
+modifying useful:
+very
+as
+
+--------------------------------------------------
+=== easy, simple
+
+easy > simple
+cluster id: 1.0
+
+modifying easy:
+so
+very
+relatively
+quite
+that
+really
+pretty
+as
+this
+real
+extremely
+too
+
+modifying simple:
+quite
+so
+as
+very
+more
+just
+most
+really
+that
+perfectly
+pretty
+so perfectly
+real
+clean 
+
+--------------------------------------------------
+=== bankrupt, poor
+
+bankrupt > poor
+cluster id: 6.0
+
+modifying bankrupt:
+
+modifying poor:
+totally
+
+--------------------------------------------------
+=== critical, formidable
+
+critical > formidable
+cluster id: 5.0
+
+modifying critical:
+very
+
+modifying formidable:
+
+--------------------------------------------------
+=== understood, well-known
+
+understood > well-known
+cluster id: 1.0
+
+modifying understood:
+well
+
+modifying well-known:
+
+--------------------------------------------------
+=== hard, intense
+
+hard > intense
+cluster id: 3.0
+
+modifying hard:
+so
+
+modifying intense:
+
+--------------------------------------------------
+=== indispensible, needed
+
+indispensible > needed
+cluster id: 1.0
+
+modifying indispensible:
+
+modifying needed:
+most
+urgently
+much
+
+--------------------------------------------------
+=== dreadful, unfortunate
+
+dreadful > unfortunate
+cluster id: 3.0
+
+modifying dreadful:
+
+modifying unfortunate:
+most
+very
+deeply
+
+--------------------------------------------------
+=== impressive, spectacular
+
+impressive > spectacular
+cluster id: 1.0
+
+modifying impressive:
+very
+quite
+really
+pretty
+most
+so
+more
+
+modifying spectacular:
+
+--------------------------------------------------
+=== accessible, responsive
+
+accessible > responsive
+cluster id: 4.0
+
+modifying accessible:
+easily
+
+modifying responsive:
+
+--------------------------------------------------
+=== remarkable, sizeable
+
+remarkable > sizeable
+cluster id: 3.0
+
+modifying remarkable:
+quite
+
+modifying sizeable:
+
+--------------------------------------------------
+=== brilliant, special
+
+brilliant > special
+cluster id: 1.0
+
+modifying brilliant:
+
+modifying special:
+very
+
+--------------------------------------------------
+=== best, better
+
+best > better
+cluster id: 10.0
+
+modifying best:
+very
+first
+second
+international
+current
+possible
+
+modifying better:
+even
+slightly
+
+--------------------------------------------------
+=== exact, precise
+
+exact > precise
+cluster id: 1.0
+
+modifying exact:
+more
+
+modifying precise:
+very
+quite
+more
+
+--------------------------------------------------
+=== exciting, inspiring
+
+exciting > inspiring
+cluster id: 1.0
+
+modifying exciting:
+so
+very
+
+modifying inspiring:
+very
+
+--------------------------------------------------
+=== awful, distressing
+
+awful > distressing
+cluster id: 1.0
+
+modifying awful:
+absolutely
+
+modifying distressing:
+
+--------------------------------------------------
+=== superb, terrific
+
+superb > terrific
+cluster id: 10.0
+
+modifying superb:
+
+modifying terrific:
+really
+
+--------------------------------------------------
+=== dreadful, scary
+
+dreadful > scary
+cluster id: 1.0
+
+modifying dreadful:
+
+modifying scary:
+really
+so
+
+--------------------------------------------------
+=== preferable, sensible
+
+preferable > sensible
+cluster id: 1.0
+
+modifying preferable:
+
+modifying sensible:
+more
+
+--------------------------------------------------
+=== tragic, unfortunate
+
+tragic > unfortunate
+cluster id: 10.0
+
+modifying tragic:
+
+modifying unfortunate:
+most
+
+--------------------------------------------------
+=== advantageous, useful
+
+advantageous > useful
+cluster id: 1.0
+
+modifying advantageous:
+
+modifying useful:
+most
+very
+more
+as
+
+--------------------------------------------------
+=== fine, right
+
+fine > right
+cluster id: 3.0
+
+modifying fine:
+just
+
+modifying right:
+all
+absolutely
+quite
+about
+only
+so
+
+--------------------------------------------------
+=== powerful, strongest
+
+powerful > strongest
+cluster id: 1.0
+
+modifying powerful:
+most
+more
+
+modifying strongest:
+
+--------------------------------------------------
+=== hard, rough
+
+hard > rough
+cluster id: 1.0
+
+modifying hard:
+very
+so
+just so
+quite
+really
+
+modifying rough:
+so
+pretty
+
+--------------------------------------------------
+=== beneficial, effective
+
+beneficial > effective
+cluster id: 6.0
+
+modifying beneficial:
+
+modifying effective:
+cost
+
+--------------------------------------------------
+=== crazy, impressive
+
+crazy > impressive
+cluster id: 10.0
+
+modifying crazy:
+so
+
+modifying impressive:
+
+--------------------------------------------------
+=== necessary, unavoidable
+
+necessary > unavoidable
+cluster id: 1.0
+
+modifying necessary:
+absolutely
+so
+very
+therefore
+medically
+
+modifying unavoidable:
+
+--------------------------------------------------
+=== astonishing, fantastic
+
+astonishing > fantastic
+cluster id: 1.0
+
+modifying astonishing:
+
+modifying fantastic:
+so
+
+--------------------------------------------------
+=== remarkable, substantial
+
+remarkable > substantial
+cluster id: 3.0
+
+modifying remarkable:
+quite
+
+modifying substantial:
+very
+
+--------------------------------------------------
+=== appropriate, right
+
+appropriate > right
+cluster id: 10.0
+
+modifying appropriate:
+most
+as
+more
+
+modifying right:
+all
+only
+quite
+
+--------------------------------------------------
+=== handsome, pleasant
+
+handsome > pleasant
+cluster id: 1.0
+
+modifying handsome:
+
+modifying pleasant:
+very
+
+--------------------------------------------------
+=== unacceptable, unsustainable
+
+unacceptable > unsustainable
+cluster id: 1.0
+
+modifying unacceptable:
+quite
+completely
+totally
+as
+
+modifying unsustainable:
+
+--------------------------------------------------
+=== awful, foul
+
+awful > foul
+cluster id: 1.0
+
+modifying awful:
+
+modifying foul:
+most
+
+--------------------------------------------------
+=== terrific, well
+
+terrific > well
+cluster id: 1.0
+
+modifying terrific:
+
+modifying well:
+perfectly
+very
+real
+
+--------------------------------------------------
+=== confident, sure
+
+confident > sure
+cluster id: 11.0
+
+modifying confident:
+quite
+
+modifying sure:
+so
+quite
+very
+really
+too
+absolutely
+pretty
+exactly
+entirely
+
+--------------------------------------------------
+=== colossal, considerable
+
+colossal > considerable
+cluster id: 1.0
+
+modifying colossal:
+
+modifying considerable:
+very
+
+--------------------------------------------------
+=== insane, stir-crazy
+
+insane > stir-crazy
+cluster id: 1.0
+
+modifying insane:
+completely
+pretty
+
+modifying stir-crazy:
+
+--------------------------------------------------
+=== beneficial, efficient
+
+beneficial > efficient
+cluster id: 6.0
+
+modifying beneficial:
+
+modifying efficient:
+cost
+
+--------------------------------------------------
+=== marvelous, terrific
+
+marvelous > terrific
+cluster id: 3.0
+
+modifying marvelous:
+absolutely
+so
+simply
+
+modifying terrific:
+really
+
+--------------------------------------------------
+=== magnificent, successful
+
+magnificent > successful
+cluster id: 6.0
+
+modifying magnificent:
+
+modifying successful:
+very
+
+--------------------------------------------------
+=== rigorous, strong
+
+rigorous > strong
+cluster id: 3.0
+
+modifying rigorous:
+
+modifying strong:
+very
+
+--------------------------------------------------
+=== interesting, neat
+
+interesting > neat
+cluster id: 3.0
+
+modifying interesting:
+really
+
+modifying neat:
+so
+
+--------------------------------------------------
+=== easier, simply
+
+easier > simply
+cluster id: 3.0
+
+modifying easier:
+
+modifying simply:
+quite
+
+--------------------------------------------------
+=== fascinating, neat
+
+fascinating > neat
+cluster id: 3.0
+
+modifying fascinating:
+
+modifying neat:
+so
+
+--------------------------------------------------
+=== impressive, strong
+
+impressive > strong
+cluster id: 1.0
+
+modifying impressive:
+
+modifying strong:
+very
+
+--------------------------------------------------
+=== finest, outstanding
+
+finest > outstanding
+cluster id: 1.0
+
+modifying finest:
+
+modifying outstanding:
+most
+
+--------------------------------------------------
+=== inconceivable, unimaginable
+
+inconceivable > unimaginable
+cluster id: 3.0
+
+modifying inconceivable:
+
+modifying unimaginable:
+most
+
+--------------------------------------------------
+=== amazing, beautiful
+
+amazing > beautiful
+cluster id: 1.0
+
+modifying amazing:
+just so
+really
+so
+
+modifying beautiful:
+most
+quite
+just so
+absolutely
+beautiful 
+so
+really
+
+--------------------------------------------------
+=== genuine, true
+
+genuine > true
+cluster id: 3.0
+
+modifying genuine:
+most
+absolutely
+
+modifying true:
+really
+one
+all
+quite
+very
+that
+
+--------------------------------------------------
+=== incredible, perfect
+
+incredible > perfect
+cluster id: 1.0
+
+modifying incredible:
+
+modifying perfect:
+so
+just
+
+--------------------------------------------------
+=== enjoyable, nice
+
+enjoyable > nice
+cluster id: 1.0
+
+modifying enjoyable:
+very
+more
+
+modifying nice:
+so
+really
+very
+pretty
+rather
+
+--------------------------------------------------
+=== enormously, great
+
+enormously > great
+cluster id: 2.0
+
+modifying enormously:
+
+modifying great:
+very
+
+--------------------------------------------------
+=== appropriate, beneficial
+
+appropriate > beneficial
+cluster id: 1.0
+
+modifying appropriate:
+highly
+
+modifying beneficial:
+
+--------------------------------------------------
+=== broader, wide-ranging
+
+broader > wide-ranging
+cluster id: 1.0
+
+modifying broader:
+much
+
+modifying wide-ranging:
+
+--------------------------------------------------
+=== rare, scarce
+
+rare > scarce
+cluster id: 1.0
+
+modifying rare:
+pretty
+relatively
+extremely
+quite
+very
+
+modifying scarce:
+very
+
+--------------------------------------------------
+=== relevant, vital
+
+relevant > vital
+cluster id: 3.0
+
+modifying relevant:
+very
+particularly
+
+modifying vital:
+
+--------------------------------------------------
+=== breathtaking, fantastic
+
+breathtaking > fantastic
+cluster id: 10.0
+
+modifying breathtaking:
+
+modifying fantastic:
+so
+
+--------------------------------------------------
+=== excellent, magnificent
+
+excellent > magnificent
+cluster id: 1.0
+
+modifying excellent:
+quite
+really
+absolutely
+most
+otherwise
+very
+truly
+
+modifying magnificent:
+
+--------------------------------------------------
+=== frightening, scary
+
+frightening > scary
+cluster id: 6.0
+
+modifying frightening:
+so
+quite
+
+modifying scary:
+quite
+pretty
+really
+so
+
+--------------------------------------------------
+=== extensive, far-reaching
+
+extensive > far-reaching
+cluster id: 1.0
+
+modifying extensive:
+very
+
+modifying far-reaching:
+very
+
+--------------------------------------------------
+=== crazy, goofy
+
+crazy > goofy
+cluster id: 3.0
+
+modifying crazy:
+absolutely
+completely
+pretty
+really
+so
+just so
+
+modifying goofy:
+
+--------------------------------------------------
+=== opportune, useful
+
+opportune > useful
+cluster id: 3.0
+
+modifying opportune:
+
+modifying useful:
+very
+
+--------------------------------------------------
+=== appropriate, responsive
+
+appropriate > responsive
+cluster id: 6.0
+
+modifying appropriate:
+most
+
+modifying responsive:
+
+--------------------------------------------------
+=== fewer, less
+
+fewer > less
+cluster id: 3.0
+
+modifying fewer:
+rather
+slightly
+even
+far
+
+modifying less:
+any
+little
+a little
+relatively
+far
+much
+rather
+no
+even
+somewhat
+nothing
+ever
+surely
+
+--------------------------------------------------
+=== hospitable, likable
+
+hospitable > likable
+cluster id: 1.0
+
+modifying hospitable:
+very
+
+modifying likable:
+
+--------------------------------------------------
+=== lengthy, time-consuming
+
+lengthy > time-consuming
+cluster id: 1.0
+
+modifying lengthy:
+very
+
+modifying time-consuming:
+very
+
+--------------------------------------------------
+=== awesome, neat
+
+awesome > neat
+cluster id: 3.0
+
+modifying awesome:
+totally
+pretty
+really
+so
+
+modifying neat:
+pretty
+
+--------------------------------------------------
+=== awful, dreadful
+
+awful > dreadful
+cluster id: 1.0
+
+modifying awful:
+absolutely
+really
+so
+most
+pretty
+just
+too
+goddamn
+
+modifying dreadful:
+
+--------------------------------------------------
+=== dire, dreadful
+
+dire > dreadful
+cluster id: 3.0
+
+modifying dire:
+
+modifying dreadful:
+most
+
+--------------------------------------------------
+=== awesome, nice
+
+awesome > nice
+cluster id: 1.0
+
+modifying awesome:
+totally
+pretty
+really
+so
+
+modifying nice:
+so
+how
+pretty
+really
+quite
+very
+
+--------------------------------------------------
+=== amazing, pretty
+
+amazing > pretty
+cluster id: 1.0
+
+modifying amazing:
+
+modifying pretty:
+really
+so
+
+--------------------------------------------------
+=== concise, precise
+
+concise > precise
+cluster id: 1.0
+
+modifying concise:
+
+modifying precise:
+very
+more
+
+--------------------------------------------------
+=== awesome, yummy
+
+awesome > yummy
+cluster id: 4.0
+
+modifying awesome:
+
+modifying yummy:
+so
+
+--------------------------------------------------
+=== effective, profitable
+
+effective > profitable
+cluster id: 1.0
+
+modifying effective:
+cost
+
+modifying profitable:
+more
+
+--------------------------------------------------
+=== positive, right
+
+positive > right
+cluster id: 1.0
+
+modifying positive:
+
+modifying right:
+all
+
+--------------------------------------------------
+=== awesome, righteous
+
+awesome > righteous
+cluster id: 1.0
+
+modifying awesome:
+so
+
+modifying righteous:
+
+--------------------------------------------------
+=== dreadful, worst
+
+dreadful > worst
+cluster id: 1.0
+
+modifying dreadful:
+most
+
+modifying worst:
+
+--------------------------------------------------
+=== challenging, problematic
+
+challenging > problematic
+cluster id: 6.0
+
+modifying challenging:
+very
+
+modifying problematic:
+somewhat
+very
+
+--------------------------------------------------
+=== sensitive, susceptible
+
+sensitive > susceptible
+cluster id: 1.0
+
+modifying sensitive:
+particularly
+most
+highly
+rather
+so
+very
+environmentally
+extremely
+more
+
+modifying susceptible:
+
+--------------------------------------------------
+=== generous, nice
+
+generous > nice
+cluster id: 3.0
+
+modifying generous:
+very
+
+modifying nice:
+
+--------------------------------------------------
+=== mediocre, poor
+
+mediocre > poor
+cluster id: 3.0
+
+modifying mediocre:
+
+modifying poor:
+rather
+very
+extremely
+
+--------------------------------------------------
+=== awkward, incorrect
+
+awkward > incorrect
+cluster id: 1.0
+
+modifying awkward:
+rather
+
+modifying incorrect:
+
+--------------------------------------------------
+=== amazing, thoughtful
+
+amazing > thoughtful
+cluster id: 4.0
+
+modifying amazing:
+
+modifying thoughtful:
+so
+
+--------------------------------------------------
+=== beneficial, worthwhile
+
+beneficial > worthwhile
+cluster id: 1.0
+
+modifying beneficial:
+very
+mutually
+
+modifying worthwhile:
+
+--------------------------------------------------
+=== delighted, happy
+
+delighted > happy
+cluster id: 3.0
+
+modifying delighted:
+absolutely
+
+modifying happy:
+quite
+nice 
+really
+completely
+so
+perfectly
+real
+very
+just
+
+--------------------------------------------------
+=== awkward, embarrassed
+
+awkward > embarrassed
+cluster id: 3.0
+
+modifying awkward:
+so
+really
+
+modifying embarrassed:
+so
+
+--------------------------------------------------
+=== limited, short
+
+limited > short
+cluster id: 10.0
+
+modifying limited:
+
+modifying short:
+relatively
+
+--------------------------------------------------
+=== bad, messy
+
+bad > messy
+cluster id: 6.0
+
+modifying bad:
+pretty
+
+modifying messy:
+
+--------------------------------------------------
+=== awful, disappointing
+
+awful > disappointing
+cluster id: 7.0
+
+modifying awful:
+absolutely
+
+modifying disappointing:
+
+--------------------------------------------------
+=== formidable, major
+
+formidable > major
+cluster id: 1.0
+
+modifying formidable:
+
+modifying major:
+very
+
+--------------------------------------------------
+=== prominent, significant
+
+prominent > significant
+cluster id: 1.0
+
+modifying prominent:
+
+modifying significant:
+very
+
+--------------------------------------------------
+=== disturbing, worst
+
+disturbing > worst
+cluster id: 1.0
+
+modifying disturbing:
+most
+
+modifying worst:
+
+--------------------------------------------------
+=== oversensitive, sensitive
+
+oversensitive > sensitive
+cluster id: 1.0
+
+modifying oversensitive:
+
+modifying sensitive:
+too
+
+--------------------------------------------------
+=== largest, powerful
+
+largest > powerful
+cluster id: 2.0
+
+modifying largest:
+
+modifying powerful:
+most
+more
+
+--------------------------------------------------
+=== sad, unhappy
+
+sad > unhappy
+cluster id: 6.0
+
+modifying sad:
+really
+quite
+pretty
+rather
+extremely
+so
+very
+just
+
+modifying unhappy:
+so
+really
+
+--------------------------------------------------
+=== dangerous, precarious
+
+dangerous > precarious
+cluster id: 1.0
+
+modifying dangerous:
+extremely
+very
+potentially
+
+modifying precarious:
+
+--------------------------------------------------
+=== accessible, simple
+
+accessible > simple
+cluster id: 1.0
+
+modifying accessible:
+easily
+readily
+
+modifying simple:
+
+--------------------------------------------------
+=== exquisite, marvellous
+
+exquisite > marvellous
+cluster id: 1.0
+
+modifying exquisite:
+most
+
+modifying marvellous:
+
+--------------------------------------------------
+=== convinced, sure
+
+convinced > sure
+cluster id: 11.0
+
+modifying convinced:
+absolutely
+quite
+
+modifying sure:
+so
+
+--------------------------------------------------
+=== enormous, huge
+
+enormous > huge
+cluster id: 1.0
+
+modifying enormous:
+absolutely
+so
+truly
+just
+
+modifying huge:
+very
+so
+
+--------------------------------------------------
+=== great, keen
+
+great > keen
+cluster id: 4.0
+
+modifying great:
+
+modifying keen:
+very
+
+--------------------------------------------------
+=== remarkable, terrific
+
+remarkable > terrific
+cluster id: 10.0
+
+modifying remarkable:
+most
+
+modifying terrific:
+
+--------------------------------------------------
+=== dangerous, unsafe
+
+dangerous > unsafe
+cluster id: 1.0
+
+modifying dangerous:
+so
+very
+quite
+highly
+particularly
+as
+pretty
+potentially
+extremely
+truly
+all that
+kind of
+too
+a bit
+especially
+
+modifying unsafe:
+
+--------------------------------------------------
+=== particular, specific
+
+particular > specific
+cluster id: 1.0
+
+modifying particular:
+very
+
+modifying specific:
+very
+quite
+more
+
+--------------------------------------------------
+=== qualified, valid
+
+qualified > valid
+cluster id: 3.0
+
+modifying qualified:
+highly
+
+modifying valid:
+
+--------------------------------------------------
+=== ecstatic, pleased
+
+ecstatic > pleased
+cluster id: 1.0
+
+modifying ecstatic:
+
+modifying pleased:
+particularly
+extremely
+so
+
+--------------------------------------------------
+=== exciting, incredible
+
+exciting > incredible
+cluster id: 1.0
+
+modifying exciting:
+so
+
+modifying incredible:
+
+--------------------------------------------------
+=== fruitful, profitable
+
+fruitful > profitable
+cluster id: 1.0
+
+modifying fruitful:
+otherwise
+very
+
+modifying profitable:
+
+--------------------------------------------------
+=== dangerous, perilous
+
+dangerous > perilous
+cluster id: 3.0
+
+modifying dangerous:
+so
+very
+particularly
+extremely
+pretty
+potentially
+highly
+all that
+truly
+as
+kind of
+especially
+too
+awfully
+
+modifying perilous:
+more
+
+--------------------------------------------------
+=== formidable, long
+
+formidable > long
+cluster id: 2.0
+
+modifying formidable:
+
+modifying long:
+extremely
+
+--------------------------------------------------
+=== amazing, interesting
+
+amazing > interesting
+cluster id: 3.0
+
+modifying amazing:
+quite
+
+modifying interesting:
+really
+
+--------------------------------------------------
+=== larger, wider
+
+larger > wider
+cluster id: 6.0
+
+modifying larger:
+even
+much
+
+modifying wider:
+much
+far
+even
+
+--------------------------------------------------
+=== scarce, short
+
+scarce > short
+cluster id: 10.0
+
+modifying scarce:
+
+modifying short:
+relatively
+very
+
+--------------------------------------------------
+=== impressive, special
+
+impressive > special
+cluster id: 10.0
+
+modifying impressive:
+
+modifying special:
+very
+
+--------------------------------------------------
+=== inestimable, valuable
+
+inestimable > valuable
+cluster id: 6.0
+
+modifying inestimable:
+
+modifying valuable:
+most
+very
+
+--------------------------------------------------
+=== helpful, nice
+
+helpful > nice
+cluster id: 6.0
+
+modifying helpful:
+
+modifying nice:
+very
+really
+
+--------------------------------------------------
+=== foolish, stupider
+
+foolish > stupider
+cluster id: 3.0
+
+modifying foolish:
+more
+
+modifying stupider:
+
+--------------------------------------------------
+=== enraged, upset
+
+enraged > upset
+cluster id: 7.0
+
+modifying enraged:
+
+modifying upset:
+really
+pretty
+
+--------------------------------------------------
+=== lovelier, pleasant
+
+lovelier > pleasant
+cluster id: 1.0
+
+modifying lovelier:
+
+modifying pleasant:
+very
+
+--------------------------------------------------
+=== atrocious, worse
+
+atrocious > worse
+cluster id: 1.0
+
+modifying atrocious:
+most
+
+modifying worse:
+
+--------------------------------------------------
+=== accurate, clearer
+
+accurate > clearer
+cluster id: 1.0
+
+modifying accurate:
+most
+more
+
+modifying clearer:
+
+--------------------------------------------------
+=== familiar, well-known
+
+familiar > well-known
+cluster id: 1.0
+
+modifying familiar:
+all
+
+modifying well-known:
+pretty
+
+--------------------------------------------------
+=== excited, jumpy
+
+excited > jumpy
+cluster id: 1.0
+
+modifying excited:
+
+modifying jumpy:
+pretty
+
+--------------------------------------------------
+=== incredible, nice
+
+incredible > nice
+cluster id: 1.0
+
+modifying incredible:
+
+modifying nice:
+so
+really
+very
+how
+
+--------------------------------------------------
+=== dramatic, major
+
+dramatic > major
+cluster id: 1.0
+
+modifying dramatic:
+
+modifying major:
+very
+
+--------------------------------------------------
+=== broad, diverse
+
+broad > diverse
+cluster id: 10.0
+
+modifying broad:
+very
+
+modifying diverse:
+very
+
+--------------------------------------------------
+=== effective, helpful
+
+effective > helpful
+cluster id: 1.0
+
+modifying effective:
+very
+
+modifying helpful:
+very
+
+--------------------------------------------------
+=== spectacular, substantial
+
+spectacular > substantial
+cluster id: 3.0
+
+modifying spectacular:
+
+modifying substantial:
+very
+
+--------------------------------------------------
+=== foolish, unwise
+
+foolish > unwise
+cluster id: 3.0
+
+modifying foolish:
+very
+
+modifying unwise:
+very
+
+--------------------------------------------------
+=== genuine, sincere
+
+genuine > sincere
+cluster id: 3.0
+
+modifying genuine:
+
+modifying sincere:
+most
+so
+really
+very
+
+--------------------------------------------------
+=== sharp, substantial
+
+sharp > substantial
+cluster id: 1.0
+
+modifying sharp:
+
+modifying substantial:
+very
+
+--------------------------------------------------
+=== logical, normal
+
+logical > normal
+cluster id: 3.0
+
+modifying logical:
+only
+
+modifying normal:
+perfectly
+quite
+
+--------------------------------------------------
+=== fair, right
+
+fair > right
+cluster id: 1.0
+
+modifying fair:
+only
+
+modifying right:
+all
+about
+only
+absolutely
+quite
+just
+therefore
+
+--------------------------------------------------
+=== horrific, worse
+
+horrific > worse
+cluster id: 1.0
+
+modifying horrific:
+most
+
+modifying worse:
+
+--------------------------------------------------
+=== fine, well
+
+fine > well
+cluster id: 3.0
+
+modifying fine:
+just
+all
+perfectly
+so
+
+modifying well:
+all
+perfectly
+very
+
+--------------------------------------------------
+=== substantial, vast
+
+substantial > vast
+cluster id: 6.0
+
+modifying substantial:
+very
+
+modifying vast:
+
+--------------------------------------------------
+=== customary, normal
+
+customary > normal
+cluster id: 3.0
+
+modifying customary:
+
+modifying normal:
+quite
+perfectly
+
+--------------------------------------------------
+=== fantastic, nicer
+
+fantastic > nicer
+cluster id: 10.0
+
+modifying fantastic:
+most
+
+modifying nicer:
+
+--------------------------------------------------
+=== fortunate, happy
+
+fortunate > happy
+cluster id: 1.0
+
+modifying fortunate:
+very
+
+modifying happy:
+quite
+so
+really
+very
+just
+that
+
+--------------------------------------------------
+=== severe, tougher
+
+severe > tougher
+cluster id: 3.0
+
+modifying severe:
+most
+more
+
+modifying tougher:
+
+--------------------------------------------------
+=== beneficial, profitable
+
+beneficial > profitable
+cluster id: 1.0
+
+modifying beneficial:
+mutually
+
+modifying profitable:
+
+--------------------------------------------------
+=== beneficial, fruitful
+
+beneficial > fruitful
+cluster id: 1.0
+
+modifying beneficial:
+
+modifying fruitful:
+very
+
+--------------------------------------------------
+=== awesome, pretty
+
+awesome > pretty
+cluster id: 1.0
+
+modifying awesome:
+so
+
+modifying pretty:
+so
+really
+very
+
+--------------------------------------------------
+=== okay, positive
+
+okay > positive
+cluster id: 1.0
+
+modifying okay:
+
+modifying positive:
+very
+
+--------------------------------------------------
+=== amazing, marvelous
+
+amazing > marvelous
+cluster id: 1.0
+
+modifying amazing:
+just so
+quite
+really
+most
+pretty
+just
+so
+
+modifying marvelous:
+absolutely
+so
+simply
+
+--------------------------------------------------
+=== clever, smarter
+
+clever > smarter
+cluster id: 6.0
+
+modifying clever:
+very
+so
+really
+
+modifying smarter:
+
+--------------------------------------------------
+=== insane, radical
+
+insane > radical
+cluster id: 3.0
+
+modifying insane:
+
+modifying radical:
+so
+
+--------------------------------------------------
+=== pointless, senseless
+
+pointless > senseless
+cluster id: 7.0
+
+modifying pointless:
+so
+
+modifying senseless:
+
+--------------------------------------------------
+=== best, perfect
+
+best > perfect
+cluster id: 1.0
+
+modifying best:
+
+modifying perfect:
+most
+
+--------------------------------------------------
+=== better, good
+
+better > good
+cluster id: 3.0
+
+modifying better:
+even
+
+modifying good:
+best
+very
+better than
+rather
+real
+fairly
+relatively
+
+--------------------------------------------------
+=== correct, right
+
+correct > right
+cluster id: 3.0
+
+modifying correct:
+quite
+absolutely
+that
+entirely
+
+modifying right:
+exactly
+so
+very
+all
+about
+completely
+only
+quite
+perfectly
+absolutely
+entirely
+just
+that
+totally
+
+--------------------------------------------------
+=== odd, unusual
+
+odd > unusual
+cluster id: 3.0
+
+modifying odd:
+rather
+very
+just
+
+modifying unusual:
+most
+pretty
+somewhat
+very
+highly
+
+--------------------------------------------------
+=== finest, qualified
+
+finest > qualified
+cluster id: 6.0
+
+modifying finest:
+
+modifying qualified:
+well
+
+--------------------------------------------------
+=== awesome, perfect
+
+awesome > perfect
+cluster id: 1.0
+
+modifying awesome:
+pretty
+so
+
+modifying perfect:
+so
+just
+
+--------------------------------------------------
+=== commonplace, normal
+
+commonplace > normal
+cluster id: 1.0
+
+modifying commonplace:
+
+modifying normal:
+pretty
+
+--------------------------------------------------
+=== far-reaching, large
+
+far-reaching > large
+cluster id: 1.0
+
+modifying far-reaching:
+very
+
+modifying large:
+very
+quite
+
+--------------------------------------------------
+=== definite, sure
+
+definite > sure
+cluster id: 11.0
+
+modifying definite:
+
+modifying sure:
+quite
+absolutely
+so
+
+--------------------------------------------------
+=== foolish, stubborn
+
+foolish > stubborn
+cluster id: 8.0
+
+modifying foolish:
+
+modifying stubborn:
+so
+
+--------------------------------------------------
+=== appropriate, good
+
+appropriate > good
+cluster id: 3.0
+
+modifying appropriate:
+very
+most
+
+modifying good:
+all
+any
+so
+very
+
+--------------------------------------------------
+=== appropriate, desirable
+
+appropriate > desirable
+cluster id: 10.0
+
+modifying appropriate:
+where
+very
+most
+as
+more
+
+modifying desirable:
+most
+highly
+
+--------------------------------------------------
+=== noteworthy, remarkable
+
+noteworthy > remarkable
+cluster id: 3.0
+
+modifying noteworthy:
+
+modifying remarkable:
+quite
+pretty
+rather
+most
+very
+truly
+that
+
+--------------------------------------------------
+=== miserable, sad
+
+miserable > sad
+cluster id: 10.0
+
+modifying miserable:
+
+modifying sad:
+very
+quite
+really
+extremely
+pretty
+rather
+so
+incredibly
+just
+a little
+
+--------------------------------------------------
+=== staggering, substantial
+
+staggering > substantial
+cluster id: 1.0
+
+modifying staggering:
+
+modifying substantial:
+very
+
+--------------------------------------------------
+=== awesome, sweet
+
+awesome > sweet
+cluster id: 1.0
+
+modifying awesome:
+totally
+pretty
+really
+so
+just
+
+modifying sweet:
+so
+really
+pretty
+very
+real
+kind of
+
+--------------------------------------------------
+=== challenging, tough
+
+challenging > tough
+cluster id: 6.0
+
+modifying challenging:
+very
+
+modifying tough:
+really
+pretty
+a little
+real
+very
+
+--------------------------------------------------
+=== possible, workable
+
+possible > workable
+cluster id: 1.0
+
+modifying possible:
+as
+
+modifying workable:
+
+--------------------------------------------------
+=== foolish, ignorant
+
+foolish > ignorant
+cluster id: 3.0
+
+modifying foolish:
+very
+
+modifying ignorant:
+
+--------------------------------------------------
+=== easier, easiest
+
+easier > easiest
+cluster id: 1.0
+
+modifying easier:
+a little
+so much
+really
+much
+a lot
+
+modifying easiest:
+
+--------------------------------------------------
+=== excited, nervous
+
+excited > nervous
+cluster id: 1.0
+
+modifying excited:
+
+modifying nervous:
+so fucking
+
+--------------------------------------------------
+=== broader, general
+
+broader > general
+cluster id: 10.0
+
+modifying broader:
+
+modifying general:
+most
+
+--------------------------------------------------
+=== atrocious, foul
+
+atrocious > foul
+cluster id: 1.0
+
+modifying atrocious:
+
+modifying foul:
+most
+
+--------------------------------------------------
+=== larger, thicker
+
+larger > thicker
+cluster id: 6.0
+
+modifying larger:
+much
+
+modifying thicker:
+
+--------------------------------------------------
+=== atrocious, terrible
+
+atrocious > terrible
+cluster id: 3.0
+
+modifying atrocious:
+
+modifying terrible:
+most
+so
+really
+just
+
+--------------------------------------------------
+=== curious, unusual
+
+curious > unusual
+cluster id: 7.0
+
+modifying curious:
+rather
+naturally
+
+modifying unusual:
+pretty
+most
+
+--------------------------------------------------
+=== real, sure
+
+real > sure
+cluster id: 1.0
+
+modifying real:
+
+modifying sure:
+really
+
+--------------------------------------------------
+=== unacceptable, unsatisfactory
+
+unacceptable > unsatisfactory
+cluster id: 1.0
+
+modifying unacceptable:
+quite
+completely
+totally
+as
+
+modifying unsatisfactory:
+
+--------------------------------------------------
+=== flagrant, visible
+
+flagrant > visible
+cluster id: 2.0
+
+modifying flagrant:
+
+modifying visible:
+clearly
+
+--------------------------------------------------
+=== indispensible, vital
+
+indispensible > vital
+cluster id: 1.0
+
+modifying indispensible:
+
+modifying vital:
+absolutely
+
+--------------------------------------------------
+=== beautiful, fairer
+
+beautiful > fairer
+cluster id: 3.0
+
+modifying beautiful:
+most
+more
+
+modifying fairer:
+
+--------------------------------------------------
+=== larger, taller
+
+larger > taller
+cluster id: 6.0
+
+modifying larger:
+much
+even
+
+modifying taller:
+
+--------------------------------------------------
+=== prodigious, substantial
+
+prodigious > substantial
+cluster id: 1.0
+
+modifying prodigious:
+
+modifying substantial:
+very
+
+--------------------------------------------------
+=== comfortable, nicer
+
+comfortable > nicer
+cluster id: 1.0
+
+modifying comfortable:
+most
+more
+
+modifying nicer:
+
+--------------------------------------------------
+=== critical, crucial
+
+critical > crucial
+cluster id: 1.0
+
+modifying critical:
+most
+particularly
+very
+absolutely
+therefore
+
+modifying crucial:
+absolutely
+most
+therefore
+so
+quite
+very
+really
+particularly
+
+--------------------------------------------------
+=== appropriate, satisfactory
+
+appropriate > satisfactory
+cluster id: 3.0
+
+modifying appropriate:
+as
+
+modifying satisfactory:
+
+--------------------------------------------------
+=== difficult, distressing
+
+difficult > distressing
+cluster id: 1.0
+
+modifying difficult:
+very
+
+modifying distressing:
+
+--------------------------------------------------
+=== amazing, awesome
+
+amazing > awesome
+cluster id: 3.0
+
+modifying amazing:
+absolutely
+most
+just so
+quite
+so
+pretty
+really
+truly
+just
+
+modifying awesome:
+totally
+so
+pretty
+really
+
+--------------------------------------------------
+=== beautiful, bonnie
+
+beautiful > bonnie
+cluster id: 1.0
+
+modifying beautiful:
+most
+so
+
+modifying bonnie:
+
+--------------------------------------------------
+=== impressive, insane
+
+impressive > insane
+cluster id: 1.0
+
+modifying impressive:
+quite
+
+modifying insane:
+
+--------------------------------------------------
+=== marvelous, outstanding
+
+marvelous > outstanding
+cluster id: 1.0
+
+modifying marvelous:
+absolutely
+
+modifying outstanding:
+
+--------------------------------------------------
+=== best, positive
+
+best > positive
+cluster id: 1.0
+
+modifying best:
+the
+
+modifying positive:
+most
+
+--------------------------------------------------
+=== broader, substantial
+
+broader > substantial
+cluster id: 3.0
+
+modifying broader:
+
+modifying substantial:
+more
+
+--------------------------------------------------
+=== dreadful, worse
+
+dreadful > worse
+cluster id: 1.0
+
+modifying dreadful:
+most
+
+modifying worse:
+
+--------------------------------------------------
+=== outstanding, prominent
+
+outstanding > prominent
+cluster id: 7.0
+
+modifying outstanding:
+most
+
+modifying prominent:
+most
+very
+more
+
+--------------------------------------------------
+=== horrific, terrible
+
+horrific > terrible
+cluster id: 3.0
+
+modifying horrific:
+most
+
+modifying terrible:
+most
+so
+really
+pretty
+just
+
+--------------------------------------------------
+=== impressive, substantial
+
+impressive > substantial
+cluster id: 15.0
+
+modifying impressive:
+very
+
+modifying substantial:
+very
+
+--------------------------------------------------
+=== outstanding, satisfactory
+
+outstanding > satisfactory
+cluster id: 1.0
+
+modifying outstanding:
+
+modifying satisfactory:
+very
+
+--------------------------------------------------
+=== sad, unfortunate
+
+sad > unfortunate
+cluster id: 1.0
+
+modifying sad:
+rather
+extremely
+very
+quite
+so
+just
+really
+pretty
+a little
+too
+incredibly
+
+modifying unfortunate:
+rather
+most
+very
+extremely
+deeply
+
+--------------------------------------------------
+=== low, poor
+
+low > poor
+cluster id: 3.0
+
+modifying low:
+relatively
+very
+extremely
+so
+quite
+
+modifying poor:
+relatively
+so
+
+--------------------------------------------------
+=== beautiful, neat
+
+beautiful > neat
+cluster id: 1.0
+
+modifying beautiful:
+so
+pretty
+
+modifying neat:
+pretty
+really
+
+--------------------------------------------------
+=== insane, ridiculous
+
+insane > ridiculous
+cluster id: 1.0
+
+modifying insane:
+
+modifying ridiculous:
+quite
+absolutely
+close to being
+completely
+totally
+most
+really
+so
+just
+bloody
+that
+
+--------------------------------------------------
+=== principal, significant
+
+principal > significant
+cluster id: 1.0
+
+modifying principal:
+
+modifying significant:
+most
+more
+
+--------------------------------------------------
+=== specific, specified
+
+specific > specified
+cluster id: 1.0
+
+modifying specific:
+very
+more
+
+modifying specified:
+
+--------------------------------------------------
+=== candid, honest
+
+candid > honest
+cluster id: 6.0
+
+modifying candid:
+
+modifying honest:
+perfectly
+quite
+totally
+very
+
+--------------------------------------------------
+=== magnificent, marvelous
+
+magnificent > marvelous
+cluster id: 1.0
+
+modifying magnificent:
+most
+
+modifying marvelous:
+so
+simply
+
+--------------------------------------------------
+=== lovely, pretty
+
+lovely > pretty
+cluster id: 1.0
+
+modifying lovely:
+really
+so
+very
+
+modifying pretty:
+so
+really
+very
+real
+kind of
+that
+mighty
+
+--------------------------------------------------
+=== interesting, useful
+
+interesting > useful
+cluster id: 1.0
+
+modifying interesting:
+really
+most
+very
+
+modifying useful:
+very
+
+--------------------------------------------------
+=== rare, scant
+
+rare > scant
+cluster id: 1.0
+
+modifying rare:
+relatively
+extremely
+
+modifying scant:
+
+--------------------------------------------------
+=== extensive, wide-ranging
+
+extensive > wide-ranging
+cluster id: 6.0
+
+modifying extensive:
+very
+more
+
+modifying wide-ranging:
+very
+
+--------------------------------------------------
+=== better, right
+
+better > right
+cluster id: 10.0
+
+modifying better:
+
+modifying right:
+all
+good 
+better 
+
+--------------------------------------------------
+=== remarkable, tremendous
+
+remarkable > tremendous
+cluster id: 1.0
+
+modifying remarkable:
+quite
+
+modifying tremendous:
+
+--------------------------------------------------
+=== broad, general
+
+broad > general
+cluster id: 10.0
+
+modifying broad:
+very
+
+modifying general:
+quite
+
+--------------------------------------------------
+=== disturbing, worse
+
+disturbing > worse
+cluster id: 1.0
+
+modifying disturbing:
+most
+
+modifying worse:
+
+--------------------------------------------------
+=== magnificent, outstanding
+
+magnificent > outstanding
+cluster id: 10.0
+
+modifying magnificent:
+
+modifying outstanding:
+absolutely
+quite
+truly
+
+--------------------------------------------------
+=== easiest, easy
+
+easiest > easy
+cluster id: 1.0
+
+modifying easiest:
+
+modifying easy:
+very
+so
+this
+too
+quite
+particularly
+that
+really
+pretty
+relatively
+real
+fairly
+
+--------------------------------------------------
+=== intelligent, sensible
+
+intelligent > sensible
+cluster id: 3.0
+
+modifying intelligent:
+very
+as
+more
+
+modifying sensible:
+
+--------------------------------------------------
+=== amazing, sweet
+
+amazing > sweet
+cluster id: 1.0
+
+modifying amazing:
+really
+so
+
+modifying sweet:
+pretty
+really
+so
+very
+
+--------------------------------------------------
+=== rare, unusual
+
+rare > unusual
+cluster id: 3.0
+
+modifying rare:
+rather
+quite
+really
+extremely
+relatively
+very
+pretty
+
+modifying unusual:
+very
+
+--------------------------------------------------
+=== deadly, lethal
+
+deadly > lethal
+cluster id: 3.0
+
+modifying deadly:
+
+modifying lethal:
+most
+
+--------------------------------------------------
+=== bizarre, strange
+
+bizarre > strange
+cluster id: 1.0
+
+modifying bizarre:
+
+modifying strange:
+rather
+quite
+really
+very
+pretty
+so
+somewhat
+just so
+just
+a little
+a bit
+
+--------------------------------------------------
+=== excellent, outstanding
+
+excellent > outstanding
+cluster id: 1.0
+
+modifying excellent:
+very
+quite
+otherwise
+really
+most
+absolutely
+as
+excellent 
+truly
+
+modifying outstanding:
+absolutely
+quite
+most
+really
+truly
+
+--------------------------------------------------
+=== crucial, relevant
+
+crucial > relevant
+cluster id: 2.0
+
+modifying crucial:
+
+modifying relevant:
+very
+particularly
+
+--------------------------------------------------
+=== cool, cute
+
+cool > cute
+cluster id: 1.0
+
+modifying cool:
+pretty
+really
+so
+
+modifying cute:
+so
+
+--------------------------------------------------
+=== immeasurable, valuable
+
+immeasurable > valuable
+cluster id: 6.0
+
+modifying immeasurable:
+
+modifying valuable:
+most
+very
+
+--------------------------------------------------
+=== glorious, magnificent
+
+glorious > magnificent
+cluster id: 1.0
+
+modifying glorious:
+pretty
+
+modifying magnificent:
+most
+
+--------------------------------------------------
+=== better, helpful
+
+better > helpful
+cluster id: 2.0
+
+modifying better:
+much
+
+modifying helpful:
+
+--------------------------------------------------
+=== rigorous, tougher
+
+rigorous > tougher
+cluster id: 3.0
+
+modifying rigorous:
+more
+
+modifying tougher:
+
+--------------------------------------------------
+=== efficient, rationalized
+
+efficient > rationalized
+cluster id: 1.0
+
+modifying efficient:
+more
+
+modifying rationalized:
+
+--------------------------------------------------
+=== meagre, poor
+
+meagre > poor
+cluster id: 3.0
+
+modifying meagre:
+
+modifying poor:
+very
+
+--------------------------------------------------
+=== excellent, satisfactory
+
+excellent > satisfactory
+cluster id: 3.0
+
+modifying excellent:
+
+modifying satisfactory:
+highly
+very
+
+--------------------------------------------------
+=== bizarre, unusual
+
+bizarre > unusual
+cluster id: 3.0
+
+modifying bizarre:
+
+modifying unusual:
+pretty
+most
+
+--------------------------------------------------
+=== necessary, useful
+
+necessary > useful
+cluster id: 3.0
+
+modifying necessary:
+very
+
+modifying useful:
+
+--------------------------------------------------
+=== convenient, easiest
+
+convenient > easiest
+cluster id: 1.0
+
+modifying convenient:
+more
+
+modifying easiest:
+
+--------------------------------------------------
+=== fancy, neat
+
+fancy > neat
+cluster id: 1.0
+
+modifying fancy:
+
+modifying neat:
+pretty
+
+--------------------------------------------------
+=== accessible, easiest
+
+accessible > easiest
+cluster id: 1.0
+
+modifying accessible:
+easily
+readily
+
+modifying easiest:
+
+--------------------------------------------------
+=== appropriate, worthwhile
+
+appropriate > worthwhile
+cluster id: 1.0
+
+modifying appropriate:
+very
+entirely
+
+modifying worthwhile:
+
+--------------------------------------------------
+=== better, desirable
+
+better > desirable
+cluster id: 10.0
+
+modifying better:
+perhaps
+
+modifying desirable:
+most
+more
+
+--------------------------------------------------
+=== fantastic, pleasant
+
+fantastic > pleasant
+cluster id: 3.0
+
+modifying fantastic:
+
+modifying pleasant:
+very
+
+--------------------------------------------------
+=== enormously, large
+
+enormously > large
+cluster id: 3.0
+
+modifying enormously:
+
+modifying large:
+very
+
+--------------------------------------------------
+=== enjoyable, nicer
+
+enjoyable > nicer
+cluster id: 1.0
+
+modifying enjoyable:
+more
+very
+
+modifying nicer:
+
+--------------------------------------------------
+=== helpful, informative
+
+helpful > informative
+cluster id: 1.0
+
+modifying helpful:
+very
+
+modifying informative:
+
+--------------------------------------------------
+=== big, sizeable
+
+big > sizeable
+cluster id: 10.0
+
+modifying big:
+very
+
+modifying sizeable:
+
+--------------------------------------------------
+=== beneficial, desirable
+
+beneficial > desirable
+cluster id: 10.0
+
+modifying beneficial:
+more
+
+modifying desirable:
+highly
+
+--------------------------------------------------
+=== attractive, convenient
+
+attractive > convenient
+cluster id: 7.0
+
+modifying attractive:
+
+modifying convenient:
+very
+
+--------------------------------------------------
+=== atrocious, worst
+
+atrocious > worst
+cluster id: 1.0
+
+modifying atrocious:
+most
+
+modifying worst:
+
+--------------------------------------------------
+=== incorrect, poor
+
+incorrect > poor
+cluster id: 1.0
+
+modifying incorrect:
+
+modifying poor:
+very
+
+--------------------------------------------------
+=== pivotal, significant
+
+pivotal > significant
+cluster id: 1.0
+
+modifying pivotal:
+
+modifying significant:
+very
+highly
+
+--------------------------------------------------
+=== broader, broadest
+
+broader > broadest
+cluster id: 1.0
+
+modifying broader:
+much
+
+modifying broadest:
+
+--------------------------------------------------
+=== confused, frazzled
+
+confused > frazzled
+cluster id: 3.0
+
+modifying confused:
+
+modifying frazzled:
+so
+
+--------------------------------------------------
+=== beneficial, best
+
+beneficial > best
+cluster id: 10.0
+
+modifying beneficial:
+most
+more
+
+modifying best:
+
+--------------------------------------------------
+=== marvelous, neat
+
+marvelous > neat
+cluster id: 3.0
+
+modifying marvelous:
+
+modifying neat:
+pretty
+
+--------------------------------------------------
+=== amazing, incredible
+
+amazing > incredible
+cluster id: 3.0
+
+modifying amazing:
+so
+absolutely
+really
+quite
+pretty
+kind of
+most
+
+modifying incredible:
+absolutely
+totally
+most
+quite
+really
+so
+pretty
+
+--------------------------------------------------
+=== awesome, beautiful
+
+awesome > beautiful
+cluster id: 1.0
+
+modifying awesome:
+pretty
+so
+really
+
+modifying beautiful:
+most
+so
+absolutely
+quite
+just so
+really
+very
+more
+just
+beautiful 
+
+--------------------------------------------------
+=== crucial, significant
+
+crucial > significant
+cluster id: 1.0
+
+modifying crucial:
+
+modifying significant:
+very
+most
+highly
+extremely
+particularly
+
+--------------------------------------------------
+=== major, remarkable
+
+major > remarkable
+cluster id: 1.0
+
+modifying major:
+very
+
+modifying remarkable:
+
+--------------------------------------------------
+=== better, greater
+
+better > greater
+cluster id: 1.0
+
+modifying better:
+still
+far
+much
+
+modifying greater:
+
+--------------------------------------------------
+=== small, unimportant
+
+small > unimportant
+cluster id: 6.0
+
+modifying small:
+very
+
+modifying unimportant:
+
+--------------------------------------------------
+=== expensive, valuable
+
+expensive > valuable
+cluster id: 1.0
+
+modifying expensive:
+
+modifying valuable:
+quite
+
+--------------------------------------------------
+=== convenient, easy
+
+convenient > easy
+cluster id: 1.0
+
+modifying convenient:
+pretty
+more
+
+modifying easy:
+so
+very
+really
+quite
+that
+real
+too
+particularly
+pretty
+
+--------------------------------------------------
+=== comprehensive, defined
+
+comprehensive > defined
+cluster id: 1.0
+
+modifying comprehensive:
+
+modifying defined:
+broadly
+
+--------------------------------------------------
+=== hard, problematic
+
+hard > problematic
+cluster id: 10.0
+
+modifying hard:
+so
+really
+pretty
+very
+
+modifying problematic:
+
+--------------------------------------------------
+=== justified, right
+
+justified > right
+cluster id: 1.0
+
+modifying justified:
+
+modifying right:
+absolutely
+so
+quite
+all
+only
+
+--------------------------------------------------
+=== fantastic, perfect
+
+fantastic > perfect
+cluster id: 1.0
+
+modifying fantastic:
+
+modifying perfect:
+so
+just
+
+--------------------------------------------------
+=== fabulous, fantastic
+
+fabulous > fantastic
+cluster id: 1.0
+
+modifying fabulous:
+
+modifying fantastic:
+quite
+so
+really
+just
+
+--------------------------------------------------
+=== appropriate, fair
+
+appropriate > fair
+cluster id: 1.0
+
+modifying appropriate:
+more
+
+modifying fair:
+only
+
+--------------------------------------------------
+=== major, relevant
+
+major > relevant
+cluster id: 2.0
+
+modifying major:
+
+modifying relevant:
+most
+
+--------------------------------------------------
+=== horrible, sad
+
+horrible > sad
+cluster id: 6.0
+
+modifying horrible:
+
+modifying sad:
+very
+
+--------------------------------------------------
+=== magnificent, pleasant
+
+magnificent > pleasant
+cluster id: 3.0
+
+modifying magnificent:
+
+modifying pleasant:
+very
+
+--------------------------------------------------
+=== dramatic, huge
+
+dramatic > huge
+cluster id: 1.0
+
+modifying dramatic:
+quite
+
+modifying huge:
+
+--------------------------------------------------
+=== fantastic, fine
+
+fantastic > fine
+cluster id: 1.0
+
+modifying fantastic:
+
+modifying fine:
+so
+very
+just
+
+--------------------------------------------------
+=== heartfelt, sincere
+
+heartfelt > sincere
+cluster id: 3.0
+
+modifying heartfelt:
+most
+
+modifying sincere:
+
+--------------------------------------------------
+=== insane, screwy
+
+insane > screwy
+cluster id: 1.0
+
+modifying insane:
+completely
+
+modifying screwy:
+
+--------------------------------------------------
+=== best, fantastic
+
+best > fantastic
+cluster id: 1.0
+
+modifying best:
+
+modifying fantastic:
+most
+
+--------------------------------------------------
+=== marvelous, special
+
+marvelous > special
+cluster id: 1.0
+
+modifying marvelous:
+
+modifying special:
+very
+
+--------------------------------------------------
+=== clever, smart
+
+clever > smart
+cluster id: 6.0
+
+modifying clever:
+very
+so
+really
+
+modifying smart:
+very
+really
+pretty
+so
+real
+
+--------------------------------------------------
+=== beautiful, fair
+
+beautiful > fair
+cluster id: 3.0
+
+modifying beautiful:
+so
+very
+
+modifying fair:
+
+--------------------------------------------------
+=== breathtaking, pretty
+
+breathtaking > pretty
+cluster id: 1.0
+
+modifying breathtaking:
+
+modifying pretty:
+really
+very
+
+--------------------------------------------------
+=== amazing, ridiculous
+
+amazing > ridiculous
+cluster id: 5.0
+
+modifying amazing:
+
+modifying ridiculous:
+close to being
+
+--------------------------------------------------
+=== qualified, relevant
+
+qualified > relevant
+cluster id: 3.0
+
+modifying qualified:
+well
+
+modifying relevant:
+
+--------------------------------------------------
+=== exciting, interesting
+
+exciting > interesting
+cluster id: 1.0
+
+modifying exciting:
+pretty
+so
+really
+most
+very
+
+modifying interesting:
+quite
+most
+extremely
+so
+pretty
+particularly
+rather
+really
+how
+
+--------------------------------------------------
+=== appropriate, sensible
+
+appropriate > sensible
+cluster id: 1.0
+
+modifying appropriate:
+very
+as
+
+modifying sensible:
+
+--------------------------------------------------
+=== awesome, fantastic
+
+awesome > fantastic
+cluster id: 10.0
+
+modifying awesome:
+totally
+so
+pretty
+really
+kind of
+just
+
+modifying fantastic:
+quite
+most
+so
+really
+truly
+just
+
+--------------------------------------------------
+=== powerful, strengthened
+
+powerful > strengthened
+cluster id: 1.0
+
+modifying powerful:
+most
+
+modifying strengthened:
+
+--------------------------------------------------
+=== excessive, much
+
+excessive > much
+cluster id: 1.0
+
+modifying excessive:
+
+modifying much:
+so
+
+--------------------------------------------------
+=== best, right
+
+best > right
+cluster id: 10.0
+
+modifying best:
+the
+
+modifying right:
+all
+better 
+
+--------------------------------------------------
+=== awesome, better
+
+awesome > better
+cluster id: 2.0
+
+modifying awesome:
+
+modifying better:
+much
+
+--------------------------------------------------
+=== positive, sweet
+
+positive > sweet
+cluster id: 2.0
+
+modifying positive:
+very
+
+modifying sweet:
+
+--------------------------------------------------
+=== effective, real
+
+effective > real
+cluster id: 5.0
+
+modifying effective:
+truly
+
+modifying real:
+
+--------------------------------------------------
+=== incredible, special
+
+incredible > special
+cluster id: 10.0
+
+modifying incredible:
+
+modifying special:
+very
+
+--------------------------------------------------
+=== incredible, marvelous
+
+incredible > marvelous
+cluster id: 6.0
+
+modifying incredible:
+
+modifying marvelous:
+so
+
+--------------------------------------------------
+=== fabulous, fine
+
+fabulous > fine
+cluster id: 1.0
+
+modifying fabulous:
+
+modifying fine:
+so
+very
+
+--------------------------------------------------
+=== lengthy, long
+
+lengthy > long
+cluster id: 1.0
+
+modifying lengthy:
+very
+
+modifying long:
+very
+so
+excessively
+long 
+extremely
+that
+quite
+as
+long
+
+--------------------------------------------------
+=== handsome, nice
+
+handsome > nice
+cluster id: 1.0
+
+modifying handsome:
+really
+so
+very
+
+modifying nice:
+pretty
+really
+so
+how
+very
+real
+that
+
+--------------------------------------------------
+=== appropriate, well
+
+appropriate > well
+cluster id: 3.0
+
+modifying appropriate:
+very
+
+modifying well:
+
+--------------------------------------------------
+=== concise, short
+
+concise > short
+cluster id: 6.0
+
+modifying concise:
+
+modifying short:
+very
+really
+
+--------------------------------------------------
+=== easier, simple
+
+easier > simple
+cluster id: 1.0
+
+modifying easier:
+so much
+much
+a lot
+
+modifying simple:
+quite
+so
+as
+very
+more
+most
+that
+perfectly
+real
+
+--------------------------------------------------
+=== eerie, strange
+
+eerie > strange
+cluster id: 6.0
+
+modifying eerie:
+
+modifying strange:
+somewhat
+pretty
+rather
+really
+so
+just so
+very
+just
+
+--------------------------------------------------
+=== breathtaking, nice
+
+breathtaking > nice
+cluster id: 1.0
+
+modifying breathtaking:
+
+modifying nice:
+quite
+really
+very
+
+--------------------------------------------------
+=== convenient, simple
+
+convenient > simple
+cluster id: 1.0
+
+modifying convenient:
+
+modifying simple:
+as
+
+--------------------------------------------------
+=== crucial, integral
+
+crucial > integral
+cluster id: 1.0
+
+modifying crucial:
+therefore
+
+modifying integral:
+
+--------------------------------------------------
+=== critical, tough
+
+critical > tough
+cluster id: 4.0
+
+modifying critical:
+very
+
+modifying tough:
+
+--------------------------------------------------
+=== magnificent, remarkable
+
+magnificent > remarkable
+cluster id: 10.0
+
+modifying magnificent:
+
+modifying remarkable:
+quite
+truly
+rather
+very
+most
+pretty
+that
+mighty
+
+--------------------------------------------------
+=== proper, well-formed
+
+proper > well-formed
+cluster id: 1.0
+
+modifying proper:
+only
+quite
+
+modifying well-formed:
+
+--------------------------------------------------
+=== insignificant, minuscule
+
+insignificant > minuscule
+cluster id: 1.0
+
+modifying insignificant:
+very
+
+modifying minuscule:
+
+--------------------------------------------------
+=== crucial, indispensable
+
+crucial > indispensable
+cluster id: 1.0
+
+modifying crucial:
+absolutely
+therefore
+
+modifying indispensable:
+absolutely
+therefore
+
+--------------------------------------------------
+=== beautiful, fine
+
+beautiful > fine
+cluster id: 6.0
+
+modifying beautiful:
+very
+so
+as
+quite
+most
+really
+just
+beautiful 
+that
+
+modifying fine:
+just
+pretty
+so
+very
+
+--------------------------------------------------
+=== outstanding, positive
+
+outstanding > positive
+cluster id: 1.0
+
+modifying outstanding:
+
+modifying positive:
+very
+
+--------------------------------------------------
+=== terrific, upstanding
+
+terrific > upstanding
+cluster id: 4.0
+
+modifying terrific:
+
+modifying upstanding:
+very
+
+--------------------------------------------------
+=== rare, remarkable
+
+rare > remarkable
+cluster id: 6.0
+
+modifying rare:
+very
+
+modifying remarkable:
+
+--------------------------------------------------
+=== embarrassing, stupid
+
+embarrassing > stupid
+cluster id: 8.0
+
+modifying embarrassing:
+
+modifying stupid:
+so
+
+--------------------------------------------------
+=== crucial, indispensible
+
+crucial > indispensible
+cluster id: 1.0
+
+modifying crucial:
+absolutely
+
+modifying indispensible:
+
+--------------------------------------------------
+=== important, useful
+
+important > useful
+cluster id: 1.0
+
+modifying important:
+very
+
+modifying useful:
+most
+very
+
+--------------------------------------------------
+=== perfect, terrific
+
+perfect > terrific
+cluster id: 3.0
+
+modifying perfect:
+absolutely
+so
+all
+completely
+this
+just
+that
+
+modifying terrific:
+just
+
+--------------------------------------------------
+=== crucial, unavoidable
+
+crucial > unavoidable
+cluster id: 1.0
+
+modifying crucial:
+absolutely
+
+modifying unavoidable:
+
+--------------------------------------------------
+=== appropriate, chosen
+
+appropriate > chosen
+cluster id: 4.0
+
+modifying appropriate:
+
+modifying chosen:
+well
+
+--------------------------------------------------
+=== fucked, insane
+
+fucked > insane
+cluster id: 1.0
+
+modifying fucked:
+so
+
+modifying insane:
+
+--------------------------------------------------
+=== enough, stable
+
+enough > stable
+cluster id: 1.0
+
+modifying enough:
+strong
+
+modifying stable:
+
+--------------------------------------------------
+=== endemic, widespread
+
+endemic > widespread
+cluster id: 3.0
+
+modifying endemic:
+
+modifying widespread:
+very
+
+--------------------------------------------------
+=== afraid, upset
+
+afraid > upset
+cluster id: 1.0
+
+modifying afraid:
+so
+
+modifying upset:
+
+--------------------------------------------------
+=== marvelous, sweet
+
+marvelous > sweet
+cluster id: 1.0
+
+modifying marvelous:
+
+modifying sweet:
+pretty
+
+--------------------------------------------------
+=== pronounced, stronger
+
+pronounced > stronger
+cluster id: 3.0
+
+modifying pronounced:
+most
+
+modifying stronger:
+
+--------------------------------------------------
+=== diverse, wide-ranging
+
+diverse > wide-ranging
+cluster id: 1.0
+
+modifying diverse:
+highly
+very
+
+modifying wide-ranging:
+
+--------------------------------------------------
+=== powerful, substantial
+
+powerful > substantial
+cluster id: 3.0
+
+modifying powerful:
+
+modifying substantial:
+very
+
+--------------------------------------------------
+=== horrible, miserable
+
+horrible > miserable
+cluster id: 4.0
+
+modifying horrible:
+so
+most
+pretty
+really
+very
+just
+
+modifying miserable:
+
+--------------------------------------------------
+=== efficient, helpful
+
+efficient > helpful
+cluster id: 3.0
+
+modifying efficient:
+
+modifying helpful:
+very
+
+--------------------------------------------------
+=== excellent, exciting
+
+excellent > exciting
+cluster id: 6.0
+
+modifying excellent:
+
+modifying exciting:
+very
+
+--------------------------------------------------
+=== ghastly, terrible
+
+ghastly > terrible
+cluster id: 6.0
+
+modifying ghastly:
+
+modifying terrible:
+most
+so
+really
+
+--------------------------------------------------
+=== desirable, good
+
+desirable > good
+cluster id: 4.0
+
+modifying desirable:
+
+modifying good:
+all
+any
+really
+so
+
+--------------------------------------------------
+=== big, large-scale
+
+big > large-scale
+cluster id: 10.0
+
+modifying big:
+really
+very
+
+modifying large-scale:
+
+--------------------------------------------------
+=== better, effective
+
+better > effective
+cluster id: 3.0
+
+modifying better:
+
+modifying effective:
+most
+much more
+even more
+
+--------------------------------------------------
+=== awful, bad
+
+awful > bad
+cluster id: 1.0
+
+modifying awful:
+pretty
+so
+
+modifying bad:
+all
+really
+so
+
+--------------------------------------------------
+=== exceptional, good
+
+exceptional > good
+cluster id: 3.0
+
+modifying exceptional:
+
+modifying good:
+exceptionally
+extremely
+
+--------------------------------------------------
+=== excited, grateful
+
+excited > grateful
+cluster id: 10.0
+
+modifying excited:
+so
+
+modifying grateful:
+
+--------------------------------------------------
+=== awesome, remarkable
+
+awesome > remarkable
+cluster id: 1.0
+
+modifying awesome:
+really
+so
+
+modifying remarkable:
+most
+
+--------------------------------------------------
+=== dire, dramatic
+
+dire > dramatic
+cluster id: 3.0
+
+modifying dire:
+
+modifying dramatic:
+very
+
+--------------------------------------------------
+=== amazing, remarkable
+
+amazing > remarkable
+cluster id: 1.0
+
+modifying amazing:
+really
+absolutely
+pretty
+quite
+so
+most
+
+modifying remarkable:
+quite
+most
+rather
+
+--------------------------------------------------
+=== necessary, need
+
+necessary > need
+cluster id: 4.0
+
+modifying necessary:
+where
+
+modifying need:
+
+--------------------------------------------------
+=== productive, useful
+
+productive > useful
+cluster id: 3.0
+
+modifying productive:
+very
+
+modifying useful:
+very
+
+--------------------------------------------------
+=== stronger, tougher
+
+stronger > tougher
+cluster id: 1.0
+
+modifying stronger:
+much
+even
+
+modifying tougher:
+
+--------------------------------------------------
+=== honest, sincere
+
+honest > sincere
+cluster id: 3.0
+
+modifying honest:
+perfectly
+quite
+completely
+very
+
+modifying sincere:
+most
+very
+really
+so
+
+--------------------------------------------------
+=== marvelous, nice
+
+marvelous > nice
+cluster id: 1.0
+
+modifying marvelous:
+
+modifying nice:
+so
+really
+quite
+very
+real
+perfectly
+
+--------------------------------------------------
+=== cool, nifty
+
+cool > nifty
+cluster id: 1.0
+
+modifying cool:
+pretty
+
+modifying nifty:
+
+--------------------------------------------------
+=== clever, judicious
+
+clever > judicious
+cluster id: 3.0
+
+modifying clever:
+very
+
+modifying judicious:
+
+--------------------------------------------------
+=== intense, rough
+
+intense > rough
+cluster id: 3.0
+
+modifying intense:
+really
+
+modifying rough:
+
+--------------------------------------------------
+=== difficult, worse
+
+difficult > worse
+cluster id: 4.0
+
+modifying difficult:
+most
+ever more
+still more
+increasingly
+even more
+more
+much more
+very
+as
+
+modifying worse:
+
+--------------------------------------------------
+=== obvious, straightforward
+
+obvious > straightforward
+cluster id: 1.0
+
+modifying obvious:
+pretty
+quite
+fairly
+very
+so
+kind of
+
+modifying straightforward:
+
+--------------------------------------------------
+=== amazing, magnificent
+
+amazing > magnificent
+cluster id: 1.0
+
+modifying amazing:
+quite
+just so
+so
+pretty
+really
+most
+just
+
+modifying magnificent:
+most
+
+--------------------------------------------------
+=== nice, thoughtful
+
+nice > thoughtful
+cluster id: 6.0
+
+modifying nice:
+so
+quite
+pretty
+really
+that
+
+modifying thoughtful:
+so
+very
+
+--------------------------------------------------
+=== gorgeous, marvelous
+
+gorgeous > marvelous
+cluster id: 1.0
+
+modifying gorgeous:
+so
+
+modifying marvelous:
+
+--------------------------------------------------
+=== less, small
+
+less > small
+cluster id: 1.0
+
+modifying less:
+
+modifying small:
+relatively
+very
+extremely
+
+--------------------------------------------------
+=== preferable, right
+
+preferable > right
+cluster id: 10.0
+
+modifying preferable:
+
+modifying right:
+all
+
+--------------------------------------------------
+=== insignificant, mild
+
+insignificant > mild
+cluster id: 1.0
+
+modifying insignificant:
+
+modifying mild:
+very
+
+--------------------------------------------------
+=== attractive, good
+
+attractive > good
+cluster id: 4.0
+
+modifying attractive:
+
+modifying good:
+pretty
+
+--------------------------------------------------
+=== farther, higher
+
+farther > higher
+cluster id: 2.0
+
+modifying farther:
+
+modifying higher:
+much
+
+--------------------------------------------------
+=== appropriate, fine
+
+appropriate > fine
+cluster id: 3.0
+
+modifying appropriate:
+most
+
+modifying fine:
+
+--------------------------------------------------
+=== fierce, intense
+
+fierce > intense
+cluster id: 6.0
+
+modifying fierce:
+more
+
+modifying intense:
+very
+really
+
+--------------------------------------------------
+=== awesome, fine
+
+awesome > fine
+cluster id: 1.0
+
+modifying awesome:
+
+modifying fine:
+so
+
+--------------------------------------------------
+=== critical, gravest
+
+critical > gravest
+cluster id: 3.0
+
+modifying critical:
+most
+
+modifying gravest:
+
+--------------------------------------------------
+=== convinced, secure
+
+convinced > secure
+cluster id: 11.0
+
+modifying convinced:
+absolutely
+
+modifying secure:
+
+--------------------------------------------------
+=== renowned, well-known
+
+renowned > well-known
+cluster id: 1.0
+
+modifying renowned:
+internationally
+
+modifying well-known:
+
+--------------------------------------------------
+=== effective, efficient
+
+effective > efficient
+cluster id: 6.0
+
+modifying effective:
+very
+really
+most
+more
+cost
+as
+properly
+much more
+increasingly
+highly
+truly
+particularly
+
+modifying efficient:
+effective 
+very
+most
+highly
+more
+truly
+
+--------------------------------------------------
+=== significant, useful
+
+significant > useful
+cluster id: 1.0
+
+modifying significant:
+
+modifying useful:
+very
+
+--------------------------------------------------
+=== impressive, incredible
+
+impressive > incredible
+cluster id: 10.0
+
+modifying impressive:
+so
+quite
+most
+pretty
+very
+more
+
+modifying incredible:
+
+--------------------------------------------------
+=== critical, graver
+
+critical > graver
+cluster id: 3.0
+
+modifying critical:
+most
+
+modifying graver:
+
+--------------------------------------------------
+=== amazing, terrific
+
+amazing > terrific
+cluster id: 3.0
+
+modifying amazing:
+absolutely
+quite
+pretty
+just so
+so
+most
+really
+truly
+just
+
+modifying terrific:
+really
+
+--------------------------------------------------
+=== magnificent, special
+
+magnificent > special
+cluster id: 10.0
+
+modifying magnificent:
+
+modifying special:
+so
+very
+
+--------------------------------------------------
+=== bigger, substantial
+
+bigger > substantial
+cluster id: 1.0
+
+modifying bigger:
+
+modifying substantial:
+most
+more
+
+--------------------------------------------------
+=== far-reaching, wide-ranging
+
+far-reaching > wide-ranging
+cluster id: 6.0
+
+modifying far-reaching:
+very
+
+modifying wide-ranging:
+
+--------------------------------------------------
+=== weak, weaker
+
+weak > weaker
+cluster id: 1.0
+
+modifying weak:
+relatively
+pretty
+so
+very
+really
+too
+
+modifying weaker:
+
+--------------------------------------------------
+=== indispensable, indispensible
+
+indispensable > indispensible
+cluster id: 1.0
+
+modifying indispensable:
+absolutely
+
+modifying indispensible:
+
+--------------------------------------------------
+=== outstanding, strong
+
+outstanding > strong
+cluster id: 6.0
+
+modifying outstanding:
+
+modifying strong:
+exceptionally
+very
+
+--------------------------------------------------
+=== brighter, sensible
+
+brighter > sensible
+cluster id: 5.0
+
+modifying brighter:
+
+modifying sensible:
+most
+
+--------------------------------------------------
+=== low, smaller
+
+low > smaller
+cluster id: 1.0
+
+modifying low:
+relatively
+very
+
+modifying smaller:
+
+--------------------------------------------------
+=== finest, valuable
+
+finest > valuable
+cluster id: 6.0
+
+modifying finest:
+
+modifying valuable:
+most
+
+--------------------------------------------------
+=== poor, unsatisfactory
+
+poor > unsatisfactory
+cluster id: 1.0
+
+modifying poor:
+very
+
+modifying unsatisfactory:
+
+--------------------------------------------------
+=== awkward, problematic
+
+awkward > problematic
+cluster id: 1.0
+
+modifying awkward:
+a little
+
+modifying problematic:
+
+--------------------------------------------------
+=== glorious, perfect
+
+glorious > perfect
+cluster id: 1.0
+
+modifying glorious:
+
+modifying perfect:
+so
+
+--------------------------------------------------
+=== outstanding, remarkable
+
+outstanding > remarkable
+cluster id: 10.0
+
+modifying outstanding:
+quite
+truly
+
+modifying remarkable:
+very
+quite
+truly
+most
+pretty
+rather
+
+--------------------------------------------------
+=== clear, straightforward
+
+clear > straightforward
+cluster id: 1.0
+
+modifying clear:
+so
+quite
+absolutely
+pretty
+perfectly
+completely
+very
+too
+that
+crystal
+as
+extremely
+entirely
+abundantly
+
+modifying straightforward:
+
+--------------------------------------------------
+=== formidable, tremendous
+
+formidable > tremendous
+cluster id: 1.0
+
+modifying formidable:
+very
+
+modifying tremendous:
+
+--------------------------------------------------
+=== proper, right
+
+proper > right
+cluster id: 1.0
+
+modifying proper:
+quite
+
+modifying right:
+exactly
+all
+about
+very
+only
+quite
+absolutely
+just
+
+--------------------------------------------------
+=== sensible, thought-out
+
+sensible > thought-out
+cluster id: 1.0
+
+modifying sensible:
+
+modifying thought-out:
+well
+
+--------------------------------------------------
+=== brittle, sensitive
+
+brittle > sensitive
+cluster id: 1.0
+
+modifying brittle:
+
+modifying sensitive:
+environmentally
+
+--------------------------------------------------
+=== harsh, rough
+
+harsh > rough
+cluster id: 1.0
+
+modifying harsh:
+
+modifying rough:
+very
+
+--------------------------------------------------
+=== brilliant, outstanding
+
+brilliant > outstanding
+cluster id: 1.0
+
+modifying brilliant:
+absolutely
+
+modifying outstanding:
+truly
+
+--------------------------------------------------
+=== fabulous, perfect
+
+fabulous > perfect
+cluster id: 1.0
+
+modifying fabulous:
+
+modifying perfect:
+so
+just
+
+--------------------------------------------------
+=== cool, hip
+
+cool > hip
+cluster id: 1.0
+
+modifying cool:
+pretty
+
+modifying hip:
+
+--------------------------------------------------
+=== exciting, unexpected
+
+exciting > unexpected
+cluster id: 1.0
+
+modifying exciting:
+kind of
+
+modifying unexpected:
+
+--------------------------------------------------
+=== handsome, nicer
+
+handsome > nicer
+cluster id: 1.0
+
+modifying handsome:
+most
+
+modifying nicer:
+
+--------------------------------------------------
+=== brilliant, magnificent
+
+brilliant > magnificent
+cluster id: 1.0
+
+modifying brilliant:
+absolutely
+so
+goddamn
+
+modifying magnificent:
+most
+
+--------------------------------------------------
+=== pleasant, sweet
+
+pleasant > sweet
+cluster id: 1.0
+
+modifying pleasant:
+quite
+very
+more
+
+modifying sweet:
+really
+so
+very
+
+--------------------------------------------------
+=== exceptional, strong
+
+exceptional > strong
+cluster id: 4.0
+
+modifying exceptional:
+
+modifying strong:
+exceptionally
+
+--------------------------------------------------
+=== impressive, outstanding
+
+impressive > outstanding
+cluster id: 10.0
+
+modifying impressive:
+most
+pretty
+very
+
+modifying outstanding:
+truly
+
+--------------------------------------------------
+=== severe, strong
+
+severe > strong
+cluster id: 3.0
+
+modifying severe:
+
+modifying strong:
+very
+
+--------------------------------------------------
+=== appropriate, okay
+
+appropriate > okay
+cluster id: 3.0
+
+modifying appropriate:
+most
+
+modifying okay:
+
+--------------------------------------------------
+=== perfect, well
+
+perfect > well
+cluster id: 3.0
+
+modifying perfect:
+
+modifying well:
+perfectly
+very
+real
+
+--------------------------------------------------
+=== major, sizeable
+
+major > sizeable
+cluster id: 1.0
+
+modifying major:
+very
+
+modifying sizeable:
+
+--------------------------------------------------
+=== best, okay
+
+best > okay
+cluster id: 1.0
+
+modifying best:
+
+modifying okay:
+better 
+
+--------------------------------------------------
+=== commonplace, understood
+
+commonplace > understood
+cluster id: 1.0
+
+modifying commonplace:
+
+modifying understood:
+commonly
+
+--------------------------------------------------
+=== curious, interesting
+
+curious > interesting
+cluster id: 7.0
+
+modifying curious:
+rather
+so
+very
+just
+
+modifying interesting:
+very
+
+--------------------------------------------------
+=== remarkable, successful
+
+remarkable > successful
+cluster id: 6.0
+
+modifying remarkable:
+
+modifying successful:
+very
+
+--------------------------------------------------
+=== formidable, substantial
+
+formidable > substantial
+cluster id: 15.0
+
+modifying formidable:
+
+modifying substantial:
+really
+quite
+very
+
+--------------------------------------------------
+=== bright, smart
+
+bright > smart
+cluster id: 6.0
+
+modifying bright:
+
+modifying smart:
+so
+
+--------------------------------------------------
+=== hospitable, nice
+
+hospitable > nice
+cluster id: 1.0
+
+modifying hospitable:
+very
+
+modifying nice:
+
+--------------------------------------------------
+=== pleased, positive
+
+pleased > positive
+cluster id: 3.0
+
+modifying pleased:
+very
+
+modifying positive:
+
+--------------------------------------------------
+=== lovelier, pretty
+
+lovelier > pretty
+cluster id: 1.0
+
+modifying lovelier:
+
+modifying pretty:
+so
+really
+very
+real
+mighty
+
+--------------------------------------------------
+=== important, valuable
+
+important > valuable
+cluster id: 1.0
+
+modifying important:
+really
+so
+very
+most
+more
+extremely
+as
+highly
+
+modifying valuable:
+most
+very
+
+--------------------------------------------------
+=== okay, terrific
+
+okay > terrific
+cluster id: 1.0
+
+modifying okay:
+really
+great 
+
+modifying terrific:
+
+--------------------------------------------------
+=== huge, substantial
+
+huge > substantial
+cluster id: 3.0
+
+modifying huge:
+very
+
+modifying substantial:
+very
+quite
+
+--------------------------------------------------
+=== dramatic, sizeable
+
+dramatic > sizeable
+cluster id: 1.0
+
+modifying dramatic:
+quite
+
+modifying sizeable:
+
+--------------------------------------------------
+=== considerable, sizeable
+
+considerable > sizeable
+cluster id: 1.0
+
+modifying considerable:
+quite
+very
+
+modifying sizeable:
+very
+
+--------------------------------------------------
+=== incredible, sweet
+
+incredible > sweet
+cluster id: 1.0
+
+modifying incredible:
+pretty
+really
+
+modifying sweet:
+
+--------------------------------------------------
+=== perfect, wonderful
+
+perfect > wonderful
+cluster id: 3.0
+
+modifying perfect:
+so
+all
+just
+this
+completely
+that
+
+modifying wonderful:
+most
+so
+really
+just
+that
+
+--------------------------------------------------
+=== significant, vast
+
+significant > vast
+cluster id: 3.0
+
+modifying significant:
+very
+highly
+
+modifying vast:
+
+--------------------------------------------------
+=== astonishing, awesome
+
+astonishing > awesome
+cluster id: 1.0
+
+modifying astonishing:
+
+modifying awesome:
+pretty
+so
+
+--------------------------------------------------
+=== enjoyable, sweet
+
+enjoyable > sweet
+cluster id: 1.0
+
+modifying enjoyable:
+very
+more
+
+modifying sweet:
+
+--------------------------------------------------
+=== terrific, valuable
+
+terrific > valuable
+cluster id: 15.0
+
+modifying terrific:
+
+modifying valuable:
+extremely
+very
+
+--------------------------------------------------
+=== gorgeous, pretty
+
+gorgeous > pretty
+cluster id: 1.0
+
+modifying gorgeous:
+absolutely
+so
+
+modifying pretty:
+so
+really
+very
+that
+real
+mighty
+
+--------------------------------------------------
+=== higher, increased
+
+higher > increased
+cluster id: 1.0
+
+modifying higher:
+even
+
+modifying increased:
+
+--------------------------------------------------
+=== fine, good
+
+fine > good
+cluster id: 3.0
+
+modifying fine:
+just
+perfectly
+
+modifying good:
+fine
+all
+quite
+so
+pretty
+perfectly
+really
+very
+any
+
+--------------------------------------------------
+=== comforting, sweet
+
+comforting > sweet
+cluster id: 1.0
+
+modifying comforting:
+so
+very
+
+modifying sweet:
+
+--------------------------------------------------
+=== huge, much
+
+huge > much
+cluster id: 1.0
+
+modifying huge:
+
+modifying much:
+so
+
+--------------------------------------------------
+=== breathtaking, magnificent
+
+breathtaking > magnificent
+cluster id: 10.0
+
+modifying breathtaking:
+
+modifying magnificent:
+most
+
+--------------------------------------------------
+=== brilliant, incredible
+
+brilliant > incredible
+cluster id: 1.0
+
+modifying brilliant:
+absolutely
+so
+just
+goddamn
+
+modifying incredible:
+really
+pretty
+most
+
+--------------------------------------------------
+=== specific, specifically
+
+specific > specifically
+cluster id: 1.0
+
+modifying specific:
+more
+very
+
+modifying specifically:
+more
+
+--------------------------------------------------
+=== fantastic, marvelous
+
+fantastic > marvelous
+cluster id: 3.0
+
+modifying fantastic:
+quite
+really
+so
+just
+
+modifying marvelous:
+absolutely
+so
+simply
+
+--------------------------------------------------
+=== lethal, worst
+
+lethal > worst
+cluster id: 1.0
+
+modifying lethal:
+most
+
+modifying worst:
+
+--------------------------------------------------
+=== hot, incredible
+
+hot > incredible
+cluster id: 1.0
+
+modifying hot:
+pretty
+
+modifying incredible:
+
+--------------------------------------------------
+=== timely, well-timed
+
+timely > well-timed
+cluster id: 7.0
+
+modifying timely:
+very
+more
+
+modifying well-timed:
+
+--------------------------------------------------
+=== attractive, fine
+
+attractive > fine
+cluster id: 1.0
+
+modifying attractive:
+very
+
+modifying fine:
+very
+
+--------------------------------------------------
+=== hard, uncomfortable
+
+hard > uncomfortable
+cluster id: 10.0
+
+modifying hard:
+really
+pretty
+
+modifying uncomfortable:
+
+--------------------------------------------------
+=== better, fine
+
+better > fine
+cluster id: 1.0
+
+modifying better:
+something
+any
+
+modifying fine:
+
+--------------------------------------------------
+=== attractive, nice
+
+attractive > nice
+cluster id: 1.0
+
+modifying attractive:
+very
+
+modifying nice:
+pretty
+really
+so
+very
+
+--------------------------------------------------
+=== particular, precise
+
+particular > precise
+cluster id: 1.0
+
+modifying particular:
+
+modifying precise:
+more
+
+--------------------------------------------------
+=== convenient, useful
+
+convenient > useful
+cluster id: 2.0
+
+modifying convenient:
+
+modifying useful:
+most
+very
+really
+more
+as
+
+--------------------------------------------------
+=== perfect, right
+
+perfect > right
+cluster id: 3.0
+
+modifying perfect:
+
+modifying right:
+all
+just
+
+--------------------------------------------------
+=== fruitful, worthwhile
+
+fruitful > worthwhile
+cluster id: 1.0
+
+modifying fruitful:
+very
+
+modifying worthwhile:
+
+--------------------------------------------------
+=== impressive, magnificent
+
+impressive > magnificent
+cluster id: 10.0
+
+modifying impressive:
+very
+
+modifying magnificent:
+
+--------------------------------------------------
+=== common, general
+
+common > general
+cluster id: 1.0
+
+modifying common:
+quite
+
+modifying general:
+more
+
+--------------------------------------------------
+=== astonishing, remarkable
+
+astonishing > remarkable
+cluster id: 1.0
+
+modifying astonishing:
+quite
+
+modifying remarkable:
+most
+
+--------------------------------------------------
+=== afraid, scared
+
+afraid > scared
+cluster id: 1.0
+
+modifying afraid:
+so
+desperately
+
+modifying scared:
+so
+really
+
+--------------------------------------------------
+=== right, sensible
+
+right > sensible
+cluster id: 1.0
+
+modifying right:
+quite
+only
+
+modifying sensible:
+
+--------------------------------------------------
+=== excellent, great
+
+excellent > great
+cluster id: 1.0
+
+modifying excellent:
+really
+quite
+very
+most
+excellent 
+truly
+
+modifying great:
+so
+really
+just
+very
+pretty
+sounds
+
+--------------------------------------------------
+=== bizarre, odd
+
+bizarre > odd
+cluster id: 3.0
+
+modifying bizarre:
+
+modifying odd:
+rather
+very
+a little
+so
+a bit
+just
+
+--------------------------------------------------
+=== first-rate, positive
+
+first-rate > positive
+cluster id: 1.0
+
+modifying first-rate:
+
+modifying positive:
+very
+
+--------------------------------------------------
+=== severe, violent
+
+severe > violent
+cluster id: 4.0
+
+modifying severe:
+
+modifying violent:
+so
+quite
+totally
+pretty
+as
+intensely
+
+--------------------------------------------------
+=== excellent, lovely
+
+excellent > lovely
+cluster id: 3.0
+
+modifying excellent:
+most
+excellent 
+truly
+
+modifying lovely:
+
+--------------------------------------------------
+=== gorgeous, nicer
+
+gorgeous > nicer
+cluster id: 6.0
+
+modifying gorgeous:
+so
+
+modifying nicer:
+
+--------------------------------------------------
+=== rigorous, tough
+
+rigorous > tough
+cluster id: 3.0
+
+modifying rigorous:
+very
+more
+
+modifying tough:
+
+--------------------------------------------------
+=== opportune, timely
+
+opportune > timely
+cluster id: 3.0
+
+modifying opportune:
+very
+more
+
+modifying timely:
+very
+more
+
+--------------------------------------------------
+=== outstanding, valuable
+
+outstanding > valuable
+cluster id: 10.0
+
+modifying outstanding:
+
+modifying valuable:
+very
+
+--------------------------------------------------
+=== available, easy
+
+available > easy
+cluster id: 1.0
+
+modifying available:
+readily
+
+modifying easy:
+
+--------------------------------------------------
+=== heinous, worse
+
+heinous > worse
+cluster id: 1.0
+
+modifying heinous:
+most
+
+modifying worse:
+
+--------------------------------------------------
+=== insane, psycho
+
+insane > psycho
+cluster id: 1.0
+
+modifying insane:
+completely
+pretty
+
+modifying psycho:
+
+--------------------------------------------------
+=== amazing, fantastic
+
+amazing > fantastic
+cluster id: 1.0
+
+modifying amazing:
+so
+absolutely
+just so
+quite
+most
+kind of
+pretty
+
+modifying fantastic:
+quite
+most
+
+--------------------------------------------------
+=== excellent, fantastic
+
+excellent > fantastic
+cluster id: 1.0
+
+modifying excellent:
+really
+quite
+very
+truly
+excellent 
+
+modifying fantastic:
+
+--------------------------------------------------
+=== amazing, neat
+
+amazing > neat
+cluster id: 3.0
+
+modifying amazing:
+
+modifying neat:
+pretty
+
+--------------------------------------------------
+=== outstanding, special
+
+outstanding > special
+cluster id: 10.0
+
+modifying outstanding:
+
+modifying special:
+so
+really
+very
+
+--------------------------------------------------
+=== easier, easy
+
+easier > easy
+cluster id: 1.0
+
+modifying easier:
+really
+a little
+far
+a lot
+
+modifying easy:
+very
+too
+less
+really
+quite
+relatively
+real
+pretty
+extremely
+fairly
+particularly
+entirely
+
+--------------------------------------------------
+=== faultless, fine
+
+faultless > fine
+cluster id: 3.0
+
+modifying faultless:
+
+modifying fine:
+just
+
+--------------------------------------------------
+=== relevant, useful
+
+relevant > useful
+cluster id: 3.0
+
+modifying relevant:
+particularly
+
+modifying useful:
+very
+as
+
+--------------------------------------------------
+=== rare, rarest
+
+rare > rarest
+cluster id: 1.0
+
+modifying rare:
+more
+
+modifying rarest:
+
+--------------------------------------------------
+=== correct, fair
+
+correct > fair
+cluster id: 1.0
+
+modifying correct:
+quite
+that
+
+modifying fair:
+only
+so
+very
+
+--------------------------------------------------
+=== low, mild
+
+low > mild
+cluster id: 1.0
+
+modifying low:
+relatively
+
+modifying mild:
+
+--------------------------------------------------
+=== nicer, sweet
+
+nicer > sweet
+cluster id: 10.0
+
+modifying nicer:
+
+modifying sweet:
+pretty
+
+--------------------------------------------------
+=== appropriate, logical
+
+appropriate > logical
+cluster id: 1.0
+
+modifying appropriate:
+only
+
+modifying logical:
+
+--------------------------------------------------
+=== enormous, substantial
+
+enormous > substantial
+cluster id: 4.0
+
+modifying enormous:
+
+modifying substantial:
+quite
+very
+really
+
+--------------------------------------------------
+=== indispensable, needed
+
+indispensable > needed
+cluster id: 1.0
+
+modifying indispensable:
+
+modifying needed:
+vitally
+most
+critically
+urgently
+badly
+
+--------------------------------------------------
+=== attractive, exciting
+
+attractive > exciting
+cluster id: 6.0
+
+modifying attractive:
+very
+
+modifying exciting:
+
+--------------------------------------------------
+=== positive, satisfactory
+
+positive > satisfactory
+cluster id: 4.0
+
+modifying positive:
+very
+
+modifying satisfactory:
+
+--------------------------------------------------
+=== helpful, thoughtful
+
+helpful > thoughtful
+cluster id: 6.0
+
+modifying helpful:
+
+modifying thoughtful:
+very
+
+--------------------------------------------------
+=== beneficial, cooperative
+
+beneficial > cooperative
+cluster id: 11.0
+
+modifying beneficial:
+mutually
+
+modifying cooperative:
+
+--------------------------------------------------
+=== stringent, tougher
+
+stringent > tougher
+cluster id: 3.0
+
+modifying stringent:
+most
+more
+
+modifying tougher:
+
+--------------------------------------------------
+=== brilliant, remarkable
+
+brilliant > remarkable
+cluster id: 1.0
+
+modifying brilliant:
+
+modifying remarkable:
+quite
+rather
+truly
+very
+pretty
+most
+that
+mighty
+
+--------------------------------------------------
+=== real, true
+
+real > true
+cluster id: 3.0
+
+modifying real:
+very
+really
+all
+
+modifying true:
+really
+all
+absolutely
+very
+so
+as
+one
+quite
+that
+even
+
+--------------------------------------------------
+=== clean, neat
+
+clean > neat
+cluster id: 1.0
+
+modifying clean:
+completely
+perfectly
+totally
+so
+fairly
+
+modifying neat:
+
+--------------------------------------------------
+=== appropriate, reasonable
+
+appropriate > reasonable
+cluster id: 1.0
+
+modifying appropriate:
+where
+
+modifying reasonable:
+only
+
+--------------------------------------------------
+=== brilliant, rad
+
+brilliant > rad
+cluster id: 5.0
+
+modifying brilliant:
+absolutely
+so
+
+modifying rad:
+
+--------------------------------------------------
+=== fantastic, sweet
+
+fantastic > sweet
+cluster id: 1.0
+
+modifying fantastic:
+most
+
+modifying sweet:
+pretty
+so
+
+--------------------------------------------------
+=== hazardous, unsafe
+
+hazardous > unsafe
+cluster id: 1.0
+
+modifying hazardous:
+potentially
+
+modifying unsafe:
+
+--------------------------------------------------
+=== known, well-known
+
+known > well-known
+cluster id: 1.0
+
+modifying known:
+well
+very well
+currently
+widely
+previously
+already
+best
+
+modifying well-known:
+very
+pretty
+
+--------------------------------------------------
+=== delighted, pleased
+
+delighted > pleased
+cluster id: 3.0
+
+modifying delighted:
+absolutely
+
+modifying pleased:
+particularly
+so
+extremely
+
+--------------------------------------------------
+=== major, substantial
+
+major > substantial
+cluster id: 3.0
+
+modifying major:
+very
+
+modifying substantial:
+very
+more
+
+--------------------------------------------------
+=== critical, worst
+
+critical > worst
+cluster id: 1.0
+
+modifying critical:
+most
+
+modifying worst:
+
+--------------------------------------------------
+=== precisely, sure
+
+precisely > sure
+cluster id: 1.0
+
+modifying precisely:
+
+modifying sure:
+quite
+entirely
+
+--------------------------------------------------
+=== desirable, right
+
+desirable > right
+cluster id: 10.0
+
+modifying desirable:
+
+modifying right:
+all
+
+--------------------------------------------------
+=== honest, sincerely
+
+honest > sincerely
+cluster id: 3.0
+
+modifying honest:
+quite
+
+modifying sincerely:
+
+--------------------------------------------------
+=== excellent, exemplary
+
+excellent > exemplary
+cluster id: 1.0
+
+modifying excellent:
+quite
+very
+
+modifying exemplary:
+
+--------------------------------------------------
+=== vulnerable, weak
+
+vulnerable > weak
+cluster id: 3.0
+
+modifying vulnerable:
+particularly
+most
+really
+
+modifying weak:
+already
+
+--------------------------------------------------
+=== hospitable, pleasant
+
+hospitable > pleasant
+cluster id: 1.0
+
+modifying hospitable:
+very
+
+modifying pleasant:
+
+--------------------------------------------------
+=== active, live
+
+active > live
+cluster id: 1.0
+
+modifying active:
+economically
+
+modifying live:
+
+--------------------------------------------------
+=== abundant, largest
+
+abundant > largest
+cluster id: 1.0
+
+modifying abundant:
+more
+
+modifying largest:
+
+--------------------------------------------------
+=== awesome, incredible
+
+awesome > incredible
+cluster id: 1.0
+
+modifying awesome:
+so
+really
+pretty
+just
+kind of
+
+modifying incredible:
+absolutely
+most
+quite
+really
+so
+totally
+pretty
+just
+
+--------------------------------------------------
+=== incredible, remarkable
+
+incredible > remarkable
+cluster id: 10.0
+
+modifying incredible:
+absolutely
+really
+quite
+most
+so
+just
+
+modifying remarkable:
+most
+quite
+
+--------------------------------------------------
+=== sizeable, tremendous
+
+sizeable > tremendous
+cluster id: 1.0
+
+modifying sizeable:
+very
+
+modifying tremendous:
+
+--------------------------------------------------
+=== strange, unusual
+
+strange > unusual
+cluster id: 1.0
+
+modifying strange:
+rather
+quite
+really
+so
+pretty
+very
+somewhat
+a little
+just
+just so
+a bit
+
+modifying unusual:
+pretty
+most
+very
+
+--------------------------------------------------
+=== important, vital
+
+important > vital
+cluster id: 1.0
+
+modifying important:
+vitally
+all
+so
+also
+very
+most
+really
+crucially
+extremely
+exceptionally
+as
+highly
+quite
+all the more
+more
+incredibly
+equally
+immensely
+extraordinarily
+critically
+particularly
+fundamentally
+truly
+enormously
+tremendously
+therefore
+hugely
+rather
+terribly
+
+modifying vital:
+very
+absolutely
+more
+so
+
+--------------------------------------------------
+=== insane, mental
+
+insane > mental
+cluster id: 1.0
+
+modifying insane:
+
+modifying mental:
+completely
+
+--------------------------------------------------
+=== critical, relevant
+
+critical > relevant
+cluster id: 1.0
+
+modifying critical:
+
+modifying relevant:
+very
+
+--------------------------------------------------
+=== beautiful, finer
+
+beautiful > finer
+cluster id: 6.0
+
+modifying beautiful:
+more
+most
+
+modifying finer:
+
+--------------------------------------------------
+=== broadest, wide-ranging
+
+broadest > wide-ranging
+cluster id: 1.0
+
+modifying broadest:
+
+modifying wide-ranging:
+more
+
+--------------------------------------------------
+=== far-reaching, important
+
+far-reaching > important
+cluster id: 3.0
+
+modifying far-reaching:
+
+modifying important:
+most
+very
+highly
+quite
+as
+extremely
+
+--------------------------------------------------
+=== horrendous, terrible
+
+horrendous > terrible
+cluster id: 3.0
+
+modifying horrendous:
+
+modifying terrible:
+most
+so
+really
+just
+
+--------------------------------------------------
+=== awesome, good
+
+awesome > good
+cluster id: 2.0
+
+modifying awesome:
+
+modifying good:
+extremely
+
+--------------------------------------------------
+=== awkward, embarrassing
+
+awkward > embarrassing
+cluster id: 6.0
+
+modifying awkward:
+so
+really
+
+modifying embarrassing:
+so
+kind of
+
+--------------------------------------------------
+=== bleak, dreadful
+
+bleak > dreadful
+cluster id: 3.0
+
+modifying bleak:
+
+modifying dreadful:
+most
+
+--------------------------------------------------
+=== amazing, breathtaking
+
+amazing > breathtaking
+cluster id: 1.0
+
+modifying amazing:
+kind of
+truly
+
+modifying breathtaking:
+
+--------------------------------------------------
+=== awesome, enjoyable
+
+awesome > enjoyable
+cluster id: 3.0
+
+modifying awesome:
+
+modifying enjoyable:
+very
+more
+
+--------------------------------------------------
+=== appropriate, apt
+
+appropriate > apt
+cluster id: 1.0
+
+modifying appropriate:
+most
+entirely
+
+modifying apt:
+
+--------------------------------------------------
+=== outstanding, qualified
+
+outstanding > qualified
+cluster id: 6.0
+
+modifying outstanding:
+
+modifying qualified:
+well
+highly
+
+--------------------------------------------------
+=== amazing, fascinating
+
+amazing > fascinating
+cluster id: 3.0
+
+modifying amazing:
+quite
+
+modifying fascinating:
+all
+really
+so
+
+--------------------------------------------------
+=== fabulous, magnificent
+
+fabulous > magnificent
+cluster id: 1.0
+
+modifying fabulous:
+
+modifying magnificent:
+most
+
+--------------------------------------------------
+=== prompt, quicker
+
+prompt > quicker
+cluster id: 1.0
+
+modifying prompt:
+more
+
+modifying quicker:
+
+--------------------------------------------------
+=== nice, right
+
+nice > right
+cluster id: 1.0
+
+modifying nice:
+so
+really
+very
+
+modifying right:
+all
+quite
+about
+so
+only
+
+--------------------------------------------------

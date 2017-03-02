@@ -1,0 +1,3001 @@
+=== foo, bar **
+dark
+pretty
+=== foo, bar **
+dark
+extensive
+=== foo, bar **
+dark
+fatal
+=== foo, bar **
+dark
+friendly
+=== foo, bar **
+dark
+smart
+=== foo, bar **
+dark
+real
+=== foo, bar **
+dark
+good
+=== foo, bar **
+dark
+sick
+=== foo, bar **
+dark
+exceptional
+=== foo, bar **
+dark
+far
+=== foo, bar **
+dark
+big
+=== foo, bar **
+dark
+possible
+=== foo, bar **
+dark
+dark
+=== foo, bar **
+dark
+gloomy
+=== foo, bar **
+dark
+worst
+=== foo, bar **
+dark
+impaired
+=== foo, bar **
+dark
+frightening
+=== foo, bar **
+dark
+uncomfortable
+=== foo, bar **
+dark
+dim
+=== foo, bar **
+dark
+necessary
+=== foo, bar **
+dark
+like
+=== foo, bar **
+dark
+adjacent
+=== foo, bar **
+dark
+infeasible
+=== foo, bar **
+dark
+bright
+=== foo, bar **
+dark
+fewer
+=== foo, bar **
+dark
+large
+=== foo, bar **
+dark
+realistic
+=== foo, bar **
+dark
+bad
+=== foo, bar **
+dark
+unstable
+=== foo, bar **
+dark
+reasonable
+=== foo, bar **
+dark
+dangerous
+=== foo, bar **
+dark
+soft
+=== foo, bar **
+dark
+essential
+=== foo, bar **
+dark
+accessible
+=== foo, bar **
+dark
+affordable
+=== foo, bar **
+dark
+unexpected
+=== foo, bar **
+dark
+old
+=== foo, bar **
+dark
+fascinating
+=== foo, bar **
+dark
+colossal
+=== foo, bar **
+dark
+hard
+=== foo, bar **
+dark
+some
+=== foo, bar **
+dark
+sizeable
+=== foo, bar **
+dark
+alive
+=== foo, bar **
+dark
+desperate
+=== foo, bar **
+dark
+equal
+=== foo, bar **
+dark
+close
+=== foo, bar **
+dark
+dense
+=== foo, bar **
+dark
+broad
+=== foo, bar **
+dark
+stunning
+=== foo, bar **
+dark
+intelligent
+=== foo, bar **
+dark
+content
+=== foo, bar **
+dark
+critical
+=== foo, bar **
+dark
+available
+=== foo, bar **
+dark
+full
+=== foo, bar **
+dark
+intimate
+=== foo, bar **
+dark
+extraordinary
+=== foo, bar **
+dark
+disastrous
+=== foo, bar **
+dark
+sexy
+=== foo, bar **
+dark
+exciting
+=== foo, bar **
+dark
+intense
+=== foo, bar **
+dark
+scary
+=== foo, bar **
+dark
+subdued
+=== foo, bar **
+dark
+rare
+=== foo, bar **
+dark
+hostile
+=== foo, bar **
+dark
+impenetrable
+=== foo, bar **
+dark
+uneasy
+=== foo, bar **
+dark
+brilliant
+=== foo, bar **
+dark
+involved
+=== foo, bar **
+dark
+ill
+=== foo, bar **
+dark
+inexpensive
+=== foo, bar **
+dark
+terrible
+=== foo, bar **
+dark
+creepy
+=== foo, bar **
+dark
+feasible
+=== foo, bar **
+dark
+practical
+=== foo, bar **
+dark
+strange
+=== foo, bar **
+dark
+misleading
+=== foo, bar **
+dark
+hopeless
+=== foo, bar **
+dark
+weird
+=== foo, bar **
+dark
+nearby
+=== foo, bar **
+dark
+insane
+=== foo, bar **
+dark
+private
+=== foo, bar **
+dark
+visible
+=== foo, bar **
+dark
+right
+=== foo, bar **
+dark
+impossible
+=== foo, bar **
+dark
+thick
+=== foo, bar **
+dark
+unusual
+=== foo, bar **
+dark
+strong
+=== foo, bar **
+dark
+deceptive
+=== foo, bar **
+dark
+silent
+=== foo, bar **
+dark
+few
+=== foo, bar **
+dark
+indispensable
+=== foo, bar **
+dark
+negative
+=== foo, bar **
+dark
+needed
+=== foo, bar **
+dark
+secret
+=== foo, bar **
+dark
+terrifying
+=== foo, bar **
+dark
+gorgeous
+=== foo, bar **
+dark
+lovely
+=== foo, bar **
+dark
+painful
+=== foo, bar **
+dark
+happy
+=== foo, bar **
+dark
+clever
+=== foo, bar **
+dark
+general
+=== foo, bar **
+dark
+complete
+=== foo, bar **
+dark
+sufficient
+=== foo, bar **
+dark
+uncommon
+=== foo, bar **
+dark
+aware
+=== foo, bar **
+dark
+warm
+=== foo, bar **
+dark
+awake
+=== foo, bar **
+dark
+low
+=== foo, bar **
+dark
+preoccupied
+=== foo, bar **
+dark
+overwhelming
+=== foo, bar **
+dark
+unrealistic
+=== foo, bar **
+dark
+handsome
+=== foo, bar **
+dark
+sound
+=== foo, bar **
+dark
+wide
+=== foo, bar **
+dark
+intriguing
+=== foo, bar **
+dark
+impractical
+=== foo, bar **
+dark
+plain
+=== foo, bar **
+dark
+obsolete
+=== foo, bar **
+dark
+ugly
+=== foo, bar **
+dark
+near
+=== foo, bar **
+dark
+risky
+=== foo, bar **
+dark
+beautiful
+=== foo, bar **
+dark
+cordial
+=== foo, bar **
+dark
+crazy
+=== foo, bar **
+dark
+sinister
+=== foo, bar **
+dark
+false
+=== foo, bar **
+dark
+impracticable
+=== foo, bar **
+dark
+sinful
+=== foo, bar **
+dark
+universal
+=== foo, bar **
+dark
+quiet
+=== foo, bar **
+dark
+further
+=== foo, bar **
+dark
+mediocre
+=== foo, bar **
+dark
+funny
+=== foo, bar **
+dark
+eerie
+=== foo, bar **
+dark
+deadly
+=== foo, bar **
+dark
+same
+=== foo, bar **
+dark
+vital
+=== foo, bar **
+dark
+amusing
+=== foo, bar **
+dark
+unfortunate
+=== foo, bar **
+dark
+toxic
+=== foo, bar **
+dark
+widespread
+=== foo, bar **
+dark
+seductive
+=== foo, bar **
+dark
+immoral
+=== foo, bar **
+dark
+acceptable
+=== foo, bar **
+dark
+okay
+=== foo, bar **
+dark
+obsessed
+=== foo, bar **
+dark
+huge
+=== foo, bar **
+dark
+comprehensive
+=== foo, bar **
+dark
+evil
+=== foo, bar **
+dark
+harmful
+=== foo, bar **
+dark
+wrong
+=== foo, bar **
+dark
+unattractive
+=== foo, bar **
+dark
+outdated
+=== foo, bar **
+dark
+interested
+=== foo, bar **
+dark
+authentic
+=== foo, bar **
+dark
+bleak
+=== foo, bar **
+dark
+conscious
+=== foo, bar **
+dark
+required
+=== foo, bar **
+dark
+astonishing
+=== foo, bar **
+dark
+fraudulent
+=== foo, bar **
+dark
+alright
+=== foo, bar **
+dark
+entertaining
+=== foo, bar **
+gloomy
+suicidal
+=== foo, bar **
+gloomy
+cheap
+=== foo, bar **
+gloomy
+satisfied
+=== foo, bar **
+gloomy
+disabled
+=== foo, bar **
+gloomy
+violent
+=== foo, bar **
+gloomy
+farther
+=== foo, bar **
+gloomy
+unreliable
+=== foo, bar **
+gloomy
+inaudible
+=== foo, bar **
+gloomy
+pleased
+=== foo, bar **
+gloomy
+removed
+=== foo, bar **
+gloomy
+personal
+=== foo, bar **
+gloomy
+interesting
+=== foo, bar **
+gloomy
+concerned
+=== foo, bar **
+gloomy
+valid
+=== foo, bar **
+gloomy
+black
+=== foo, bar **
+gloomy
+attractive
+=== foo, bar **
+gloomy
+pretty
+=== foo, bar **
+gloomy
+extensive
+=== foo, bar **
+gloomy
+fatal
+=== foo, bar **
+gloomy
+friendly
+=== foo, bar **
+gloomy
+smart
+=== foo, bar **
+gloomy
+real
+=== foo, bar **
+gloomy
+good
+=== foo, bar **
+gloomy
+sick
+=== foo, bar **
+gloomy
+exceptional
+=== foo, bar **
+gloomy
+far
+=== foo, bar **
+gloomy
+big
+=== foo, bar **
+gloomy
+possible
+=== foo, bar **
+gloomy
+dark
+=== foo, bar **
+gloomy
+gloomy
+=== foo, bar **
+gloomy
+worst
+=== foo, bar **
+gloomy
+impaired
+=== foo, bar **
+gloomy
+frightening
+=== foo, bar **
+gloomy
+uncomfortable
+=== foo, bar **
+gloomy
+dim
+=== foo, bar **
+gloomy
+necessary
+=== foo, bar **
+gloomy
+like
+=== foo, bar **
+gloomy
+adjacent
+=== foo, bar **
+gloomy
+infeasible
+=== foo, bar **
+gloomy
+bright
+=== foo, bar **
+gloomy
+fewer
+=== foo, bar **
+gloomy
+large
+=== foo, bar **
+gloomy
+realistic
+=== foo, bar **
+gloomy
+bad
+=== foo, bar **
+gloomy
+unstable
+=== foo, bar **
+gloomy
+reasonable
+=== foo, bar **
+gloomy
+dangerous
+=== foo, bar **
+gloomy
+soft
+=== foo, bar **
+gloomy
+essential
+=== foo, bar **
+gloomy
+accessible
+=== foo, bar **
+gloomy
+affordable
+=== foo, bar **
+gloomy
+unexpected
+=== foo, bar **
+gloomy
+old
+=== foo, bar **
+gloomy
+fascinating
+=== foo, bar **
+gloomy
+colossal
+=== foo, bar **
+gloomy
+hard
+=== foo, bar **
+gloomy
+some
+=== foo, bar **
+gloomy
+sizeable
+=== foo, bar **
+gloomy
+alive
+=== foo, bar **
+gloomy
+desperate
+=== foo, bar **
+gloomy
+equal
+=== foo, bar **
+gloomy
+close
+=== foo, bar **
+gloomy
+dense
+=== foo, bar **
+gloomy
+broad
+=== foo, bar **
+gloomy
+stunning
+=== foo, bar **
+gloomy
+intelligent
+=== foo, bar **
+gloomy
+content
+=== foo, bar **
+gloomy
+critical
+=== foo, bar **
+gloomy
+available
+=== foo, bar **
+gloomy
+full
+=== foo, bar **
+gloomy
+intimate
+=== foo, bar **
+gloomy
+extraordinary
+=== foo, bar **
+gloomy
+disastrous
+=== foo, bar **
+gloomy
+sexy
+=== foo, bar **
+gloomy
+exciting
+=== foo, bar **
+gloomy
+intense
+=== foo, bar **
+gloomy
+scary
+=== foo, bar **
+gloomy
+subdued
+=== foo, bar **
+gloomy
+rare
+=== foo, bar **
+gloomy
+hostile
+=== foo, bar **
+gloomy
+impenetrable
+=== foo, bar **
+gloomy
+uneasy
+=== foo, bar **
+gloomy
+brilliant
+=== foo, bar **
+gloomy
+involved
+=== foo, bar **
+gloomy
+ill
+=== foo, bar **
+gloomy
+inexpensive
+=== foo, bar **
+gloomy
+terrible
+=== foo, bar **
+gloomy
+creepy
+=== foo, bar **
+gloomy
+feasible
+=== foo, bar **
+gloomy
+practical
+=== foo, bar **
+gloomy
+strange
+=== foo, bar **
+gloomy
+misleading
+=== foo, bar **
+gloomy
+hopeless
+=== foo, bar **
+gloomy
+weird
+=== foo, bar **
+gloomy
+nearby
+=== foo, bar **
+gloomy
+insane
+=== foo, bar **
+gloomy
+private
+=== foo, bar **
+gloomy
+visible
+=== foo, bar **
+gloomy
+right
+=== foo, bar **
+gloomy
+impossible
+=== foo, bar **
+gloomy
+thick
+=== foo, bar **
+gloomy
+unusual
+=== foo, bar **
+gloomy
+strong
+=== foo, bar **
+gloomy
+deceptive
+=== foo, bar **
+gloomy
+silent
+=== foo, bar **
+gloomy
+few
+=== foo, bar **
+gloomy
+indispensable
+=== foo, bar **
+gloomy
+negative
+=== foo, bar **
+gloomy
+needed
+=== foo, bar **
+gloomy
+secret
+=== foo, bar **
+gloomy
+terrifying
+=== foo, bar **
+gloomy
+gorgeous
+=== foo, bar **
+gloomy
+lovely
+=== foo, bar **
+gloomy
+painful
+=== foo, bar **
+gloomy
+happy
+=== foo, bar **
+gloomy
+clever
+=== foo, bar **
+gloomy
+general
+=== foo, bar **
+gloomy
+complete
+=== foo, bar **
+gloomy
+sufficient
+=== foo, bar **
+gloomy
+uncommon
+=== foo, bar **
+gloomy
+aware
+=== foo, bar **
+gloomy
+warm
+=== foo, bar **
+gloomy
+awake
+=== foo, bar **
+gloomy
+low
+=== foo, bar **
+gloomy
+preoccupied
+=== foo, bar **
+gloomy
+overwhelming
+=== foo, bar **
+gloomy
+unrealistic
+=== foo, bar **
+gloomy
+handsome
+=== foo, bar **
+gloomy
+sound
+=== foo, bar **
+gloomy
+wide
+=== foo, bar **
+gloomy
+intriguing
+=== foo, bar **
+gloomy
+impractical
+=== foo, bar **
+gloomy
+plain
+=== foo, bar **
+gloomy
+obsolete
+=== foo, bar **
+gloomy
+ugly
+=== foo, bar **
+gloomy
+near
+=== foo, bar **
+gloomy
+risky
+=== foo, bar **
+gloomy
+beautiful
+=== foo, bar **
+gloomy
+cordial
+=== foo, bar **
+gloomy
+crazy
+=== foo, bar **
+gloomy
+sinister
+=== foo, bar **
+gloomy
+false
+=== foo, bar **
+gloomy
+impracticable
+=== foo, bar **
+gloomy
+sinful
+=== foo, bar **
+gloomy
+universal
+=== foo, bar **
+gloomy
+quiet
+=== foo, bar **
+gloomy
+further
+=== foo, bar **
+gloomy
+mediocre
+=== foo, bar **
+gloomy
+funny
+=== foo, bar **
+gloomy
+eerie
+=== foo, bar **
+gloomy
+deadly
+=== foo, bar **
+gloomy
+same
+=== foo, bar **
+gloomy
+vital
+=== foo, bar **
+gloomy
+amusing
+=== foo, bar **
+gloomy
+unfortunate
+=== foo, bar **
+gloomy
+toxic
+=== foo, bar **
+gloomy
+widespread
+=== foo, bar **
+gloomy
+seductive
+=== foo, bar **
+gloomy
+immoral
+=== foo, bar **
+gloomy
+acceptable
+=== foo, bar **
+gloomy
+okay
+=== foo, bar **
+gloomy
+obsessed
+=== foo, bar **
+gloomy
+huge
+=== foo, bar **
+gloomy
+comprehensive
+=== foo, bar **
+gloomy
+evil
+=== foo, bar **
+gloomy
+harmful
+=== foo, bar **
+gloomy
+wrong
+=== foo, bar **
+gloomy
+unattractive
+=== foo, bar **
+gloomy
+outdated
+=== foo, bar **
+gloomy
+interested
+=== foo, bar **
+gloomy
+authentic
+=== foo, bar **
+gloomy
+bleak
+=== foo, bar **
+gloomy
+conscious
+=== foo, bar **
+gloomy
+required
+=== foo, bar **
+gloomy
+astonishing
+=== foo, bar **
+gloomy
+fraudulent
+=== foo, bar **
+gloomy
+alright
+=== foo, bar **
+gloomy
+entertaining
+=== foo, bar **
+worst
+suicidal
+=== foo, bar **
+worst
+cheap
+=== foo, bar **
+worst
+satisfied
+=== foo, bar **
+worst
+disabled
+=== foo, bar **
+worst
+violent
+=== foo, bar **
+worst
+farther
+=== foo, bar **
+worst
+unreliable
+=== foo, bar **
+worst
+inaudible
+=== foo, bar **
+worst
+pleased
+=== foo, bar **
+worst
+removed
+=== foo, bar **
+worst
+personal
+=== foo, bar **
+worst
+interesting
+=== foo, bar **
+worst
+concerned
+=== foo, bar **
+worst
+valid
+=== foo, bar **
+worst
+black
+=== foo, bar **
+worst
+attractive
+=== foo, bar **
+worst
+pretty
+=== foo, bar **
+worst
+extensive
+=== foo, bar **
+worst
+fatal
+=== foo, bar **
+worst
+friendly
+=== foo, bar **
+worst
+smart
+=== foo, bar **
+worst
+real
+=== foo, bar **
+worst
+good
+=== foo, bar **
+worst
+sick
+=== foo, bar **
+worst
+exceptional
+=== foo, bar **
+worst
+far
+=== foo, bar **
+worst
+big
+=== foo, bar **
+worst
+possible
+=== foo, bar **
+worst
+dark
+=== foo, bar **
+worst
+gloomy
+=== foo, bar **
+worst
+worst
+=== foo, bar **
+worst
+impaired
+=== foo, bar **
+worst
+frightening
+=== foo, bar **
+worst
+uncomfortable
+=== foo, bar **
+worst
+dim
+=== foo, bar **
+worst
+necessary
+=== foo, bar **
+worst
+like
+=== foo, bar **
+worst
+adjacent
+=== foo, bar **
+worst
+infeasible
+=== foo, bar **
+worst
+bright
+=== foo, bar **
+worst
+fewer
+=== foo, bar **
+worst
+large
+=== foo, bar **
+worst
+realistic
+=== foo, bar **
+worst
+bad
+=== foo, bar **
+worst
+unstable
+=== foo, bar **
+worst
+reasonable
+=== foo, bar **
+worst
+dangerous
+=== foo, bar **
+worst
+soft
+=== foo, bar **
+worst
+essential
+=== foo, bar **
+worst
+accessible
+=== foo, bar **
+worst
+affordable
+=== foo, bar **
+worst
+unexpected
+=== foo, bar **
+worst
+old
+=== foo, bar **
+worst
+fascinating
+=== foo, bar **
+worst
+colossal
+=== foo, bar **
+worst
+hard
+=== foo, bar **
+worst
+some
+=== foo, bar **
+worst
+sizeable
+=== foo, bar **
+worst
+alive
+=== foo, bar **
+worst
+desperate
+=== foo, bar **
+worst
+equal
+=== foo, bar **
+worst
+close
+=== foo, bar **
+worst
+dense
+=== foo, bar **
+worst
+broad
+=== foo, bar **
+worst
+stunning
+=== foo, bar **
+worst
+intelligent
+=== foo, bar **
+worst
+content
+=== foo, bar **
+worst
+critical
+=== foo, bar **
+worst
+available
+=== foo, bar **
+worst
+full
+=== foo, bar **
+worst
+intimate
+=== foo, bar **
+worst
+extraordinary
+=== foo, bar **
+worst
+disastrous
+=== foo, bar **
+worst
+sexy
+=== foo, bar **
+worst
+exciting
+=== foo, bar **
+worst
+intense
+=== foo, bar **
+worst
+scary
+=== foo, bar **
+worst
+subdued
+=== foo, bar **
+worst
+rare
+=== foo, bar **
+worst
+hostile
+=== foo, bar **
+worst
+impenetrable
+=== foo, bar **
+worst
+uneasy
+=== foo, bar **
+worst
+brilliant
+=== foo, bar **
+worst
+involved
+=== foo, bar **
+worst
+ill
+=== foo, bar **
+worst
+inexpensive
+=== foo, bar **
+worst
+terrible
+=== foo, bar **
+worst
+creepy
+=== foo, bar **
+worst
+feasible
+=== foo, bar **
+worst
+practical
+=== foo, bar **
+worst
+strange
+=== foo, bar **
+worst
+misleading
+=== foo, bar **
+worst
+hopeless
+=== foo, bar **
+worst
+weird
+=== foo, bar **
+worst
+nearby
+=== foo, bar **
+worst
+insane
+=== foo, bar **
+worst
+private
+=== foo, bar **
+worst
+visible
+=== foo, bar **
+worst
+right
+=== foo, bar **
+worst
+impossible
+=== foo, bar **
+worst
+thick
+=== foo, bar **
+worst
+unusual
+=== foo, bar **
+worst
+strong
+=== foo, bar **
+worst
+deceptive
+=== foo, bar **
+worst
+silent
+=== foo, bar **
+worst
+few
+=== foo, bar **
+worst
+indispensable
+=== foo, bar **
+worst
+negative
+=== foo, bar **
+worst
+needed
+=== foo, bar **
+worst
+secret
+=== foo, bar **
+worst
+terrifying
+=== foo, bar **
+worst
+gorgeous
+=== foo, bar **
+worst
+lovely
+=== foo, bar **
+worst
+painful
+=== foo, bar **
+worst
+happy
+=== foo, bar **
+worst
+clever
+=== foo, bar **
+worst
+general
+=== foo, bar **
+worst
+complete
+=== foo, bar **
+worst
+sufficient
+=== foo, bar **
+worst
+uncommon
+=== foo, bar **
+worst
+aware
+=== foo, bar **
+worst
+warm
+=== foo, bar **
+worst
+awake
+=== foo, bar **
+worst
+low
+=== foo, bar **
+worst
+preoccupied
+=== foo, bar **
+worst
+overwhelming
+=== foo, bar **
+worst
+unrealistic
+=== foo, bar **
+worst
+handsome
+=== foo, bar **
+worst
+sound
+=== foo, bar **
+worst
+wide
+=== foo, bar **
+worst
+intriguing
+=== foo, bar **
+worst
+impractical
+=== foo, bar **
+worst
+plain
+=== foo, bar **
+worst
+obsolete
+=== foo, bar **
+worst
+ugly
+=== foo, bar **
+worst
+near
+=== foo, bar **
+worst
+risky
+=== foo, bar **
+worst
+beautiful
+=== foo, bar **
+worst
+cordial
+=== foo, bar **
+worst
+crazy
+=== foo, bar **
+worst
+sinister
+=== foo, bar **
+worst
+false
+=== foo, bar **
+worst
+impracticable
+=== foo, bar **
+worst
+sinful
+=== foo, bar **
+worst
+universal
+=== foo, bar **
+worst
+quiet
+=== foo, bar **
+worst
+further
+=== foo, bar **
+worst
+mediocre
+=== foo, bar **
+worst
+funny
+=== foo, bar **
+worst
+eerie
+=== foo, bar **
+worst
+deadly
+=== foo, bar **
+worst
+same
+=== foo, bar **
+worst
+vital
+=== foo, bar **
+worst
+amusing
+=== foo, bar **
+worst
+unfortunate
+=== foo, bar **
+worst
+toxic
+=== foo, bar **
+worst
+widespread
+=== foo, bar **
+worst
+seductive
+=== foo, bar **
+worst
+immoral
+=== foo, bar **
+worst
+acceptable
+=== foo, bar **
+worst
+okay
+=== foo, bar **
+worst
+obsessed
+=== foo, bar **
+worst
+huge
+=== foo, bar **
+worst
+comprehensive
+=== foo, bar **
+worst
+evil
+=== foo, bar **
+worst
+harmful
+=== foo, bar **
+worst
+wrong
+=== foo, bar **
+worst
+unattractive
+=== foo, bar **
+worst
+outdated
+=== foo, bar **
+worst
+interested
+=== foo, bar **
+worst
+authentic
+=== foo, bar **
+worst
+bleak
+=== foo, bar **
+worst
+conscious
+=== foo, bar **
+worst
+required
+=== foo, bar **
+worst
+astonishing
+=== foo, bar **
+worst
+fraudulent
+=== foo, bar **
+worst
+alright
+=== foo, bar **
+worst
+entertaining
+=== foo, bar **
+impaired
+suicidal
+=== foo, bar **
+impaired
+cheap
+=== foo, bar **
+impaired
+satisfied
+=== foo, bar **
+impaired
+disabled
+=== foo, bar **
+impaired
+violent
+=== foo, bar **
+impaired
+farther
+=== foo, bar **
+impaired
+unreliable
+=== foo, bar **
+impaired
+inaudible
+=== foo, bar **
+impaired
+pleased
+=== foo, bar **
+impaired
+removed
+=== foo, bar **
+impaired
+personal
+=== foo, bar **
+impaired
+interesting
+=== foo, bar **
+impaired
+concerned
+=== foo, bar **
+impaired
+valid
+=== foo, bar **
+impaired
+black
+=== foo, bar **
+impaired
+attractive
+=== foo, bar **
+impaired
+pretty
+=== foo, bar **
+impaired
+extensive
+=== foo, bar **
+impaired
+fatal
+=== foo, bar **
+impaired
+friendly
+=== foo, bar **
+impaired
+smart
+=== foo, bar **
+impaired
+real
+=== foo, bar **
+impaired
+good
+=== foo, bar **
+impaired
+sick
+=== foo, bar **
+impaired
+exceptional
+=== foo, bar **
+impaired
+far
+=== foo, bar **
+impaired
+big
+=== foo, bar **
+impaired
+possible
+=== foo, bar **
+impaired
+dark
+=== foo, bar **
+impaired
+gloomy
+=== foo, bar **
+impaired
+worst
+=== foo, bar **
+impaired
+impaired
+=== foo, bar **
+impaired
+frightening
+=== foo, bar **
+impaired
+uncomfortable
+=== foo, bar **
+impaired
+dim
+=== foo, bar **
+impaired
+necessary
+=== foo, bar **
+impaired
+like
+=== foo, bar **
+impaired
+adjacent
+=== foo, bar **
+impaired
+infeasible
+=== foo, bar **
+impaired
+bright
+=== foo, bar **
+impaired
+fewer
+=== foo, bar **
+impaired
+large
+=== foo, bar **
+impaired
+realistic
+=== foo, bar **
+impaired
+bad
+=== foo, bar **
+impaired
+unstable
+=== foo, bar **
+impaired
+reasonable
+=== foo, bar **
+impaired
+dangerous
+=== foo, bar **
+impaired
+soft
+=== foo, bar **
+impaired
+essential
+=== foo, bar **
+impaired
+accessible
+=== foo, bar **
+impaired
+affordable
+=== foo, bar **
+impaired
+unexpected
+=== foo, bar **
+impaired
+old
+=== foo, bar **
+impaired
+fascinating
+=== foo, bar **
+impaired
+colossal
+=== foo, bar **
+impaired
+hard
+=== foo, bar **
+impaired
+some
+=== foo, bar **
+impaired
+sizeable
+=== foo, bar **
+impaired
+alive
+=== foo, bar **
+impaired
+desperate
+=== foo, bar **
+impaired
+equal
+=== foo, bar **
+impaired
+close
+=== foo, bar **
+impaired
+dense
+=== foo, bar **
+impaired
+broad
+=== foo, bar **
+impaired
+stunning
+=== foo, bar **
+impaired
+intelligent
+=== foo, bar **
+impaired
+content
+=== foo, bar **
+impaired
+critical
+=== foo, bar **
+impaired
+available
+=== foo, bar **
+impaired
+full
+=== foo, bar **
+impaired
+intimate
+=== foo, bar **
+impaired
+extraordinary
+=== foo, bar **
+impaired
+disastrous
+=== foo, bar **
+impaired
+sexy
+=== foo, bar **
+impaired
+exciting
+=== foo, bar **
+impaired
+intense
+=== foo, bar **
+impaired
+scary
+=== foo, bar **
+impaired
+subdued
+=== foo, bar **
+impaired
+rare
+=== foo, bar **
+impaired
+hostile
+=== foo, bar **
+impaired
+impenetrable
+=== foo, bar **
+impaired
+uneasy
+=== foo, bar **
+impaired
+brilliant
+=== foo, bar **
+impaired
+involved
+=== foo, bar **
+impaired
+ill
+=== foo, bar **
+impaired
+inexpensive
+=== foo, bar **
+impaired
+terrible
+=== foo, bar **
+impaired
+creepy
+=== foo, bar **
+impaired
+feasible
+=== foo, bar **
+impaired
+practical
+=== foo, bar **
+impaired
+strange
+=== foo, bar **
+impaired
+misleading
+=== foo, bar **
+impaired
+hopeless
+=== foo, bar **
+impaired
+weird
+=== foo, bar **
+impaired
+nearby
+=== foo, bar **
+impaired
+insane
+=== foo, bar **
+impaired
+private
+=== foo, bar **
+impaired
+visible
+=== foo, bar **
+impaired
+right
+=== foo, bar **
+impaired
+impossible
+=== foo, bar **
+impaired
+thick
+=== foo, bar **
+impaired
+unusual
+=== foo, bar **
+impaired
+strong
+=== foo, bar **
+impaired
+deceptive
+=== foo, bar **
+impaired
+silent
+=== foo, bar **
+impaired
+few
+=== foo, bar **
+impaired
+indispensable
+=== foo, bar **
+impaired
+negative
+=== foo, bar **
+impaired
+needed
+=== foo, bar **
+impaired
+secret
+=== foo, bar **
+impaired
+terrifying
+=== foo, bar **
+impaired
+gorgeous
+=== foo, bar **
+impaired
+lovely
+=== foo, bar **
+impaired
+painful
+=== foo, bar **
+impaired
+happy
+=== foo, bar **
+impaired
+clever
+=== foo, bar **
+impaired
+general
+=== foo, bar **
+impaired
+complete
+=== foo, bar **
+impaired
+sufficient
+=== foo, bar **
+impaired
+uncommon
+=== foo, bar **
+impaired
+aware
+=== foo, bar **
+impaired
+warm
+=== foo, bar **
+impaired
+awake
+=== foo, bar **
+impaired
+low
+=== foo, bar **
+impaired
+preoccupied
+=== foo, bar **
+impaired
+overwhelming
+=== foo, bar **
+impaired
+unrealistic
+=== foo, bar **
+impaired
+handsome
+=== foo, bar **
+impaired
+sound
+=== foo, bar **
+impaired
+wide
+=== foo, bar **
+impaired
+intriguing
+=== foo, bar **
+impaired
+impractical
+=== foo, bar **
+impaired
+plain
+=== foo, bar **
+impaired
+obsolete
+=== foo, bar **
+impaired
+ugly
+=== foo, bar **
+impaired
+near
+=== foo, bar **
+impaired
+risky
+=== foo, bar **
+impaired
+beautiful
+=== foo, bar **
+impaired
+cordial
+=== foo, bar **
+impaired
+crazy
+=== foo, bar **
+impaired
+sinister
+=== foo, bar **
+impaired
+false
+=== foo, bar **
+impaired
+impracticable
+=== foo, bar **
+impaired
+sinful
+=== foo, bar **
+impaired
+universal
+=== foo, bar **
+impaired
+quiet
+=== foo, bar **
+impaired
+further
+=== foo, bar **
+impaired
+mediocre
+=== foo, bar **
+impaired
+funny
+=== foo, bar **
+impaired
+eerie
+=== foo, bar **
+impaired
+deadly
+=== foo, bar **
+impaired
+same
+=== foo, bar **
+impaired
+vital
+=== foo, bar **
+impaired
+amusing
+=== foo, bar **
+impaired
+unfortunate
+=== foo, bar **
+impaired
+toxic
+=== foo, bar **
+impaired
+widespread
+=== foo, bar **
+impaired
+seductive
+=== foo, bar **
+impaired
+immoral
+=== foo, bar **
+impaired
+acceptable
+=== foo, bar **
+impaired
+okay
+=== foo, bar **
+impaired
+obsessed
+=== foo, bar **
+impaired
+huge
+=== foo, bar **
+impaired
+comprehensive
+=== foo, bar **
+impaired
+evil
+=== foo, bar **
+impaired
+harmful
+=== foo, bar **
+impaired
+wrong
+=== foo, bar **
+impaired
+unattractive
+=== foo, bar **
+impaired
+outdated
+=== foo, bar **
+impaired
+interested
+=== foo, bar **
+impaired
+authentic
+=== foo, bar **
+impaired
+bleak
+=== foo, bar **
+impaired
+conscious
+=== foo, bar **
+impaired
+required
+=== foo, bar **
+impaired
+astonishing
+=== foo, bar **
+impaired
+fraudulent
+=== foo, bar **
+impaired
+alright
+=== foo, bar **
+impaired
+entertaining
+=== foo, bar **
+frightening
+suicidal
+=== foo, bar **
+frightening
+cheap
+=== foo, bar **
+frightening
+satisfied
+=== foo, bar **
+frightening
+disabled
+=== foo, bar **
+frightening
+violent
+=== foo, bar **
+frightening
+farther
+=== foo, bar **
+frightening
+unreliable
+=== foo, bar **
+frightening
+inaudible
+=== foo, bar **
+frightening
+pleased
+=== foo, bar **
+frightening
+removed
+=== foo, bar **
+frightening
+personal
+=== foo, bar **
+frightening
+interesting
+=== foo, bar **
+frightening
+concerned
+=== foo, bar **
+frightening
+valid
+=== foo, bar **
+frightening
+black
+=== foo, bar **
+frightening
+attractive
+=== foo, bar **
+frightening
+pretty
+=== foo, bar **
+frightening
+extensive
+=== foo, bar **
+frightening
+fatal
+=== foo, bar **
+frightening
+friendly
+=== foo, bar **
+frightening
+smart
+=== foo, bar **
+frightening
+real
+=== foo, bar **
+frightening
+good
+=== foo, bar **
+frightening
+sick
+=== foo, bar **
+frightening
+exceptional
+=== foo, bar **
+frightening
+far
+=== foo, bar **
+frightening
+big
+=== foo, bar **
+frightening
+possible
+=== foo, bar **
+frightening
+dark
+=== foo, bar **
+frightening
+gloomy
+=== foo, bar **
+frightening
+worst
+=== foo, bar **
+frightening
+impaired
+=== foo, bar **
+frightening
+frightening
+=== foo, bar **
+frightening
+uncomfortable
+=== foo, bar **
+frightening
+dim
+=== foo, bar **
+frightening
+necessary
+=== foo, bar **
+frightening
+like
+=== foo, bar **
+frightening
+adjacent
+=== foo, bar **
+frightening
+infeasible
+=== foo, bar **
+frightening
+bright
+=== foo, bar **
+frightening
+fewer
+=== foo, bar **
+frightening
+large
+=== foo, bar **
+frightening
+realistic
+=== foo, bar **
+frightening
+bad
+=== foo, bar **
+frightening
+unstable
+=== foo, bar **
+frightening
+reasonable
+=== foo, bar **
+frightening
+dangerous
+=== foo, bar **
+frightening
+soft
+=== foo, bar **
+frightening
+essential
+=== foo, bar **
+frightening
+accessible
+=== foo, bar **
+frightening
+affordable
+=== foo, bar **
+frightening
+unexpected
+=== foo, bar **
+frightening
+old
+=== foo, bar **
+frightening
+fascinating
+=== foo, bar **
+frightening
+colossal
+=== foo, bar **
+frightening
+hard
+=== foo, bar **
+frightening
+some
+=== foo, bar **
+frightening
+sizeable
+=== foo, bar **
+frightening
+alive
+=== foo, bar **
+frightening
+desperate
+=== foo, bar **
+frightening
+equal
+=== foo, bar **
+frightening
+close
+=== foo, bar **
+frightening
+dense
+=== foo, bar **
+frightening
+broad
+=== foo, bar **
+frightening
+stunning
+=== foo, bar **
+frightening
+intelligent
+=== foo, bar **
+frightening
+content
+=== foo, bar **
+frightening
+critical
+=== foo, bar **
+frightening
+available
+=== foo, bar **
+frightening
+full
+=== foo, bar **
+frightening
+intimate
+=== foo, bar **
+frightening
+extraordinary
+=== foo, bar **
+frightening
+disastrous
+=== foo, bar **
+frightening
+sexy
+=== foo, bar **
+frightening
+exciting
+=== foo, bar **
+frightening
+intense
+=== foo, bar **
+frightening
+scary
+=== foo, bar **
+frightening
+subdued
+=== foo, bar **
+frightening
+rare
+=== foo, bar **
+frightening
+hostile
+=== foo, bar **
+frightening
+impenetrable
+=== foo, bar **
+frightening
+uneasy
+=== foo, bar **
+frightening
+brilliant
+=== foo, bar **
+frightening
+involved
+=== foo, bar **
+frightening
+ill
+=== foo, bar **
+frightening
+inexpensive
+=== foo, bar **
+frightening
+terrible
+=== foo, bar **
+frightening
+creepy
+=== foo, bar **
+frightening
+feasible
+=== foo, bar **
+frightening
+practical
+=== foo, bar **
+frightening
+strange
+=== foo, bar **
+frightening
+misleading
+=== foo, bar **
+frightening
+hopeless
+=== foo, bar **
+frightening
+weird
+=== foo, bar **
+frightening
+nearby
+=== foo, bar **
+frightening
+insane
+=== foo, bar **
+frightening
+private
+=== foo, bar **
+frightening
+visible
+=== foo, bar **
+frightening
+right
+=== foo, bar **
+frightening
+impossible
+=== foo, bar **
+frightening
+thick
+=== foo, bar **
+frightening
+unusual
+=== foo, bar **
+frightening
+strong
+=== foo, bar **
+frightening
+deceptive
+=== foo, bar **
+frightening
+silent
+=== foo, bar **
+frightening
+few
+=== foo, bar **
+frightening
+indispensable
+=== foo, bar **
+frightening
+negative
+=== foo, bar **
+frightening
+needed
+=== foo, bar **
+frightening
+secret
+=== foo, bar **
+frightening
+terrifying
+=== foo, bar **
+frightening
+gorgeous
+=== foo, bar **
+frightening
+lovely
+=== foo, bar **
+frightening
+painful
+=== foo, bar **
+frightening
+happy
+=== foo, bar **
+frightening
+clever
+=== foo, bar **
+frightening
+general
+=== foo, bar **
+frightening
+complete
+=== foo, bar **
+frightening
+sufficient
+=== foo, bar **
+frightening
+uncommon
+=== foo, bar **
+frightening
+aware
+=== foo, bar **
+frightening
+warm
+=== foo, bar **
+frightening
+awake
+=== foo, bar **
+frightening
+low
+=== foo, bar **
+frightening
+preoccupied
+=== foo, bar **
+frightening
+overwhelming
+=== foo, bar **
+frightening
+unrealistic
+=== foo, bar **
+frightening
+handsome
+=== foo, bar **
+frightening
+sound
+=== foo, bar **
+frightening
+wide
+=== foo, bar **
+frightening
+intriguing
+=== foo, bar **
+frightening
+impractical
+=== foo, bar **
+frightening
+plain
+=== foo, bar **
+frightening
+obsolete
+=== foo, bar **
+frightening
+ugly
+=== foo, bar **
+frightening
+near
+=== foo, bar **
+frightening
+risky
+=== foo, bar **
+frightening
+beautiful
+=== foo, bar **
+frightening
+cordial
+=== foo, bar **
+frightening
+crazy
+=== foo, bar **
+frightening
+sinister
+=== foo, bar **
+frightening
+false
+=== foo, bar **
+frightening
+impracticable
+=== foo, bar **
+frightening
+sinful
+=== foo, bar **
+frightening
+universal
+=== foo, bar **
+frightening
+quiet
+=== foo, bar **
+frightening
+further
+=== foo, bar **
+frightening
+mediocre
+=== foo, bar **
+frightening
+funny
+=== foo, bar **
+frightening
+eerie
+=== foo, bar **
+frightening
+deadly
+=== foo, bar **
+frightening
+same
+=== foo, bar **
+frightening
+vital
+=== foo, bar **
+frightening
+amusing
+=== foo, bar **
+frightening
+unfortunate
+=== foo, bar **
+frightening
+toxic
+=== foo, bar **
+frightening
+widespread
+=== foo, bar **
+frightening
+seductive
+=== foo, bar **
+frightening
+immoral
+=== foo, bar **
+frightening
+acceptable
+=== foo, bar **
+frightening
+okay
+=== foo, bar **
+frightening
+obsessed
+=== foo, bar **
+frightening
+huge
+=== foo, bar **
+frightening
+comprehensive
+=== foo, bar **
+frightening
+evil
+=== foo, bar **
+frightening
+harmful
+=== foo, bar **
+frightening
+wrong
+=== foo, bar **
+frightening
+unattractive
+=== foo, bar **
+frightening
+outdated
+=== foo, bar **
+frightening
+interested
+=== foo, bar **
+frightening
+authentic
+=== foo, bar **
+frightening
+bleak
+=== foo, bar **
+frightening
+conscious
+=== foo, bar **
+frightening
+required
+=== foo, bar **
+frightening
+astonishing
+=== foo, bar **
+frightening
+fraudulent
+=== foo, bar **
+frightening
+alright
+=== foo, bar **
+frightening
+entertaining
+=== foo, bar **
+uncomfortable
+suicidal
+=== foo, bar **
+uncomfortable
+cheap
+=== foo, bar **
+uncomfortable
+satisfied
+=== foo, bar **
+uncomfortable
+disabled
+=== foo, bar **
+uncomfortable
+violent
+=== foo, bar **
+uncomfortable
+farther
+=== foo, bar **
+uncomfortable
+unreliable
+=== foo, bar **
+uncomfortable
+inaudible
+=== foo, bar **
+uncomfortable
+pleased
+=== foo, bar **
+uncomfortable
+removed
+=== foo, bar **
+uncomfortable
+personal
+=== foo, bar **
+uncomfortable
+interesting
+=== foo, bar **
+uncomfortable
+concerned
+=== foo, bar **
+uncomfortable
+valid
+=== foo, bar **
+uncomfortable
+black
+=== foo, bar **
+uncomfortable
+attractive
+=== foo, bar **
+uncomfortable
+pretty
+=== foo, bar **
+uncomfortable
+extensive
+=== foo, bar **
+uncomfortable
+fatal
+=== foo, bar **
+uncomfortable
+friendly
+=== foo, bar **
+uncomfortable
+smart
+=== foo, bar **
+uncomfortable
+real
+=== foo, bar **
+uncomfortable
+good
+=== foo, bar **
+uncomfortable
+sick
+=== foo, bar **
+uncomfortable
+exceptional
+=== foo, bar **
+uncomfortable
+far
+=== foo, bar **
+uncomfortable
+big
+=== foo, bar **
+uncomfortable
+possible
+=== foo, bar **
+uncomfortable
+dark
+=== foo, bar **
+uncomfortable
+gloomy
+=== foo, bar **
+uncomfortable
+worst
+=== foo, bar **
+uncomfortable
+impaired
+=== foo, bar **
+uncomfortable
+frightening
+=== foo, bar **
+uncomfortable
+uncomfortable
+=== foo, bar **
+uncomfortable
+dim
+=== foo, bar **
+uncomfortable
+necessary
+=== foo, bar **
+uncomfortable
+like
+=== foo, bar **
+uncomfortable
+adjacent
+=== foo, bar **
+uncomfortable
+infeasible
+=== foo, bar **
+uncomfortable
+bright
+=== foo, bar **
+uncomfortable
+fewer
+=== foo, bar **
+uncomfortable
+large
+=== foo, bar **
+uncomfortable
+realistic
+=== foo, bar **
+uncomfortable
+bad
+=== foo, bar **
+uncomfortable
+unstable
+=== foo, bar **
+uncomfortable
+reasonable
+=== foo, bar **
+uncomfortable
+dangerous
+=== foo, bar **
+uncomfortable
+soft
+=== foo, bar **
+uncomfortable
+essential
+=== foo, bar **
+uncomfortable
+accessible
+=== foo, bar **
+uncomfortable
+affordable
+=== foo, bar **
+uncomfortable
+unexpected
+=== foo, bar **
+uncomfortable
+old
+=== foo, bar **
+uncomfortable
+fascinating
+=== foo, bar **
+uncomfortable
+colossal
+=== foo, bar **
+uncomfortable
+hard
+=== foo, bar **
+uncomfortable
+some
+=== foo, bar **
+uncomfortable
+sizeable
+=== foo, bar **
+uncomfortable
+alive
+=== foo, bar **
+uncomfortable
+desperate
+=== foo, bar **
+uncomfortable
+equal
+=== foo, bar **
+uncomfortable
+close
+=== foo, bar **
+uncomfortable
+dense
+=== foo, bar **
+uncomfortable
+broad
+=== foo, bar **
+uncomfortable
+stunning
+=== foo, bar **
+uncomfortable
+intelligent
+=== foo, bar **
+uncomfortable
+content
+=== foo, bar **
+uncomfortable
+critical
+=== foo, bar **
+uncomfortable
+available
+=== foo, bar **
+uncomfortable
+full
+=== foo, bar **
+uncomfortable
+intimate
+=== foo, bar **
+uncomfortable
+extraordinary
+=== foo, bar **
+uncomfortable
+disastrous
+=== foo, bar **
+uncomfortable
+sexy
+=== foo, bar **
+uncomfortable
+exciting
+=== foo, bar **
+uncomfortable
+intense
+=== foo, bar **
+uncomfortable
+scary
+=== foo, bar **
+uncomfortable
+subdued
+=== foo, bar **
+uncomfortable
+rare
+=== foo, bar **
+uncomfortable
+hostile
+=== foo, bar **
+uncomfortable
+impenetrable
+=== foo, bar **
+uncomfortable
+uneasy
+=== foo, bar **
+uncomfortable
+brilliant
+=== foo, bar **
+uncomfortable
+involved
+=== foo, bar **
+uncomfortable
+ill
+=== foo, bar **
+uncomfortable
+inexpensive
+=== foo, bar **
+uncomfortable
+terrible
+=== foo, bar **
+uncomfortable
+creepy
+=== foo, bar **
+uncomfortable
+feasible
+=== foo, bar **
+uncomfortable
+practical
+=== foo, bar **
+uncomfortable
+strange
+=== foo, bar **
+uncomfortable
+misleading
+=== foo, bar **
+uncomfortable
+hopeless
+=== foo, bar **
+uncomfortable
+weird
+=== foo, bar **
+uncomfortable
+nearby
+=== foo, bar **
+uncomfortable
+insane
+=== foo, bar **
+uncomfortable
+private
+=== foo, bar **
+uncomfortable
+visible
+=== foo, bar **
+uncomfortable
+right
+=== foo, bar **
+uncomfortable
+impossible
+=== foo, bar **
+uncomfortable
+thick
+=== foo, bar **
+uncomfortable
+unusual
+=== foo, bar **
+uncomfortable
+strong
+=== foo, bar **
+uncomfortable
+deceptive
+=== foo, bar **
+uncomfortable
+silent
+=== foo, bar **
+uncomfortable
+few
+=== foo, bar **
+uncomfortable
+indispensable
+=== foo, bar **
+uncomfortable
+negative
+=== foo, bar **
+uncomfortable
+needed
+=== foo, bar **
+uncomfortable
+secret
+=== foo, bar **
+uncomfortable
+terrifying
+=== foo, bar **
+uncomfortable
+gorgeous
+=== foo, bar **
+uncomfortable
+lovely
+=== foo, bar **
+uncomfortable
+painful
+=== foo, bar **
+uncomfortable
+happy
+=== foo, bar **
+uncomfortable
+clever
+=== foo, bar **
+uncomfortable
+general
+=== foo, bar **
+uncomfortable
+complete
+=== foo, bar **
+uncomfortable
+sufficient
+=== foo, bar **
+uncomfortable
+uncommon
+=== foo, bar **
+uncomfortable
+aware
+=== foo, bar **
+uncomfortable
+warm
+=== foo, bar **
+uncomfortable
+awake
+=== foo, bar **
+uncomfortable
+low
+=== foo, bar **
+uncomfortable
+preoccupied
+=== foo, bar **
+uncomfortable
+overwhelming
+=== END

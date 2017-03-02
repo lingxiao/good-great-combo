@@ -1,0 +1,7369 @@
+adverb-hits
+2016-12-23 15:30:27.359860
+--------------------------------------------------
+***** all
+=== deintense, counts: 29:
+fine
+perfect
+right
+crazy
+familiar
+fine
+perfect
+perfect
+real
+important
+right
+wrong
+true
+wrong
+fascinating
+right
+wrong
+right
+perfect
+perfect
+excited
+wrong
+true
+weird
+wrong
+perfect
+good
+true
+perfect
+
+=== neutral, counts: 10:
+perfect
+wrong
+good
+wrong
+right
+normal
+correct
+fine
+well
+perfect
+
+=== intense, counts: 29:
+okay
+shipshape
+strong
+foolish
+well-known
+well
+terrific
+wonderful
+true
+vital
+okay
+bad
+true
+right
+bad
+bad
+perfect
+crazy
+right
+right
+crazy
+right
+crazy
+different
+perfect
+right
+crazy
+familiar
+different
+
+***** particularly
+=== deintense, counts: 32:
+dangerous
+interesting
+significant
+beneficial
+appropriate
+active
+crucial
+beneficial
+relevant
+sensitive
+dangerous
+dangerous
+critical
+effective
+relevant
+vulnerable
+important
+sensitive
+relevant
+necessary
+large
+sensitive
+relevant
+timely
+vulnerable
+significant
+vulnerable
+vital
+sensitive
+valuable
+strong
+pleased
+
+=== neutral, counts: 9:
+necessary
+heavy
+dangerous
+valuable
+helpful
+useful
+pleased
+helpful
+valuable
+
+=== intense, counts: 28:
+hazardous
+worthwhile
+vital
+valuable
+fitting
+vigorous
+vital
+useful
+vital
+susceptible
+unsafe
+perilous
+crucial
+efficient
+useful
+weak
+vital
+significant
+crucial
+interesting
+concerned
+large
+pleased
+susceptible
+relevant
+low
+beneficial
+crucial
+
+***** better 
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** just
+=== deintense, counts: 88:
+brilliant
+fine
+crazy
+awesome
+crazy
+beautiful
+brilliant
+amazing
+fantastic
+awkward
+crazy
+fine
+awful
+sad
+enormous
+fine
+amazing
+odd
+awesome
+amazing
+sad
+awesome
+beautiful
+perfect
+horrible
+amazing
+amazing
+curious
+perfect
+fine
+brilliant
+fantastic
+awesome
+incredible
+strange
+wonderful
+wonderful
+fantastic
+stupid
+incredible
+fantastic
+terrific
+brilliant
+perfect
+weird
+sad
+ridiculous
+stupid
+ridiculous
+wonderful
+horrible
+wonderful
+perfect
+perfect
+mad
+weird
+terrific
+odd
+strange
+right
+incredible
+terrific
+great
+terrific
+stupid
+perfect
+stupid
+perfect
+perfect
+excited
+lovely
+perfect
+fantastic
+nervous
+terrific
+terrific
+wonderful
+nice
+perfect
+horrible
+strange
+incredible
+perfect
+ridiculous
+ridiculous
+perfect
+wonderful
+perfect
+
+=== neutral, counts: 42:
+horrible
+simple
+beautiful
+fine
+nice
+fine
+perfect
+fantastic
+weird
+horrible
+odd
+weird
+horrible
+strange
+curious
+fine
+ridiculous
+incredible
+sad
+odd
+perfect
+right
+perfect
+happy
+awesome
+fantastic
+dumb
+ridiculous
+hard
+beautiful
+fine
+stupid
+fine
+terrible
+hard
+awesome
+perfect
+terrific
+fine
+wonderful
+odd
+strange
+
+=== intense, counts: 111:
+fantastic
+okay
+delirious
+terrific
+screwy
+cute
+fabulous
+marvellous
+terrific
+uncomfortable
+foolish
+right
+dreadful
+unhappy
+huge
+well
+marvelous
+unusual
+sweet
+awesome
+unfortunate
+fantastic
+fine
+terrific
+miserable
+magnificent
+terrific
+interesting
+wonderful
+good
+incredible
+marvelous
+incredible
+remarkable
+unusual
+beautiful
+lovely
+amazing
+beautiful
+incredible
+fine
+beautiful
+simple
+crazy
+nonsense
+fantastic
+sad
+awesome
+beautiful
+beautiful
+awesome
+awesome
+right
+crazy
+awesome
+nonsense
+nice
+fantastic
+perfect
+fantastic
+terrific
+beautiful
+crazy
+happy
+awful
+beautiful
+crazy
+beautiful
+beautiful
+amazing
+fine
+curious
+beautiful
+incredible
+fine
+incredible
+fine
+amazing
+nice
+dumb
+enormous
+crazy
+sad
+crazy
+crazy
+fine
+fine
+beautiful
+awesome
+fine
+fantastic
+simple
+beautiful
+beautiful
+perfect
+awesome
+crazy
+fine
+nice
+amazing
+fine
+incredible
+awful
+amazing
+awesome
+fine
+great
+crazy
+different
+fantastic
+sad
+
+***** less
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+certain
+
+***** increasingly
+=== deintense, counts: 2:
+difficult
+effective
+
+=== neutral, counts: 1:
+large
+
+=== intense, counts: 3:
+worse
+efficient
+apparent
+
+***** indeed
+=== deintense, counts: 1:
+vital
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+desirable
+
+***** ever more
+=== deintense, counts: 1:
+difficult
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+worse
+
+***** comparatively
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+high
+
+***** sweet 
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** unacceptably
+=== deintense, counts: 1:
+high
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** wonderful 
+=== deintense, counts: 5:
+wonderful
+wonderful
+wonderful
+wonderful
+wonderful
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** remarkably
+=== deintense, counts: 0:
+
+=== neutral, counts: 1:
+good
+
+=== intense, counts: 0:
+
+***** still
+=== deintense, counts: 2:
+better
+greater
+
+=== neutral, counts: 1:
+better
+
+=== intense, counts: 4:
+greater
+bigger
+better
+better
+
+***** fine
+=== deintense, counts: 1:
+good
+
+=== neutral, counts: 1:
+good
+
+=== intense, counts: 0:
+
+***** perfect 
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+happy
+
+***** environmentally
+=== deintense, counts: 3:
+sensitive
+sensitive
+sensitive
+
+=== neutral, counts: 0:
+
+=== intense, counts: 2:
+susceptible
+clean
+
+***** enormously
+=== deintense, counts: 1:
+important
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+vital
+
+***** good 
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** now
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** even more
+=== deintense, counts: 2:
+difficult
+extensive
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+worse
+
+***** how
+=== deintense, counts: 6:
+wonderful
+wonderful
+interesting
+wonderful
+wonderful
+wonderful
+
+=== neutral, counts: 2:
+interesting
+wonderful
+
+=== intense, counts: 3:
+nice
+nice
+nice
+
+***** kind of
+=== deintense, counts: 20:
+dangerous
+interesting
+awesome
+awkward
+dangerous
+dangerous
+amazing
+awesome
+obvious
+exciting
+amazing
+awesome
+amazing
+exciting
+fascinating
+weird
+stupid
+sweet
+pretty
+expensive
+
+=== neutral, counts: 8:
+sweet
+beautiful
+pretty
+dangerous
+dangerous
+awesome
+sweet
+awesome
+
+=== intense, counts: 36:
+hazardous
+worthwhile
+terrific
+uncomfortable
+unsafe
+perilous
+incredible
+fantastic
+straightforward
+unexpected
+fantastic
+incredible
+breathtaking
+beautiful
+amazing
+beautiful
+awesome
+beautiful
+awesome
+awesome
+beautiful
+beautiful
+beautiful
+interesting
+nice
+exciting
+amazing
+cute
+beautiful
+awesome
+beautiful
+awesome
+nice
+cute
+awesome
+amazing
+
+***** only rather
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** all the more
+=== deintense, counts: 1:
+important
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+vital
+
+***** only
+=== deintense, counts: 13:
+logical
+fair
+proper
+right
+appropriate
+right
+reasonable
+right
+sensible
+reasonable
+right
+sensible
+right
+
+=== neutral, counts: 6:
+minor
+sensible
+fair
+right
+normal
+fair
+
+=== intense, counts: 19:
+normal
+right
+well-formed
+sensible
+logical
+fair
+right
+logical
+fair
+fair
+logical
+reasonable
+right
+fair
+fair
+right
+few
+right
+right
+
+***** pretty
+=== deintense, counts: 118:
+cool
+obvious
+dangerous
+interesting
+incredible
+impressive
+bad
+awesome
+crazy
+scary
+beautiful
+awesome
+amazing
+crazy
+crucial
+easy
+impressive
+insane
+rare
+crazy
+awesome
+awful
+awesome
+bad
+sad
+dangerous
+dangerous
+amazing
+awesome
+awesome
+amazing
+sad
+beautiful
+rare
+cool
+glorious
+amazing
+awesome
+convenient
+hard
+exciting
+awesome
+horrible
+awful
+amazing
+cool
+obvious
+amazing
+nice
+impressive
+amazing
+weak
+clear
+cool
+impressive
+incredible
+hot
+hard
+insane
+amazing
+awesome
+strange
+terrifying
+rare
+wrong
+wonderful
+weird
+impressive
+nice
+stupid
+incredible
+exciting
+sweet
+weird
+sad
+remarkable
+remarkable
+stupid
+wonderful
+horrible
+tough
+weird
+tough
+glorious
+cute
+sweet
+awesome
+wonderful
+strange
+insane
+terrifying
+incredible
+glorious
+great
+stupid
+hot
+hot
+stupid
+weak
+insane
+weird
+incredible
+powerful
+hot
+glorious
+powerful
+remarkable
+nice
+sweet
+fine
+tough
+horrible
+strange
+remarkable
+incredible
+good
+glorious
+sweet
+
+=== neutral, counts: 49:
+horrible
+easy
+simple
+sweet
+beautiful
+fine
+nice
+remarkable
+fine
+dangerous
+weird
+upset
+horrible
+remarkable
+big
+weird
+smart
+strange
+wrong
+horrible
+strange
+scary
+impressive
+remarkable
+awesome
+good
+incredible
+insane
+wrong
+sad
+unusual
+good
+awesome
+awesome
+bad
+normal
+smart
+scary
+hard
+tough
+accurate
+fine
+good
+stupid
+hard
+upset
+awesome
+lousy
+strange
+
+=== intense, counts: 161:
+fine
+visible
+hazardous
+worthwhile
+neat
+remarkable
+distressing
+terrific
+screwy
+spooky
+cute
+marvelous
+marvellous
+foolish
+vital
+simple
+spectacular
+stir-crazy
+scarce
+goofy
+neat
+dreadful
+nice
+messy
+unhappy
+unsafe
+perilous
+marvelous
+perfect
+sweet
+awesome
+unfortunate
+neat
+unusual
+cute
+magnificent
+incredible
+beautiful
+easy
+problematic
+interesting
+fantastic
+miserable
+bad
+remarkable
+nifty
+straightforward
+magnificent
+thoughtful
+incredible
+terrific
+weaker
+straightforward
+hip
+outstanding
+sweet
+incredible
+uncomfortable
+psycho
+fantastic
+incredible
+unusual
+awesome
+amazing
+beautiful
+incredible
+simple
+cute
+crazy
+awesome
+awesome
+awesome
+bad
+amazing
+awesome
+awesome
+awesome
+neat
+fair
+good
+crazy
+crazy
+awesome
+exciting
+big
+crucial
+neat
+bad
+bad
+awesome
+gross
+funny
+hard
+nice
+fair
+amazing
+fine
+remarkable
+crazy
+neat
+awful
+beautiful
+cool
+big
+amazing
+fine
+tough
+awful
+bad
+interesting
+big
+incredible
+dangerous
+incredible
+crazy
+amazing
+dangerous
+nice
+dumb
+fine
+bad
+interesting
+cute
+sad
+nice
+crazy
+big
+amazing
+cute
+neat
+big
+amazing
+awesome
+fine
+jumpy
+simple
+big
+awesome
+insane
+certain
+crazy
+fine
+nice
+cute
+amazing
+rough
+big
+awful
+bad
+fine
+big
+accurate
+amazing
+awesome
+certain
+amazing
+cute
+awesome
+insane
+crucial
+desperate
+
+***** totally
+=== deintense, counts: 35:
+honest
+awesome
+unacceptable
+awesome
+insane
+insane
+unacceptable
+awesome
+awesome
+awesome
+unacceptable
+awesome
+clean
+weird
+incredible
+wrong
+ridiculous
+unacceptable
+stupid
+unacceptable
+ridiculous
+honest
+awesome
+insane
+incredible
+stupid
+stupid
+stupid
+insane
+incredible
+honest
+incredible
+ridiculous
+ridiculous
+unacceptable
+
+=== neutral, counts: 15:
+fine
+ridiculous
+weird
+inappropriate
+weird
+ridiculous
+incredible
+insane
+right
+awesome
+normal
+honest
+ridiculous
+honest
+fine
+
+=== intense, counts: 32:
+open
+terrific
+wrong
+marvelous
+nuts
+wacko
+unsustainable
+neat
+nice
+sweet
+unsatisfactory
+fantastic
+neat
+different
+awesome
+awesome
+awesome
+insane
+insane
+fine
+incredible
+fine
+incredible
+fine
+unfair
+awesome
+different
+awesome
+fine
+disgusting
+unacceptable
+different
+
+***** close to being
+=== deintense, counts: 4:
+ridiculous
+ridiculous
+ridiculous
+ridiculous
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+senseless
+
+***** good
+=== deintense, counts: 0:
+
+=== neutral, counts: 1:
+enough
+
+=== intense, counts: 0:
+
+***** broadly
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** severely
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+limited
+
+***** very
+=== deintense, counts: 370:
+concrete
+appropriate
+obvious
+grateful
+attractive
+lowest
+comprehensive
+interesting
+dangerous
+stringent
+foolish
+obvious
+interesting
+severe
+real
+effective
+effective
+successful
+impressive
+severe
+significant
+clever
+considerable
+attractive
+impressive
+beneficial
+valuable
+attractive
+accurate
+beautiful
+appropriate
+active
+gentle
+major
+excellent
+excellent
+appropriate
+concise
+obvious
+handsome
+concrete
+substantial
+crucial
+excellent
+beneficial
+fruitful
+easy
+critical
+impressive
+best
+exciting
+hard
+necessary
+enjoyable
+rare
+relevant
+excellent
+extensive
+hospitable
+lengthy
+challenging
+sensitive
+generous
+beneficial
+sad
+dangerous
+dangerous
+particular
+fruitful
+dangerous
+broad
+effective
+foolish
+substantial
+fortunate
+clever
+odd
+far-reaching
+appropriate
+appropriate
+challenging
+foolish
+critical
+difficult
+impressive
+sad
+low
+specific
+lovely
+interesting
+extensive
+broad
+intelligent
+rare
+excellent
+necessary
+appropriate
+enjoyable
+helpful
+big
+major
+small
+hard
+clever
+beautiful
+exciting
+appropriate
+positive
+lengthy
+handsome
+appropriate
+critical
+insignificant
+beautiful
+rare
+important
+diverse
+horrible
+big
+productive
+honest
+clever
+difficult
+obvious
+effective
+impressive
+far-reaching
+weak
+low
+poor
+clear
+formidable
+pleasant
+impressive
+major
+curious
+hospitable
+pleased
+important
+huge
+considerable
+significant
+enjoyable
+comforting
+specific
+timely
+attractive
+attractive
+fruitful
+impressive
+excellent
+rigorous
+opportune
+excellent
+attractive
+positive
+real
+major
+excellent
+hospitable
+sizeable
+strange
+important
+nice
+substantial
+sensitive
+enjoyable
+strange
+major
+impressive
+wonderful
+nice
+true
+wonderful
+positive
+special
+huge
+expensive
+substantial
+sad
+stupid
+thoughtful
+rare
+substantial
+substantial
+significant
+exciting
+unfortunate
+good
+wide-ranging
+precise
+major
+helpful
+substantial
+strange
+wrong
+pleasant
+necessary
+substantial
+significant
+special
+successful
+weird
+sad
+upset
+remarkable
+limited
+severe
+vital
+remarkable
+stupid
+horrible
+powerful
+successful
+considerable
+necessary
+reasonable
+honest
+foolish
+horrible
+lovely
+sensible
+open
+wonderful
+high
+specific
+powerful
+brilliant
+far-reaching
+impressive
+tough
+handsome
+short
+pleased
+odd
+cute
+large
+sweet
+strange
+easy
+powerful
+specific
+handsome
+large
+major
+specific
+special
+horrible
+wrong
+busy
+sensitive
+true
+pleasant
+beautiful
+rare
+huge
+positive
+grateful
+small
+poor
+painful
+extensive
+little
+stupid
+severe
+painful
+valuable
+significant
+powerful
+appropriate
+major
+stupid
+unwise
+handsome
+unfortunate
+strong
+vulnerable
+substantial
+strange
+major
+limited
+pleasant
+successful
+useful
+dangerous
+lovely
+productive
+significant
+lovely
+strong
+impressive
+upstanding
+timely
+pretty
+significant
+powerful
+unfortunate
+meaningful
+pretty
+special
+diverse
+powerful
+unfortunate
+remarkable
+intelligent
+positive
+positive
+specific
+high
+weak
+sensible
+huge
+enjoyable
+wonderful
+pleasant
+true
+small
+lovely
+nice
+radical
+sweet
+sensitive
+pleasant
+pretty
+honest
+upset
+special
+concise
+tough
+substantial
+sensible
+little
+pleasant
+excellent
+strange
+weak
+remarkable
+precise
+extensive
+worthwhile
+valuable
+beneficial
+positive
+valuable
+severe
+pretty
+stringent
+good
+timely
+fine
+weak
+excellent
+remarkable
+substantial
+successful
+upset
+tough
+expensive
+tragic
+wonderful
+positive
+specific
+sizeable
+true
+relevant
+powerful
+extensive
+relevant
+little
+excited
+
+=== neutral, counts: 132:
+frequent
+necessary
+best
+good
+horrible
+easy
+simple
+sweet
+thoughtful
+productive
+useful
+excited
+beautiful
+pretty
+fine
+nice
+convenient
+remarkable
+pretty
+basic
+simple
+heavy
+large
+valuable
+real
+obvious
+fine
+dangerous
+sensible
+comfortable
+weird
+far-reaching
+excited
+simple
+successful
+rewarding
+horrible
+excellent
+large
+remarkable
+broad
+poor
+big
+responsible
+wide-ranging
+odd
+weird
+real
+smart
+large
+considerable
+substantial
+useful
+valuable
+major
+sizeable
+substantial
+grateful
+pleased
+considerable
+horrible
+strange
+curious
+interesting
+gentle
+thoughtful
+impressive
+remarkable
+rigorous
+stringent
+enjoyable
+clear
+considerable
+good
+significant
+least
+little
+easy
+helpful
+useful
+unfortunate
+poor
+sad
+dangerous
+thoughtful
+happy
+difficult
+odd
+excited
+right
+good
+unfortunate
+happy
+pleased
+fruitful
+odd
+little
+strange
+normal
+smart
+honest
+dumb
+hard
+tough
+beautiful
+fine
+friendly
+sweet
+reasonable
+honest
+stupid
+timely
+broad
+well
+hard
+harsh
+upset
+substantial
+helpful
+valuable
+dangerous
+large
+relevant
+fine
+remarkable
+valuable
+considerable
+powerful
+substantial
+odd
+strange
+large
+
+=== intense, counts: 406:
+real
+ideal
+visible
+happy
+cute
+smaller
+detailed
+relevant
+hazardous
+tough
+senseless
+self-explanatory
+worthwhile
+stringent
+specific
+fruitful
+responsive
+valuable
+remarkable
+tough
+vital
+sensible
+sharp
+delightful
+tough
+valuable
+worthwhile
+lovelier
+precise
+cute
+fitting
+vigorous
+sweet
+tremendous
+perfect
+fine
+proper
+succinct
+remarkable
+sweet
+specific
+wide-ranging
+vital
+remarkable
+useful
+useful
+simple
+formidable
+spectacular
+better
+inspiring
+rough
+unavoidable
+nice
+scarce
+vital
+magnificent
+far-reaching
+likable
+time-consuming
+problematic
+susceptible
+nice
+worthwhile
+unhappy
+precarious
+unsafe
+specific
+profitable
+perilous
+diverse
+helpful
+unwise
+vast
+happy
+smarter
+unusual
+large
+good
+desirable
+tough
+ignorant
+crucial
+distressing
+substantial
+unfortunate
+poor
+specified
+pretty
+useful
+wide-ranging
+general
+sensible
+unusual
+outstanding
+useful
+worthwhile
+nicer
+informative
+sizeable
+remarkable
+unimportant
+problematic
+smart
+fair
+interesting
+sensible
+sweet
+long
+nice
+well
+tough
+minuscule
+fine
+remarkable
+useful
+wide-ranging
+miserable
+large-scale
+useful
+sincere
+judicious
+worse
+straightforward
+efficient
+incredible
+wide-ranging
+weaker
+smaller
+unsatisfactory
+straightforward
+tremendous
+sweet
+outstanding
+sizeable
+interesting
+nice
+positive
+valuable
+substantial
+sizeable
+vast
+sweet
+sweet
+specifically
+well-timed
+fine
+nice
+worthwhile
+magnificent
+great
+tough
+timely
+fantastic
+exciting
+satisfactory
+true
+substantial
+exemplary
+pleasant
+tremendous
+unusual
+vital
+right
+best
+excited
+odd
+bright
+beautiful
+cute
+lovely
+huge
+beautiful
+different
+interesting
+important
+interesting
+beautiful
+infrequent
+considerable
+successful
+simple
+cute
+few
+sad
+sizeable
+authentic
+enjoyable
+significant
+excited
+broad
+bad
+comprehensive
+attractive
+beautiful
+attractive
+accurate
+beneficial
+true
+high
+active
+beautiful
+small
+few
+critical
+interesting
+glad
+few
+distasteful
+high
+attractive
+exciting
+admirable
+big
+big
+heavy
+crucial
+valuable
+excellent
+confused
+poor
+bad
+bad
+low
+big
+formidable
+attractive
+nice
+pleased
+fair
+pleased
+frank
+little
+considerable
+beautiful
+remarkable
+crazy
+attractive
+precise
+bright
+extensive
+happy
+considerable
+little
+grateful
+curious
+beautiful
+beautiful
+big
+little
+beautiful
+fine
+curious
+beneficial
+few
+beautiful
+short
+interesting
+bad
+interesting
+plausible
+definite
+desirable
+admirable
+concerned
+beautiful
+few
+big
+little
+fruitful
+little
+dangerous
+substantial
+fine
+enjoyable
+helpful
+attractive
+fair
+fine
+large
+general
+important
+dangerous
+dangerous
+small
+nice
+considerable
+few
+bad
+apt
+positive
+clever
+interesting
+precise
+nice
+easy
+comprehensive
+enjoyable
+elegant
+big
+great
+sad
+little
+general
+extensive
+comprehensive
+efficient
+nice
+excellent
+excellent
+crazy
+big
+major
+big
+fine
+critical
+attractive
+nice
+unfair
+costly
+cute
+fine
+intensive
+fine
+attractive
+beautiful
+potent
+big
+brief
+fine
+detailed
+different
+beautiful
+simple
+beautiful
+clever
+attractive
+beautiful
+fine
+severe
+accurate
+little
+long
+appropriate
+precarious
+big
+big
+beautiful
+right
+large
+little
+convenient
+fine
+low
+nice
+real
+huge
+odd
+enjoyable
+cute
+frank
+brief
+rough
+fine
+sensible
+annoying
+beautiful
+likable
+bad
+clever
+big
+attractive
+clear
+fine
+useful
+useful
+authentic
+beneficial
+appropriate
+major
+rigorous
+useful
+specific
+appropriate
+great
+attractive
+different
+big
+big
+active
+satisfactory
+beautiful
+costly
+excellent
+attractive
+significant
+encouraging
+crucial
+pretty
+big
+sizeable
+big
+big
+large
+short
+sad
+
+***** possible
+=== deintense, counts: 1:
+best
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+better
+
+***** gonna be
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+angry
+
+***** truly
+=== deintense, counts: 35:
+dangerous
+excellent
+fantastic
+excellent
+enormous
+dangerous
+dangerous
+amazing
+excellent
+effective
+effective
+amazing
+outstanding
+excellent
+excellent
+excellent
+important
+amazing
+impressive
+wonderful
+wonderful
+remarkable
+enormous
+remarkable
+wonderful
+outstanding
+outstanding
+fantastic
+remarkable
+wonderful
+excellent
+remarkable
+excellent
+remarkable
+wonderful
+
+=== neutral, counts: 8:
+remarkable
+dangerous
+excellent
+outstanding
+remarkable
+remarkable
+fantastic
+remarkable
+
+=== intense, counts: 30:
+hazardous
+fine
+terrific
+magnificent
+huge
+unsafe
+perilous
+awesome
+outstanding
+real
+efficient
+terrific
+remarkable
+great
+lovely
+fantastic
+vital
+breathtaking
+fantastic
+remarkable
+amazing
+enormous
+excellent
+fantastic
+amazing
+outstanding
+outstanding
+excellent
+fantastic
+amazing
+
+***** great 
+=== deintense, counts: 3:
+okay
+okay
+okay
+
+=== neutral, counts: 0:
+
+=== intense, counts: 3:
+terrific
+lovely
+lovely
+
+***** culturally
+=== deintense, counts: 1:
+sensitive
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** closely
+=== deintense, counts: 0:
+
+=== neutral, counts: 1:
+related
+
+=== intense, counts: 0:
+
+***** half
+=== deintense, counts: 2:
+stupid
+stupid
+
+=== neutral, counts: 0:
+
+=== intense, counts: 2:
+bad
+bad
+
+***** awful
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+curious
+
+***** bloody
+=== deintense, counts: 3:
+ridiculous
+ridiculous
+ridiculous
+
+=== neutral, counts: 1:
+ridiculous
+
+=== intense, counts: 0:
+
+***** easily
+=== deintense, counts: 5:
+accessible
+accessible
+accessible
+accessible
+accessible
+
+=== neutral, counts: 4:
+accessible
+understood
+accessible
+accessible
+
+=== intense, counts: 13:
+available
+open
+responsive
+simple
+easiest
+accessible
+accessible
+accessible
+accessible
+accessible
+accessible
+accessible
+accessible
+
+***** incredibly
+=== deintense, counts: 3:
+sad
+important
+sad
+
+=== neutral, counts: 0:
+
+=== intense, counts: 5:
+unfortunate
+vital
+large
+sad
+sad
+
+***** fully
+=== deintense, counts: 3:
+accessible
+trained
+relevant
+
+=== neutral, counts: 2:
+qualified
+informed
+
+=== intense, counts: 1:
+available
+
+***** reasonably
+=== deintense, counts: 3:
+possible
+good
+possible
+
+=== neutral, counts: 1:
+achievable
+
+=== intense, counts: 1:
+possibly
+
+***** less than
+=== deintense, counts: 1:
+perfect
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** large
+=== deintense, counts: 0:
+
+=== neutral, counts: 1:
+enough
+
+=== intense, counts: 0:
+
+***** sufficiently
+=== deintense, counts: 0:
+
+=== neutral, counts: 1:
+skilled
+
+=== intense, counts: 0:
+
+***** so perfectly
+=== deintense, counts: 0:
+
+=== neutral, counts: 1:
+simple
+
+=== intense, counts: 0:
+
+***** entirely
+=== deintense, counts: 12:
+appropriate
+appropriate
+correct
+appropriate
+clear
+appropriate
+true
+wrong
+necessary
+reasonable
+reasonable
+true
+
+=== neutral, counts: 2:
+correct
+right
+
+=== intense, counts: 6:
+fitting
+proper
+right
+worthwhile
+straightforward
+apt
+
+***** where
+=== deintense, counts: 7:
+appropriate
+appropriate
+appropriate
+necessary
+appropriate
+appropriate
+relevant
+
+=== neutral, counts: 2:
+appropriate
+relevant
+
+=== intense, counts: 7:
+fitting
+proper
+desirable
+need
+reasonable
+appropriate
+appropriate
+
+***** economically
+=== deintense, counts: 4:
+achievable
+efficient
+active
+successful
+
+=== neutral, counts: 0:
+
+=== intense, counts: 4:
+affordable
+worthwhile
+live
+active
+
+***** as easy as
+=== deintense, counts: 1:
+possible
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** satisfactory
+=== deintense, counts: 0:
+
+=== neutral, counts: 1:
+enough
+
+=== intense, counts: 0:
+
+***** often
+=== deintense, counts: 1:
+expensive
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** fairly
+=== deintense, counts: 4:
+obvious
+clean
+substantial
+high
+
+=== neutral, counts: 3:
+good
+substantial
+substantial
+
+=== intense, counts: 7:
+straightforward
+neat
+high
+short
+big
+big
+certain
+
+***** absolutely
+=== deintense, counts: 93:
+crucial
+brilliant
+fine
+awful
+crazy
+crazy
+brilliant
+excellent
+perfect
+brilliant
+crazy
+crucial
+awful
+necessary
+marvelous
+genuine
+excellent
+crazy
+awful
+delighted
+awful
+convinced
+enormous
+correct
+critical
+amazing
+marvelous
+excellent
+amazing
+crucial
+crucial
+perfect
+crucial
+amazing
+convinced
+amazing
+indispensable
+clear
+brilliant
+brilliant
+gorgeous
+brilliant
+amazing
+brilliant
+delighted
+incredible
+wonderful
+true
+true
+wonderful
+vital
+stupid
+vital
+stupid
+necessary
+brilliant
+perfect
+ridiculous
+enormous
+vital
+stupid
+ridiculous
+marvelous
+wonderful
+brilliant
+vital
+outstanding
+vital
+right
+incredible
+marvelous
+stupid
+vital
+stupid
+perfect
+outstanding
+outstanding
+incredible
+convinced
+gorgeous
+vital
+wonderful
+vital
+perfect
+stupid
+incredible
+vital
+genuine
+ridiculous
+ridiculous
+perfect
+wonderful
+perfect
+
+=== neutral, counts: 14:
+necessary
+beautiful
+necessary
+perfect
+marvelous
+ridiculous
+ridiculous
+delighted
+correct
+right
+true
+ridiculous
+perfect
+fine
+
+=== intense, counts: 88:
+mandatory
+fantastic
+okay
+sad
+nut
+screwy
+fabulous
+fine
+seamless
+marvelous
+foolish
+vital
+distressing
+unavoidable
+terrific
+true
+magnificent
+goofy
+dreadful
+happy
+disappointing
+sure
+huge
+right
+crucial
+awesome
+outstanding
+outstanding
+incredible
+indispensable
+indispensible
+terrific
+unavoidable
+remarkable
+secure
+terrific
+indispensible
+straightforward
+outstanding
+magnificent
+pretty
+incredible
+fantastic
+rad
+pleased
+remarkable
+beautiful
+beautiful
+correct
+certain
+beautiful
+beautiful
+beautiful
+crucial
+amazing
+crazy
+indispensable
+awful
+correct
+beautiful
+crazy
+amazing
+beautiful
+fine
+marvelous
+enormous
+excellent
+crazy
+marvelous
+amazing
+beautiful
+beautiful
+beautiful
+perfect
+right
+certain
+crazy
+incredible
+indispensable
+amazing
+certain
+right
+amazing
+beautiful
+excellent
+crucial
+delighted
+delighted
+
+***** goddamn
+=== deintense, counts: 4:
+awful
+brilliant
+brilliant
+brilliant
+
+=== neutral, counts: 0:
+
+=== intense, counts: 4:
+dreadful
+magnificent
+incredible
+awful
+
+***** abundantly
+=== deintense, counts: 1:
+clear
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+straightforward
+
+***** fine 
+=== deintense, counts: 1:
+okay
+
+=== neutral, counts: 1:
+fine
+
+=== intense, counts: 3:
+fine
+fine
+fine
+
+***** second
+=== deintense, counts: 1:
+best
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+better
+
+***** cost
+=== deintense, counts: 4:
+efficient
+effective
+effective
+efficient
+
+=== neutral, counts: 0:
+
+=== intense, counts: 4:
+worthwhile
+profitable
+efficient
+efficient
+
+***** mighty
+=== deintense, counts: 4:
+remarkable
+pretty
+remarkable
+pretty
+
+=== neutral, counts: 2:
+pretty
+remarkable
+
+=== intense, counts: 0:
+
+***** very well
+=== deintense, counts: 2:
+known
+known
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+well-known
+
+***** much more
+=== deintense, counts: 3:
+difficult
+effective
+extensive
+
+=== neutral, counts: 0:
+
+=== intense, counts: 3:
+worse
+efficient
+extensive
+
+***** substantially
+=== deintense, counts: 1:
+greater
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** distinctly
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 3:
+different
+different
+different
+
+***** adequately
+=== deintense, counts: 1:
+trained
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** best
+=== deintense, counts: 1:
+known
+
+=== neutral, counts: 1:
+good
+
+=== intense, counts: 1:
+well-known
+
+***** really
+=== deintense, counts: 186:
+excited
+cool
+awesome
+fine
+crazy
+interesting
+incredible
+awesome
+crazy
+crazy
+amazing
+scary
+beautiful
+appropriate
+hot
+excited
+foolish
+awesome
+hot
+amazing
+excellent
+appropriate
+fantastic
+handsome
+awkward
+crazy
+crucial
+easy
+impressive
+hard
+interesting
+amazing
+excellent
+crazy
+awesome
+awful
+awesome
+awkward
+sad
+amazing
+clever
+awesome
+easier
+amazing
+sad
+lovely
+interesting
+amazing
+rare
+excellent
+cool
+amazing
+awesome
+hard
+clever
+exciting
+awesome
+handsome
+beautiful
+horrible
+big
+awesome
+amazing
+intense
+amazing
+nice
+effective
+amazing
+weak
+important
+okay
+incredible
+fantastic
+hard
+excellent
+excellent
+easier
+real
+vulnerable
+awesome
+incredible
+strange
+important
+awkward
+nice
+wrong
+weird
+impressive
+wonderful
+nice
+true
+wonderful
+stupid
+exciting
+incredible
+nice
+substantial
+fantastic
+terrific
+terrible
+hot
+strange
+necessary
+weird
+sad
+ridiculous
+fascinating
+interesting
+stupid
+wonderful
+ridiculous
+horrible
+wonderful
+terrible
+handsome
+horrible
+tough
+wonderful
+mad
+weird
+tough
+cute
+exciting
+large
+nuts
+sweet
+outstanding
+awesome
+strange
+weird
+handsome
+large
+wrong
+okay
+incredible
+terrific
+beautiful
+great
+terrific
+stupid
+tough
+major
+stupid
+terrific
+handsome
+vulnerable
+pleasant
+outstanding
+okay
+interesting
+okay
+weird
+incredible
+lovely
+pretty
+powerful
+fantastic
+pretty
+vulnerable
+nervous
+terrific
+gorgeous
+wonderful
+pleasant
+true
+nice
+sweet
+pleasant
+pretty
+tough
+horrible
+okay
+excellent
+strange
+terrific
+incredible
+pretty
+good
+ridiculous
+excellent
+ridiculous
+twisted
+upset
+wonderful
+foolish
+substantial
+
+=== neutral, counts: 55:
+necessary
+horrible
+easy
+simple
+sweet
+beautiful
+pretty
+nice
+fantastic
+ridiculous
+bizarre
+weird
+angry
+upset
+horrible
+excellent
+big
+weird
+smart
+substantial
+useful
+wrong
+substantial
+horrible
+strange
+awkward
+good
+ridiculous
+incredible
+helpful
+useful
+awful
+wrong
+sad
+unhappy
+interesting
+good
+happy
+awesome
+fantastic
+smart
+ridiculous
+sweet
+hard
+tough
+beautiful
+sweet
+stupid
+terrible
+hard
+awesome
+helpful
+interesting
+fine
+strange
+
+=== intense, counts: 221:
+pleased
+fine
+outstanding
+okay
+rogue
+worthwhile
+neat
+terrific
+screwy
+queer
+spectacular
+spooky
+cute
+fitting
+warmer
+happy
+idiot
+marvelous
+lukewarm
+marvellous
+fine
+proper
+terrific
+sweet
+uncomfortable
+foolish
+vital
+simple
+spectacular
+rough
+neat
+beautiful
+magnificent
+goofy
+neat
+dreadful
+nice
+embarrassed
+unhappy
+marvelous
+smarter
+sweet
+easiest
+awesome
+unfortunate
+pretty
+useful
+sweet
+unusual
+outstanding
+cute
+incredible
+beautiful
+problematic
+smart
+interesting
+fantastic
+nice
+fine
+miserable
+large-scale
+remarkable
+remarkable
+rough
+magnificent
+thoughtful
+efficient
+terrific
+weaker
+valuable
+terrific
+sweet
+marvelous
+uncomfortable
+great
+fantastic
+easy
+true
+weak
+incredible
+remarkable
+unusual
+vital
+embarrassing
+right
+scary
+beautiful
+awesome
+cute
+lovely
+amazing
+beautiful
+incredible
+beautiful
+cute
+awesome
+crazy
+awful
+fantastic
+sad
+awesome
+bad
+beautiful
+amazing
+true
+beautiful
+interesting
+awesome
+awesome
+awesome
+glad
+neat
+crazy
+awesome
+exciting
+big
+big
+crucial
+neat
+bad
+bad
+awesome
+big
+hard
+nice
+fantastic
+amazing
+fantastic
+cute
+terrific
+crazy
+neat
+fantastic
+awful
+beautiful
+beautiful
+cool
+big
+little
+beautiful
+amazing
+fine
+tough
+awful
+lovely
+beautiful
+cute
+interesting
+bad
+intense
+happy
+beautiful
+big
+incredible
+substantial
+fine
+incredible
+interesting
+amazing
+amazing
+nice
+bad
+interesting
+nice
+cute
+sad
+little
+nice
+excellent
+crazy
+big
+interesting
+good
+fine
+nice
+amazing
+cute
+fine
+fine
+beautiful
+big
+foolish
+awesome
+amazing
+fantastic
+simple
+beautiful
+beautiful
+fine
+big
+awesome
+awesome
+crazy
+nice
+cute
+amazing
+incredible
+disgusting
+awful
+bad
+big
+awkward
+amazing
+awesome
+fine
+useful
+useful
+great
+amazing
+delicious
+big
+beautiful
+excellent
+fantastic
+crucial
+interesting
+pretty
+big
+big
+big
+sad
+
+***** even
+=== deintense, counts: 15:
+possible
+fewer
+larger
+better
+larger
+stronger
+higher
+greater
+less
+higher
+wider
+wider
+smaller
+worse
+possible
+
+=== neutral, counts: 4:
+better
+greater
+broader
+larger
+
+=== intense, counts: 11:
+possibly
+less
+wider
+good
+taller
+tougher
+increased
+bigger
+fewer
+less
+bigger
+
+***** so fucking
+=== deintense, counts: 2:
+stupid
+stupid
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** fundamentally
+=== deintense, counts: 1:
+important
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+vital
+
+***** a lot
+=== deintense, counts: 3:
+easier
+easier
+easier
+
+=== neutral, counts: 0:
+
+=== intense, counts: 7:
+easiest
+simple
+easy
+bigger
+easier
+less
+better
+
+***** deeply
+=== deintense, counts: 2:
+unfortunate
+unfortunate
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** currently
+=== deintense, counts: 2:
+known
+known
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+well-known
+
+***** overly
+=== deintense, counts: 1:
+extensive
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** sure you 're
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+excited
+
+***** current
+=== deintense, counts: 1:
+best
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+better
+
+***** everything
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** better than
+=== deintense, counts: 0:
+
+=== neutral, counts: 1:
+good
+
+=== intense, counts: 0:
+
+***** above
+=== deintense, counts: 1:
+major
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** international
+=== deintense, counts: 1:
+best
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+better
+
+***** readily
+=== deintense, counts: 5:
+accessible
+accessible
+accessible
+accessible
+available
+
+=== neutral, counts: 5:
+available
+accessible
+understood
+accessible
+accessible
+
+=== intense, counts: 12:
+available
+open
+simple
+easiest
+easy
+available
+accessible
+accessible
+accessible
+accessible
+accessible
+accessible
+
+***** ever
+=== deintense, counts: 4:
+greater
+less
+wrong
+higher
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** clean 
+=== deintense, counts: 0:
+
+=== neutral, counts: 1:
+simple
+
+=== intense, counts: 1:
+simple
+
+***** recently
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+emerging
+
+***** statistically
+=== deintense, counts: 0:
+
+=== neutral, counts: 1:
+significant
+
+=== intense, counts: 0:
+
+***** quite
+=== deintense, counts: 165:
+obvious
+dangerous
+happy
+obvious
+interesting
+honest
+possible
+accurate
+beautiful
+excellent
+amazing
+excellent
+fantastic
+crucial
+excellent
+easy
+impressive
+remarkable
+hard
+remarkable
+unacceptable
+confident
+rare
+excellent
+frightening
+sad
+convinced
+dangerous
+amazing
+amazing
+correct
+unacceptable
+amazing
+impressive
+sad
+low
+remarkable
+rare
+excellent
+amazing
+dramatic
+proper
+beautiful
+amazing
+honest
+obvious
+amazing
+nice
+impressive
+amazing
+outstanding
+clear
+proper
+pleasant
+dramatic
+considerable
+fantastic
+common
+astonishing
+right
+excellent
+amazing
+excellent
+correct
+honest
+excellent
+incredible
+strange
+important
+amazing
+impressive
+wonderful
+nice
+true
+true
+wonderful
+incredible
+obvious
+substantial
+fantastic
+ridiculous
+exciting
+good
+precise
+rare
+wrong
+pleasant
+substantial
+sad
+ridiculous
+remarkable
+interesting
+limited
+vital
+unacceptable
+remarkable
+unacceptable
+ridiculous
+reasonable
+honest
+right
+remarkable
+open
+wonderful
+high
+specific
+brilliant
+cute
+outstanding
+happy
+remarkable
+reasonable
+specific
+wrong
+right
+incredible
+pleasant
+correct
+strange
+outstanding
+pleasant
+outstanding
+ridiculous
+incredible
+wrong
+powerful
+wrong
+fantastic
+convinced
+powerful
+remarkable
+simply
+intelligent
+high
+wonderful
+true
+right
+wrong
+ridiculous
+impressive
+remarkable
+pleasant
+honest
+substantial
+remarkable
+impressive
+honest
+possible
+excellent
+remarkable
+incredible
+positive
+sure
+good
+remarkable
+ridiculous
+astonishing
+excellent
+remarkable
+unacceptable
+expensive
+wonderful
+true
+happy
+substantial
+
+=== neutral, counts: 48:
+easy
+simple
+beautiful
+remarkable
+simple
+impressive
+obvious
+dangerous
+fantastic
+angry
+excellent
+outstanding
+remarkable
+general
+remarkable
+considerable
+substantial
+useful
+substantial
+strange
+remarkable
+normal
+incredible
+good
+ridiculous
+incredible
+helpful
+useful
+sad
+correct
+right
+good
+happy
+remarkable
+fantastic
+inadequate
+normal
+honest
+sure
+hard
+accurate
+correct
+beautiful
+honest
+helpful
+interesting
+remarkable
+strange
+
+=== intense, counts: 172:
+visible
+hazardous
+satisfactory
+self-explanatory
+worthwhile
+open
+possibly
+precise
+cute
+perfect
+marvellous
+fine
+terrific
+vital
+remarkable
+simple
+spectacular
+sizeable
+rough
+substantial
+unsustainable
+sure
+scarce
+magnificent
+scary
+unhappy
+sure
+unsafe
+interesting
+marvelous
+right
+unsatisfactory
+awesome
+insane
+unfortunate
+poor
+tremendous
+unusual
+outstanding
+incredible
+huge
+well-formed
+fine
+remarkable
+sincere
+straightforward
+magnificent
+thoughtful
+incredible
+terrific
+remarkable
+straightforward
+right
+sweet
+sizeable
+sizeable
+marvelous
+general
+remarkable
+sensible
+great
+fantastic
+fantastic
+fair
+sincerely
+exemplary
+remarkable
+unusual
+vital
+fascinating
+scary
+amazing
+beautiful
+dramatic
+correct
+certain
+incredible
+considerable
+simple
+fantastic
+remarkable
+beautiful
+correct
+amazing
+accurate
+true
+high
+cute
+beautiful
+mistaken
+logical
+right
+inadequate
+crucial
+excellent
+remarkable
+clear
+nice
+fantastic
+amazing
+correct
+fantastic
+logical
+frank
+remarkable
+precise
+fantastic
+appropriate
+considerable
+beautiful
+beautiful
+amazing
+content
+beautiful
+interesting
+right
+broad
+concerned
+incredible
+frightening
+substantial
+incredible
+amazing
+right
+small
+right
+nice
+certain
+sad
+remarkable
+excellent
+excellent
+right
+sure
+limited
+amazing
+cute
+brief
+confident
+different
+amazing
+fantastic
+simple
+beautiful
+right
+large
+certain
+nice
+cute
+amazing
+frank
+brief
+incredible
+beautiful
+accurate
+amazing
+outstanding
+clear
+useful
+useful
+certain
+right
+content
+amazing
+astonishing
+different
+content
+clear
+excellent
+fantastic
+accurate
+crucial
+
+***** highly
+=== deintense, counts: 22:
+dangerous
+interesting
+significant
+valuable
+accurate
+appropriate
+desirable
+appropriate
+sensitive
+dangerous
+qualified
+dangerous
+diverse
+effective
+important
+significant
+important
+topical
+necessary
+specific
+significant
+sensitive
+
+=== neutral, counts: 6:
+necessary
+potent
+valuable
+dangerous
+skilled
+useful
+
+=== intense, counts: 24:
+hazardous
+worthwhile
+vital
+worthwhile
+precise
+fitting
+helpful
+beneficial
+susceptible
+unsafe
+valid
+perilous
+wide-ranging
+efficient
+valuable
+vast
+vital
+significant
+accurate
+developed
+appropriate
+desirable
+dangerous
+potent
+
+***** completely
+=== deintense, counts: 40:
+honest
+crazy
+crazy
+unacceptable
+insane
+crazy
+unacceptable
+insane
+crazy
+unacceptable
+insane
+perfect
+honest
+clear
+perfect
+insane
+clean
+implausible
+implausible
+mental
+wrong
+insane
+ridiculous
+unacceptable
+unacceptable
+ridiculous
+honest
+mad
+nuts
+insane
+perfect
+insane
+honest
+perfect
+ridiculous
+ridiculous
+perfect
+unacceptable
+insane
+perfect
+
+=== neutral, counts: 15:
+implausible
+perfect
+ridiculous
+inappropriate
+ridiculous
+insane
+mad
+right
+happy
+unacceptable
+inadequate
+normal
+ridiculous
+correct
+perfect
+
+=== intense, counts: 35:
+honorable
+nut
+screwy
+wrong
+nuts
+foolish
+unsustainable
+stir-crazy
+goofy
+unsatisfactory
+screwy
+terrific
+sincere
+straightforward
+wonderful
+psycho
+neat
+bizarre
+lovely
+faultless
+crazy
+crazy
+perfect
+crazy
+crazy
+implausible
+crazy
+unfair
+different
+perfect
+crazy
+unacceptable
+different
+insane
+lovely
+
+***** surely
+=== deintense, counts: 1:
+less
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** intensely
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** disproportionately
+=== deintense, counts: 1:
+high
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** strong
+=== deintense, counts: 1:
+enough
+
+=== neutral, counts: 1:
+enough
+
+=== intense, counts: 1:
+stable
+
+***** universally
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+accessible
+
+***** about
+=== deintense, counts: 1:
+right
+
+=== neutral, counts: 1:
+right
+
+=== intense, counts: 2:
+right
+right
+
+***** mutually
+=== deintense, counts: 4:
+beneficial
+beneficial
+beneficial
+beneficial
+
+=== neutral, counts: 0:
+
+=== intense, counts: 4:
+worthwhile
+profitable
+cooperative
+beneficial
+
+***** internationally
+=== deintense, counts: 1:
+renowned
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+well-known
+
+***** suitably
+=== deintense, counts: 2:
+qualified
+qualified
+
+=== neutral, counts: 1:
+qualified
+
+=== intense, counts: 0:
+
+***** many
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 3:
+different
+different
+different
+
+***** exceptionally
+=== deintense, counts: 2:
+important
+high
+
+=== neutral, counts: 0:
+
+=== intense, counts: 2:
+vital
+high
+
+***** so much
+=== deintense, counts: 2:
+easier
+easier
+
+=== neutral, counts: 0:
+
+=== intense, counts: 3:
+easiest
+simple
+easier
+
+***** commonly
+=== deintense, counts: 1:
+understood
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** significantly
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 2:
+less
+different
+
+***** beautiful 
+=== deintense, counts: 8:
+beautiful
+beautiful
+wonderful
+wonderful
+wonderful
+okay
+wonderful
+wonderful
+
+=== neutral, counts: 2:
+beautiful
+beautiful
+
+=== intense, counts: 14:
+cute
+fine
+beautiful
+beautiful
+beautiful
+beautiful
+beautiful
+beautiful
+beautiful
+beautiful
+beautiful
+beautiful
+beautiful
+beautiful
+
+***** desperately
+=== deintense, counts: 1:
+afraid
+
+=== neutral, counts: 0:
+
+=== intense, counts: 2:
+scared
+needed
+
+***** at all
+=== deintense, counts: 2:
+possible
+possible
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+possibly
+
+***** so very
+=== deintense, counts: 3:
+weird
+weird
+weird
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+bad
+
+***** slightly
+=== deintense, counts: 2:
+fewer
+weaker
+
+=== neutral, counts: 0:
+
+=== intense, counts: 2:
+less
+fewer
+
+***** otherwise
+=== deintense, counts: 3:
+excellent
+fruitful
+excellent
+
+=== neutral, counts: 1:
+fruitful
+
+=== intense, counts: 4:
+magnificent
+profitable
+outstanding
+excellent
+
+***** appropriately
+=== deintense, counts: 1:
+trained
+
+=== neutral, counts: 3:
+qualified
+skilled
+skilled
+
+=== intense, counts: 0:
+
+***** equally
+=== deintense, counts: 2:
+accessible
+important
+
+=== neutral, counts: 0:
+
+=== intense, counts: 2:
+available
+vital
+
+***** already
+=== deintense, counts: 2:
+known
+dire
+
+=== neutral, counts: 0:
+
+=== intense, counts: 2:
+well-known
+excellent
+
+***** kinda
+=== deintense, counts: 4:
+nice
+weird
+cute
+stupid
+
+=== neutral, counts: 0:
+
+=== intense, counts: 4:
+cute
+nice
+cute
+rough
+
+***** previously
+=== deintense, counts: 2:
+known
+known
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+well-known
+
+***** brutally
+=== deintense, counts: 1:
+honest
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** one
+=== deintense, counts: 1:
+true
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+true
+
+***** more widely
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** simply
+=== deintense, counts: 11:
+marvelous
+wonderful
+wonderful
+marvelous
+marvelous
+wonderful
+marvelous
+marvelous
+marvelous
+wonderful
+wonderful
+
+=== neutral, counts: 1:
+marvelous
+
+=== intense, counts: 1:
+terrific
+
+***** sounds
+=== deintense, counts: 1:
+great
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** precisely
+=== deintense, counts: 0:
+
+=== neutral, counts: 1:
+accurate
+
+=== intense, counts: 2:
+defined
+defined
+
+***** prohibitively
+=== deintense, counts: 3:
+expensive
+high
+expensive
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** technically
+=== deintense, counts: 0:
+
+=== neutral, counts: 1:
+correct
+
+=== intense, counts: 0:
+
+***** awfully
+=== deintense, counts: 3:
+dangerous
+dangerous
+sweet
+
+=== neutral, counts: 2:
+sweet
+sweet
+
+=== intense, counts: 4:
+hazardous
+perilous
+cute
+nice
+
+***** little
+=== deintense, counts: 1:
+less
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+less
+
+***** long 
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** extremely
+=== deintense, counts: 37:
+dangerous
+interesting
+significant
+valuable
+limited
+easy
+rare
+sensitive
+sad
+dangerous
+dangerous
+dangerous
+sad
+low
+rare
+rare
+clear
+important
+important
+unfortunate
+helpful
+rare
+unfortunate
+sad
+high
+large
+unfortunate
+significant
+powerful
+unfortunate
+high
+small
+sensitive
+valuable
+severe
+expensive
+pleased
+
+=== neutral, counts: 14:
+easy
+dangerous
+useful
+valuable
+helpful
+useful
+sad
+good
+unfortunate
+pleased
+hard
+hard
+helpful
+valuable
+
+=== intense, counts: 34:
+hazardous
+worthwhile
+vital
+worthwhile
+low
+simple
+scarce
+susceptible
+unhappy
+precarious
+unsafe
+perilous
+unfortunate
+poor
+scant
+unusual
+straightforward
+valuable
+vital
+positive
+significant
+limited
+big
+limited
+short
+large
+important
+sad
+limited
+big
+competent
+big
+useful
+useful
+
+***** strictly
+=== deintense, counts: 0:
+
+=== neutral, counts: 1:
+necessary
+
+=== intense, counts: 0:
+
+***** just so
+=== deintense, counts: 15:
+amazing
+crazy
+amazing
+crazy
+hard
+amazing
+crazy
+amazing
+amazing
+amazing
+amazing
+amazing
+strange
+strange
+strange
+
+=== neutral, counts: 4:
+strange
+hard
+hard
+strange
+
+=== intense, counts: 35:
+dreamy
+screwy
+marvellous
+foolish
+rough
+beautiful
+goofy
+marvelous
+awesome
+magnificent
+terrific
+fantastic
+unusual
+beautiful
+amazing
+beautiful
+excited
+beautiful
+amazing
+beautiful
+crazy
+beautiful
+amazing
+beautiful
+amazing
+crazy
+unfair
+beautiful
+amazing
+beautiful
+beautiful
+crazy
+amazing
+amazing
+beautiful
+
+***** long
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** fucking
+=== deintense, counts: 1:
+crazy
+
+=== neutral, counts: 0:
+
+=== intense, counts: 10:
+mental
+crazy
+crazy
+crazy
+crazy
+crazy
+crazy
+crazy
+crazy
+crazy
+
+***** much
+=== deintense, counts: 21:
+broader
+broader
+broader
+larger
+easier
+larger
+larger
+better
+broader
+better
+easier
+stronger
+greater
+less
+higher
+smaller
+larger
+greater
+greater
+stronger
+clearer
+
+=== neutral, counts: 5:
+greater
+greater
+broader
+better
+better
+
+=== intense, counts: 19:
+wider
+large
+wide-ranging
+wider
+easiest
+thicker
+taller
+helpful
+broadest
+greater
+simple
+tougher
+easier
+less
+better
+broader
+wider
+less
+less
+
+***** right 
+=== deintense, counts: 2:
+okay
+okay
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+right
+
+***** therefore
+=== deintense, counts: 16:
+obvious
+appropriate
+crucial
+necessary
+critical
+crucial
+crucial
+important
+vital
+unacceptable
+vital
+preferable
+right
+vital
+vital
+timely
+
+=== neutral, counts: 1:
+necessary
+
+=== intense, counts: 13:
+self-explanatory
+fitting
+vital
+unavoidable
+crucial
+integral
+indispensable
+vital
+crucial
+indispensable
+desirable
+crucial
+better
+
+***** crucially
+=== deintense, counts: 1:
+important
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+vital
+
+***** damn
+=== deintense, counts: 1:
+stupid
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** perfectly
+=== deintense, counts: 20:
+obvious
+fine
+obvious
+honest
+adequate
+fine
+honest
+clear
+fine
+clean
+well
+good
+reasonable
+honest
+sound
+sensible
+reasonable
+nice
+honest
+good
+
+=== neutral, counts: 18:
+simple
+nice
+obvious
+fine
+normal
+okay
+fine
+good
+right
+good
+happy
+normal
+honest
+good
+honest
+fine
+well
+fine
+
+=== intense, counts: 25:
+visible
+okay
+self-explanatory
+open
+well-formed
+well
+sincere
+straightforward
+good
+neat
+simple
+good
+nice
+frank
+fine
+fine
+fine
+nice
+nice
+fine
+fine
+simple
+frank
+fine
+fine
+
+***** more
+=== deintense, counts: 104:
+obvious
+powerful
+convenient
+stringent
+interesting
+effective
+beneficial
+accurate
+appropriate
+active
+accessible
+beneficial
+extensive
+appropriate
+beneficial
+substantial
+concrete
+expedient
+impressive
+exact
+powerful
+appropriate
+enjoyable
+sensitive
+foolish
+accurate
+severe
+appropriate
+beautiful
+comfortable
+specific
+extensive
+intelligent
+rigorous
+efficient
+convenient
+enjoyable
+beneficial
+beneficial
+convenient
+appropriate
+difficult
+fierce
+effective
+impressive
+pleasant
+important
+enjoyable
+specific
+timely
+rigorous
+opportune
+rare
+stringent
+abundant
+important
+beautiful
+prompt
+transparent
+impressive
+positive
+expensive
+substantial
+precise
+pleasant
+severe
+specifically
+recent
+timely
+specific
+successful
+comprehensive
+specific
+specific
+terrifying
+pleasant
+widespread
+timely
+extensive
+substantial
+foolish
+appropriate
+vulnerable
+pleasant
+comprehensible
+powerful
+powerful
+specifically
+stringent
+specific
+enjoyable
+radical
+pleasant
+productive
+specific
+precise
+extensive
+positive
+stringent
+powerful
+specifically
+timely
+successful
+expensive
+
+=== neutral, counts: 21:
+necessary
+simple
+beautiful
+problematic
+general
+severe
+comprehensive
+particularly
+useful
+stringent
+enjoyable
+general
+generally
+accessible
+useful
+substantial
+widespread
+recent
+normal
+accurate
+helpful
+
+=== intense, counts: 109:
+visible
+tougher
+easier
+tough
+worthwhile
+fruitful
+valuable
+precise
+fitting
+vigorous
+available
+better
+longest
+proper
+preferable
+wider
+specific
+quicker
+spectacular
+precise
+strongest
+right
+nice
+susceptible
+stupider
+clearer
+tougher
+desirable
+fairer
+nicer
+specified
+wide-ranging
+sensible
+tougher
+rationalized
+easiest
+nicer
+desirable
+best
+easy
+fair
+worse
+intense
+efficient
+incredible
+sweet
+valuable
+sweet
+specifically
+well-timed
+tough
+timely
+rarest
+tougher
+largest
+vital
+finer
+quicker
+simple
+enjoyable
+potent
+potent
+accurate
+active
+precise
+adequate
+appropriate
+appropriate
+evident
+wide-ranging
+relevant
+precise
+accessible
+diverse
+detailed
+interesting
+adequate
+general
+accessible
+interesting
+precise
+wide-ranging
+adequate
+adequate
+susceptible
+general
+rigorous
+beneficial
+potent
+rational
+detailed
+accessible
+accurate
+extensive
+manageable
+enjoyable
+beautiful
+rigorous
+accurate
+apparent
+useful
+useful
+beneficial
+efficient
+specific
+appropriate
+appropriate
+costly
+appropriate
+
+***** considerably
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+less
+
+***** that
+=== deintense, counts: 37:
+interesting
+interesting
+possible
+easy
+correct
+beautiful
+perfect
+nice
+clear
+perfect
+correct
+wonderful
+true
+wonderful
+relevant
+weird
+ridiculous
+remarkable
+remarkable
+ridiculous
+wonderful
+wonderful
+easy
+stupid
+stupid
+perfect
+remarkable
+wonderful
+true
+pretty
+possible
+ridiculous
+ridiculous
+expensive
+wonderful
+perfect
+relevant
+
+=== neutral, counts: 18:
+easy
+simple
+beautiful
+pretty
+remarkable
+simple
+weird
+remarkable
+ridiculous
+easy
+correct
+right
+enough
+correct
+beautiful
+perfect
+relevant
+remarkable
+
+=== intense, counts: 32:
+relevant
+worthwhile
+possibly
+simple
+right
+fine
+terrific
+thoughtful
+straightforward
+wonderful
+fair
+beautiful
+beautiful
+correct
+interesting
+simple
+bad
+beautiful
+beautiful
+remarkable
+beautiful
+beautiful
+beautiful
+cute
+simple
+beautiful
+perfect
+long
+right
+nice
+cute
+clear
+
+***** a bit
+=== deintense, counts: 4:
+dangerous
+dangerous
+strange
+strange
+
+=== neutral, counts: 7:
+dangerous
+weird
+strange
+odd
+strange
+odd
+strange
+
+=== intense, counts: 3:
+hazardous
+unsafe
+unusual
+
+***** exactly
+=== deintense, counts: 1:
+right
+
+=== neutral, counts: 1:
+right
+
+=== intense, counts: 1:
+right
+
+***** properly
+=== deintense, counts: 1:
+effective
+
+=== neutral, counts: 2:
+functioning
+qualified
+
+=== intense, counts: 1:
+efficient
+
+***** too
+=== deintense, counts: 15:
+dangerous
+easy
+awful
+dangerous
+dangerous
+sad
+weak
+clear
+expensive
+weak
+little
+high
+expensive
+expensive
+little
+
+=== neutral, counts: 9:
+aware
+easy
+beautiful
+pretty
+weird
+ridiculous
+dangerous
+hard
+friendly
+
+=== intense, counts: 22:
+hazardous
+simple
+dreadful
+unsafe
+perilous
+unfortunate
+weaker
+straightforward
+bad
+exciting
+bright
+little
+awful
+short
+big
+dumb
+sad
+little
+long
+nice
+rough
+costly
+
+***** somewhat
+=== deintense, counts: 4:
+strange
+less
+strange
+strange
+
+=== neutral, counts: 3:
+strange
+strange
+strange
+
+=== intense, counts: 5:
+unusual
+less
+limited
+different
+different
+
+***** a little
+=== deintense, counts: 12:
+excited
+awkward
+easier
+sad
+awkward
+easier
+strange
+less
+weird
+sad
+strange
+weak
+
+=== neutral, counts: 7:
+weird
+odd
+strange
+odd
+strange
+odd
+strange
+
+=== intense, counts: 17:
+pleased
+uncomfortable
+easiest
+unfortunate
+problematic
+easy
+unusual
+scary
+different
+confusing
+crazy
+sad
+crazy
+confused
+rough
+sad
+desperate
+
+***** physically
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+active
+
+***** immensely
+=== deintense, counts: 1:
+important
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+vital
+
+***** critically
+=== deintense, counts: 1:
+important
+
+=== neutral, counts: 0:
+
+=== intense, counts: 2:
+vital
+needed
+
+***** publicly
+=== deintense, counts: 1:
+accessible
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+available
+
+***** all that
+=== deintense, counts: 3:
+dangerous
+dangerous
+dangerous
+
+=== neutral, counts: 1:
+dangerous
+
+=== intense, counts: 5:
+hazardous
+unsafe
+perilous
+dangerous
+dangerous
+
+***** unduly
+=== deintense, counts: 1:
+high
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** tremendously
+=== deintense, counts: 1:
+important
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+vital
+
+***** this
+=== deintense, counts: 7:
+easy
+perfect
+perfect
+stupid
+perfect
+perfect
+perfect
+
+=== neutral, counts: 3:
+easy
+perfect
+perfect
+
+=== intense, counts: 6:
+simple
+terrific
+wonderful
+perfect
+big
+perfect
+
+***** as
+=== deintense, counts: 49:
+dangerous
+effective
+possible
+accurate
+appropriate
+gentle
+appropriate
+concise
+few
+easy
+appropriate
+unacceptable
+dangerous
+dangerous
+appropriate
+possible
+unacceptable
+appropriate
+intelligent
+excellent
+appropriate
+beautiful
+difficult
+effective
+clear
+important
+important
+impressive
+positive
+relevant
+vital
+unacceptable
+impressive
+large
+large
+beautiful
+appropriate
+useful
+diverse
+intelligent
+true
+sensitive
+possible
+positive
+stringent
+distinct
+unacceptable
+relevant
+little
+
+=== neutral, counts: 17:
+easy
+simple
+beautiful
+dangerous
+inappropriate
+large
+useful
+stringent
+little
+useful
+dangerous
+happy
+beautiful
+hard
+appropriate
+relevant
+strange
+
+=== intense, counts: 60:
+hazardous
+responsive
+possibly
+precise
+fitting
+sweet
+proper
+succinct
+least
+simple
+right
+unsustainable
+unsafe
+perilous
+desirable
+workable
+unsatisfactory
+satisfactory
+sensible
+outstanding
+sensible
+fine
+worse
+efficient
+straightforward
+valuable
+vital
+beautiful
+important
+beautiful
+simple
+bad
+accurate
+high
+beautiful
+appropriate
+appropriate
+active
+beautiful
+beautiful
+short
+bad
+relevant
+excellent
+cute
+accessible
+simple
+beautiful
+accurate
+long
+big
+low
+cute
+accurate
+useful
+useful
+cute
+excellent
+appropriate
+appropriate
+
+***** professionally
+=== deintense, counts: 0:
+
+=== neutral, counts: 1:
+qualified
+
+=== intense, counts: 0:
+
+***** still more
+=== deintense, counts: 1:
+difficult
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+worse
+
+***** crystal
+=== deintense, counts: 1:
+clear
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+straightforward
+
+***** excessively
+=== deintense, counts: 3:
+expensive
+high
+expensive
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** glaringly
+=== deintense, counts: 1:
+obvious
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+self-explanatory
+
+***** naturally
+=== deintense, counts: 1:
+curious
+
+=== neutral, counts: 0:
+
+=== intense, counts: 3:
+unusual
+curious
+curious
+
+***** real
+=== deintense, counts: 11:
+easy
+nice
+interesting
+tough
+stupid
+pretty
+nice
+sweet
+pretty
+tough
+pretty
+
+=== neutral, counts: 15:
+good
+easy
+simple
+pretty
+nice
+weird
+helpful
+happy
+sweet
+hard
+tough
+stupid
+helpful
+interesting
+fine
+
+=== intense, counts: 19:
+simple
+live
+simple
+cute
+bad
+bad
+nice
+big
+big
+fine
+nice
+bad
+nice
+nice
+cute
+simple
+big
+nice
+cute
+
+***** almost
+=== deintense, counts: 1:
+overwhelming
+
+=== neutral, counts: 1:
+pure
+
+=== intense, counts: 2:
+tremendous
+impossible
+
+***** wherever
+=== deintense, counts: 1:
+possible
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** urgently
+=== deintense, counts: 1:
+necessary
+
+=== neutral, counts: 2:
+necessary
+necessary
+
+=== intense, counts: 2:
+needed
+needed
+
+***** insanely
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 2:
+crazy
+crazy
+
+***** single
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 2:
+biggest
+biggest
+
+***** patently
+=== deintense, counts: 2:
+obvious
+obvious
+
+=== neutral, counts: 1:
+obvious
+
+=== intense, counts: 2:
+visible
+self-explanatory
+
+***** vitally
+=== deintense, counts: 1:
+important
+
+=== neutral, counts: 0:
+
+=== intense, counts: 2:
+vital
+needed
+
+***** something
+=== deintense, counts: 4:
+better
+better
+special
+special
+
+=== neutral, counts: 1:
+better
+
+=== intense, counts: 3:
+easier
+fine
+better
+
+***** any
+=== deintense, counts: 6:
+better
+less
+worse
+worse
+clearer
+good
+
+=== neutral, counts: 3:
+good
+better
+better
+
+=== intense, counts: 7:
+fine
+better
+different
+better
+less
+different
+different
+
+***** relatively
+=== deintense, counts: 21:
+comfortable
+few
+easy
+rare
+low
+rare
+rare
+weak
+low
+low
+less
+rare
+weak
+low
+high
+short
+weak
+short
+poor
+small
+little
+
+=== neutral, counts: 3:
+good
+easy
+large
+
+=== intense, counts: 36:
+well-off
+limited
+simple
+scarce
+poor
+scant
+unusual
+weaker
+smaller
+mild
+infrequent
+few
+high
+small
+few
+few
+little
+little
+big
+little
+less
+few
+short
+few
+big
+little
+little
+low
+few
+big
+low
+costly
+little
+low
+brief
+costly
+
+***** perhaps
+=== deintense, counts: 1:
+better
+
+=== neutral, counts: 0:
+
+=== intense, counts: 2:
+desirable
+better
+
+***** no
+=== deintense, counts: 1:
+less
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+less
+
+***** rather
+=== deintense, counts: 33:
+dangerous
+obvious
+interesting
+fewer
+sensitive
+awkward
+sad
+odd
+curious
+sad
+rare
+curious
+strange
+important
+less
+unfortunate
+unfortunate
+sad
+remarkable
+remarkable
+remarkable
+high
+odd
+strange
+sensitive
+unfortunate
+strange
+unfortunate
+remarkable
+nice
+sensitive
+strange
+remarkable
+
+=== neutral, counts: 17:
+good
+nice
+remarkable
+dangerous
+remarkable
+odd
+large
+strange
+strange
+curious
+remarkable
+sad
+odd
+odd
+remarkable
+odd
+strange
+
+=== intense, counts: 30:
+hazardous
+self-explanatory
+worthwhile
+less
+susceptible
+incorrect
+unhappy
+unusual
+unusual
+unfortunate
+unusual
+interesting
+unusual
+vital
+odd
+lovely
+simple
+fewer
+high
+remarkable
+curious
+curious
+sad
+nice
+limited
+different
+nice
+odd
+different
+sad
+
+***** sure this is
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+right
+
+***** generally
+=== deintense, counts: 1:
+accessible
+
+=== neutral, counts: 0:
+
+=== intense, counts: 3:
+available
+available
+satisfactory
+
+***** clearly
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 6:
+evident
+defined
+crazy
+defined
+crazy
+defined
+
+***** excellent 
+=== deintense, counts: 6:
+excellent
+excellent
+excellent
+excellent
+excellent
+excellent
+
+=== neutral, counts: 0:
+
+=== intense, counts: 7:
+fine
+outstanding
+great
+lovely
+fantastic
+excellent
+excellent
+
+***** also
+=== deintense, counts: 1:
+important
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+vital
+
+***** other
+=== deintense, counts: 1:
+smaller
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+higher
+
+***** potentially
+=== deintense, counts: 5:
+dangerous
+dangerous
+dangerous
+dangerous
+hazardous
+
+=== neutral, counts: 2:
+dangerous
+dangerous
+
+=== intense, counts: 7:
+hazardous
+precarious
+unsafe
+perilous
+unsafe
+hazardous
+dangerous
+
+***** widely
+=== deintense, counts: 3:
+known
+known
+known
+
+=== neutral, counts: 1:
+available
+
+=== intense, counts: 3:
+well-known
+available
+distributed
+
+***** wicked
+=== deintense, counts: 1:
+short
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** more easily
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+accessible
+
+***** gonna be all
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+right
+
+***** badly
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** extraordinarily
+=== deintense, counts: 1:
+important
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+vital
+
+***** fantastic 
+=== deintense, counts: 4:
+wonderful
+wonderful
+wonderful
+wonderful
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** structurally
+=== deintense, counts: 1:
+sound
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+sturdy
+
+***** most
+=== deintense, counts: 188:
+appropriate
+recent
+prominent
+powerful
+effective
+appropriate
+dangerous
+obvious
+interesting
+impressive
+significant
+heinous
+beneficial
+valuable
+accurate
+beautiful
+fantastic
+appropriate
+amazing
+beneficial
+excellent
+appropriate
+fantastic
+horrendous
+lethal
+crucial
+prominent
+beneficial
+impressive
+powerful
+appropriate
+genuine
+excellent
+appropriate
+awful
+dreadful
+sensitive
+disturbing
+exquisite
+remarkable
+atrocious
+accurate
+horrific
+fantastic
+severe
+amazing
+appropriate
+appropriate
+beautiful
+comfortable
+critical
+amazing
+beautiful
+dreadful
+outstanding
+horrific
+magnificent
+interesting
+disturbing
+excellent
+atrocious
+beneficial
+amazing
+heartfelt
+exciting
+powerful
+beautiful
+pronounced
+horrible
+amazing
+difficult
+amazing
+appropriate
+critical
+effective
+impressive
+critical
+amazing
+handsome
+impressive
+appropriate
+important
+lethal
+excellent
+excellent
+heinous
+amazing
+stringent
+fantastic
+critical
+vulnerable
+incredible
+important
+beautiful
+appropriate
+terrifying
+transparent
+impressive
+wonderful
+wonderful
+magnificent
+incredible
+powerful
+substantial
+significant
+outstanding
+vital
+unfortunate
+terrible
+perfect
+magnificent
+unfortunate
+prominent
+powerful
+ridiculous
+remarkable
+interesting
+severe
+vital
+remarkable
+ridiculous
+horrible
+wonderful
+foul
+remarkable
+magnificent
+horrible
+outstanding
+wonderful
+horrific
+recent
+glorious
+successful
+recent
+vital
+comprehensive
+horrific
+handsome
+remarkable
+prominent
+preferable
+horrible
+powerful
+formidable
+terrifying
+excellent
+incredible
+extensive
+severe
+incredible
+appropriate
+powerful
+unfortunate
+vulnerable
+outstanding
+effective
+incredible
+significant
+impressive
+powerful
+fantastic
+unfortunate
+powerful
+unfortunate
+remarkable
+vital
+wonderful
+remarkable
+magnificent
+remarkable
+horrible
+impressive
+excellent
+remarkable
+incredible
+extensive
+valuable
+stringent
+magnificent
+ridiculous
+successful
+remarkable
+remarkable
+wonderful
+magnificent
+prominent
+perfect
+heartfelt
+
+=== neutral, counts: 39:
+effective
+horrible
+simple
+beautiful
+remarkable
+comfortable
+horrible
+excellent
+remarkable
+valuable
+horrific
+useful
+valuable
+horrible
+horrific
+impressive
+remarkable
+stringent
+unimaginable
+perfect
+ridiculous
+incredible
+significant
+helpful
+useful
+unfortunate
+horrible
+unusual
+fantastic
+recent
+fantastic
+beautiful
+perfect
+terrible
+helpful
+valuable
+interesting
+appropriate
+remarkable
+
+=== intense, counts: 194:
+ideal
+up-to-date
+remarkable
+tougher
+good
+better
+hazardous
+self-explanatory
+worthwhile
+remarkable
+vital
+worst
+valuable
+worthwhile
+precise
+cute
+finest
+fitting
+marvellous
+better
+fine
+proper
+terrific
+worse
+worse
+vital
+top
+useful
+spectacular
+strongest
+right
+true
+magnificent
+responsive
+dreadful
+worst
+susceptible
+worst
+marvellous
+terrific
+worse
+clearer
+worse
+nicer
+tougher
+marvelous
+good
+desirable
+fairer
+nicer
+crucial
+awesome
+bonnie
+worse
+prominent
+terrible
+marvelous
+useful
+worse
+outstanding
+worst
+best
+incredible
+sincere
+interesting
+strengthened
+fine
+stronger
+miserable
+remarkable
+worse
+magnificent
+fine
+gravest
+efficient
+incredible
+graver
+terrific
+nicer
+outstanding
+okay
+valuable
+worst
+great
+lovely
+worse
+fantastic
+tougher
+sweet
+worst
+weak
+remarkable
+vital
+finer
+apt
+joyful
+beautiful
+amazing
+beautiful
+beautiful
+simple
+awful
+appropriate
+significant
+potent
+beautiful
+potent
+beautiful
+amazing
+accurate
+beautiful
+fantastic
+prominent
+exciting
+crucial
+appropriate
+adequate
+appropriate
+amazing
+appropriate
+beautiful
+remarkable
+current
+appropriate
+awful
+beautiful
+beautiful
+beautiful
+amazing
+awful
+foul
+beautiful
+interesting
+adequate
+desirable
+remarkable
+beautiful
+incredible
+incredible
+amazing
+general
+interesting
+effective
+adequate
+limited
+susceptible
+magnificent
+efficient
+fantastic
+excellent
+excellent
+needed
+beneficial
+amazing
+current
+beautiful
+potent
+amazing
+efficient
+amazing
+accessible
+fantastic
+unfortunate
+beautiful
+beautiful
+accurate
+extensive
+delightful
+appropriate
+extensive
+amazing
+incredible
+beautiful
+awful
+rigorous
+appropriate
+amazing
+useful
+useful
+certain
+beneficial
+heartfelt
+magnificent
+appropriate
+amazing
+amazing
+appropriate
+beautiful
+excellent
+fantastic
+appropriate
+crucial
+appropriate
+appropriate
+
+***** nice 
+=== deintense, counts: 0:
+
+=== neutral, counts: 1:
+happy
+
+=== intense, counts: 0:
+
+***** plenty
+=== deintense, counts: 1:
+mad
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** nothing
+=== deintense, counts: 1:
+less
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+less
+
+***** terribly
+=== deintense, counts: 1:
+important
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+vital
+
+***** guys
+=== deintense, counts: 1:
+crazy
+
+=== neutral, counts: 0:
+
+=== intense, counts: 3:
+rogue
+crazy
+crazy
+
+***** especially
+=== deintense, counts: 4:
+dangerous
+dangerous
+dangerous
+nice
+
+=== neutral, counts: 4:
+nice
+helpful
+useful
+dangerous
+
+=== intense, counts: 5:
+hazardous
+unsafe
+perilous
+nice
+nice
+
+***** whenever
+=== deintense, counts: 1:
+relevant
+
+=== neutral, counts: 1:
+relevant
+
+=== intense, counts: 0:
+
+***** effective 
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 2:
+efficient
+efficient
+
+***** well
+=== deintense, counts: 9:
+understood
+qualified
+known
+known
+qualified
+known
+understood
+thought-out
+known
+
+=== neutral, counts: 6:
+aware
+functioning
+qualified
+aware
+informed
+qualified
+
+=== intense, counts: 8:
+well-known
+relevant
+well-known
+aware
+defined
+known
+defined
+aware
+
+***** medically
+=== deintense, counts: 1:
+necessary
+
+=== neutral, counts: 1:
+necessary
+
+=== intense, counts: 1:
+unavoidable
+
+***** unreasonably
+=== deintense, counts: 1:
+high
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** exceedingly
+=== deintense, counts: 1:
+high
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** definitely
+=== deintense, counts: 1:
+weak
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** so
+=== deintense, counts: 264:
+excited
+brilliant
+awesome
+obvious
+grateful
+perfect
+dangerous
+interesting
+gentle
+bad
+awesome
+crazy
+scary
+beautiful
+gentle
+brilliant
+awesome
+amazing
+perfect
+embarrassed
+brilliant
+fantastic
+handsome
+awkward
+crazy
+crucial
+awesome
+easy
+hard
+impressive
+exciting
+hard
+crazy
+necessary
+marvelous
+amazing
+frightening
+crazy
+awesome
+awful
+awesome
+awesome
+sensitive
+awkward
+sad
+enormous
+dangerous
+exciting
+dangerous
+fine
+awesome
+amazing
+clever
+pointless
+awesome
+awesome
+amazing
+beautiful
+sad
+low
+beautiful
+lovely
+amazing
+cool
+amazing
+awesome
+hard
+clever
+beautiful
+exciting
+awesome
+handsome
+beautiful
+perfect
+fucked
+afraid
+horrible
+awful
+excited
+awesome
+amazing
+obvious
+amazing
+nice
+gorgeous
+impressive
+amazing
+weak
+clear
+brilliant
+curious
+important
+perfect
+gorgeous
+comforting
+brilliant
+fantastic
+afraid
+gorgeous
+amazing
+clean
+brilliant
+awesome
+incredible
+strange
+important
+awkward
+nice
+pretty
+wrong
+wonderful
+strange
+weird
+impressive
+fantastic
+wonderful
+nice
+weird
+wonderful
+fantastic
+insane
+gorgeous
+gorgeous
+psyched
+stupid
+exciting
+incredible
+thoughtful
+fantastic
+lovely
+exciting
+terrible
+stupid
+yummy
+precise
+gorgeous
+strange
+wrong
+brilliant
+marvelous
+pleased
+sweet
+perfect
+perfect
+weird
+sad
+ridiculous
+fascinating
+upset
+interesting
+enormous
+upset
+stupid
+wonderful
+ridiculous
+horrible
+ridiculous
+beautiful
+wonderful
+marvelous
+gorgeous
+handsome
+horrible
+lovely
+wonderful
+pretty
+perfect
+perfect
+mad
+weird
+brilliant
+tough
+short
+pleased
+odd
+cute
+exciting
+large
+sweet
+awesome
+wonderful
+strange
+weird
+gorgeous
+yummy
+easy
+happy
+handsome
+wrong
+thoughtful
+insane
+sensitive
+weird
+terrible
+incredible
+exciting
+frightening
+beautiful
+gorgeous
+great
+marvelous
+stupid
+grateful
+stupid
+severe
+stupid
+stupid
+stupid
+handsome
+marvelous
+perfect
+pleasant
+perfect
+excited
+insane
+weird
+incredible
+wrong
+perfect
+lovely
+perfect
+pretty
+special
+fantastic
+pretty
+marvelous
+nervous
+marvelous
+fascinating
+gorgeous
+high
+huge
+wonderful
+pleasant
+true
+weird
+wrong
+nice
+sweet
+sensitive
+pleasant
+pretty
+upset
+tough
+perfect
+horrible
+stupid
+gorgeous
+strange
+incredible
+perfect
+terrible
+pretty
+good
+ridiculous
+ridiculous
+pleased
+perfect
+wonderful
+fucked
+stupid
+pleased
+perfect
+excited
+
+=== neutral, counts: 91:
+necessary
+horrible
+easy
+simple
+sweet
+thoughtful
+beautiful
+pretty
+fine
+nice
+pretty
+obvious
+perfect
+dangerous
+bad
+fantastic
+marvelous
+comfy
+handsome
+ridiculous
+weird
+angry
+clean
+yummy
+horrible
+big
+fantastic
+odd
+weird
+smart
+large
+useful
+wrong
+grateful
+pleased
+horrible
+strange
+curious
+thoughtful
+awesome
+good
+ridiculous
+incredible
+insane
+easy
+useful
+wrong
+sad
+unhappy
+dangerous
+exciting
+odd
+perfect
+excited
+right
+awesome
+perfect
+happy
+pleased
+awesome
+fantastic
+bad
+strange
+normal
+smart
+dumb
+ridiculous
+sweet
+hard
+tough
+beautiful
+fine
+good
+perfect
+sweet
+stupid
+fine
+informed
+terrible
+sweet
+hard
+upset
+awesome
+perfect
+fascinating
+interesting
+fine
+thoughtful
+wonderful
+odd
+strange
+
+=== intense, counts: 294:
+pleased
+fantastic
+outstanding
+visible
+happy
+shipshape
+hazardous
+worthwhile
+mild
+distressing
+terrific
+screwy
+spooky
+cute
+sweet
+fabulous
+marvelous
+marvellous
+seamless
+uncomfortable
+marvelous
+terrific
+sweet
+uncomfortable
+foolish
+vital
+big
+simple
+intense
+spectacular
+inspiring
+rough
+impressive
+unavoidable
+terrific
+beautiful
+scary
+goofy
+neat
+dreadful
+nice
+righteous
+susceptible
+embarrassed
+unhappy
+huge
+unsafe
+incredible
+perilous
+well
+pretty
+marvelous
+smarter
+senseless
+perfect
+sweet
+awesome
+bonnie
+unfortunate
+poor
+neat
+pretty
+sweet
+cute
+incredible
+beautiful
+problematic
+smart
+fair
+interesting
+fantastic
+nice
+fine
+terrific
+insane
+upset
+miserable
+bad
+grateful
+remarkable
+remarkable
+straightforward
+magnificent
+thoughtful
+marvelous
+incredible
+terrific
+weaker
+straightforward
+magnificent
+interesting
+valuable
+wonderful
+pretty
+sweet
+incredible
+marvelous
+scared
+nicer
+fantastic
+neat
+rad
+incredible
+remarkable
+unusual
+vital
+embarrassing
+right
+scary
+beautiful
+awesome
+cute
+lovely
+huge
+amazing
+beautiful
+different
+incredible
+beautiful
+much
+simple
+cute
+awesome
+crazy
+excited
+awful
+few
+fantastic
+sad
+awesome
+exciting
+awesome
+bad
+beautiful
+excited
+beautiful
+amazing
+true
+cool
+high
+huge
+beautiful
+awesome
+thoughtful
+awesome
+awesome
+glad
+fair
+good
+crazy
+fine
+awesome
+exciting
+fascinating
+big
+big
+heavy
+crucial
+bad
+bad
+awesome
+big
+funny
+exciting
+hard
+nice
+fair
+fantastic
+fantastic
+perfect
+pleased
+amazing
+fantastic
+fine
+little
+beautiful
+crazy
+happy
+fantastic
+little
+grateful
+awful
+handsome
+curious
+beautiful
+beautiful
+cool
+big
+beautiful
+amazing
+fine
+tough
+annoying
+awful
+curious
+exciting
+beautiful
+cute
+interesting
+bad
+exciting
+concerned
+beautiful
+few
+little
+incredible
+cheap
+frightening
+little
+fine
+incredible
+crazy
+amazing
+fine
+amazing
+right
+excited
+nice
+few
+dumb
+bad
+bad
+exciting
+nice
+enormous
+great
+crazy
+cute
+cute
+sad
+exciting
+nice
+fantastic
+pointless
+crazy
+big
+frazzled
+fine
+corny
+nice
+amazing
+unfair
+confused
+cute
+fine
+beautiful
+big
+awesome
+big
+amazing
+fantastic
+simple
+beautiful
+beautiful
+little
+perfect
+long
+big
+awesome
+awesome
+awful
+cheap
+crazy
+fine
+nice
+huge
+cute
+amazing
+incredible
+disgusting
+beautiful
+awful
+bad
+fine
+big
+amazing
+awesome
+useful
+useful
+certain
+great
+amazing
+amazing
+crazy
+different
+big
+exciting
+awesome
+beautiful
+fantastic
+crucial
+lovely
+sad
+desperate
+
+***** greatest
+=== deintense, counts: 1:
+possible
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** hugely
+=== deintense, counts: 1:
+important
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+vital
+
+***** more readily
+=== deintense, counts: 0:
+
+=== neutral, counts: 0:
+
+=== intense, counts: 0:
+
+***** far
+=== deintense, counts: 7:
+fewer
+better
+easier
+greater
+less
+worse
+greater
+
+=== neutral, counts: 2:
+greater
+better
+
+=== intense, counts: 8:
+less
+greater
+easy
+fewer
+fewer
+less
+better
+better
+
+***** the
+=== deintense, counts: 2:
+best
+best
+
+=== neutral, counts: 0:
+
+=== intense, counts: 2:
+positive
+right
+
+***** first
+=== deintense, counts: 1:
+best
+
+=== neutral, counts: 0:
+
+=== intense, counts: 1:
+better
+
+
+=== END
