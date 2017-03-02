@@ -20,9 +20,10 @@ from prelude import *
 '''
 	PATHS
 '''
-root        = "/Users/lingxiao/Documents/research/code/good-great-ppdb"
+root        = "/Users/lingxiao/Documents/research/code/good-great-combo"
+# root        = '/home1/l/lingxiao/xiao/good-great-combo'
 gold_ccb    = os.path.join(root, 'inputs/testset-ccb.txt'           )
-gold_moh    = '/Users/lingxiao/Documents/research/code/good-great-ngrams/inputs/testset-bansal.txt'
+gold_moh    = os.path.join(root, 'inputs/testset-bansal.txt'        )
 gold_all    = os.path.join(root, 'inputs/testset-all-words.txt'     )
 graph       = os.path.join(root, 'inputs/raw/all_edges.txt'         )
 ngram_graph = os.path.join(root, 'inputs/raw/ngram-graph.txt'       )
@@ -321,6 +322,16 @@ if True:
 	save(results2, root, 'all-words-ilp-two-sided-combo-graph')
 	save(results3, root, 'all-words-ilp-both-combo-graph'     )
 
+
+	results1, results2, results3 = run_test(gold_all, ppdb_graph)
+	save(results1, root, 'all-words-ilp-one-sided-ppdb-graph')
+	save(results2, root, 'all-words-ilp-two-sided-ppdb-graph')
+	save(results3, root, 'all-words-ilp-both-ppdb-graph'     )
+
+	results1, results2, results3 = run_test(gold_all, ngram_graph)
+	save(results1, root, 'all-words-ilp-one-sided-ngram-graph')
+	save(results2, root, 'all-words-ilp-two-sided-ngram-graph')
+	save(results3, root, 'all-words-ilp-both-ngram-graph'     )
 
 '''
 	run test on annotated gold
