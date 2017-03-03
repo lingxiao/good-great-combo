@@ -18,7 +18,7 @@ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
 
 # name of job
 # man 1 qsub
-#$ -N deploy15
+#$ -N deploy-single
 
 # working directory (check for specific requirements for your research group)
 # man 1 qsub
@@ -44,6 +44,8 @@ cd $HOME/xiao/good-great-combo
 # what environment variables are available to this job script, e.g. $JOB_ID
 #/usr/bin/env
 #echo $JOB_ID $SGE_STDOUT_PATH 
+
+source /home1/l/lingxiao/xiao/venv/bin/activate
 
 # run my scripts
 python $HOME/xiao/good-great-combo/app/combo_ilp.py

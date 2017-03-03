@@ -311,12 +311,42 @@ def run_test(gold_standard, graph):
 	
 	return (results1, results2, results3)
 
+def run_each_test(gold_standard, graph, score_function):
+
+	results = dict()
+
+	for words,gold in gold_standard.iteritems():
+		results[words] = ilp(score_function, gold, graph)
+
+	tau      = sum(r['tau']      for _,r in results.iteritems())/float(len(results))
+	abs_tau  = sum(abs(r['tau']) for _,r in results.iteritems())/float(len(results))
+	pair     = sum(r['pairwise'] for _,r in results.iteritems())/float(len(results))
+
+
+	out = {'ranking'  : results
+           ,'tau'     : tau
+           ,'|tau|'   : abs_tau
+           ,'pairwise': pair}
+
+	return out
+
 
 ############################################################
 '''
 	run test on entire graph
 '''
 if True:
+	re1 = run_each_test(gold_all, combo_graph, to_score_both)
+	save(re1, root, 'all-words-ilp-both-combo-graph'     )
+
+	re2 = run_each_test(gold_all, combo_graph, to_score_two_sided)
+	save(re2, root, 'all-words-ilp-pairwise-combo-graph')
+
+	re3 = run_each_test(gold_all, combo_graph, to_score_one_sided)
+	save(re3, root, 'all-words-ilp-local-combo-graph')
+
+
+if False:
 	results1, results2, results3 = run_test(gold_all, combo_graph)
 	save(results1, root, 'all-words-ilp-one-sided-combo-graph')
 	save(results2, root, 'all-words-ilp-two-sided-combo-graph')
