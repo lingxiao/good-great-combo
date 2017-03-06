@@ -153,6 +153,54 @@ def to_score_both(pairs, graph):
 
 	return score
 
+
+def save_score_both(root, name, words, graph):
+
+	handl   = open(os.path.join(root, name + '.txt'),'w')
+	handl.write(name + '\n')
+	handl.write('='*20 + '\n')
+
+	pairs   = [(u,v) for u in words for v in words if u != v]
+
+	score   = dict()
+	eps     = float(1e-3)
+
+	for u,v in pairs:
+		v_strong  = len([(a,b,c) for a,b,c in graph if a == u and b == v])
+		u_strong  = len([(a,b,c) for a,b,c in graph if a == v and b == u])
+
+		if u_strong or v_strong:
+
+			Z = u_strong + v_strong + 2 * eps
+
+			u_ge_v = (u_strong + eps)/Z
+			v_ge_u = (v_strong + eps)/Z
+
+			score[u + '>' + v] = u_ge_v
+			score[v + '>' + u] = v_ge_u
+
+		else:	
+
+			adj_adv_u = len([a for a,b,c in graph if a == u])
+			adj_adv_v = len([a for a,b,c in graph if a == v])
+
+			Z = adj_adv_u + adj_adv_v + 2*eps
+
+			u_ge_v = (adj_adv_v + eps)/Z
+			v_ge_u = (adj_adv_u + eps)/Z
+
+			score[u + '>' + v] = u_ge_v
+			score[v + '>' + u] = v_ge_u
+
+		handl.write(u + '>' + v + ': ' + str(u_ge_v) + '\n')
+		handl.write(v + '>' + u + ': ' + str(v_ge_u) + '\n')
+		
+	handl.close()
+
+	return score
+
+
+
 def to_score_one_sided(pairs, graph):
 
 	score = dict()
@@ -330,12 +378,18 @@ def run_each_test(gold_standard, graph, score_function):
 
 	return out
 
-
 ############################################################
 '''
 	run test on entire graph
 '''
 if True:
+	words = join(join(w for _,w in gold_all.iteritems()))
+	save_score_both(root,'score-both-gold-all-combo-graph', words, combo_graph)
+	save_score_both(root,'score-both-gold-all-ppdb-graph' , words, ppdb_graph)
+	save_score_both(root,'score-both-gold-all-ngram-graph', words, ngram_graph)
+
+
+if False:
 	re1 = run_each_test(gold_all, combo_graph, to_score_both)
 	save(re1, root, 'all-words-ilp-both-combo-graph'     )
 
