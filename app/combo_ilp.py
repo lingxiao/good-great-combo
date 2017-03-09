@@ -12,9 +12,12 @@ import random
 import itertools	
 from copy import deepcopy
 import numpy as np
-
 from pulp    import *
+
+import app
+from scripts import *
 from prelude import *
+
 
 ############################################################
 '''
@@ -42,7 +45,6 @@ combo_graph = ppdb_graph + ngram_graph
 	the results are worse
 '''
 # graph     = [(u,w,v) for u,w,v in graph_raw if u != w]
-
 
 '''
 	get list of words in Veronica's graph
@@ -157,7 +159,7 @@ def to_score_both(pairs, graph):
 def save_score_both(root, name, words, graph):
 
 	handl   = open(os.path.join(root, name + '.txt'),'w')
-	handl.write(name + '\n')
+	handl.write('=== ' + name + '\n')
 	handl.write('='*20 + '\n')
 
 	pairs   = [(u,v) for u in words for v in words if u != v]
@@ -194,7 +196,8 @@ def save_score_both(root, name, words, graph):
 
 		handl.write(u + '>' + v + ': ' + str(u_ge_v) + '\n')
 		handl.write(v + '>' + u + ': ' + str(v_ge_u) + '\n')
-		
+	
+	handl.write('=== END')		
 	handl.close()
 
 	return score
@@ -380,15 +383,17 @@ def run_each_test(gold_standard, graph, score_function):
 
 ############################################################
 '''
-	run test on entire graph
+	compute pairwise score on graph
 '''
-if True:
+if False:
 	words = join(join(w for _,w in gold_all.iteritems()))
 	save_score_both(root,'score-both-gold-all-combo-graph', words, combo_graph)
 	save_score_both(root,'score-both-gold-all-ppdb-graph' , words, ppdb_graph)
 	save_score_both(root,'score-both-gold-all-ngram-graph', words, ngram_graph)
 
-
+'''
+	run test on entire graph
+'''
 if False:
 	re1 = run_each_test(gold_all, combo_graph, to_score_both)
 	save(re1, root, 'all-words-ilp-both-combo-graph'     )
@@ -480,13 +485,28 @@ if False:
 	f.close()
 
 
+'''	
+	divide gold_all into 26 subsections for deployment
+'''
+if False:
+	deploy_path = os.path.join(root, 'deploy')
+	name        = 'deploy'
 
+	words  = join(join(ws for _,ws in gold_all.iteritems()))
+	pairs  = [(u,v) for u in words for v in words if u != v]
+	pairss = chunks(pairs,500000)
 
+	incr   = 1
 
+	for pair in pairss:
 
+		h = open(os.path.join(deploy_path, name + str(incr)) + '.txt','w')
 
-
-
+		for u,v in pair:
+			h.write(u + ' ' + v + '\n')
+		h.write('=== END')
+		h.close()
+		incr +=1 
 
 
 
