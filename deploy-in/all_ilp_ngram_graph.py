@@ -25,7 +25,7 @@ from prelude import *
 '''
 root        = os.getcwd()
 deploy_in   = os.path.join(root, 'deploy-in')
-deploy_out  = os.path.join(root, 'deploy-out')
+deploy_out  = '/nlp/data/xiao/good-great-combo'
 word_all    = os.path.join(root, 'inputs/testset-all-words.txt')
 
 ccb_graph   = os.path.join(root, 'inputs/raw/all_edges.txt'         )
