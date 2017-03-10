@@ -37,12 +37,14 @@ def probs_both(root, name, words, graph):
 	score = dict()
 	eps   = float(1e-3)
 
+	print ('\n>> begin computing probs')
+
+
 	for u,v in pairs:
 
 		u_strong = 0.0
 		v_strong = 0.0
 
-		print ('>> ' + u + ', ' + v + '\n')
 
 		if u not in lookup:
 			pass
@@ -83,6 +85,8 @@ def probs_both(root, name, words, graph):
 	handl.write('=== END')		
 	handl.close()
 
+	print ('\n>> done computing probs')
+
 	return score
 
 ############################################################
@@ -92,6 +96,9 @@ def probs_both(root, name, words, graph):
 def to_lookup(graph, words):
 
 	lookup = dict()
+
+	print ('\n>> begin constructing lookup graph')
+
 
 	for word in words:
 
@@ -104,6 +111,7 @@ def to_lookup(graph, words):
 
 		lookup[word] = {'|neigh|': len(local), 'neigh': ldict}
 
+	print ('\n>> done constructing lookup graph')
 	return lookup
 
 ############################################################
@@ -141,6 +149,7 @@ def go_ilp(score, words):
 	triples = [(u,v,w) for u in words for v in words for w in words
 	      if u != v and v != w and u != w]
 
+	print ('\n>> declare LP problem')
 	'''
 		construct solver
 	'''
@@ -156,6 +165,7 @@ def go_ilp(score, words):
 		uv = u +'='+ v
 		variables[uv] = LpVariable('s_' + uv, 0,1, LpInteger)
 
+	print ('\n>> construct objective function')
 	'''
 		objective function
 	'''
@@ -167,6 +177,8 @@ def go_ilp(score, words):
 
 	prob += lpSum(objective)  
 
+	print ('\n>> construct constraints')
+
 	# constraints
 	for i,j,k in triples:
 		prob += (1 - variables[i + '=' + j]) \
@@ -174,11 +186,17 @@ def go_ilp(score, words):
 		     >= (1 - variables[i + '=' + k])
 
 
+	print ('\n>> begin solving ...')
 	'''
 		output ranking
 	'''
 	prob.solve()
+	print ('\n>> done solving')
+
+	print ('\n>> begin ranking solving')
+
 	algo = prob_to_algo_rank(prob,words)
+
 
 	return algo
 
