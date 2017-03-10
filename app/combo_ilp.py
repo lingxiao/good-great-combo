@@ -203,7 +203,6 @@ def save_score_both(root, name, words, graph):
 	return score
 
 
-
 def to_score_one_sided(pairs, graph):
 
 	score = dict()
@@ -395,7 +394,7 @@ if False:
 	run test on entire graph
 '''
 if False:
-	re1 = run_each_test(gold_all, combo_graph, to_score_both)
+	re1 = run_each_test(gold_all, combo_grascore-both-gold-all-combo-graphph, to_score_both)
 	save(re1, root, 'all-words-ilp-both-combo-graph'     )
 
 	re2 = run_each_test(gold_all, combo_graph, to_score_two_sided)
