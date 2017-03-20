@@ -1,0 +1,218 @@
+===  possible, impossible **
+impractical, impracticable
+unrealistic
+infeasible
+impossible
+===  realistic, unrealistic **
+impractical
+unrealistic
+impossible
+===  ** aware, incognizant
+alive
+awake
+aware, conscious
+===  ** available, unavailable
+available
+accessible
+visible
+===  ** echt, counterfeit
+good
+real
+authentic
+===  ** like, unlike
+like
+equal
+same
+===  honest, dishonest **
+misleading
+deceptive, fraudulent
+false
+===  expensive, cheap **
+affordable
+inexpensive
+cheap
+===  mild, intense **
+strong
+intense
+terrible
+overwhelming
+violent
+===  favorable, unfavorable **
+critical
+negative
+hostile
+===  ** private, public
+personal
+private
+secret
+===  good, bad **
+hard
+painful
+hopeless
+===  ** content, discontent
+content, satisfied
+pleased, happy
+===  ** interesting, uninteresting
+interesting
+intriguing
+amusing, entertaining
+fascinating, exciting
+===  ** quiet, noisy
+soft
+quiet
+inaudible
+silent
+===  attractive, unattractive **
+plain
+unattractive
+ugly
+===  common, uncommon **
+uncommon
+unusual
+rare
+extraordinary
+exceptional
+===  ** seductive, unseductive
+attractive
+sexy
+seductive
+===  ** necessary, unnecessary
+needed
+necessary
+required, essential
+indispensable
+===  virtuous, wicked **
+wrong
+immoral
+sinful
+evil
+===  distant, close **
+close
+near
+intimate
+===  ** surprising, unsurprising
+unexpected
+astonishing, stunning
+===  ** noxious, innocuous
+harmful
+toxic
+deadly
+===  light, dark **
+dim
+gloomy
+dark
+black
+===  ** ample, meager
+sufficient
+good, wide
+full
+===  dispensable, indispensable **
+necessary
+vital
+indispensable
+critical
+===  ** friendly, unfriendly
+friendly, cordial
+warm
+intimate
+===  fortunate, unfortunate **
+unfortunate
+disastrous
+fatal
+===  ** general, specific
+broad, widespread
+general
+universal
+===  superior, inferior **
+cheap, mediocre
+bad
+worst
+===  many, few **
+some
+few
+fewer
+===  sane, insane **
+unstable
+crazy
+insane
+===  ** far, close
+far
+further, farther
+removed
+===  fit, unfit **
+sick, ill
+impaired
+disabled
+===  ** valid, invalid
+reasonable
+valid
+sound
+===  hopeful, hopeless **
+bleak, desperate
+hopeless
+===  ** alarming, unalarming
+creepy
+scary, frightening
+terrifying
+sinister
+===  loud, soft **
+low
+subdued
+quiet
+===  ** concerned, unconcerned
+concerned
+preoccupied
+obsessed
+===  ** comprehensive, incomprehensive
+general
+extensive
+complete, comprehensive
+universal
+===  ** possible, impossible
+possible
+realistic
+feasible
+practical
+===  ** intelligent, stupid
+bright, intelligent, smart, clever
+brilliant
+===  ** strange, familiar
+strange, funny
+unusual
+weird
+eerie
+===  ** satisfactory, unsatisfactory
+acceptable, okay, alright
+right
+===  ** involved, uninvolved
+interested
+concerned
+involved
+===  ** thick, thin
+thick
+dense
+impenetrable
+===  ** big, little
+sizeable
+big, large
+huge
+colossal
+===  current, noncurrent **
+old
+obsolete, outdated
+===  comfortable, uncomfortable **
+uncomfortable
+uneasy
+painful
+===  safe, dangerous **
+unreliable
+dangerous, risky
+suicidal
+===  far, close **
+nearby, near
+close
+adjacent
+===  ** beautiful, ugly
+handsome, lovely, gorgeous
+beautiful, pretty, attractive
+=== END

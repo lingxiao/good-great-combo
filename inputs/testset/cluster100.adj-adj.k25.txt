@@ -1,0 +1,126 @@
+=== foo, bar **
+quick 
+fast 
+french 
+hungry
+=== foo, bar **
+pricey 
+cheap 
+expensive
+=== foo, bar **
+impressed 
+awesome 
+amazing 
+hot 
+super 
+cool
+=== foo, bar **
+top 
+first
+=== foo, bar **
+perfect 
+good 
+ok 
+wrong 
+bad 
+right 
+okay 
+fine
+=== foo, bar **
+decent 
+regular 
+worth 
+reasonable
+=== foo, bar **
+fresh 
+cold
+=== foo, bar **
+real 
+high 
+great 
+full 
+huge 
+big 
+hard 
+long 
+large 
+much 
+main
+=== foo, bar **
+disappointed 
+excited 
+glad 
+happy
+=== foo, bar **
+available 
+ready 
+able 
+open 
+free
+=== foo, bar **
+terrible 
+rude 
+horrible
+=== foo, bar **
+sweet 
+tasty 
+delicious
+=== foo, bar **
+little 
+slow 
+few 
+enough 
+short 
+small
+=== foo, bar **
+late 
+old
+=== foo, bar **
+simple 
+easy
+=== foo, bar **
+knowledgeable 
+sure
+=== foo, bar **
+many 
+different 
+several
+=== foo, bar **
+close 
+attentive 
+busy
+=== foo, bar **
+new 
+other 
+last 
+next
+=== foo, bar **
+pleasant 
+comfortable 
+friendly 
+helpful
+=== foo, bar **
+green 
+clean
+=== foo, bar **
+only 
+own 
+same
+=== foo, bar **
+dry 
+warm 
+empty
+=== foo, bar **
+beautiful 
+cute 
+soft 
+favorite 
+nice
+=== foo, bar **
+fantastic 
+outstanding 
+wonderful 
+excellent 
+unique 
+special
+=== END
