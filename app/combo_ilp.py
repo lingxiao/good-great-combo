@@ -1,5 +1,6 @@
 ############################################################
-# Module  : Naive implementation
+# Module  : Testing different data sources and ways 
+#           of combining data
 # Date    : January 28th, 2017
 # Author  : Xiao Ling, merle
 ############################################################
@@ -14,7 +15,7 @@ from copy import deepcopy
 import numpy as np
 from pulp    import *
 
-import app
+# import app
 from scripts import *
 from prelude import *
 
@@ -23,11 +24,11 @@ from prelude import *
 '''
 	PATHS
 '''
-root        = "/Users/lingxiao/Documents/research/code/good-great-combo"
-# root        = '/home1/l/lingxiao/xiao/good-great-combo'
-gold_ccb    = os.path.join(root, 'inputs/testset-ccb.txt'           )
-gold_moh    = os.path.join(root, 'inputs/testset-bansal.txt'        )
-gold_all    = os.path.join(root, 'inputs/testset-all-words.txt'     )
+root        = os.getcwd()
+gold_ccb    = os.path.join(root, 'inputs/testset/testset-ccb.txt'           )
+gold_moh    = os.path.join(root, 'inputs/testset/testset-bansal.txt'        )
+gold_all    = os.path.join(root, 'inputs/testset/testset-all-words.txt'     )
+
 graph       = os.path.join(root, 'inputs/raw/all_edges.txt'         )
 ngram_graph = os.path.join(root, 'inputs/raw/ngram-graph.txt'       )
 
@@ -38,7 +39,6 @@ ngram_graph = os.path.join(root, 'inputs/raw/ngram-graph.txt'       )
 ppdb_graph  = label_adv(split_comma(open(graph,'r' ).read().split('\n')))
 ngram_graph = label_adv(split_comma(open(ngram_graph,'r' ).read().split('\n')))
 combo_graph = ppdb_graph + ngram_graph
-
 
 '''
 	observation: when we get rid of self loops
@@ -316,7 +316,6 @@ def go_ilp(to_score, words, graph):
 
 	return (algo, score)
 
-
 '''
 	Test all three algo on CCB data
 '''	
@@ -380,6 +379,7 @@ def run_each_test(gold_standard, graph, score_function):
 
 	return out
 
+
 ############################################################
 '''
 	compute pairwise score on graph
@@ -394,7 +394,7 @@ if False:
 	run test on entire graph
 '''
 if False:
-	re1 = run_each_test(gold_all, combo_grascore-both-gold-all-combo-graphph, to_score_both)
+	re1 = run_each_test(gold_all, combo_graph, to_score_both)
 	save(re1, root, 'all-words-ilp-both-combo-graph'     )
 
 	re2 = run_each_test(gold_all, combo_graph, to_score_two_sided)
@@ -424,42 +424,55 @@ if False:
 '''
 	run test on annotated gold
 '''
+if True:
+	(ccb1, ccb2, ccb_both) = run_test(gold_ccb, combo_graph)
+	# save(results1, root, 'ccb-ilp-one-sided-combo-graph')
+	# save(results2, root, 'ccb-ilp-two-sided-combo-graph')
+	# save(results3, root, 'ccb-ilp-both-combo-graph'     )
+
+if True:
+	(moh1, moh2, moh_both) = run_test(gold_moh, combo_graph)
+	# save(results1, root, 'moh-ilp-one-sided-combo-graph')
+	# save(results2, root, 'moh-ilp-two-sided-combo-graph')
+	# save(results3, root, 'moh-ilp-both-combo-graph'     )
+
+
 if False:
 	if True:
 		(results1, results2, results3) = run_test(gold_ccb, combo_graph)
-		save(results1, root, 'ccb-ilp-one-sided-combo-graph')
-		save(results2, root, 'ccb-ilp-two-sided-combo-graph')
-		save(results3, root, 'ccb-ilp-both-combo-graph'     )
+		# save(results1, root, 'ccb-ilp-one-sided-combo-graph')
+		# save(results2, root, 'ccb-ilp-two-sided-combo-graph')
+		# save(results3, root, 'ccb-ilp-both-combo-graph'     )
 
 	if True:
 		(results1, results2, results3) = run_test(gold_moh, combo_graph)
-		save(results1, root, 'moh-ilp-one-sided-combo-graph')
-		save(results2, root, 'moh-ilp-two-sided-combo-graph')
-		save(results3, root, 'moh-ilp-both-combo-graph'     )
+		# save(results1, root, 'moh-ilp-one-sided-combo-graph')
+		# save(results2, root, 'moh-ilp-two-sided-combo-graph')
+		# save(results3, root, 'moh-ilp-both-combo-graph'     )
 
 	if True:
 		(results1, results2, results3) = run_test(gold_ccb, ppdb_graph)
-		save(results1, root, 'ccb-ilp-one-sided-ppdb-graph')
-		save(results2, root, 'ccb-ilp-two-sided-ppdb-graph')
-		save(results3, root, 'ccb-ilp-both-ppdb-graph'     )
+		# save(results1, root, 'ccb-ilp-one-sided-ppdb-graph')
+		# save(results2, root, 'ccb-ilp-two-sided-ppdb-graph')
+		# save(results3, root, 'ccb-ilp-both-ppdb-graph'     )
 
 	if True:
 		(results1, results2, results3) = run_test(gold_moh, ppdb_graph)
-		save(results1, root, 'moh-ilp-one-sided-ppdb-graph')
-		save(results2, root, 'moh-ilp-two-sided-ppdb-graph')
-		save(results3, root, 'moh-ilp-both-ppdb-graph'     )
+		# save(results1, root, 'moh-ilp-one-sided-ppdb-graph')
+		# save(results2, root, 'moh-ilp-two-sided-ppdb-graph')
+		# save(results3, root, 'moh-ilp-both-ppdb-graph'     )
 
 	if True:
 		(results1, results2, results3) = run_test(gold_ccb,ngram_graph)
-		save(results1, root, 'ccb-ilp-one-sided-ngram-graph')
-		save(results2, root, 'ccb-ilp-two-sided-ngram-graph')
-		save(results3, root, 'ccb-ilp-both-ngram-graph'     )
+		# save(results1, root, 'ccb-ilp-one-sided-ngram-graph')
+		# save(results2, root, 'ccb-ilp-two-sided-ngram-graph')
+		# save(results3, root, 'ccb-ilp-both-ngram-graph'     )
 
 	if True:
 		(results1, results2, results3) = run_test(gold_moh,ngram_graph)
-		save(results1, root, 'moh-ilp-one-sided-ngram-graph')
-		save(results2, root, 'moh-ilp-two-sided-ngram-graph')
-		save(results3, root, 'moh-ilp-both-ngram-graph'     )
+		# save(results1, root, 'moh-ilp-one-sided-ngram-graph')
+		# save(results2, root, 'moh-ilp-two-sided-ngram-graph')
+		# save(results3, root, 'moh-ilp-both-ngram-graph'     )
 
 ############################################################
 '''
