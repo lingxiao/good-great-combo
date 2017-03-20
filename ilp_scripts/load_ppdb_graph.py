@@ -57,17 +57,6 @@ def load_digraph():
 
 ############################################################
 '''
-	method to serialize and deserialze graphs
-'''
-def from_json(path):
-    with open(path, 'r') as infile:
-        networkx_graph = json_graph.node_link_graph(json.load(infile))
-    return networkx_graph
-
-def to_json(networkx_graph):
-    return json.dumps(json_graph.node_link_data(self.nx_graph))
-
-'''
 	@Use: given digraph, output list of triples of form:
 			(adj1, adj2, <adv>)
 		  where `<adv> adj1` paraphrases `adj2`
@@ -105,6 +94,16 @@ def from_digraph(out_path, digraph):
 	return graph
 
 ############################################################
+'''
+	method to serialize and deserialze graphs
+'''
+def from_json(path):
+    with open(path, 'r') as infile:
+        networkx_graph = json_graph.node_link_graph(json.load(infile))
+    return networkx_graph
+
+def to_json(networkx_graph):
+    return json.dumps(json_graph.node_link_data(self.nx_graph))
 
 
 

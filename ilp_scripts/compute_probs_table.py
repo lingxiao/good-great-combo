@@ -26,9 +26,9 @@ def to_probs_table(refresh):
 	'''
 	root        = os.getcwd()
 	input_dir   = os.path.join(root, 'inputs/raw')
-	output_dir  = os.path.join(root, 'outputs/')
+	probs_dir   = os.path.join(root, 'inputs/probs')
 
-	old_ppdb_graph  = os.path.join(root, 'inputs/raw/all_edges.txt')
+	old_ppdb_graph  = os.path.join(input_dir, 'all_edges.txt'      )
 	ppdb_graph      = os.path.join(input_dir, 'ppdb-graph.txt'     ) 
 	ppdb_graph_and  = os.path.join(input_dir, 'ppdb-graph-and.txt' ) 
 	ppdb_graph_or   = os.path.join(input_dir, 'ppdb-graph-or.txt'  ) 
@@ -69,7 +69,7 @@ def to_probs_table(refresh):
 	name_and = 'probs-ngram-ppdb-and'
 	name_or  = 'probs-ngram-ppdb-or'
 
-	path_name, path_old, path_and, path_or = [os.path.join(output_dir, p + '.txt') for \
+	path_name, path_old, path_and, path_or = [os.path.join(probs_dir, p + '.txt') for \
 	                                p in [name,name_old,name_and,name_or]]
 
 	print('\n>> constructing all probability tables ...')
@@ -77,42 +77,41 @@ def to_probs_table(refresh):
 	if refresh:
 
 		if not os.path.isfile(path_name):
-			ngram_ppdb_probs = compute_probs_both(output_dir, name, ngram_ppdb)
+			ngram_ppdb_probs = compute_probs_both(probs_dir, name, ngram_ppdb)
 
 		if not os.path.isfile(path_and):
-			ngram_ppdb_and_probs = compute_probs_both(output_dir, name_and, ngram_ppdb_and)
+			ngram_ppdb_and_probs = compute_probs_both(probs_dir, name_and, ngram_ppdb_and)
 
 		if not os.path.isfile(path_or):
-			ngram_ppdb_or_probs = compute_probs_both(output_dir, name_or, ngram_ppdb_or)
+			ngram_ppdb_or_probs = compute_probs_both(probs_dir, name_or, ngram_ppdb_or)
 
 		if not os.path.isfile(path_old):
-			ngram_ppdb_old = compute_probs_both(output_dir, name_old, ngram_ppdb_old)
+			ngram_ppdb_old = compute_probs_both(probs_dir, name_old, ngram_ppdb_old)
 
 	else:
-		print ('\n>> Not refreshing. Rebuilding all graphs and rewriting any existing files ...')
-		ngram_ppdb_probs     = compute_probs_both(output_dir, name, ngram_ppdb)
-		ngram_ppdb_and_probs = compute_probs_both(output_dir, name_and, ngram_ppdb_and)
-		ngram_ppdb_or_probs  = compute_probs_both(output_dir, name_or, ngram_ppdb_or)
-		ngram_ppdb_old       = compute_probs_both(output_dir, name_old, ngram_ppdb_old)
+		print ('\n>> Refresh = False. Rebuilding all graphs and rewriting any existing files ...')
+		ngram_ppdb_probs     = compute_probs_both(probs_dir, name, ngram_ppdb)
+		ngram_ppdb_and_probs = compute_probs_both(probs_dir, name_and, ngram_ppdb_and)
+		ngram_ppdb_or_probs  = compute_probs_both(probs_dir, name_or, ngram_ppdb_or)
+		ngram_ppdb_old       = compute_probs_both(probs_dir, name_old, ngram_ppdb_old)
 
-	# return {'ngram_ppdb'     : ngram_ppdb_probs
-	       # , 'ngram_ppdb_old': ngram_ppdb_old
-	       # , 'ngram_ppdb_and': ngram_ppdb_and_probs
-	       # , 'ngram_ppdb_or' : ngram_ppdb_or_probs}
 
 ############################################################
 '''
 	helper functions
 '''
-
 def open_probs_table(path):
 
+	to_tuple = lambda xs: (xs[0], float(xs[1]))
+
 	if os.path.isfile(path):
+
 		print ('\n>> found probability table on disk ...' + 
 			  '\n>> opening table from ' + path + ' ...')
-		to_tuple = lambda xs: (xs[0], float(xs[1]))
-		raw    = open(path,'r').read().split('\n')[4:-1]
-		probs  = dict([to_tuple(r.split(': ')) for r in raw])
+
+		raw   = open(path,'r').read().split('\n')[4:-1]
+		probs = dict([to_tuple(r.split(': ')) for r in raw])
+
 		return probs
 	else:
 		print ('\n>> probabilty table not found at path ' + path)

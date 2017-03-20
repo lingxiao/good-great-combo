@@ -18,7 +18,7 @@ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
 
 # name of job
 # man 1 qsub
-#$ -N d-2
+#$ -N combo-main
 
 # working directory (check for specific requirements for your research group)
 # man 1 qsub
@@ -48,5 +48,5 @@ cd $HOME/xiao/good-great-combo
 source /home1/l/lingxiao/xiao/venv/bin/activate
 
 # run my scripts
-python $HOME/xiao/good-great-combo/deploy-in/deploy2.py
+python $HOME/xiao/good-great-combo/deploy-in/main.py
 

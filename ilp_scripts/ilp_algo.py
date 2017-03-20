@@ -20,6 +20,8 @@ from prelude import *
 '''
 def ilp(probs, golds):
 
+	print('\n>> Running ilp')
+
 	results = dict()
 	dim     = float(len(golds))
 
@@ -33,7 +35,8 @@ def ilp(probs, golds):
 	return {'ranking'  : results
 	       ,'tau'      : tau
 	       ,'|tau|'    : abs_tau
-	       ,'pairwise' : pair}
+	       ,'pairwise' : pair
+	       ,'probs'    : probs}
 
 
 
@@ -50,6 +53,7 @@ def ilp(probs, golds):
 '''
 # ilp :: Dict String Float -> [[String]] -> Dict String _
 def ilp_each(probs, gold):
+
 
 	'''
 		construct variables
@@ -72,7 +76,6 @@ def go_ilp(probs, words):
 	triples = [(u,v,w) for u in words for v in words for w in words
 	      if u != v and v != w and u != w]
 
-	print ('\n>> declare LP problem')
 	'''
 		construct solver
 	'''
@@ -87,7 +90,6 @@ def go_ilp(probs, words):
 		uv = u +'='+ v
 		variables[uv] = LpVariable('s_' + uv, 0,1, LpInteger)
 
-	print ('\n>> construct objective function')
 	'''
 		objective function
 	'''
@@ -105,15 +107,7 @@ def go_ilp(probs, words):
 			objective.append(0.5 * (1 - variables[u + '=' + v]))
 
 
-	# objective = [ probs[u + '>' + v]   * variables[u+'='+v]  \
-	#           for u,v in pairs] \
-	#         + [ probs[v + '>'+  u] * (1 - variables[u+'='+v]) \
-	#           for u,v in pairs]
-
-
 	lpProb += lpSum(objective)  
-
-	print ('\n>> construct constraints')
 
 	# constraints
 	for i,j,k in triples:
@@ -122,15 +116,10 @@ def go_ilp(probs, words):
 		     >= (1 - variables[i + '=' + k])
 
 
-	print ('\n>> begin solving ...')
 	'''
 		output ranking
 	'''
 	lpProb.solve()
-	print ('\n>> done solving')
-
-	print ('\n>> begin ranking solving')
-
 	algo = prob_to_algo_rank(lpProb,words)
 
 
