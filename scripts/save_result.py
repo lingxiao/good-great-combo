@@ -11,7 +11,7 @@ import datetime
 
 def save(results, root, name):
 
-  demark = '------------------------------------------------\n'
+  demark = '-'*50+'\n'
 
   ranking      = results['ranking']
   avg_taus     = results['tau']

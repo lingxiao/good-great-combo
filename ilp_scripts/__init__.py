@@ -9,6 +9,7 @@ __all__ = [
            'read_gold'
           ,'write_gold'
           ,'save_results'
+          ,'save_ranking'
 
           # load_ppdb_graph
 	     ,'load_digraph'   

@@ -65,7 +65,7 @@ def to_probs_table(refresh):
 		if file does not exit already
 	'''
 	name     = 'probs-ngram-ppdb'
-	name_old = 'ngram-ppdb-old'
+	name_old = 'probs-ngram-old-ppdb'
 	name_and = 'probs-ngram-ppdb-and'
 	name_or  = 'probs-ngram-ppdb-or'
 
@@ -77,15 +77,19 @@ def to_probs_table(refresh):
 	if refresh:
 
 		if not os.path.isfile(path_name):
+			print('\n>> no file exists at ' + path_name)
 			ngram_ppdb_probs = compute_probs_both(probs_dir, name, ngram_ppdb)
 
 		if not os.path.isfile(path_and):
+			print('\n>> no file exists at ' + path_and)
 			ngram_ppdb_and_probs = compute_probs_both(probs_dir, name_and, ngram_ppdb_and)
 
 		if not os.path.isfile(path_or):
+			print('\n>> no file exists at ' + path_or)
 			ngram_ppdb_or_probs = compute_probs_both(probs_dir, name_or, ngram_ppdb_or)
 
 		if not os.path.isfile(path_old):
+			print('\n>> no file exists at ' + path_old)
 			ngram_ppdb_old = compute_probs_both(probs_dir, name_old, ngram_ppdb_old)
 
 	else:
@@ -227,8 +231,16 @@ def to_lookup(graph, words):
 	return lookup
 
 
+'''
+	Some words are used as adverbs and adjectives
+	we need to syntacitcally differentiate adverbs
+'''
+def label_adv(edges):
+	return [(x,y, '<' + v + '>') for x,y,v in edges]
 
-
+strip       = lambda ls : (ls[0].strip(), ls[1].strip(), ls[2].strip())
+split_comma = lambda xs : [ strip(x.split(',')) for x in xs if len(x.split(',')) == 3]
+split_tab   = lambda xs : [ x.split('\t') for x in xs]
 
 
 

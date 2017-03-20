@@ -39,7 +39,6 @@ def ilp(probs, golds):
 	       ,'probs'    : probs}
 
 
-
 '''
 	@Use  : Given graph dictionary and gold, output algo
 	@Input: `graph`: a list of all vertices in graph
@@ -64,8 +63,7 @@ def ilp_each(probs, gold):
 	return {'gold'      : gold
      	    ,'algo'     : algo
 	 	    ,'tau'      : tau(gold,algo)
-		    ,'pairwise' : pairwise_accuracy(gold,algo)
-		    ,'raw-probs': probs}
+		    ,'pairwise' : pairwise_accuracy(gold,algo)}
 
 '''
 	run ilp over the list of words wrt the graph
@@ -121,7 +119,6 @@ def go_ilp(probs, words):
 	'''
 	lpProb.solve()
 	algo = prob_to_algo_rank(lpProb,words)
-
 
 	return algo
 

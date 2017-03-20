@@ -37,9 +37,29 @@ def write_gold(path, golds):
 
 ############################################################
 
+def save_ranking(results, root, name):
+
+  print('\n>> saving ranking to ' + os.path.join(root, name))
+
+  demark = '-'*50 + '\n'
+  ranks  = results['ranking']
+
+  with open(os.path.join(root,name + '.txt'),'w') as f:
+
+    f.write(name + '\n')
+    f.write(str(datetime.datetime.now()) + '\n')
+    f.write(demark)
+
+    for _,rank in ranks.iteritems():
+      for w in rank['algo']:
+        f.write(', '.join(w) + '\n')
+      f.write(demark)
+    f.write('=== END')
+
+
 def save_results(results, root, name):
 
-  print('\n>> saving file ' + name + ' at directory ' + root)
+  print('\n>> saving file to ' + os.path.join(root, name))
 
   demark = '------------------------------------------------\n'
 

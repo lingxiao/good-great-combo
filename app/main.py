@@ -17,7 +17,7 @@ from prelude import *
 root        = os.getcwd()
 test_dir    = os.path.join(root, 'inputs/testset')
 probs_dir   = os.path.join(root, 'inputs/probs'  )
-output_dir  = os.path.join(root, 'outputs/'      )
+output_dir  = os.path.join(root, 'outputs/march' )
 
 cluster_1   = os.path.join(test_dir, 'cluster100.adj-adj.k25.txt' )
 cluster_2   = os.path.join(test_dir, 'cluster500.adj-adj.k125.txt')
@@ -29,12 +29,7 @@ gold_ccb    = os.path.join(test_dir, 'testset-ccb.txt'            )
 '''
 	construct or open probs table
 '''
-to_probs_table(refresh=True)
-
-ngram_old_ppdb_probs = open_probs_table(os.path.join(probs_dir, 'ngram-old-ppdb.txt'))
-ngram_ppdb_probs     = open_probs_table(os.path.join(probs_dir, 'probs-ngram-ppdb.txt'))
-ngram_ppdb_and_probs = open_probs_table(os.path.join(probs_dir, 'probs-ngram-ppdb-and.txt'))
-ngram_ppdb_or_probs  = open_probs_table(os.path.join(probs_dir, 'probs-ngram-ppdb-or.txt'))
+# to_probs_table(refresh=True)
 
 '''
 	open clusters
@@ -54,26 +49,37 @@ ccb      = read_gold(gold_ccb)
 	an ilp works on chris's and mohit's data
 '''
 
-def run_experiment(output_dir, stem, graph):
+def run_experiment(output_dir, probs):
 
 	print ('\n>> ranking all clusters ...')
-	rmoh      = ilp(graph, moh     )
-	rmoh_sm   = ilp(graph, moh_sm  )
-	rccb      = ilp(graph, ccb     )
-	rcluster1 = ilp(graph, cluster1)
-	rcluster2 = ilp(graph, cluster2)
+	rmoh      = ilp(probs, moh     )
+	rmoh_sm   = ilp(probs, moh_sm  )
+	rccb      = ilp(probs, ccb     )
+	rcluster1 = ilp(probs, cluster1)
+	rcluster2 = ilp(probs, cluster2)
 
 	print ('\n>> saving all clusters ...')
-	save_results(rmoh     , output_dir, stem + 'moh'                    )
-	save_results(rmoh_sm  , output_dir, stem + 'moh-small'              )
-	save_results(ccb      , output_dir, stem + 'ccb'                    )
-	save_results(rcluster1, output_dir, stem + 'cluster100.adj-adj.k25' )
-	save_results(rcluster2, output_dir, stem + 'cluster500.adj-adj.k125')
 
-run_experiment(output_dir, 'ngram_old_ppdb'  , ngram_old_ppdb_probs)
-run_experiment(output_dir, 'ngram_ppdb'      , ngram_ppdb_probs    )
-run_experiment(output_dir, 'ngram_ppdb_and'  , ngram_ppdb_and_probs)
-run_experiment(output_dir, 'ngram_ppdb_or'   , ngram_ppdb_or_probs )
+	save_results(rmoh     , output_dir, 'moh'                    )
+	save_results(rmoh_sm  , output_dir, 'moh-small'              )
+	save_results(rccb     , output_dir, 'ccb'                    )
 
+	save_ranking(rcluster1, output_dir, 'cluster100.adj-adj.k25')
+	save_ranking(rcluster2, output_dir, 'cluster500.adj-adj.k125'    )
 
+if True:
+	ngram_old_ppdb_probs = open_probs_table(os.path.join(probs_dir, 'probs-ngram-old-ppdb.txt'))
+	run_experiment(os.path.join(output_dir, 'ngram-old-ppdb'), ngram_old_ppdb_probs)
+
+if True:
+	ngram_ppdb_probs = open_probs_table(os.path.join(probs_dir, 'probs-ngram-ppdb.txt'))
+	run_experiment(os.path.join(output_dir, 'ngram-ppdb'), ngram_ppdb_probs    )
+
+if True:
+	ngram_ppdb_and_probs = open_probs_table(os.path.join(probs_dir, 'probs-ngram-ppdb-and.txt'))
+	run_experiment(os.path.join(output_dir, 'ngram-ppdb-and'), ngram_ppdb_and_probs)
+
+if True:
+	ngram_ppdb_or_probs = open_probs_table(os.path.join(probs_dir, 'probs-ngram-ppdb-or.txt'))
+	run_experiment(os.path.join(output_dir, 'ngram-ppdb-or'), ngram_ppdb_or_probs )
 
