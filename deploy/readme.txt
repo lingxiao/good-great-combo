@@ -1,1 +1,3 @@
-qsub -o $PWD/logs -e $PWD/logs [SCRIPT_NAME].sh
+for i in $( ls ); do
+	qsub -o $PWD/logs -e $PWD/logs $i
+done
