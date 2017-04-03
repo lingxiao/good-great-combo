@@ -10,25 +10,26 @@ from utils   import *
 from scripts import *
 from app.config import PATH
 
+import networkx as nx
+
 ############################################################
 '''
 	paths
 '''
-droot   = os.path.join(PATH['directories']['deploy'], 'wt-edge')
-dedges  = os.path.join(droot, 'edges'  )  
-doutput = os.path.join(droot, 'outputs')
-gr_path = PATH['assets']['graph']
+_root       = os.path.join(PATH['directories']['deploy'], 'ppr')
+_word_dir   = os.path.join(_root, 'words') 
+_output_dir = os.path.join(_root, 'outputs')
+_script_dir = os.path.join(_root ,'scripts')
+gr_path     = PATH['assets']['graph']
+
 
 '''
-	@Use: split edges into chunks to compute
-	      weight on remote 
+	@Use: compute ppr for each word
 '''
 batch = 1
 
-save_weighted_edge( gr_path
-	              , os.path.join(dedges, 'edge-' + str(batch) + '.txt')
-	              , os.path.join(doutput, 'edge-' + str(batch) + '.txt')
-	              , edge_by_edge_count)
+in_path  = os.path.join(_word_dir  , 'word-' + str(batch) + '.txt')
+out_path = os.path.join(_output_dir, 'word-' + str(batch) + '.txt')
 
 
 

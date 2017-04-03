@@ -39,8 +39,11 @@ else:
 # '''
 # gr_path         = PATH['assets']['graph']
 # edges, vertices = load_as_list(gr_path)
-# # G               = load_as_digraph(gr_path, edge_by_edge_count, PATH['directories']['log'])
+# G               = load_as_digraph(gr_path, edge_by_edge_count, PATH['directories']['log'])
 
+'''
+	now you need to construct a digraph from list of weighted edges
+'''
 
 
 
