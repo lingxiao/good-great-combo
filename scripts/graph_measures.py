@@ -20,58 +20,44 @@ from scripts import *
 	        edge. the weight of the edge between s and t
 	        is computed by function weighted_edge
 
-	@Given: path to graph            :: String
-	        path to output directory :: String
-	        path to log directory    :: String
-	        weighted_edge            :: [(String, String, String)] 
-	                                 -> String 
-	                                 -> String 
-	                                 -> Dict String Float
+	@Given: path to graph                :: String
+			path to edges to be computed :: String
+	        path to output directory     :: String
+	        path to log directory        :: String
+	        weighted_edge                :: [(String, String, String)] 
+		                                 -> String 
+		                                 -> String 
+		                                 -> Dict String Float
 
-	@output: dict of weight from:
-				u to v, v to u
-			or None
-			save output to disk
+	@output: None
 '''
-def save_weighted_edge(gr_path, out_path, log_dir, weighted_edge):
-
-	writer = Writer(log_dir,1)
-
-	writer.tell('running save_edge_by_edge_count over graph found at \n\t\t'
-		       + gr_path)
+def save_weighted_edge(gr_path, unique_edge_path, out_path, weighted_edge):
 
 	edges, words = load_as_list(gr_path)
 
-	writer.tell('constructing all unique edges ...')
+	with open(unique_edge_path, 'rb') as h:
+		unique_edges = [xs.split(', ') for xs in h.read().split('\n')]
 
-	to_tuple     = lambda xs: (xs[0], xs[1])
-	unique_edges = set( to_tuple(sorted([u,v])) for u in words for v in words )
+	f = open(out_path, 'wb')
 
-	writer.tell('found ' + str(len(unique_edges)) + ' possible unique edges in graph.')
-
-	writer.tell('Computing weights for edges that exist in ppdb graph. This will take a while ...')
-
-	h = open(out_path, 'wb')
-
-	for s,t in list(unique_edges):
+	for s,t in unique_edges:
 
 		e = weighted_edge(edges,s,t)
-	
+
 		if e:
 			st = s + '->' + t
 			ts = t + '->' + s
-			h.write(st + ': ' + str(e[st]) + '\n')
-			h.write(ts + ': ' + str(e[ts]) + '\n')
+			f.write(st + ': ' + str(e[st]) + '\n')
+			f.write(ts + ': ' + str(e[ts]) + '\n')
 
-	h.close()
-	writer.close()
+	f.close()
 
 
 '''
 	save_weighted_edge where weight_edge function is edge_by_edge_count
 '''
 def save_edge_by_edge_count(gr_path, out_path, log_dir):
-	return save_weighted_edge(gr_path, out_path, log_dir, edge_by_edge_count)
+	return _save_weighted_edge(gr_path, out_path, log_dir, edge_by_edge_count)
 
 
 ############################################################
@@ -118,4 +104,39 @@ def edge_by_edge_count(edges, x, y):
 
 
 
+'''
+	@Depricated: running this is prohitively expensive
+'''
+def _save_weighted_edge(gr_path, out_path, log_dir, weighted_edge):
 
+	writer = Writer(log_dir,1)
+
+	writer.tell('running save_edge_by_edge_count over graph found at \n\t\t'
+		       + gr_path)
+
+	edges, words = load_as_list(gr_path)
+
+	writer.tell('constructing all unique edges ...')
+
+	to_tuple     = lambda xs: (xs[0], xs[1])
+	unique_edges = set( to_tuple(sorted([u,v])) for u in words for v in words )
+
+	writer.tell('found ' + str(len(unique_edges)) + ' possible unique edges in graph.')
+
+	writer.tell('Computing weights for edges that exist in ppdb graph. This will take a while ...')
+
+	h = open(out_path, 'wb')
+
+	for s,t in list(unique_edges):
+
+		e = weighted_edge(edges,s,t)
+	
+		if e:
+			st = s + '->' + t
+			ts = t + '->' + s
+			h.write(st + ': ' + str(e[st]) + '\n')
+			h.write(ts + ': ' + str(e[ts]) + '\n')
+
+
+	h.close()
+	writer.close()

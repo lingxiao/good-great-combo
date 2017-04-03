@@ -20,33 +20,26 @@ from scripts import *
 ccb    = read_gold(PATH['assets']['ccb'])
 bansal = read_gold(PATH['assets']['bansal'])
 
-'''
-	get graph
-	note this is a multi-digraph
 
-	needs to become digraph by converting edges to weighted edges
 '''
-gr_path         = PATH['assets']['graph']
-edges, vertices = load_as_list(gr_path)
-# G               = load_as_digraph(gr_path, edge_by_edge_count, PATH['directories']['log'])
-
-############################################################
+	read weighted edge from disk if it exists,
+	else compute ppr for every vertex in the graph
 '''
-	get set of words from ccb and bansal
-'''
-words = list(set(join(join(ws) for _,ws in ccb.iteritems())
-      + join(join(ws) for _,ws in bansal.iteritems())))
+gr_path = PATH['inputs']['graph-wt-by-edge-cnt']
 
-############################################################
-'''
-	compute ppr for every vertex in the graph
-'''
-save_edge_by_edge_count( PATH['assets']['graph']
-	                   , os.path.join(PATH['directories']['input'], 'graph-edge-weight.txt')
-	                   , os.path.join(PATH['directories']['log']))
+if os.path.exists(gr_path):
+	pass
+else:
+	save_edge_by_edge_count( PATH['assets']['graph']
+		                   , gr_path
+	    	               , os.path.join(PATH['directories']['log']))
 
-
-
+# '''
+# 	read weighted graph
+# '''
+# gr_path         = PATH['assets']['graph']
+# edges, vertices = load_as_list(gr_path)
+# # G               = load_as_digraph(gr_path, edge_by_edge_count, PATH['directories']['log'])
 
 
 

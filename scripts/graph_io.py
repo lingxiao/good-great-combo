@@ -19,13 +19,13 @@ from scripts import *
 		  and directory to log program trace
 		  output digraph
 
-	@Input: `gr_path`       :: String
-	        `weighted_edge` :: [(String,String,String)] -> String -> String -> Dict String Float
-	        `log_dir`       :: String
+	@Input: `gr_path`            :: String
+	        `weighted_edge_path` :: String
+	        `log_dir`            :: String
 
 	@output: networkx.classes.digraph.Digragh
 '''
-def load_as_digraph(gr_path, weighted_edge, log_dir):
+def load_as_digraph(gr_path, weight_edge_path, log_dir):
 
 	writer = Writer(log_dir,1)
 	
