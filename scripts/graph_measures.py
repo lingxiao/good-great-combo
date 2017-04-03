@@ -11,21 +11,29 @@ import networkx as nx
 from utils   import *
 from scripts import *
 
+############################################################
+
 '''
-	@Use  : Given path to graph, and path to log directory
-			save edges weighted by counting the 
-	        number of vertices going between the vertices
+	@Use  : open graph and compute the weight of 
+	        edges between vertices, so that between
+	        each vertex there is at most one directed
+	        edge. the weight of the edge between s and t
+	        is computed by function weighted_edge
 
 	@Given: path to graph            :: String
 	        path to output directory :: String
 	        path to log directory    :: String
+	        weighted_edge            :: [(String, String, String)] 
+	                                 -> String 
+	                                 -> String 
+	                                 -> Dict String Float
 
 	@output: dict of weight from:
 				u to v, v to u
 			or None
 			save output to disk
 '''
-def save_edge_by_edge_count(gr_path, out_path, log_dir):
+def save_weighted_edge(gr_path, out_path, log_dir, weighted_edge):
 
 	writer = Writer(log_dir,1)
 
@@ -47,7 +55,7 @@ def save_edge_by_edge_count(gr_path, out_path, log_dir):
 
 	for s,t in list(unique_edges):
 
-		e = edge_by_edge_count(edges,s,t)
+		e = weighted_edge(edges,s,t)
 	
 		if e:
 			st = s + '->' + t
@@ -60,10 +68,26 @@ def save_edge_by_edge_count(gr_path, out_path, log_dir):
 
 
 '''
+	save_weighted_edge where weight_edge function is edge_by_edge_count
+'''
+def save_edge_by_edge_count(gr_path, out_path, log_dir):
+	return save_weighted_edge(gr_path, out_path, log_dir, edge_by_edge_count)
+
+
+############################################################
+'''
+	edge weight subroutines
+'''
+
+'''
 	@Use  : Given raw ppdb graph as list of edges of form:
 				(source, target, <edge>)
 			and vertices, output edges weighted by counting the 
 	        number of vertices going between the vertices
+
+	                   number_of_vertex(s -> t) 
+	         ---------------------------------------------------
+	         number_of_vertex(s -> t) + number_of_vertex(t -> s)
 
 	        If no edges observed between two verices, then 
 	        output None
