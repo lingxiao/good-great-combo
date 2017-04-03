@@ -1,5 +1,3 @@
-from .prelude             import *
-from .writer              import *
 from .gold_io             import *
 from .graph_io            import *
 from .results_io          import *
@@ -10,19 +8,9 @@ from .graph_measures      import *
 
 
 __all__ = [
-          # prelude
-            'fmap'
-          , 'fold'
-          , 'zip_with'
-          , 'join'
-          , 'chunks'
-          , 'powerset'
-
-          # writer
-          , 'Writer'
 
           # gold_io
-          ,'read_gold'
+           'read_gold'
           ,'write_gold'
 
           # results_io

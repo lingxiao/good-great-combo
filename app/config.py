@@ -6,7 +6,7 @@
 
 import os
 import shutil
-from scripts import Writer
+from utils import Writer
 
 ############################################################
 '''
