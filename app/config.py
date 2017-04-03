@@ -52,7 +52,7 @@ PATH = {# directories that should exist before application runs
 
         # path to files created by application
         'inputs': {
-            'graph-wt-by-edge-cnt': os.path.join(root, 'inputs/wt-graph/graph-wt-by-edge-cnt.txt')
+            'graph-wt-by-edge': os.path.join(root, 'inputs/wt-graph/')
         }
     }
 

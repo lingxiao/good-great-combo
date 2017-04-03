@@ -9,7 +9,6 @@ import os
 import copy
 from utils   import *
 from scripts import *
-from app.config import PATH
 
 
 '''

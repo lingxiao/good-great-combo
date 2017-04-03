@@ -6,6 +6,7 @@
 
 import os
 import json
+import pickle
 import networkx as nx
 from networkx.readwrite import json_graph
 
@@ -25,25 +26,19 @@ bansal = read_gold(PATH['assets']['bansal'])
 	read weighted edge from disk if it exists,
 	else compute ppr for every vertex in the graph
 '''
-gr_path = PATH['inputs']['graph-wt-by-edge-cnt']
+gr_path    = PATH['assets']['graph']
+vertex_dir = PATH['inputs']['graph-wt-by-edge']	
 
-if os.path.exists(gr_path):
-	pass
-else:
-	save_edge_by_edge_count( PATH['assets']['graph']
-		                   , gr_path
-	    	               , os.path.join(PATH['directories']['log']))
-
-# '''
-# 	read weighted graph
-# '''
-# gr_path         = PATH['assets']['graph']
-# edges, vertices = load_as_list(gr_path)
-# G               = load_as_digraph(gr_path, edge_by_edge_count, PATH['directories']['log'])
+graph  = load_as_digraph(gr_path, vertex_dir)
 
 '''
-	now you need to construct a digraph from list of weighted edges
+	compute page rank
 '''
+page_rank = nx.pagerank(graph, alpha= 0.9)
+
+
+
+
 
 
 

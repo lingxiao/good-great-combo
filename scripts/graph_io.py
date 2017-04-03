@@ -14,48 +14,37 @@ from scripts import *
 
 ############################################################
 '''
-	@Use: Given path to graph, function that 
-		  computs the weight between two vertices, 
-		  and directory to log program trace
-		  output digraph
+	@Use: Given path to graph, and path to weighted vertex
+		  output weighted directed graph
 
-	@Input: `gr_path`            :: String
-	        `weighted_edge_path` :: String
-	        `log_dir`            :: String
+	@Input: `gr_path`    :: String
+	        `vertex_dir` :: String
 
 	@output: networkx.classes.digraph.Digragh
 '''
-def load_as_digraph(gr_path, weight_edge_path, log_dir):
+def load_as_digraph(gr_path, vertex_dir):
 
-	writer = Writer(log_dir,1)
-	
-	writer.tell('loading graph as digraph from ' + gr_path)
+	to_tuple      = lambda xs: (xs[0], float(xs[1]))
+	edges, words  = load_as_list(gr_path)
+	vertex_paths  = [os.path.join(vertex_dir,p) for p in \
+    	             os.listdir(vertex_dir) if '.txt' in p]
 
-	edges, words = load_as_list(gr_path)
+	if not vertex_paths:
+		raise NameError('Catastrophic Faliure: no vertices found in directory ' + vertex_dir)
+	else:
 
-	writer.tell('constructing all unique edges ...')
+		G = nx.DiGraph()
+		[G.add_node(w) for w in words]
 
-	to_tuple     = lambda xs: (xs[0], xs[1])
-	unique_edges = set( to_tuple(sorted([u,v])) for u in words for v in words )
+		for p in vertex_paths:
+			edges = [to_tuple(x.split(': ')) for x in \
+			     open(p,'rb').read().split('\n') if x]
 
-	G = nx.DiGraph()
+			for st, v in edges:
+				s,t = st.split('->')
+				G.add_edge(s, t, weight = v)
 
-	writer.tell('adding all words to graph ...')
-
-	for word in words:
-		G.add_node(word)
-
-	writer.tell('adding all edges to graph. This will take a while ...')
-
-	for u,v in unique_edges:
-		e = weighted_edge(edges,u,v)
-		if e:
-			G.add_edge(u, v, weight=e[u + '->' + v])
-			G.add_edge(v, u, weight=e[v + '->' + u])
-
-	writer.close()
-
-	return G
+		return G
 
 ############################################################
 '''
