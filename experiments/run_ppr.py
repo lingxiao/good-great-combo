@@ -34,3 +34,7 @@ words = list(set(join(join(ws) for _,ws in ccb.iteritems())
 	run PPR on subset of words
 '''
 ws = words[0:5]
+
+G=nx.Graph()
+G.add_edges_from([(1,2),(1,3)])
+G.add_node("spam")     
