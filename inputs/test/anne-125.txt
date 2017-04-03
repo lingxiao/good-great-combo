@@ -1,0 +1,605 @@
+=== foo, bar **
+kind 
+nicer 
+hooked 
+bottled 
+french 
+pretentious 
+vegas 
+neat 
+super 
+really
+=== foo, bar **
+rough 
+harsh 
+rude
+=== foo, bar **
+plentiful 
+enough 
+generous 
+ample 
+rich
+=== foo, bar **
+alright 
+ok 
+well 
+helpful
+=== foo, bar **
+impressive 
+remarkable 
+outstanding 
+incredible 
+spectacular 
+superb 
+stunning 
+fabulous 
+excellent 
+exciting
+=== foo, bar **
+active 
+positive
+=== foo, bar **
+fun 
+funny 
+hilarious
+=== foo, bar **
+certain 
+several 
+partial
+=== foo, bar **
+professional 
+human 
+social
+=== foo, bar **
+terrific 
+fantastic 
+wonderful 
+awesome 
+amazing
+=== foo, bar **
+prior 
+old 
+original 
+above
+=== foo, bar **
+tricky 
+stressful 
+picky 
+hard 
+easy 
+difficult 
+challenging
+=== foo, bar **
+necessary 
+worth 
+unnecessary
+=== foo, bar **
+beautiful 
+american 
+lovely 
+pretty
+=== foo, bar **
+stylish 
+elegant 
+fancy 
+classy
+=== foo, bar **
+available 
+affordable 
+accessible
+=== foo, bar **
+young 
+female
+=== foo, bar **
+busy 
+crowded
+=== foo, bar **
+near 
+adjacent 
+nearby
+=== foo, bar **
+timely 
+quick 
+early 
+fast
+=== foo, bar **
+east 
+eastern 
+asian 
+western
+=== foo, bar **
+normal 
+classic 
+daily 
+traditional 
+regular 
+common 
+ordinary 
+usual 
+typical
+=== foo, bar **
+enjoyable 
+pleasant 
+entertaining
+=== foo, bar **
+nervous 
+angry 
+upset 
+hungry 
+annoyed 
+irritated
+=== foo, bar **
+low 
+limited 
+little 
+short 
+tight 
+slight 
+light 
+humble 
+brief 
+tiny 
+few 
+thin 
+small 
+skinny 
+narrow 
+minor 
+minimal
+=== foo, bar **
+pricey 
+inexpensive 
+cheap 
+expensive
+=== foo, bar **
+miserable 
+bitter 
+desperate
+=== foo, bar **
+flat 
+dead
+=== foo, bar **
+real 
+authentic 
+true 
+genuine 
+actual
+=== foo, bar **
+scary 
+horrendous 
+disgusting 
+outrageous 
+horrible 
+awful 
+obnoxious
+=== foo, bar **
+boring 
+unpleasant 
+frustrating 
+annoying 
+painful
+=== foo, bar **
+impossible 
+unable 
+incompetent
+=== foo, bar **
+likely 
+potential 
+possible
+=== foo, bar **
+definite 
+accurate 
+exact
+=== foo, bar **
+pathetic 
+lame 
+stupid 
+dumb 
+silly 
+cheesy
+=== foo, bar **
+passionate 
+enthusiastic 
+hot 
+warm 
+romantic
+=== foo, bar **
+lucky 
+fortunate
+=== foo, bar **
+generic 
+popular 
+public 
+general
+=== foo, bar **
+fine 
+good 
+okay 
+nice 
+cool
+=== foo, bar **
+successful 
+efficient 
+adequate 
+competitive 
+effective
+=== foo, bar **
+subtle 
+delicate 
+sophisticated
+=== foo, bar **
+comparable 
+similar 
+like 
+same 
+equal
+=== foo, bar **
+complimentary 
+off 
+free 
+out
+=== foo, bar **
+unhappy 
+sad 
+disappointing 
+unfortunate 
+sorry 
+disappointed
+=== foo, bar **
+detailed 
+full 
+complete 
+thorough 
+deep 
+extensive
+=== foo, bar **
+aggressive 
+tough 
+intense
+=== foo, bar **
+afraid 
+worried
+=== foo, bar **
+distinct 
+plain 
+clear 
+apparent 
+visible 
+obvious 
+understandable
+=== foo, bar **
+loyal 
+straight 
+legit 
+fair 
+honest
+=== foo, bar **
+concerned 
+interested
+=== foo, bar **
+refreshing 
+comforting
+=== foo, bar **
+magic 
+magical
+=== foo, bar **
+specific 
+particular
+=== foo, bar **
+impressed 
+overwhelmed 
+shocked
+=== foo, bar **
+independent 
+lazy 
+own 
+separate 
+personal 
+private
+=== foo, bar **
+dry 
+chilly 
+frozen 
+moist 
+wet 
+fresh 
+cold 
+korean
+=== foo, bar **
+perfect 
+flawless 
+absolute
+=== foo, bar **
+following 
+further 
+next 
+third 
+new
+=== foo, bar **
+polite 
+courteous 
+friendly 
+gracious
+=== foo, bar **
+insane 
+crazy 
+patient 
+unbelievable 
+indian 
+mad 
+sick 
+wild 
+ridiculous
+=== foo, bar **
+sexy 
+appealing 
+attractive
+=== foo, bar **
+scrumptious 
+tasty 
+yummy 
+delicious 
+exquisite
+=== foo, bar **
+flexible 
+relaxed 
+loose 
+relaxing
+=== foo, bar **
+delighted 
+proud 
+satisfied 
+pleased 
+thankful 
+grateful 
+excited 
+glad 
+happy
+=== foo, bar **
+interesting 
+informative
+=== foo, bar **
+outside 
+opposite 
+other 
+else
+=== foo, bar **
+recommended 
+best
+=== foo, bar **
+phenomenal 
+gigantic 
+terrible 
+extreme
+=== foo, bar **
+thick 
+dense
+=== foo, bar **
+poor 
+mediocre 
+weak
+=== foo, bar **
+convenient 
+fitting 
+handy 
+ideal
+=== foo, bar **
+unusual 
+rare 
+exceptional 
+extraordinary 
+unique 
+special
+=== foo, bar **
+naked 
+simple 
+empty 
+pure
+=== foo, bar **
+skilled 
+talented 
+knowledgeable 
+responsible 
+able 
+trained 
+competent
+=== foo, bar **
+huge 
+wide 
+massive 
+tall 
+overwhelming 
+vast
+=== foo, bar **
+lit 
+thoughtful 
+wise
+=== foo, bar **
+ready 
+willing 
+open 
+prepared
+=== foo, bar **
+responsive 
+sensitive 
+attentive 
+careful
+=== foo, bar **
+numerous 
+many 
+multiple 
+frequent 
+countless
+=== foo, bar **
+superior 
+top
+=== foo, bar **
+peaceful 
+calm 
+quiet
+=== foo, bar **
+healthy 
+quality 
+safe 
+green 
+clean
+=== foo, bar **
+sharp 
+loud 
+steep
+=== foo, bar **
+unexpected 
+awkward 
+surprising 
+strange 
+curious 
+weird 
+odd 
+surprised
+=== foo, bar **
+incorrect 
+wrong 
+guilty 
+bad 
+fake
+=== foo, bar **
+updated 
+modern 
+contemporary 
+current 
+present 
+recent
+=== foo, bar **
+large 
+big 
+great
+=== foo, bar **
+kinda 
+tired
+=== foo, bar **
+vibrant 
+live 
+lively 
+alive
+=== foo, bar **
+direct 
+immediate 
+left
+=== foo, bar **
+gentle 
+mild 
+slow 
+soft
+=== foo, bar **
+creative 
+innovative
+=== foo, bar **
+only 
+just
+=== foo, bar **
+questionable 
+dangerous 
+negative
+=== foo, bar **
+natural 
+physical
+=== foo, bar **
+bold 
+noisy
+=== foo, bar **
+solid 
+consistent 
+constant
+=== foo, bar **
+sound 
+right 
+decent 
+smooth 
+appropriate 
+reasonable 
+proper 
+correct
+=== foo, bar **
+embarrassed 
+comfy 
+uncomfortable 
+comfortable
+=== foo, bar **
+brilliant 
+bright 
+smart
+=== foo, bar **
+welcome 
+welcoming
+=== foo, bar **
+far 
+long
+=== foo, bar **
+acceptable 
+unacceptable
+=== foo, bar **
+gross 
+ugly 
+drunk 
+dark 
+lousy 
+dirty 
+messy 
+nasty 
+filthy
+=== foo, bar **
+late 
+later 
+last 
+over 
+married 
+past
+=== foo, bar **
+complex 
+confusing
+=== foo, bar **
+mixed 
+different 
+uneven 
+various 
+diverse
+=== foo, bar **
+cute 
+delightful 
+charming 
+adorable 
+gorgeous
+=== foo, bar **
+familiar 
+aware 
+used 
+experienced 
+famous
+=== foo, bar **
+confident 
+reliable 
+sure 
+unsure
+=== foo, bar **
+close 
+closed 
+intimate
+=== foo, bar **
+heavy 
+sized 
+enormous 
+tremendous 
+major 
+high 
+much 
+significant 
+serious 
+strong 
+important
+=== foo, bar **
+basic 
+main 
+central 
+key 
+first
+=== END

@@ -5,17 +5,25 @@ from .compute_probs_table import *
 from .ilp_algo            import *
 from .evaluation          import *
 from .writer              import *
+from .multi_digraph_io    import *
 
 __all__ = [
+          # prelude
+            'fmap'
+          , 'fold'
+          , 'zip_with'
+          , 'join'
+          , 'chunks'
+          , 'powerset'
           # io_scripts
-           'read_gold'
+          ,'read_gold'
           ,'write_gold'
           ,'save_results'
           ,'save_ranking'
 
           # load_ppdb_graph
-	     ,'load_digraph'   
-         ,'compute_probs_both'
+	        ,'load_digraph'   
+          ,'compute_probs_both'
 
           # ilp_algo
           ,'ilp'
@@ -31,5 +39,8 @@ __all__ = [
 
           # writer
           , 'Writer'
+
+          # multi_digraph_io
+          , 'digraph_from_json'
 
           ]

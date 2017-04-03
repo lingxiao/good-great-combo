@@ -1,0 +1,292 @@
+=== small,  minute **
+small
+minute
+miniscule
+=== enraged,  irritated **
+upset
+angry
+enraged
+=== terrific,  outstanding **
+positive
+terrific
+=== inestimable,  valuable **
+valuable
+immeasurable
+=== convenient,  valuable **
+useful
+worthwhile
+valuable
+=== efficient,  functioning **
+functioning
+efficient
+=== scarce,  limited **
+low
+limited
+scarce
+=== cute,  lovelier **
+cute
+pretty
+lovely
+lovelier
+breathtaking
+=== costly,  valuable **
+costly
+expensive
+exorbitant
+=== lousy,  miserable **
+lousy
+miserable
+horrible
+=== guaranteed,  adequate **
+fine
+adequate
+good
+=== bad,  ludicrous **
+bad
+ludicrous
+=== necessary,  valuable **
+useful
+relevant
+necessary
+=== appropriate,  excellent **
+fine
+satisfactory
+excellent
+=== embarrassing,  uncomfortable **
+uncomfortable
+embarrassing
+=== major,  staggering **
+big
+substantial
+tremendous, staggering
+=== precise,  straightforward **
+clear
+accurate
+precise
+exact
+=== overwhelmed,  happy **
+pleased
+happy
+excited
+delighted
+overwhelmed
+=== bad,  horrendous **
+bad
+horrific
+horrendous
+=== finest,  excellent **
+qualified
+excellent
+outstanding
+=== high,  higher **
+high
+higher
+=== fine,  remarkable **
+fine
+remarkable
+spectacular
+=== perfect,  fine **
+a-okay, okay, fine
+appropriate
+faultless
+perfect
+=== critical,  gravest **
+graver
+critical
+life-threatening
+=== bizarre,  odd **
+odd
+bizarre
+=== unfortunate,  reprehensible **
+unfortunate
+reprehensible
+=== abundant,  plenty **
+plenty
+vast
+abundant
+=== excited,  delighted **
+pleased
+delighted
+=== embarrassed,  uncomfortable **
+uncomfortable
+embarrassed
+=== efficient,  potent **
+efficient
+optimum
+=== satisfactory,  excellent **
+satisfactory, fine, appropriate
+excellent
+=== clear,  prominent **
+clear
+prominent
+=== daunting,  formidable **
+tough
+formidable
+daunting
+=== proficient,  trained **
+capable, qualified
+skilled, proficient
+=== beneficial,  nice **
+okay
+incredible, awesome, terrific, marvelous
+=== awful,  bad-looking **
+awful
+shitty
+=== content,  pleased **
+content, satisfied
+pleased
+=== guaranteed,  fitting **
+adequate, fine, fitting
+good
+=== poor,  indigent **
+poor
+indigent
+bankrupt
+=== marvellous,  spectacular **
+pretty
+marvellous, breathtaking, spectacular
+=== abundant,  plenty **
+considerable
+abundant
+=== fine,  remarkable **
+fine
+remarkable
+impressive
+=== admirable,  noteworthy **
+fine
+admirable, upstanding
+=== distressing,  bad **
+bad
+distressing
+=== excessive,  huge **
+much
+excessive, huge
+=== scary,  frightening **
+scary, frightening
+terrifying
+=== rigorous,  tougher **
+tough
+tougher
+rigorous
+stringent
+severe
+=== limited,  scarce **
+low
+limited
+scarce
+=== better,  exceptional **
+good
+better
+remarkable
+exceptional
+perfect
+=== few,  least **
+few, little
+least
+=== miserable,  sad **
+unhappy, sad
+miserable
+=== competent,  impressive **
+competent
+impressive
+=== relevant,  significant **
+relevant
+crucial
+=== effective,  potent **
+effective
+potent
+=== wide-ranging,  general **
+general
+broad
+broader
+wide-ranging
+diverse
+=== excessive,  valuable **
+costly
+expensive
+excessive, exorbitant
+=== major,  big **
+big
+substantial, major
+tremendous, staggering
+=== huge,  tremendous **
+sizeable
+huge
+major
+immense, formidable
+colossal, overwhelming, tremendous
+=== perfect,  well **
+fine, well
+terrific, awesome
+perfect
+=== little,  feeble **
+little
+feeble
+=== incorrect,  unfavourable **
+improper, poor
+incorrect, unsatisfactory
+=== odd,  bizarre **
+unusual
+rare
+=== huge,  broad **
+sizeable
+big
+huge
+immense, enormous, tremendous
+=== shaky,  vulnerable **
+weak
+shaky
+vulnerable
+=== scant,  meagre **
+few
+limited
+scant, meagre
+=== miniscule,  minute **
+small
+minute
+miniscule
+=== comprehensive,  general **
+general, commonplace
+comprehensive, universal, global
+=== awful,  dreadful **
+awful
+dreadful
+=== poor,  inadequate **
+low
+scarce
+inadequate
+unacceptable
+=== shorter,  tiny **
+little
+tiny
+=== tenacious,  tough **
+hardworking
+tenacious
+tough
+=== cute,  gorgeous **9
+cute
+gorgeous
+=== known,  noteworthy **
+known
+noteworthy, celebrated
+=== sound,  sturdy **
+intact
+sturdy
+=== big,  vast **
+big
+vast, extensive
+=== problematic,  uncomfortable **
+hard
+problematic
+=== disappointing,  obnoxious **
+annoying
+obnoxious
+=== miserable,  sad **
+sad
+miserable, terrible
+=== beautiful,  fairest **
+fair
+fairer
+fairest
+beautiful
+=== END
