@@ -1,0 +1,1 @@
+qsub -o $PWD/logs -e $PWD/logs [SCRIPT_NAME].sh

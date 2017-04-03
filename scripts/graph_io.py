@@ -88,7 +88,6 @@ def to_edge(edge, vertices):
 	e = '<' + edge['adverb'] + '>'
 	return (u,v,e)
 
-
 ############################################################
 '''
 	load raw json file as multidigraph
@@ -101,3 +100,6 @@ def load_as_multi_digraph(path):
 
 def multi_digraph_to_json(networkx_graph):
     return json.dumps(json_graph.node_link_data(self.nx_graph))
+
+
+

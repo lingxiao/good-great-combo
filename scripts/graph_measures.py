@@ -101,9 +101,6 @@ def edge_by_edge_count(edges, x, y):
 		return {x +'->' + y: (x_y + eps)/tot, y+ '->'+x : (y_x + eps)/tot}
 
 
-
-
-
 '''
 	@Depricated: running this is prohitively expensive
 '''
@@ -140,3 +137,7 @@ def _save_weighted_edge(gr_path, out_path, log_dir, weighted_edge):
 
 	h.close()
 	writer.close()
+
+
+
+
