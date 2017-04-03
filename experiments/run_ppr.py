@@ -28,7 +28,7 @@ bansal = read_gold(PATH['assets']['bansal'])
 '''
 gr_path         = PATH['assets']['graph']
 edges, vertices = load_as_list(gr_path)
-G               = load_as_digraph(gr_path, edge_by_edge_count, PATH['directories']['log'])
+# G               = load_as_digraph(gr_path, edge_by_edge_count, PATH['directories']['log'])
 
 ############################################################
 '''
@@ -41,7 +41,9 @@ words = list(set(join(join(ws) for _,ws in ccb.iteritems())
 '''
 	compute ppr for every vertex in the graph
 '''
-
+save_edge_by_edge_count( PATH['assets']['graph']
+	                   , os.path.join(PATH['directories']['input'], 'graph-edge-weight.txt')
+	                   , os.path.join(PATH['directories']['log']))
 
 
 

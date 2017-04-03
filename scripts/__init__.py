@@ -33,7 +33,8 @@ __all__ = [
 
           # graph measures
           ,'edge_by_edge_count'
-
+          ,'save_edge_by_edge_count'
+          
           # evaluation
           , 'pairwise_accuracy'
           , 'tau'
