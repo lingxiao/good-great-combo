@@ -1,11 +1,12 @@
 from .prelude             import *
-from .io_scripts          import *
-from .load_ppdb_graph     import *
-from .compute_probs_table import *
+from .writer              import *
+from .gold_io             import *
+from .graph_io            import *
+from .results_io          import *
 from .ilp_algo            import *
 from .evaluation          import *
-from .writer              import *
-from .multi_digraph_io    import *
+from .compute_probs_table import *
+
 
 __all__ = [
           # prelude
@@ -15,15 +16,22 @@ __all__ = [
           , 'join'
           , 'chunks'
           , 'powerset'
-          # io_scripts
+
+          # writer
+          , 'Writer'
+
+          # gold_io
           ,'read_gold'
           ,'write_gold'
+
+          # results_io
           ,'save_results'
           ,'save_ranking'
 
-          # load_ppdb_graph
-	        ,'load_digraph'   
-          ,'compute_probs_both'
+          # graph_io
+          , 'load_as_multi_digraph'
+          , 'multi_digraph_to_json'
+          , 'multi_digraph_to_list'
 
           # ilp_algo
           ,'ilp'
@@ -36,11 +44,5 @@ __all__ = [
           # evaluation
           , 'pairwise_accuracy'
           , 'tau'
-
-          # writer
-          , 'Writer'
-
-          # multi_digraph_io
-          , 'digraph_from_json'
-
           ]
+
