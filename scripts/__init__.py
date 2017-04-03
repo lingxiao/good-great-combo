@@ -6,6 +6,7 @@ from .results_io          import *
 from .ilp_algo            import *
 from .evaluation          import *
 from .compute_probs_table import *
+from .graph_measures      import *
 
 
 __all__ = [
@@ -31,7 +32,7 @@ __all__ = [
           # graph_io
           , 'load_as_multi_digraph'
           , 'multi_digraph_to_json'
-          , 'multi_digraph_to_list'
+          , 'load_as_list'
 
           # ilp_algo
           ,'ilp'
@@ -40,6 +41,9 @@ __all__ = [
           # compute_probs_table
           ,'to_probs_table'
           ,'open_probs_table'
+
+          # graph measures
+          ,'edge_by_edge_count'
 
           # evaluation
           , 'pairwise_accuracy'

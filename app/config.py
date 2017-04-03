@@ -81,7 +81,7 @@ def setup(PATH,clear_logs):
 			writer.close()
 			raise NameError('Error: path not found: ' + path)
 		else:
-			writer.tell('Found critical asset ' + name + ' at ' + path)
+			writer.tell('Located critical asset ' + name + ' at ' + path)
 
 	writer.tell('complete application setup!')
 	writer.close()
