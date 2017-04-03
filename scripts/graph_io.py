@@ -45,12 +45,13 @@ def load_as_digraph(gr_path, weighted_edge, log_dir):
 	for word in words:
 		G.add_node(word)
 
-	writer.tell('adding all edges to graph ...')
+	writer.tell('adding all edges to graph. This will take a while ...')
 
 	for u,v in unique_edges:
 		e = weighted_edge(edges,u,v)
-		G.add_edge(u, v, weight=e[u + '->' + v])
-		G.add_edge(v, u, weight=e[v + '->' + u])
+		if e:
+			G.add_edge(u, v, weight=e[u + '->' + v])
+			G.add_edge(v, u, weight=e[v + '->' + u])
 
 	writer.close()
 

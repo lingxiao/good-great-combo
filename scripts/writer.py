@@ -6,7 +6,6 @@
 
 import os
 import datetime
-from utils  import *
 
 ############################################################
 '''

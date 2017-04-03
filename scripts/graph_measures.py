@@ -16,19 +16,30 @@ from scripts import *
 			and vertices, output edges weighted by counting the 
 	        number of vertices going between the vertices
 
+	        If no edges observed between two verices, then 
+	        output None
+
 	@Given: edges of graph         :: [(String,String,String)]
 			vertiex in the graph u :: String
 			vertiex in the graph v :: String
 
 	@output: dict of weight from:
 				u to v, v to u
+			or None
 '''
-def edge_by_edge_count(edges, u, v):
+def edge_by_edge_count(edges, x, y):
+
 	eps = 1e-5
-	u_v = len([(s,t,e) for s,t,e in edges if s == u and t == u]) + eps
-	v_u = len([(s,t,e) for s,t,e in edges if s == v and t == u]) + eps
-	tot = float(u_v + v_u) + 2*eps
-	return {u +'->' + v: u_v/tot, v+ '->'+u : v_u/tot}
+
+	x_y = len([(s,t,e) for s,t,e in edges if s == x and t == y])
+	y_x = len([(s,t,e) for s,t,e in edges if s == y and t == x])
+
+	if not x_y and not y_x:
+		return None
+
+	else:
+		tot = float(x_y + y_x) + 2*eps
+		return {x +'->' + y: (x_y + eps)/tot, y+ '->'+x : (y_x + eps)/tot}
 
 
 
