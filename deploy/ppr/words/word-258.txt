@@ -1,0 +1,10 @@
+alternate
+guaranteed
+recommended
+vague
+eager
+brand-new
+deliberately
+tabled
+win
+comprehensible

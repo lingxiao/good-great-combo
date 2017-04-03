@@ -1,0 +1,15 @@
+
+>> Initializing application [ good-great-combo ] ...
+>> directory /Users/lingxiao/Documents/research/code/good-great-combo/inputs already exists
+>> directory /Users/lingxiao/Documents/research/code/good-great-combo/deploy/logs already exists
+>> directory /Users/lingxiao/Documents/research/code/good-great-combo/deploy already exists
+>> Located critical asset anne-125.txt at /Users/lingxiao/Documents/research/code/good-great-combo/inputs/test/anne-125.txt
+>> Located critical asset graph-ngram.txt at /Users/lingxiao/Documents/research/code/good-great-combo/inputs/raw-graph/graph-ngram.txt
+>> Located critical asset graph_or.json at /Users/lingxiao/Documents/research/code/good-great-combo/inputs/raw-graph/graph_or.json
+>> Located critical asset anne-25.txt at /Users/lingxiao/Documents/research/code/good-great-combo/inputs/test/anne-25.txt
+>> Located critical asset graph.json at /Users/lingxiao/Documents/research/code/good-great-combo/inputs/raw-graph/graph.json
+>> Located critical asset bansal.txt at /Users/lingxiao/Documents/research/code/good-great-combo/inputs/test/bansal.txt
+>> Located critical asset graph_and.json at /Users/lingxiao/Documents/research/code/good-great-combo/inputs/raw-graph/graph_and.json
+>> Located critical asset ccb.txt at /Users/lingxiao/Documents/research/code/good-great-combo/inputs/test/ccb.txt
+>> complete application setup!
+>> END

@@ -18,12 +18,12 @@ from app.config import PATH
 '''
 	paths
 '''
-droot   = os.path.join(PATH['directories']['deploy'], 'wt-edge')
-dedges  = os.path.join(droot, 'edges') 
+droot    = os.path.join(PATH['directories']['deploy'], 'wt-edge')
+dedges   = os.path.join(droot, 'edges') 
 doutput  = os.path.join(droot, 'outputs')
 dscripts = os.path.join(droot ,'scripts')
 gr_path  = PATH['assets']['graph']
-gr_path = PATH['assets']['graph']
+
 
 '''
 	@Use: split edges into chunks to compute

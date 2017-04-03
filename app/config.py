@@ -45,16 +45,16 @@ PATH = {# directories that should exist before application runs
            ,'anne-125' : os.path.join(root, 'inputs/test/anne-125.txt')
 
            # graph
-           , 'graph'     : os.path.join(root, 'inputs/raw-graph/graph.json')
-           , 'graph_and' : os.path.join(root, 'inputs/raw-graph/graph_and.json')
-           , 'graph_or'  : os.path.join(root, 'inputs/raw-graph/graph_or.json')},
+           , 'graph'      : os.path.join(root, 'inputs/raw-graph/graph.json')
+           , 'graph-and'  : os.path.join(root, 'inputs/raw-graph/graph_and.json')
+           , 'graph-or'   : os.path.join(root, 'inputs/raw-graph/graph_or.json')
+           , 'graph-ngram': os.path.join(root, 'inputs/raw-graph/graph-ngram.txt')},
 
         # path to files created by application
         'inputs': {
             'graph-wt-by-edge-cnt': os.path.join(root, 'inputs/wt-graph/graph-wt-by-edge-cnt.txt')
         }
     }
-
 
 def setup(PATH,clear_logs):
 

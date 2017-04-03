@@ -1,0 +1,10 @@
+dim
+flammable
+impressive
+level
+fragile
+registered
+cloudy
+leave
+discrete
+warmth

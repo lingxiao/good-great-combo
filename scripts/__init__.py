@@ -8,7 +8,7 @@ from .graph_measures      import *
 
 
 __all__ = [
-           # gold_io
+            # gold_io
            'read_gold'
           ,'write_gold'
 
