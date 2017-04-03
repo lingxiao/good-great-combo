@@ -30,9 +30,10 @@ __all__ = [
           ,'save_ranking'
 
           # graph_io
+          , 'load_as_list'
+          , 'load_as_digraph'
           , 'load_as_multi_digraph'
           , 'multi_digraph_to_json'
-          , 'load_as_list'
 
           # ilp_algo
           ,'ilp'

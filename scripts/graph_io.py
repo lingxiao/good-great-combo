@@ -6,7 +6,55 @@
 
 import os
 import json
+import networkx as nx
 from networkx.readwrite import json_graph
+
+from scripts import *
+
+
+############################################################
+'''
+	@Use: Given path to graph, function that 
+		  computs the weight between two vertices, 
+		  and directory to log program trace
+		  output digraph
+
+	@Input: `gr_path`       :: String
+	        `weighted_edge` :: [(String,String,String)] -> String -> String -> Dict String Float
+	        `log_dir`       :: String
+
+	@output: networkx.classes.digraph.Digragh
+'''
+def load_as_digraph(gr_path, weighted_edge, log_dir):
+
+	writer = Writer(log_dir,1)
+	
+	writer.tell('loading graph as digraph from ' + gr_path)
+
+	edges, words = load_as_list(gr_path)
+
+	writer.tell('constructing all unique edges ...')
+
+	to_tuple     = lambda xs: (xs[0], xs[1])
+	unique_edges = set( to_tuple(sorted([u,v])) for u in words for v in words )
+
+	G = nx.DiGraph()
+
+	writer.tell('adding all words to graph ...')
+
+	for word in words:
+		G.add_node(word)
+
+	writer.tell('adding all edges to graph ...')
+
+	for u,v in unique_edges:
+		e = weighted_edge(edges,u,v)
+		G.add_edge(u, v, weight=e[u + '->' + v])
+		G.add_edge(v, u, weight=e[v + '->' + u])
+
+	writer.close()
+
+	return G
 
 ############################################################
 '''
