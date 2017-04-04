@@ -79,25 +79,48 @@ def collect_ngram_patterns(word_path, pattern_path, ngram_dir, out_dir, log_dir,
 					results[(s,t)]['weak-strong'].append(gram + ': ' + n)
 
 
-	'''
-		save outputs for each s-t pairs
-	'''
-	for (s,t),res in results.iteritems():
+			'''
+				save outputs for each s-t pairs
+				if there are any pattern matches
+			'''
+			res = results[(s,t)]
 
-		if res['strong-weak'] or res['weak-strong']:
+			if res['strong-weak'] or res['weak-strong']:
 
-			with open(os.path.join(out_dir, s + '-' + t + '.txt'), 'wb') as h:
-				h.write('=== strong-weak\n')
+				writer.tell('found patterns for word pair ' + s + ' and ' + t)
 
-				for p in res['strong-weak']:
-					h.write(p + '\n')
+				with open(os.path.join(out_dir, s + '-' + t + '.txt'), 'wb') as h:
 
-				h.write('=== weak-strong\n')
+					h.write('=== strong-weak\n')
 
-				for q in res['weak-strong']:
-					h.write(q + '\n')
+					for p in res['strong-weak']:
+						h.write(p + '\n')
 
-				h.write('=== END')
+					h.write('=== weak-strong\n')
+
+					for q in res['weak-strong']:
+						h.write(q + '\n')
+
+					h.write('=== END')			
+
+
+	
+	# for (s,t),res in results.iteritems():
+
+	# 	if res['strong-weak'] or res['weak-strong']:
+
+	# 		with open(os.path.join(out_dir, s + '-' + t + '.txt'), 'wb') as h:
+	# 			h.write('=== strong-weak\n')
+
+	# 			for p in res['strong-weak']:
+	# 				h.write(p + '\n')
+
+	# 			h.write('=== weak-strong\n')
+
+	# 			for q in res['weak-strong']:
+	# 				h.write(q + '\n')
+
+	# 			h.write('=== END')
 
 
 	writer.close()			

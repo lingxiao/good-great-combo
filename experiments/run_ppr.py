@@ -16,6 +16,8 @@ from scripts import *
 
 '''
 	todo tuesday:
+		 - check ppr behave as expcted
+		 - deploy ppr scripts
 		 - run wt-edge over ppdb + ngram graph
 		 - run logistic regression
 '''
