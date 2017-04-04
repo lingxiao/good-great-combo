@@ -61,7 +61,8 @@ PATH = {# directories that should exist before application runs
             'graph-wt-by-edge': os.path.join(root, 'inputs/wt-graph/')
         },
 
-        'ngrams' : os.path.join(data_root, 'ngrams')
+        'ngrams' : {'full': os.path.join(data_root, 'ngrams/full')
+                   ,'dummy': os.path.join(data_root, 'ngrams/dummy')}
 
     }
 

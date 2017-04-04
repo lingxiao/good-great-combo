@@ -6,7 +6,6 @@
 
 import os
 import re
-
 from utils   import *
 from scripts import *
 
@@ -18,11 +17,13 @@ from scripts import *
 	        - path to ngrams  `ngram_dir`    :: String
 	        - output directory `out_dir`     :: String
 	        - log path `log_dir`             :: String 
+	        - debug flag  	                 :: Bool
+	             if true only output part of ngrams
 	@Output: None
 			save results of parse to out_path
 			log program trace to log_dir
 '''
-def collect_ngram_patterns(word_path, pattern_path, ngram_dir, out_dir, log_dir):
+def collect_ngram_patterns(word_path, pattern_path, ngram_dir, out_dir, log_dir, debug = False):
 
 	writer = Writer(log_dir, 1)
 	writer.tell('running collect_ngram_patterns ...')
@@ -34,14 +35,23 @@ def collect_ngram_patterns(word_path, pattern_path, ngram_dir, out_dir, log_dir)
 
 	writer.tell('found word pair path at ' + word_path)
 
+	if debug: msg = 'debug'
+	else:     msg = 'non-debug'
+	writer.tell('Streaming ngrams from ' + ngram_dir +  ' in ' + msg + ' mode')
+
+
 	'''
 		iterate over all ngrams and parse all permutations of s R t
 		for words s,t and patterns R
 	'''
-	for gram,n in with_ngram(ngram_dir):
+	for gram,n in with_ngram(ngram_dir, debug):
 
 		for s,t in pairs:
 
+
+			'''
+				collect patterns
+			'''
 			for R in patterns['strong-weak']:
 
 				reg = re.compile(parse_re(R,[s,t]))
@@ -92,38 +102,4 @@ def collect_ngram_patterns(word_path, pattern_path, ngram_dir, out_dir, log_dir)
 
 	writer.close()			
 
-
-	# if not os.path.exists(word_path):
-	# 	raise NameError('File not found at ' + word_path)
-
-	# else:
-
-		# writer.tell('found word pair path at ' + word_path)
-		# patterns  = read_pattern(pattern_path)
-		# patts     = patterns['strong-weak'] + patterns['weak-strong']
-		# regexes   = [re.compile(parse_re(r, [s,t])) for r in patts for s,t in pairs]
-
-		# writer.tell('collecting patterns over ' + str(len(regexes)) + ' regular expressions')
-
-		# pairs     = [x.split(', ') for x in \
-		#             open(word_path,'rb').read().split('\n') if x]
-
-		# pairs = {s + '-' + t : {'weak-strong' : [], 'strong-weak'} for s,t in pairs}           
-
-		# print(pairs)
-
-
-
-	# out = open(out_path,'wb')	
-
-	# for xs,n in with_ngram(ngram_dir):
-	# 	for reg in regexes:
-	# 		if reg.match(xs): 
-	# 			out.write(xs + ': ' + n + '\n')
-
-	# out.write('=== END')	
-	# out.close()
-
-	# writer.tell('saving file at ' + out_path)
-	# writer.close()
 

@@ -12,8 +12,6 @@ from utils   import *
 from scripts import *
 from app.config import PATH
 
-import progressbar
-from time import sleep
 
 ############################################################
 '''
@@ -27,11 +25,11 @@ _script_dir = os.path.join(_root ,'scripts')
 '''
 	@Use: collect ngram counts
 '''
-batch = 0
+batch = 1
 
 word_path    = os.path.join(_word_dir  , 'word-' + str(batch) + '.txt')
 pattern_path = PATH['assets']['patterns']
-ngram_dir    = PATH['ngrams']['dummy']
+ngram_dir    = PATH['ngrams']
 out_dir      = _output_dir
 log_dir      = PATH['directories']['log']
 
@@ -39,7 +37,18 @@ collect_ngram_patterns( word_path
 	                  , pattern_path
 	                  , ngram_dir
 	                  , out_dir
-	                  , log_dir
-	                  , debug = True)
+	                  , log_dir)
+
+
+
+
+
+
+
+
+
+
+
+
 
 

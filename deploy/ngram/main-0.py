@@ -12,8 +12,6 @@ from utils   import *
 from scripts import *
 from app.config import PATH
 
-import progressbar
-from time import sleep
 
 ############################################################
 '''
@@ -41,5 +39,7 @@ collect_ngram_patterns( word_path
 	                  , out_dir
 	                  , log_dir
 	                  , debug = True)
+
+
 
 
