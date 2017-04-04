@@ -94,7 +94,7 @@ def collect_ngram_patterns(word_path, pattern_path, ngram_dir, out_dir, log_dir,
 
 				h.write('=== weak-strong\n')
 
-				for q in res['weak-strong\n']:
+				for q in res['weak-strong']:
 					h.write(q + '\n')
 
 				h.write('=== END')
