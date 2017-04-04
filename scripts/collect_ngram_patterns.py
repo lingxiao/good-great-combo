@@ -82,7 +82,7 @@ def collect_ngram_patterns(word_path, pattern_path, ngram_dir, out_dir, log_dir,
 	'''
 		save outputs for each s-t pairs
 	'''
-	for (s,t),res in pairs.iteritems():
+	for (s,t),res in results.iteritems():
 
 		if res['strong-weak'] or res['weak-strong']:
 
