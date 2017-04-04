@@ -99,6 +99,6 @@ def setup(PATH):
     writer.tell('complete application setup!')
     writer.close()
 
-setup(PATH,False)
+setup(PATH)
 
 
