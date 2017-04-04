@@ -46,5 +46,5 @@ cd $HOME/xiao/good-great-combo
 source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
 
 # run my scripts
-python $HOME/xiao/good-great-combo/deploy/ngram/shells/main-21.py
+python $HOME/xiao/good-great-combo/deploy/ngram/scripts/main-21.py
 
