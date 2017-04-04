@@ -29,7 +29,7 @@ batch = 26
 
 word_path    = os.path.join(_word_dir  , 'word-' + str(batch) + '.txt')
 pattern_path = PATH['assets']['patterns']
-ngram_dir    = PATH['ngrams']
+ngram_dir    = PATH['ngrams']['full']
 out_dir      = _output_dir
 log_dir      = PATH['directories']['log']
 
@@ -37,18 +37,7 @@ collect_ngram_patterns( word_path
 	                  , pattern_path
 	                  , ngram_dir
 	                  , out_dir
-	                  , log_dir)
-
-
-
-
-
-
-
-
-
-
-
-
+	                  , log_dir
+	                  , debug = False)
 
 

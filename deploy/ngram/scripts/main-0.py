@@ -12,9 +12,6 @@ from utils   import *
 from scripts import *
 from app.config import PATH
 
-import progressbar
-from time import sleep
-
 ############################################################
 '''
 	paths

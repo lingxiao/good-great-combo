@@ -108,7 +108,7 @@ def run_auto_sh(tot):
 '''
 	run all
 '''
-# n = run_split(50000, _word_dir)
+n = run_split(10000, _word_dir)
 run_auto_main(n)
 run_auto_sh  (n)
 
