@@ -31,7 +31,7 @@ batch = 0
 
 word_path    = os.path.join(_word_dir  , 'word-' + str(batch) + '.txt')
 pattern_path = PATH['assets']['patterns']
-ngram_dir    = PATH['ngrams']['dummy']
+ngram_dir    = PATH['ngrams']['full']
 out_dir      = _output_dir
 log_dir      = PATH['directories']['log']
 
