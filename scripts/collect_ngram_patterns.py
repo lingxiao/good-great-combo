@@ -86,7 +86,7 @@ def collect_ngram_patterns(word_path, pattern_path, ngram_dir, out_dir, log_dir,
 
 		if res['strong-weak'] or res['weak-strong']:
 
-			with open(os.path.join(out_dir, s + t + '.txt'), 'wb') as h:
+			with open(os.path.join(out_dir, s + '-' + t + '.txt'), 'wb') as h:
 				h.write('=== strong-weak\n')
 
 				for p in res['strong-weak']:
