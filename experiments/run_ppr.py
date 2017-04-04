@@ -52,8 +52,8 @@ G.add_edge(3,1)
 G.add_edge(4,1)
 
 # vary iterations
-ppr1 = nx.pagerank(G,personalization={1:1, 2:1, 3:1, 4:1})
-ppr2 = nx.pagerank(G,personalization={1:2, 2:2, 3:2, 4:2})
+ppr1 = nx.pagerank(G,personalization={1:1, 2:0, 3:0, 4:0})
+ppr2 = nx.pagerank(G,personalization={1:0, 2:1, 3:0, 4:0})
 
 
 

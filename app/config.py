@@ -66,16 +66,13 @@ PATH = {# directories that should exist before application runs
 
     }
 
-def setup(PATH,clear_logs):
+def setup(PATH):
 
     os.system('clear')
 
     log_dir = PATH['directories']['log']
 
-    if clear_logs or os.path.exists(log_dir):
-        shutil.rmtree(log_dir)
-        os.mkdir(log_dir)
-    else:
+    if not os.path.exists(log_dir):
         os.mkdir(log_dir)
 
     writer = Writer(log_dir)
