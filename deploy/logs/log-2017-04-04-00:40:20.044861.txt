@@ -3,6 +3,7 @@
 >> directory /Users/lingxiao/Documents/research/code/good-great-combo/inputs already exists
 >> directory /Users/lingxiao/Documents/research/code/good-great-combo/deploy/logs already exists
 >> directory /Users/lingxiao/Documents/research/code/good-great-combo/deploy already exists
+>> Located critical asset two-sided-patterns.txt at /Users/lingxiao/Documents/research/code/good-great-combo/inputs/patterns/two-sided-patterns.txt
 >> Located critical asset anne-125.txt at /Users/lingxiao/Documents/research/code/good-great-combo/inputs/test/anne-125.txt
 >> Located critical asset graph-ngram.txt at /Users/lingxiao/Documents/research/code/good-great-combo/inputs/raw-graph/graph-ngram.txt
 >> Located critical asset graph_or.json at /Users/lingxiao/Documents/research/code/good-great-combo/inputs/raw-graph/graph_or.json

@@ -63,9 +63,8 @@ def save_edge_by_edge_count(gr_path, out_path, log_dir):
 ############################################################
 '''
 	edge weight subroutines
-'''
 
-'''
+
 	@Use  : Given raw ppdb graph as list of edges of form:
 				(source, target, <edge>)
 			and vertices, output edges weighted by counting the 

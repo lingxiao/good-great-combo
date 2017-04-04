@@ -1,0 +1,56 @@
+=== strong-weak
+
+not (a|an|the) * (,) just (a|an|the) *
+not (a|an|the) * (,) but just (a|an|the) *
+not (a|an|the) * (,) still (a|an|the) *
+not (a|an|the) * (,) but still (a|an|the) *
+not (a|an|the) * (,) although still (a|an|the) *
+not (a|an|the) * (,) though still (a|an|the) *
+* (,) or very (a|an|the) *
+a * (,) or very (a|an|the) *
+an * (,) or very (a|an|the) *
+the * (,) or very (a|an|the) *
+
+
+
+* unbelievably *
+* not even *
+
+
+=== weak-strong
+
+very * (and|or) totally *
+* (,) yet still (a|an|the|as) *
+* (,) (and|or) fully *
+* (,) (and|or) outright *
+
+
+
+* (,) but not (a|an|the) *
+a * (,) but not (a|an|the) *
+an * (,) but not (a|an|the) *
+the * (,) but not (a|an|the) *
+* (,) if not (a|an|the) *
+a * (,) if not (a|an|the) *
+an * (,) if not (a|an|the) *
+the * (,) if not (a|an|the) *
+* (,) although not (a|an|the) *
+a * (,) although not (a|an|the) *
+an * (,) although not (a|an|the) *
+the * (,) although not (a|an|the) *
+* (,) though not (a|an|the) *
+a * (,) though not (a|an|the) *
+an * (,) though not (a|an|the) *
+the * (,) though not (a|an|the) *
+* (,) (and|or) even (a|an|the) *
+a * (,) (and|or) even (a|an|the) *
+an * (,) (and|or) even (a|an|the) *
+the * (,) (and|or) even (a|an|the) *
+* (,) (and|or) almost (a|an|the) *
+a * (,) (and|or) almost (a|an|the) *
+an * (,) (and|or) almost (a|an|the) *
+the * (,) (and|or) almost (a|an|the) *
+not only (a|an|the) * but (a|an|the) *
+not just (a|an|the) * but (a|an|the) *
+
+=== END

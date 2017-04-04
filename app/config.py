@@ -21,7 +21,7 @@ if root[0:6] == '/Users':
 
 # nlp grid
 elif root[0:5] == '/mnt/':
-    data_root = '/nlp/users/xiao/good-great'
+    data_root = '/nlp/users/xiao/good-great-combo'
 
 else:
     data_root = ''
@@ -34,6 +34,8 @@ PATH = {# directories that should exist before application runs
             'deploy' : os.path.join(root, 'deploy')
            ,'log'    : os.path.join(root, 'deploy/logs')
            ,'input'  : os.path.join(root, 'inputs'     )
+
+
         },
 
         # path to files that must exist before application runs
@@ -48,12 +50,19 @@ PATH = {# directories that should exist before application runs
            , 'graph'      : os.path.join(root, 'inputs/raw-graph/graph.json')
            , 'graph-and'  : os.path.join(root, 'inputs/raw-graph/graph_and.json')
            , 'graph-or'   : os.path.join(root, 'inputs/raw-graph/graph_or.json')
-           , 'graph-ngram': os.path.join(root, 'inputs/raw-graph/graph-ngram.txt')},
+           , 'graph-ngram': os.path.join(root, 'inputs/raw-graph/graph-ngram.txt')
 
-        # path to files created by application
+           # linguistic patterns
+           , 'patterns'   : os.path.join(root, 'inputs/patterns/two-sided-patterns.txt')
+           },
+
+        # path to files created by application or ones that are not critical
         'inputs': {
             'graph-wt-by-edge': os.path.join(root, 'inputs/wt-graph/')
-        }
+        },
+
+        'ngrams' : os.path.join(data_root, 'ngrams')
+
     }
 
 def setup(PATH,clear_logs):
