@@ -40,6 +40,6 @@ collect_ngram_patterns( word_path
 	                  , ngram_dir
 	                  , out_dir
 	                  , log_dir
-	                  , debug = True)
+	                  , debug = False)
 
 
