@@ -110,5 +110,5 @@ def run_auto_sh(tot):
 '''
 # n = run_split(100000, _word_dir)
 # run_auto_main(n)
-run_auto_sh  (n)
+run_auto_sh  (n) njn
 
