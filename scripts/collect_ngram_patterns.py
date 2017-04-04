@@ -57,26 +57,26 @@ def collect_ngram_patterns(word_path, pattern_path, ngram_dir, out_dir, log_dir,
 				reg = re.compile(parse_re(R,[s,t]))
 
 				if reg.match(gram):
-					results[(s,t)]['strong-weak'].append((gram,n))
+					results[(s,t)]['strong-weak'].append(gram + ': ' + n)
 
 			for R in patterns['weak-strong']:
 
 				reg = re.compile(parse_re(R,[t,s]))
 
 				if reg.match(gram):
-					results[(s,t)]['strong-weak'].append((gram,n))
+					results[(s,t)]['strong-weak'].append(gram + ': ' + n)
 
 			for R in patterns['weak-strong']:
 
 				reg = re.compile(parse_re(R,[s,t]))
 				if reg.match(gram):
-					results[(s,t)]['weak-strong'].append((gram,n))
+					results[(s,t)]['weak-strong'].append(gram + ': ' + n)
 
 			for R in patterns['strong-weak']:
 
 				reg = re.compile(parse_re(R,[t,s]))
 				if reg.match(gram):
-					results[(s,t)]['weak-strong'].append((gram,n))
+					results[(s,t)]['weak-strong'].append(gram + ': ' + n)
 
 
 	'''
