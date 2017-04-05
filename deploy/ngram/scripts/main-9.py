@@ -30,12 +30,12 @@ word_path    = os.path.join(_word_dir  , 'batch-' + str(batch) + '.txt')
 pattern_path = PATH['assets']['patterns']
 ngram_dir    = PATH['ngrams']['full']
 out_dir      = _output_dir
-log_dir      = PATH['directories']['log']
+log_dir      = PATH['directories']['log'
 
 
 ws = ngram_by_words( word_path
 	          , ngram_dir
-	          , os.path.join(out_dir,'batch' + str(batch) + '.txt')
+	          , os.path.join(out_dir,'batch-' + str(batch) + '.txt')
 	          , log_dir
 	          , debug = False)
 
