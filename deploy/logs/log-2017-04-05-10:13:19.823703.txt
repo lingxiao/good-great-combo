@@ -1,0 +1,3 @@
+
+	>> running ngram_by_words ...
+	>> Streaming ngrams from /Users/lingxiao/Documents/research/data/good-great/ngrams/dummy in non-debug mode
