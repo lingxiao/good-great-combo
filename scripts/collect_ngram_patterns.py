@@ -10,6 +10,36 @@ from utils   import *
 from scripts import *
 
 
+
+'''
+	@Use: winnow ngram files by those that contain words found in word_path
+'''
+def ngram_by_words(word_path, ngram_dir, out_path, log_dir, debug = False):
+
+	writer = Writer(log_dir, 1)
+	writer.tell('running ngram_by_words ...')
+
+	if debug: msg = 'debug'
+	else:     msg = 'non-debug'
+	writer.tell('Streaming ngrams from ' + ngram_dir +  ' in ' + msg + ' mode')
+
+	words   = [x for x in open(word_path, 'rb').read().split('\n') if x]
+
+	output  = open(out_path, 'wb')
+
+	'''
+		iterate over all ngrams and save if any word in words appear
+	'''
+	for gram,n in with_ngram(ngram_dir, debug):
+		if any(w in gram for w in words):
+			output.write(gram + ': ' + n + '\n')
+
+	output.write('=== END')
+	output.close()
+	writer.close()
+
+
+
 '''
 	@Use  : find all ngrams matching "word_a pattern word_b" regex
 	@Input: - path to words  `word_path`     :: String

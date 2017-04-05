@@ -1,5 +1,5 @@
 ############################################################
-# Module  : Compute ppr
+# Module  : rank
 # Date    : April 2nd, 2017
 # Author  : Xiao Ling
 ############################################################
@@ -34,6 +34,4 @@ gr_path = PATH['assets']['graph']
 wt_path = PATH['inputs']['graph-wt-by-edge']
 out_dir = PATH['inputs']['ppr-by-ppdb']
 log_dir = PATH['directories']['log']
-
-# ppr(gr_path, wt_path, out_dir, log_dir, 0.90, debug = True)
 

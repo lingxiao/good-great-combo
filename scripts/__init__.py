@@ -53,6 +53,7 @@ __all__ = [
 
           # collect_ngrams
           , 'collect_ngram_patterns'
+          , 'ngram_by_words'
 
           ]
 
