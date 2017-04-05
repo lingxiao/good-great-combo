@@ -58,7 +58,9 @@ PATH = {# directories that should exist before application runs
 
         # path to files created by application or ones that are not critical
         'inputs': {
-            'graph-wt-by-edge': os.path.join(root, 'inputs/wt-graph/')
+              'graph-wt-by-edge' : os.path.join(root, 'inputs/wt-graph/')
+            , 'ppr-by-ppdb'      : os.path.join(root, 'inputs/ppr-by-ppdb')
+            , 'ppr-by-ppdb-ngram': ''
         },
 
         'ngrams' : {'full': os.path.join(data_root, 'ngrams/full')

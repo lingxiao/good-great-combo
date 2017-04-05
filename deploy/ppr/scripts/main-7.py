@@ -22,4 +22,5 @@ out_dir = PATH['inputs']['ppr-by-ppdb']
 log_dir = PATH['directories']['log']
 
 
-personalized_page_rank(gr_path, wt_path, out_dir, log_dir, 0.90)
+
+personalized_page_rank(gr_path, wt_path, out_dir, log_dir, 0.80)

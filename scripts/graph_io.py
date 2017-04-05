@@ -14,13 +14,14 @@ from scripts import *
 
 ############################################################
 '''
-	@Use: Given path to graph, and path to weighted vertex
-		  output weighted directed graph
+	@Use: Given path to multi directed graph, and path to 
+	      weighted vertex output weighted directed graph 
+	      and all words in graph
 
 	@Input: `gr_path`    :: String
 	        `vertex_dir` :: String
 
-	@output: networkx.classes.digraph.Digragh
+	@output: networkx.classes.digraph.Digragh, words
 '''
 def load_as_digraph(gr_path, vertex_dir):
 
@@ -44,7 +45,7 @@ def load_as_digraph(gr_path, vertex_dir):
 				s,t = st.split('->')
 				G.add_edge(s, t, weight = v)
 
-		return G
+		return G, words
 
 ############################################################
 '''
