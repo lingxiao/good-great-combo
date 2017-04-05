@@ -19,7 +19,8 @@ from app.config import PATH
 	paths
 '''
 _root       = os.path.join(PATH['directories']['deploy'], 'ngram')
-_word_dir   = os.path.join(_root, 'word-pairs') 
+_pair_dir   = os.path.join(_root, 'word-pairs') 
+_word_dir   = os.path.join(_root, 'words')
 _output_dir = os.path.join(_root, 'outputs')
 _script_dir = os.path.join(_root ,'scripts')
 _shell_dir  = os.path.join(_root ,'shells' )
@@ -27,6 +28,44 @@ gr_path     = PATH['assets']['graph']
 ccb         = read_gold(PATH['assets']['ccb'])
 bansal      = read_gold(PATH['assets']['bansal'])
 
+
+
+'''
+	@Use: split all words in graph
+'''
+def split_into_words(size, output_dir):
+
+	'''
+		get all words
+	'''
+	bansal_words = join(join(ws) for _,ws in bansal.iteritems())
+	ccb_words    = join(join(ws) for _,ws in bansal.iteritems())
+
+	_, words = load_as_list(gr_path)
+
+	'''
+		construct word pairs
+	'''
+	words    = list(set(words + bansal_words + ccb_words))
+	splits   = list(chunks(words, size))
+
+	print(len(words))
+
+	cnt = 1
+
+	print('\n>> splitting words into ' + str(len(splits)) + ' chunks')
+	
+	for ws in splits:
+
+		path = os.path.join(output_dir, 'batch-' + str(cnt) + '.txt')
+
+		with open(path,'wb') as h:
+			for w in ws:
+				h.write(w + '\n')
+
+		cnt += 1
+
+	return cnt
 
 '''
 	construct unique pairs of words 
@@ -40,7 +79,7 @@ def to_unique_pairs(words):
 	@Use: split edges into chunks to compute
 	      weight on remote 
 '''
-def run_split(size, output_dir):
+def split_into_pairs(size, output_dir):
 
 	'''
 		get all words
@@ -63,7 +102,7 @@ def run_split(size, output_dir):
 	
 	for ws in splits:
 
-		path = os.path.join(output_dir, 'word-' + str(cnt) + '.txt')
+		path = os.path.join(output_dir, 'batch-' + str(cnt) + '.txt')
 
 		with open(path,'wb') as h:
 			for s,t in ws:
@@ -78,12 +117,12 @@ def run_split(size, output_dir):
 '''
 def run_auto_main(tot):
 
-	cnt = 2
+	cnt = 1
 
-	for k in xrange(tot - 2):
-		src_path = os.path.join(_script_dir, 'main-1.py')
+	for k in xrange(tot):
+		src_path = os.path.join(_root, 'main-0.py')
 		tgt_path = os.path.join(_script_dir, 'main-' + str(cnt) + '.py')
-		src_str  = 'batch = 1'
+		src_str  = 'batch = 0'
 		tgt_str  = 'batch = ' + str(cnt)
 		auto_gen(src_path, tgt_path, src_str, tgt_str)
 		cnt += 1
@@ -93,12 +132,12 @@ def run_auto_main(tot):
 '''
 def run_auto_sh(tot):
 
-	cnt = 2
+	cnt = 1
 
-	for k in xrange(tot - 2):
-		src_path = os.path.join(_shell_dir,'main-1.sh')
+	for k in xrange(tot):
+		src_path = os.path.join(_root,'main-0.sh')
 		tgt_path = os.path.join(_shell_dir,'main-' + str(cnt) + '.sh')
-		src_str  = 'main-1'
+		src_str  = 'main-0'
 		tgt_str  = 'main-' + str(cnt)
 
 		auto_gen(src_path, tgt_path, src_str, tgt_str)
@@ -108,7 +147,8 @@ def run_auto_sh(tot):
 '''
 	run all
 '''
-# n = run_split(500000, _word_dir)
+n = split_into_words(250, _word_dir)
+# n = split_into_pairs(500000, _pair_dir)
 run_auto_main(n)
 run_auto_sh  (n)
 

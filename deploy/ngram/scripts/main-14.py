@@ -12,13 +12,12 @@ from utils   import *
 from scripts import *
 from app.config import PATH
 
-
 ############################################################
 '''
 	paths
 '''
 _root       = os.path.join(PATH['directories']['deploy'], 'ngram')
-_word_dir   = os.path.join(_root, 'word-pairs') 
+_word_dir   = os.path.join(_root, 'words') 
 _output_dir = os.path.join(_root, 'outputs')
 _script_dir = os.path.join(_root ,'scripts')
 
@@ -27,17 +26,24 @@ _script_dir = os.path.join(_root ,'scripts')
 '''
 batch = 14
 
-word_path    = os.path.join(_word_dir  , 'word-' + str(batch) + '.txt')
+word_path    = os.path.join(_word_dir  , 'batch-' + str(batch) + '.txt')
 pattern_path = PATH['assets']['patterns']
-ngram_dir    = PATH['ngrams']['full']
+ngram_dir    = PATH['ngrams']['dummy']
 out_dir      = _output_dir
 log_dir      = PATH['directories']['log']
 
-collect_ngram_patterns( word_path
-	                  , pattern_path
-	                  , ngram_dir
-	                  , out_dir
-	                  , log_dir
-	                  , debug = False)
+
+ws = ngram_by_words( word_path
+	          , ngram_dir
+	          , os.path.join(out_dir,'dummy.txt')
+	          , log_dir
+	          , debug = False)
+
+# collect_ngram_patterns( word_path
+# 	                  , pattern_path
+# 	                  , ngram_dir
+# 	                  , out_dir
+# 	                  , log_dir
+# 	                  , debug = False)
 
 
