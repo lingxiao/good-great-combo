@@ -13,6 +13,20 @@ from scripts import *
 
 '''
 	@Use: winnow ngram files by those that contain words found in word_path
+	      Note if you run this on multiple batchs of words from different `word_path`
+	      then there will be duplicate ngrams
+
+	      then you would need to prune the output files for duplicates
+
+	@Input: - path to words  `word_path`     :: String
+	        - path to ngrams  `ngram_dir`    :: String
+	        - output directory `out_dir`     :: String
+	        - log path `log_dir`             :: String 
+	        - debug flag  	                 :: Bool
+	             if true only output part of ngrams
+	@Output: None
+			save results of parse to out_path
+			log program trace to log_dir
 '''
 def ngram_by_words(word_path, ngram_dir, out_path, log_dir, debug = False):
 
