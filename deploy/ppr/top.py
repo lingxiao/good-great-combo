@@ -22,58 +22,22 @@ _root       = os.path.join(PATH['directories']['deploy'], 'ppr')
 _word_dir   = os.path.join(_root, 'words') 
 _output_dir = os.path.join(_root, 'outputs')
 _script_dir = os.path.join(_root ,'scripts')
+_shell_dir = os.path.join(_root ,'shell')
 gr_path     = PATH['assets']['graph']
 
-
-'''
-	@Use: split edges into chunks to compute
-	      weight on remote 
-'''
-def run_split(size, output_dir):
-
-	_, words = load_as_list(gr_path)
-	splits   = list(chunks(words,size))
-
-	cnt = 1
-
-	print('\n>> splitting words into ' + str(len(splits)) + ' chunks')
-	
-	for ws in splits:
-		path = os.path.join(output_dir, 'word-' + str(cnt) + '.txt')
-		with open(path,'wb') as h:
-			for w in ws:
-				h.write(w + '\n')
-		cnt += 1
-
-	return cnt
-
-'''
-	@Use: rewrite main-#.py file
-'''
-def run_auto_main(tot):
-
-	cnt = 2
-
-	for k in xrange(tot - 2):
-		src_path = os.path.join(_script_dir, 'main-1.py')
-		tgt_path = os.path.join(_script_dir, 'main-' + str(cnt) + '.py')
-		src_str  = 'batch = 1'
-		tgt_str  = 'batch = ' + str(cnt)
-		auto_gen(src_path, tgt_path, src_str, tgt_str)
-		cnt += 1
 
 '''
 	@Use: rewrite main-#.sh file
 '''
 def run_auto_sh(tot):
 
-	cnt = 2
+	cnt = 1
 
-	for k in xrange(tot - 2):
-		src_path = os.path.join(_script_dir,'main-1.sh')
-		tgt_path = os.path.join(_script_dir,'main-' + str(cnt) + '.sh')
-		src_str  = 'main-1'
-		tgt_str  = 'main-' + str(cnt)
+	for k in xrange(tot):
+		src_path = os.path.join(_shell_dir,'ppr-0.sh')
+		tgt_path = os.path.join(_shell_dir,'ppr-' + str(cnt) + '.sh')
+		src_str  = 'ppr-0'
+		tgt_str  = 'ppr-' + str(cnt) 
 
 		auto_gen(src_path, tgt_path, src_str, tgt_str)
 
@@ -82,9 +46,7 @@ def run_auto_sh(tot):
 '''
 	run all
 '''
-n = run_split(10, _word_dir)
-# run_auto_main(n)
-# run_auto_sh  (n)
+run_auto_sh  (7)
 
 
 
