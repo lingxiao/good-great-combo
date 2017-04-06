@@ -1,5 +1,6 @@
 ############################################################
-# Module  : split edges and make main-#.py
+# Module  : get google ngram lines that contain words in graph
+#           split edges and make main-#.py
 # Date    : April 2nd, 2017
 # Author  : Xiao Ling
 ############################################################
@@ -28,8 +29,36 @@ gr_path     = PATH['assets']['graph']
 ccb         = read_gold(PATH['assets']['ccb'])
 bansal      = read_gold(PATH['assets']['bansal'])
 
+############################################################
 
 
+'''
+	@Use: combine batched ngrams into one file
+	      and remove duplicates
+	@Input: input directory `input_dir`    :: String
+	        output file path `output_path` :: String
+
+	@Output: None. write output to disk at `output_path`
+'''
+def concat_ngrams(input_dir, output_path):
+
+	paths = [os.path.join(input_dir, p) for p in os.listdir(input_dir) if '.txt' in p]
+
+	ngrams = []
+
+	for p in paths:
+		print('\n>> concatting ngrams from ' + p)
+		xs = [ x.split(': ') for x in open(p,'rb').read().split('\n')]
+		ngrams += [(x[0],x[1]) for x in xs if len(x) == 2]
+
+	ngrams = set(ngrams)
+
+	print ('\n>> saving at ' + output_path)
+	with open(output_path,'wb') as h:
+		for xs,n in ngrams:
+			h.write(xs + '\t' + n + '\n')
+
+############################################################
 '''
 	@Use: split all words in graph
 '''
@@ -112,6 +141,7 @@ def split_into_pairs(size, output_dir):
 
 	return cnt
 
+############################################################
 '''
 	@Use: rewrite main-#.py file
 '''
@@ -144,11 +174,17 @@ def run_auto_sh(tot):
 
 		cnt +=1
 
+############################################################
 '''
 	run all
 '''
-n = split_into_words(250, _word_dir)
+# n = split_into_words(250, _word_dir)
 # n = split_into_pairs(500000, _pair_dir)
-run_auto_main(n)
-run_auto_sh  (n)
+# run_auto_main(n)
+# run_auto_sh  (n)
+
+concat_ngrams('/nlp/users/xiao/good-great-combo/ngrams/word-ngrams', '/nlp/users/xiao/good-great-combo/ngrams/full/word-ngrams.txt')
+# concat_ngrams(_output_dir, os.path.join(_output_dir, 'ngram-words.txt'))
+
+
 

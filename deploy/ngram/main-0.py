@@ -33,17 +33,16 @@ out_dir      = _output_dir
 log_dir      = PATH['directories']['log']
 
 
-ngram_by_words( word_path
-	          , ngram_dir
-	          , os.path.join(out_dir,'batch-' + str(batch) + '.txt')
-	          , log_dir
-	          , debug = False)
+# ngram_by_words( word_path
+# 	          , ngram_dir
+# 	          , os.path.join(out_dir,'batch-' + str(batch) + '.txt')
+# 	          , log_dir
+# 	          , debug = False)
 
-# collect_ngram_patterns( word_path
-# 	                  , pattern_path
-# 	                  , ngram_dir
-# 	                  , out_dir
-# 	                  , log_dir
-# 	                  , debug = False)
-
+collect_ngram_patterns( word_path
+	                  , pattern_path
+	                  , ngram_dir
+	                  , out_dir
+	                  , log_dir
+	                  , debug = False)
 

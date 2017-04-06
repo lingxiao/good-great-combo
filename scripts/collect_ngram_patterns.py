@@ -46,12 +46,11 @@ def ngram_by_words(word_path, ngram_dir, out_path, log_dir, debug = False):
 	'''
 	for gram,n in with_ngram(ngram_dir, debug):
 		if any(w in gram for w in words):
-			output.write(gram + ': ' + n + '\n')
+			output.write(gram + '\t' + n + '\n')
 
 	output.write('=== END')
 	output.close()
 	writer.close()
-
 
 
 '''
