@@ -70,13 +70,16 @@ def collect_ngram_patterns(word_path, pattern_path, ngram_dir, out_dir, log_dir,
 
 	writer = Writer(log_dir, 1)
 	writer.tell('running collect_ngram_patterns ...')
+	writer.tell('found word pair path at ' + word_path)
 
 	patterns  = read_pattern(pattern_path)
 	pairs     = [x.split(', ') for x in open(word_path,'rb').read().split('\n') if x]
+	
+	writer.tell('constructing regex for all words and patterns')
+	pair_patterns = [(s,t,compile_patterns(s,t,patterns)) \
+	                 for s,t in pairs]			
 
-	results   = {(s,t) : {'weak-strong' : [], 'strong-weak': []} for s,t in pairs}           
-
-	writer.tell('found word pair path at ' + word_path)
+	results   = { (s,t) : {s + '>' + t : [], s + '<' + t : []} for s,t in pairs }
 
 	if debug: msg = 'debug'
 	else:     msg = 'production'
@@ -88,63 +91,72 @@ def collect_ngram_patterns(word_path, pattern_path, ngram_dir, out_dir, log_dir,
 	'''
 	for gram,n in with_ngram(ngram_dir, debug):
 
-		for s,t in pairs:
+		for s,t, st_patterns in pair_patterns:
 
-			'''
-				collect patterns and save
-			'''
-			for R in patterns['strong-weak']:
+			if s in gram and t in gram:
+				'''
+					collect patterns and save
+				'''
+				s_stronger_t = [gram + '\t' + n for r in st_patterns[s + '>' + t] if r.match(gram)]
+				s_weaker_t   = [gram + '\t' + n for r in st_patterns[s + '<' + t] if r.match(gram)]
 
-				reg = re.compile(parse_re(R,[s,t]))
+				results[(s,t)][s + '>' + t] += s_stronger_t				
+				results[(s,t)][s + '<' + t] += s_weaker_t
 
-				if reg.match(gram):
-					results[(s,t)]['strong-weak'].append(gram + ': ' + n)
 
-			for R in patterns['weak-strong']:
-
-				reg = re.compile(parse_re(R,[t,s]))
-
-				if reg.match(gram):
-					results[(s,t)]['strong-weak'].append(gram + ': ' + n)
-
-			for R in patterns['weak-strong']:
-
-				reg = re.compile(parse_re(R,[s,t]))
-				if reg.match(gram):
-					results[(s,t)]['weak-strong'].append(gram + ': ' + n)
-
-			for R in patterns['strong-weak']:
-
-				reg = re.compile(parse_re(R,[t,s]))
-				if reg.match(gram):
-					results[(s,t)]['weak-strong'].append(gram + ': ' + n)
+	print results				
 
 	'''
 		save outputs for each s-t pairs
 		if there are any pattern matches
 	'''
+	writer.tell('saving all results ...')
+
 	for (s,t),res in results.iteritems():
 
-		if res['strong-weak'] or res['weak-strong']:
+		if res[s + '>' + t] or res[s + '<' + t]:
 
 			writer.tell('found patterns for word pair ' + s + ' and ' + t)
 
 			with open(os.path.join(out_dir, s + '-' + t + '.txt'), 'wb') as h:
 
-				h.write('=== strong-weak\n')
+				h.write('=== ' + s + ' > ' + t  + '\n')
 
-				for p in res['strong-weak']:
-					h.write(p + '\n')
+				for p in res[s + '>' + t]: h.write(p + '\n')
 
-				h.write('=== weak-strong\n')
+				h.write('=== ' + s + ' < ' + t  + '\n')
 
-				for q in res['weak-strong']:
-					h.write(q + '\n')
+				for q in res[s + '<' + t]: h.write(q + '\n')
 
 				h.write('=== END')			
 
 
-
 	writer.close()			
+
+
+'''
+	@Use  : compile word pattern for every pattern
+	@Input: s     :: String  word1
+			t     :: String  word2
+			patts :: Dict String [String]
+			          with keys: strong-weak
+			                     weak-strong
+			          and values that is a list of patterns
+	@Output a dictionary of regular expressions for 
+	        s t at each pattern
+'''
+def compile_patterns(s,t, patts):
+
+	s_stronger_t = [re.compile(parse_re(R,[s,t])) for R in patts['strong-weak']] \
+	             + [re.compile(parse_re(R,[t,s])) for R in patts['weak-strong']]
+
+	s_weaker_t  = [re.compile(parse_re(R,[s,t])) for R in patts['weak-strong']]  \
+	            + [re.compile(parse_re(R,[t,s])) for R in patts['strong-weak']]
+
+	return { s + '>' + t : s_stronger_t, s + '<' + t : s_weaker_t }
+
+
+
+
 
 

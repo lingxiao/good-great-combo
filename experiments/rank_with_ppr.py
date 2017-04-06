@@ -31,10 +31,18 @@ from scripts import *
 ccb    = read_gold(PATH['assets']['ccb'])
 bansal = read_gold(PATH['assets']['bansal'])
 
-############################################################
-
 gr_path = PATH['assets']['graph']
 wt_path = PATH['inputs']['graph-wt-by-edge']
 out_dir = PATH['inputs']['ppr-by-ppdb']
 log_dir = PATH['directories']['log']
+
+
+
+
+
+
+
+
+
+
 

@@ -149,7 +149,7 @@ def run_auto_main(tot):
 
 	cnt = 1
 
-	for k in xrange(tot):
+	for k in xrange(tot-1):
 		src_path = os.path.join(_root, 'main-0.py')
 		tgt_path = os.path.join(_script_dir, 'main-' + str(cnt) + '.py')
 		src_str  = 'batch = 0'
@@ -164,7 +164,7 @@ def run_auto_sh(tot):
 
 	cnt = 1
 
-	for k in xrange(tot):
+	for k in xrange(tot-1):
 		src_path = os.path.join(_root,'main-0.sh')
 		tgt_path = os.path.join(_shell_dir,'main-' + str(cnt) + '.sh')
 		src_str  = 'main-0'
