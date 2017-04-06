@@ -104,8 +104,6 @@ def collect_ngram_patterns(word_path, pattern_path, ngram_dir, out_dir, log_dir,
 				results[(s,t)][s + '<' + t] += s_weaker_t
 
 
-	print results				
-
 	'''
 		save outputs for each s-t pairs
 		if there are any pattern matches
