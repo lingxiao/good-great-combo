@@ -79,9 +79,8 @@ def collect_ngram_patterns(word_path, pattern_path, ngram_dir, out_dir, log_dir,
 	writer.tell('found word pair path at ' + word_path)
 
 	if debug: msg = 'debug'
-	else:     msg = 'non-debug'
+	else:     msg = 'production'
 	writer.tell('Streaming ngrams from ' + ngram_dir +  ' in ' + msg + ' mode')
-
 
 	'''
 		iterate over all ngrams and parse all permutations of s R t
