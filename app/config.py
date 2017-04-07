@@ -31,10 +31,10 @@ else:
 '''
 PATH = {# directories that should exist before application runs
         'directories': {
-            'deploy' : os.path.join(root, 'deploy')
+            'deploy' : os.path.join(root, 'deploy'     )
            ,'log'    : os.path.join(root, 'deploy/logs')
            ,'input'  : os.path.join(root, 'inputs'     )
-
+           ,'results': os.path.join(root, 'results'    )
 
         },
 

@@ -53,7 +53,7 @@ def personalized_page_rank(gr_path, wt_path, out_dir, log_dir, alpha, debug = Fa
 			personal = {w : 0 for w in words}
 			personal[w] = 1.0
 
-			ppr = nx.pagerank(G_ppdb, personalization = personal)
+			ppr = nx.pagerank(G_ppdb, personalization = personal, alpha = alpha)
 
 			with open(os.path.join(out_dir, w + '-' + salpha + '.pkl'), 'wb') as h:
 				pickle.dump(ppr, h)
