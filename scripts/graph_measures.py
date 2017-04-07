@@ -22,41 +22,59 @@ from scripts import *
 		- `out_dir`	:: String   path to output directory
 		- `log_dir` :: String   path to log output
 		- `alpha`   :: Float    random walk reset constant
+		- `refresh` :: Bool     if true do no recompute ppr if file already exists
 		- `debug`   :: Bool     if true only run for three words
 
 	@output: None. Write results to disk
 
 	@Rasies: NameError if output directory does not exists
 '''
-def personalized_page_rank(gr_path, wt_path, out_dir, log_dir, alpha, debug = False):
+def personalized_page_rank( gr_path
+	                      , wt_path
+	                      , out_dir
+	                      , log_dir
+	                      , alpha
+	                      , refresh = True
+	                      , debug = False):
 
 	if not os.path.exists(out_dir):
 		raise NameError('output directory does not exist at ' + out_dir)
 
 	else:
 
-		salpha = str(alpha)
-		writer = Writer(log_dir, 1)
-
-		writer.tell('running compute_ppr at constant ' + salpha)
+		salpha   = str(alpha)
+		srefresh = 'refresh' if refresh else 'restart'
+		writer = Writer(log_dir, 1, debug)
 
 		'''
 			Read ppdb graph
 		'''
 		G_ppdb, words  = load_as_digraph( gr_path, wt_path )
 
-		if debug: ws = words[0:3]
-		else:     ws = words
+		if debug: ws   = words[0:3]
+		else:    ws   = words
+
+		writer.tell('running compute_ppr at constant ' 
+			       + salpha 
+			       + ' in ' 
+			       + srefresh
+			       + ' mode') 
 
 		for w in ws:
 
-			personal = {w : 0 for w in words}
-			personal[w] = 1.0
+			out_path = os.path.join(out_dir, w + '-' + salpha + '.pkl')
 
-			ppr = nx.pagerank(G_ppdb, personalization = personal, alpha = alpha)
+			if os.path.exists(out_path) and refresh:
+				pass
+			else:
 
-			with open(os.path.join(out_dir, w + '-' + salpha + '.pkl'), 'wb') as h:
-				pickle.dump(ppr, h)
+				personal    = {w : 0 for w in words}
+				personal[w] = 1.0
+
+				ppr = nx.pagerank(G_ppdb, personalization = personal, alpha = alpha)
+
+				with open(out_path, 'wb') as h:
+					pickle.dump(ppr, h)
 
 		writer.tell('Done')
 		writer.close()

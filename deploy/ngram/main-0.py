@@ -34,7 +34,6 @@ ngram_dir    = PATH['ngrams']['full']
 out_dir      = _output_dir
 log_dir      = PATH['directories']['log']
 
-
 # ngram_by_words( word_path
 # 	          , ngram_dir
 # 	          , os.path.join(out_dir,'batch-' + str(batch) + '.txt')

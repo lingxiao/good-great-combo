@@ -21,6 +21,8 @@ wt_path = PATH['inputs']['graph-wt-by-edge']
 out_dir = PATH['inputs']['ppr-by-ppdb']
 log_dir = PATH['directories']['log']
 
+G_ppdb, words  = load_as_digraph( gr_path, wt_path )
+
 personalized_page_rank(gr_path, wt_path, out_dir, log_dir, 0.90)
 personalized_page_rank(gr_path, wt_path, out_dir, log_dir, 0.80)
 personalized_page_rank(gr_path, wt_path, out_dir, log_dir, 0.70)

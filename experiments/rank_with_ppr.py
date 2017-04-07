@@ -40,22 +40,64 @@ log_dir = PATH['directories']['log']
 out_dir = os.path.join(PATH['directories']['results'],'april')
 ppr_dir = os.path.join(PATH['directories']['input'],'ppr-by-ppdb')
 
+
 ############################################################
 
+edges, words = load_as_list(gr_path)
 
-gold = [[w] for w in ['good','great','excellent']]
+G_ppdb, _  = load_as_digraph( gr_path, wt_path )
+
+
+def check(alpha, words):
+
+	bad = []
+
+	for s in words:
+		name = s + '-' + str(alpha) + '.pkl'
+		path = os.path.join(ppr_dir,name)
+
+		if not os.path.exists(path):
+			bad.append(s)
+
+	return bad
+
+
+personalized_page_rank( gr_path
+                      , wt_path
+                      , ppr_dir
+                      , log_dir
+                      , 0.7)
+                      # , refresh = True
+                      # , debug = False)
+
+# bad  = check(alpha,words)
+
+# for w in bad:
+
+# 	personal = {w : 0 for w in words}
+# 	personal[w] = 1.0
+
+# 	ppr = nx.pagerank(G_ppdb, personalization = personal, alpha = alpha)
+
+# 	with open(os.path.join(ppr_dir, w + '-' + str(alpha) + '.pkl'), 'wb') as h:
+# 		pickle.dump(ppr, h)
+
+
+
+gold = [[w] for w in ['good', 'great', 'excellent']]
+
 
 '''
 	problem right now:
 			the nx.pagerank were run w/o actual constant
 			change, so they're all wrong
 '''
-pprs1 = run_ppr(ppr_dir, gold, 0.9)
-pprs2 = run_ppr(ppr_dir, gold, 0.8)
-pprs3 = run_ppr(ppr_dir, gold, 0.7)
-pprs4 = run_ppr(ppr_dir, gold, 0.5)
-pprs5 = run_ppr(ppr_dir, gold, 0.25)
-pprs6 = run_ppr(ppr_dir, gold, 0.1)
+# pprs1 = run_ppr(ppr_dir, gold, 0.9)
+# pprs2 = run_ppr(ppr_dir, gold, 0.8)
+# pprs3 = run_ppr(ppr_dir, gold, 0.7)
+# pprs4 = run_ppr(ppr_dir, gold, 0.5)   # ok
+# pprs5 = run_ppr(ppr_dir, gold, 0.25)  # ok
+# pprs6 = run_ppr(ppr_dir, gold, 0.1)   # ok
 
 ############################################################
 '''

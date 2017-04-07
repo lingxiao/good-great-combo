@@ -3,7 +3,8 @@
 set -x
 
 # add app to python path                                                                                                                                     \
-export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
+export PYTHONPATH=/Users/lingxiao/Documents/research/code/good-great-combo
+
 
 # $HOME/sample_applications/sample_sge_script_1.sh
 # wallclock time reservation (format is hours:minutes:seconds).
@@ -16,12 +17,12 @@ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
 
 # name of job
 # man 1 qsub
-#$ -N ppr-0
+#$ -N ppr-2
 # working directory (check for specific requirements for your research group)
 # man 1 qsub
 
 # make sure I set my $CWD (current working directory)
-cd $HOME/xiao/good-great-combo
+cd $HOME/Documents/research/code/good-great-combo
 
 # You must set the error and output locations, as the default log output
 # location is the directory you qsub'ed from. For instance, say I cd to
@@ -46,5 +47,5 @@ cd $HOME/xiao/good-great-combo
 source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
 
 # run my scripts
-python $HOME/xiao/good-great-combo/deploy/ppr/scripts/ppr-0.py
+python $HOME/Documents/research/code/good-great-combo/deploy/ppr/scripts/ppr-3.py
 
