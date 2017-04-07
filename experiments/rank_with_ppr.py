@@ -45,6 +45,11 @@ ppr_dir = os.path.join(PATH['directories']['input'],'ppr-by-ppdb')
 
 gold = [[w] for w in ['good','great','excellent']]
 
+'''
+	problem right now:
+			the nx.pagerank were run w/o actual constant
+			change, so they're all wrong
+'''
 pprs1 = run_ppr(ppr_dir, gold, 0.9)
 pprs2 = run_ppr(ppr_dir, gold, 0.8)
 pprs3 = run_ppr(ppr_dir, gold, 0.7)
