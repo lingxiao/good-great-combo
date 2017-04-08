@@ -85,17 +85,22 @@ def collect_ngram_patterns( word_path
         path to word_path-no-data.txt
         - this is created the last time we crawled and found no data
     '''
-    no_ngram_path = os.path.splitext(word_path)[0] + '-no-data' + '.txt'
+    no_data_path = os.path.splitext(word_path)[0] + '-no-data' + '.txt'
 
-    if os.path.exists(no_ngram_path):
+    '''
+        if we crawled this set of words before, then we
+        encountered words with no data and saved them.
+        so open them up
+    '''
+    if os.path.exists(no_data_path):
 
         tup = lambda xs : (xs[0], xs[1])
 
-        writer.tell('found path to list of pairs with no data at ' + no_ngram_path)
-        no_data_pairs = [tup(x.split(', ')) for x in open(no_ngram_path,'rb').read().split('\n') if x]
+        writer.tell('found path to list of pairs with no data at ' + no_data_path)
+        no_data_pairs = [tup(x.split(', ')) for x in open(no_data_path,'rb').read().split('\n') if x]
 
     else:
-        writer.tell('could not locate list of pairs with no data at ' + no_ngram_path)
+        writer.tell('could not locate list of pairs with no data at ' + no_data_path)
         no_data_pairs = []
 
     s_refresh = 'refresh' if refresh else 'non-refresh'
@@ -109,7 +114,11 @@ def collect_ngram_patterns( word_path
 
     '''
         loop over pairs so we can save as data for each pair is collected
+        re-save the no_data_pairs to disk for every new 10 pairs added
     '''
+
+    blink = 0
+
     for s,t in pairs:
 
         s_t_path = os.path.join(out_dir, s + '-' + t + '.txt')
@@ -122,18 +131,33 @@ def collect_ngram_patterns( word_path
             writer.tell('data for ' + s + ', ' + t + ' already exists. skipping ...')
 
         else:
+    
             found = go_collect(s, t, patterns, ngram_dir, s_t_path, debug)
 
-            if not found: no_data_pairs.append((s,t))
+            if not found: 
+                no_data_pairs.append((s,t))
+                blink += 1
 
-    writer.tell('saving list of words with no data at ' + no_ngram_path)
+        if blink == 2: 
+            writer.tell('saving partial results for no-data-pairs')
+            save_no_data_pairs(no_data_pairs, no_data_path)
+            blink = 0
+
+
+    writer.tell('saving list of words with no data at ' + no_data_path)
 
     if no_data_pairs:
-        with open(no_ngram_path,'wb') as h:
+        with open(no_data_path,'wb') as h:
             for s,t in set(no_data_pairs):
                 h.write(s + ', ' + t + '\n')
 
     writer.close()          
+
+def save_no_data_pairs(pairs, path):
+    if pairs:
+        with open(path, 'wb') as h:
+            for s, t in set(pairs):
+                h.write(s + ', ' + t + '\n')
 
 
 '''

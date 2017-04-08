@@ -183,8 +183,5 @@ n = split_into_pairs(100000, _pair_dir)
 run_auto_main(n)
 run_auto_sh  (n)
 
-# concat_ngrams('/nlp/users/xiao/good-great-combo/ngrams/word-ngrams', '/nlp/users/xiao/good-great-combo/ngrams/full/word-ngrams.txt')
-# concat_ngrams(_output_dir, os.path.join(_output_dir, 'ngram-words.txt'))
-
 
 
