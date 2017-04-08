@@ -1,0 +1,9 @@
+=== solemn > serious
+serious , almost solemn	59
+serious , even solemn	74
+serious , even solemn ,	50
+serious but not solemn	84
+serious but not solemn	84
+
+=== solemn < serious
+=== END

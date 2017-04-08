@@ -1,0 +1,8 @@
+=== outdated > old
+old but not outdated	76
+old but not outdated .	48
+old but not outdated	76
+old but not outdated .	48
+
+=== outdated < old
+=== END

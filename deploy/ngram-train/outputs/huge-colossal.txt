@@ -1,0 +1,6 @@
+=== huge > colossal
+
+=== huge < colossal
+huge , almost colossal	43
+huge , almost colossal in	43
+=== END

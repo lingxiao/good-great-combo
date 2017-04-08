@@ -1,0 +1,6 @@
+=== indecent > profane
+
+=== indecent < profane
+indecent but not profane	40
+indecent but not profane	40
+=== END

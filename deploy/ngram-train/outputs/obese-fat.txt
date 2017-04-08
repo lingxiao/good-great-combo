@@ -1,0 +1,6 @@
+=== obese > fat
+fat or even obese	99
+fat or even obese .	84
+
+=== obese < fat
+=== END

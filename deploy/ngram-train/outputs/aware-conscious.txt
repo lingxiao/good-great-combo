@@ -1,0 +1,9 @@
+=== aware > conscious
+conscious , fully aware	123
+conscious and fully aware	93
+conscious , fully aware of	90
+conscious and fully aware of	53
+
+=== aware < conscious
+aware and fully conscious	46
+=== END

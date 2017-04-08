@@ -1,0 +1,6 @@
+=== cool > frigid
+
+=== cool < frigid
+cool but not frigid	47
+cool but not frigid	47
+=== END

@@ -1,0 +1,6 @@
+=== great > greatest
+
+=== great < greatest
+great but not greatest ,	46
+great but not greatest	65
+=== END

@@ -1,0 +1,15 @@
+=== low > lower
+
+=== low < lower
+low , even lower	219
+low and even lower	86
+low or even lower	108
+low , and even lower	88
+low , even lower than	176
+low or even lower than	48
+low if not lower	92
+low , if not lower	131
+low if not lower than	72
+lower or very low	108
+lower or very low income	48
+=== END

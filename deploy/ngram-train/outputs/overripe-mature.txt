@@ -1,0 +1,8 @@
+=== overripe > mature
+mature but not overripe	100
+mature but not overripe ,	55
+mature but not overripe	100
+mature but not overripe ,	55
+
+=== overripe < mature
+=== END

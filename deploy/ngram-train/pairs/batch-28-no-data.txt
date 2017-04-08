@@ -1,0 +1,15 @@
+practical, realistic
+impaired, ill
+sick, impaired
+insane, unstable
+sick, disabled
+ill, impaired
+disabled, sick
+realistic, feasible
+authentic, real
+immaculate, spotless
+realistic, practical
+real, authentic
+impaired, sick
+spotless, immaculate
+feasible, realistic

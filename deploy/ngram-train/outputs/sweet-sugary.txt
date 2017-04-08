@@ -1,0 +1,6 @@
+=== sweet > sugary
+
+=== sweet < sugary
+sweet but not sugary	57
+sweet but not sugary	57
+=== END

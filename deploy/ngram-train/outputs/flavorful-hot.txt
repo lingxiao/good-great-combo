@@ -1,0 +1,7 @@
+=== flavorful > hot
+
+=== flavorful < hot
+flavorful but not hot .	105
+flavorful but not hot	111
+flavorful but not hot .	105
+=== END

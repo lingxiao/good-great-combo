@@ -1,0 +1,5 @@
+=== handsome > pretty
+pretty , and even handsome	41
+
+=== handsome < pretty
+=== END

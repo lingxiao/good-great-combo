@@ -1,0 +1,5 @@
+=== strange > eerie
+
+=== strange < eerie
+strange , almost eerie	67
+=== END

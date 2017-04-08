@@ -1,0 +1,11 @@
+=== same > equal
+equal but not the same	67
+equal but not the same	120
+equal but not the same	67
+equal but not the same	120
+
+=== same < equal
+same but not equal	47
+same but not equal	47
+the same but not equal	46
+=== END

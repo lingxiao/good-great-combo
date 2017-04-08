@@ -1,0 +1,7 @@
+=== odd > bizarre
+
+=== odd < bizarre
+odd , even bizarre	68
+odd or even bizarre	61
+odd or even bizarre ,	50
+=== END

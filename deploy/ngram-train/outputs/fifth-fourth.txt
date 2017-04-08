@@ -1,0 +1,10 @@
+=== fifth > fourth
+fourth , even fifth	70
+fourth and even fifth	227
+fourth or even fifth	430
+fourth , and even fifth	93
+fourth , or even fifth	197
+fourth or even a fifth	81
+
+=== fifth < fourth
+=== END

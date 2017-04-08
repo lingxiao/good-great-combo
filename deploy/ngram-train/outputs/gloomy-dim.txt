@@ -1,0 +1,6 @@
+=== gloomy > dim
+dim , but not gloomy	93
+dim , but not gloomy	93
+
+=== gloomy < dim
+=== END

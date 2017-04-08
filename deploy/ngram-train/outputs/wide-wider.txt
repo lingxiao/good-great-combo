@@ -1,0 +1,12 @@
+=== wide > wider
+
+=== wide < wider
+wide or even wider	51
+wide , if not wider	49
+wide but not wider	43
+wide , but not wider	62
+wide but not wider than	41
+wide but not wider	43
+wide , but not wider	62
+wide but not wider than	41
+=== END

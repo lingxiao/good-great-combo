@@ -1,0 +1,6 @@
+=== ill > sick
+
+=== ill < sick
+ill , but not sick	60
+ill , but not sick	60
+=== END

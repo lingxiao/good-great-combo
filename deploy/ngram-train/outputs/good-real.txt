@@ -1,0 +1,6 @@
+=== good > real
+
+=== good < real
+good , but not real	79
+good but not real	73
+=== END

@@ -1,0 +1,5 @@
+=== hostile > cool
+cool , if not hostile	77
+
+=== hostile < cool
+=== END

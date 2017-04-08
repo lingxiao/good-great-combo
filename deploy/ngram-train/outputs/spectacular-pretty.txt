@@ -1,0 +1,6 @@
+=== spectacular > pretty
+pretty but not spectacular	43
+pretty but not spectacular	43
+
+=== spectacular < pretty
+=== END

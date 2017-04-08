@@ -1,0 +1,14 @@
+=== strange > stranger
+
+=== strange < stranger
+strange but not a stranger	223
+strange but not a stranger	303
+strange but not a stranger	62
+strange but not a stranger	305
+strange but not a stranger	232
+strange but not a stranger	223
+strange but not a stranger	303
+strange but not a stranger	62
+strange but not a stranger	305
+strange but not a stranger	232
+=== END

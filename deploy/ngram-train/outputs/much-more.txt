@@ -1,0 +1,83 @@
+=== much > more
+more but not much	332
+more , but not much	784
+more but not much .	151
+more but not much more	62
+more but not much	332
+more but not much.i	85
+more , but not much	784
+more but not much .	151
+more but not much more	62
+more but not much.i only	85
+
+=== much < more
+much or even more	44
+much , even more	377
+much or even more	80
+much and even more	482
+much or even more	3350
+much , and even more	254
+much , even more so	49
+much , even more than	162
+much , or even more	955
+much or even more money	80
+much and even more so	40
+much and even more sure	75
+much and even more than	106
+much or even more ,	68
+much or even more .	213
+much or even more a	45
+much or even more for	46
+much or even more of	67
+much or even more so	113
+much or even more than	1317
+much or even more time	52
+much or even more to	75
+much if not more	40
+much if not more	112
+much if not more	17573
+much , if not more	52
+much , if not more	27607
+much if not more !	69
+much if not more (	42
+much if not more ,	329
+much if not more .	953
+much if not more ...	49
+much if not more </s>	135
+much if not more a	95
+much if not more about	308
+much if not more and	48
+much if not more as	137
+much if not more at	42
+much if not more attention	163
+much if not more business	104
+much if not more by	104
+much if not more damage	138
+much if not more effort	64
+much if not more energy	42
+much if not more for	187
+much if not more from	258
+much if not more fun	115
+much if not more impact	61
+much if not more in	246
+much if not more influence	53
+much if not more money	146
+much if not more of	430
+much if not more on	204
+much if not more pleasure	44
+much if not more power	79
+much if not more so	556
+much if not more talent	46
+much if not more than	7069
+much if not more that	65
+much if not more then	294
+much if not more time	194
+much if not more to	586
+much if not more trouble	65
+much if not more usage	61
+much if not more with	70
+much if not more work	103
+more , or very much	46
+much , but not more	76
+much , but not more	76
+=== END

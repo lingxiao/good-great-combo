@@ -1,0 +1,5 @@
+=== easy > painless
+
+=== easy < painless
+easy , if not painless	145
+=== END

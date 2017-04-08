@@ -1,0 +1,54 @@
+=== necessary > useful
+useful , although not necessary	69
+useful , though not necessary	83
+useful , even necessary	541
+useful and even necessary	822
+useful or even necessary	752
+useful , and even necessary	229
+useful , even necessary ,	333
+useful , even necessary .	71
+useful , or even necessary	154
+useful and even necessary ,	77
+useful and even necessary .	86
+useful and even necessary for	88
+useful and even necessary in	150
+useful and even necessary to	148
+useful or even necessary ,	62
+useful or even necessary .	101
+useful or even necessary for	123
+useful or even necessary in	70
+useful or even necessary to	172
+not only useful but necessary	157
+useful if not necessary	128
+useful , if not necessary	341
+necessary or very useful	46
+useful but not necessary	42
+useful but not necessary	1283
+useful , but not necessary	56
+useful , but not necessary	964
+useful but not necessary )	57
+useful but not necessary ,	53
+useful but not necessary .	666
+useful but not necessary </s>	51
+useful but not necessary for	114
+useful but not necessary to	94
+useful but not necessary	42
+useful but not necessary	1283
+useful , but not necessary	56
+not only useful but necessary	157
+useful , but not necessary	964
+useful but not necessary )	57
+useful but not necessary ,	53
+useful but not necessary .	666
+useful but not necessary </s>	51
+useful but not necessary for	114
+useful but not necessary to	94
+
+=== necessary < useful
+necessary or even useful	383
+necessary , or even useful	112
+necessary or even useful .	96
+necessary or even useful for	42
+necessary or even useful in	40
+necessary or even useful to	64
+=== END

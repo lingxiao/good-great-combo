@@ -1,0 +1,10 @@
+=== spectacular > fine
+fine , if not spectacular	81
+fine , but not spectacular	93
+fine but not spectacular .	46
+fine but not spectacular	75
+fine , but not spectacular	93
+fine but not spectacular .	46
+
+=== spectacular < fine
+=== END

@@ -1,0 +1,8 @@
+=== bad > mediocre
+mediocre or even bad rating	100
+mediocre or even bad	196
+
+=== bad < mediocre
+bad or even mediocre	262
+bad , or even mediocre	104
+=== END

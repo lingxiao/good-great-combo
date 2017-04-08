@@ -1,0 +1,7 @@
+=== alive > awake
+awake , fully alive	80
+awake and fully alive	67
+awake , fully alive .	50
+
+=== alive < awake
+=== END

@@ -1,0 +1,15 @@
+intimate, cordial
+obese, chubby
+cool, icy
+warm, friendly
+uncomfortable, uneasy
+friendly, warm
+frigid, frozen
+fat, overweight
+cordial, warm
+uneasy, uncomfortable
+chubby, overweight
+cordial, intimate
+warm, cordial
+frigid, icy
+chubby, obese

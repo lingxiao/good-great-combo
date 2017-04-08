@@ -1,0 +1,7 @@
+=== violent > strong
+strong , even violent	91
+strong and even violent	54
+strong , even violent ,	50
+
+=== violent < strong
+=== END

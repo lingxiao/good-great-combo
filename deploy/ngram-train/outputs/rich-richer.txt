@@ -1,0 +1,9 @@
+=== rich > richer
+
+=== rich < richer
+rich even richer ,	180
+rich even richer .	218
+rich even richer and	106
+rich even richer and the	69
+rich , if not richer	50
+=== END

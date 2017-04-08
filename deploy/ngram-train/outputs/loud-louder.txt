@@ -1,0 +1,7 @@
+=== loud > louder
+
+=== loud < louder
+loud if not louder	109
+loud , if not louder	97
+loud if not louder than	53
+=== END

@@ -1,0 +1,6 @@
+=== cold > colder
+
+=== cold < colder
+cold , even colder	40
+cold , if not colder	47
+=== END

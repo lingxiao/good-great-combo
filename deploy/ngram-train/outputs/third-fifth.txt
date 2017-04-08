@@ -1,0 +1,5 @@
+=== third > fifth
+
+=== third < fifth
+third or even fifth	49
+=== END

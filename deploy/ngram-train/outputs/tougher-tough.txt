@@ -1,0 +1,8 @@
+=== tougher > tough
+tough , even tougher	42
+tough if not tougher	109
+tough , if not tougher	185
+tough if not tougher than	61
+
+=== tougher < tough
+=== END

@@ -1,0 +1,18 @@
+=== interesting > exciting
+exciting or even interesting	105
+exciting or even interesting .	64
+
+=== interesting < exciting
+interesting , even exciting	299
+interesting and even exciting	179
+interesting , and even exciting	65
+interesting , even exciting ,	138
+interesting , even exciting .	90
+interesting , if not exciting	51
+interesting but not exciting	98
+interesting , but not exciting	59
+interesting but not exciting .	56
+interesting but not exciting	98
+interesting , but not exciting	59
+interesting but not exciting .	56
+=== END

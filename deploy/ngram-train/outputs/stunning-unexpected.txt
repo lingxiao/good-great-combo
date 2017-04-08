@@ -1,0 +1,6 @@
+=== stunning > unexpected
+unexpected and even stunning	58
+unexpected and even stunning outcome	55
+
+=== stunning < unexpected
+=== END

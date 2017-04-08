@@ -1,0 +1,7 @@
+=== chilly > cool
+cool , even chilly	73
+cool but not chilly	48
+cool but not chilly	48
+
+=== chilly < cool
+=== END

@@ -1,0 +1,6 @@
+=== clever > bright
+
+=== clever < bright
+clever , but not bright	50
+clever , but not bright	50
+=== END

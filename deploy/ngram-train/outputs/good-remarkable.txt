@@ -1,0 +1,7 @@
+=== good > remarkable
+
+=== good < remarkable
+good but not remarkable	105
+good , but not remarkable	100
+good but not remarkable .	54
+=== END

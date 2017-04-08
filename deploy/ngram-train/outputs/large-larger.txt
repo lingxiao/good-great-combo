@@ -1,0 +1,15 @@
+=== large > larger
+
+=== large < larger
+large , even larger	81
+large or even larger	294
+large , even larger than	65
+large , or even larger	67
+large or even larger than	175
+large if not larger	332
+large , if not larger	450
+large if not larger .	50
+large if not larger than	218
+large , but not larger	59
+large , but not larger	59
+=== END

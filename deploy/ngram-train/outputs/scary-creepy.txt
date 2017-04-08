@@ -1,0 +1,6 @@
+=== scary > creepy
+creepy , but not scary	46
+creepy , but not scary	46
+
+=== scary < creepy
+=== END

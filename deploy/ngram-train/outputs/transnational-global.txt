@@ -1,0 +1,6 @@
+=== transnational > global
+
+=== transnational < global
+transnational and even global	55
+transnational or even global	45
+=== END

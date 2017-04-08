@@ -1,0 +1,6 @@
+=== cold > frigid
+
+=== cold < frigid
+cold but not frigid	40
+cold but not frigid	40
+=== END

@@ -1,0 +1,6 @@
+=== impracticable > impossible
+
+=== impracticable < impossible
+impracticable if not impossible	75
+impracticable , if not impossible	256
+=== END

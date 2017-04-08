@@ -1,0 +1,9 @@
+painful, hopeless
+negative, critical
+concerned, interested
+euphoric, content
+hopeless, painful
+cool, serene
+critical, negative
+interested, concerned
+content, euphoric

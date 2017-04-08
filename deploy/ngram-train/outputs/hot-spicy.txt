@@ -1,0 +1,14 @@
+=== hot > spicy
+spicy but not hot	59
+spicy but not hot	146
+spicy but not hot (	59
+spicy , but not hot	116
+spicy but not hot .	69
+spicy but not hot	59
+spicy but not hot	146
+spicy but not hot (	59
+spicy , but not hot	116
+spicy but not hot .	69
+
+=== hot < spicy
+=== END

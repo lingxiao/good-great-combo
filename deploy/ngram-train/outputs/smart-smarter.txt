@@ -1,0 +1,7 @@
+=== smart > smarter
+
+=== smart < smarter
+smart if not smarter	121
+smart , if not smarter	183
+smart if not smarter than	90
+=== END

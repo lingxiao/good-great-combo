@@ -1,0 +1,5 @@
+=== violent > murderous
+
+=== violent < murderous
+violent , even murderous	51
+=== END

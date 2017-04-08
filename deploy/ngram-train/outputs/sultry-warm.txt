@@ -1,0 +1,7 @@
+=== sultry > warm
+warm , almost sultry	44
+warm almost sultry voice	44
+warm almost sultry voice .	44
+
+=== sultry < warm
+=== END

@@ -1,0 +1,6 @@
+=== far > farther
+
+=== far < farther
+far if not farther	44
+far , if not farther	69
+=== END

@@ -1,0 +1,6 @@
+=== lean > skinny
+
+=== lean < skinny
+lean but not skinny	43
+lean but not skinny	43
+=== END

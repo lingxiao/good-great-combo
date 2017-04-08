@@ -1,0 +1,8 @@
+=== misleading > deceptive
+
+=== misleading < deceptive
+misleading or even deceptive	84
+misleading or even deceptive .	72
+misleading if not deceptive	254
+misleading if not deceptive ,	246
+=== END

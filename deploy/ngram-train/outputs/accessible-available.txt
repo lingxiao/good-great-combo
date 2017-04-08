@@ -1,0 +1,14 @@
+=== accessible > available
+available and fully accessible	136
+available or fully accessible	526
+available and fully accessible .	81
+available or fully accessible using	515
+available but not accessible	164
+available but not accessible .	40
+available but not accessible to	49
+available but not accessible	164
+available but not accessible .	40
+available but not accessible to	49
+
+=== accessible < available
+=== END

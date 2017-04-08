@@ -1,0 +1,8 @@
+=== hostile > critical
+critical , even hostile	40
+critical and even hostile	64
+critical or even hostile	77
+critical or even hostile reichstag	66
+
+=== hostile < critical
+=== END

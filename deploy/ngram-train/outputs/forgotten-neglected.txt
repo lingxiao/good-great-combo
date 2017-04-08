@@ -1,0 +1,7 @@
+=== forgotten > neglected
+neglected and almost forgotten	143
+neglected and even forgotten	41
+neglected , if not forgotten	44
+
+=== forgotten < neglected
+=== END

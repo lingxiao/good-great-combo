@@ -1,0 +1,8 @@
+=== alive > aware
+
+=== alive < aware
+alive but not aware	58
+alive but not aware of	55
+alive but not aware	58
+alive but not aware of	55
+=== END

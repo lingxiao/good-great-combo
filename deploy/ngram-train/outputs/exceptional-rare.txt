@@ -1,0 +1,6 @@
+=== exceptional > rare
+rare but not exceptional	42
+rare but not exceptional	42
+
+=== exceptional < rare
+=== END

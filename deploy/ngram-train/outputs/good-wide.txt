@@ -1,0 +1,5 @@
+=== good > wide
+
+=== good < wide
+good even wide open	67
+=== END

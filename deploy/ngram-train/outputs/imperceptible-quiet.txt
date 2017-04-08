@@ -1,0 +1,7 @@
+=== imperceptible > quiet
+quiet , almost imperceptible	81
+quiet almost imperceptible degrees	40
+quiet , almost imperceptible change	44
+
+=== imperceptible < quiet
+=== END

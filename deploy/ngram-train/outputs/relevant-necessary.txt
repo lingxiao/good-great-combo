@@ -1,0 +1,5 @@
+=== relevant > necessary
+necessary or even relevant	70
+
+=== relevant < necessary
+=== END

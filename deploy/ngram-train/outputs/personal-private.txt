@@ -1,0 +1,14 @@
+=== personal > private
+
+=== personal < private
+personal , almost private	64
+personal , even private	54
+personal but not private	50
+personal but not private	97
+personal , but not private	52
+personal but not private .	63
+personal but not private	50
+personal but not private	97
+personal , but not private	52
+personal but not private .	63
+=== END

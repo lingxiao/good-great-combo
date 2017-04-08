@@ -1,0 +1,5 @@
+=== useful > valuable
+
+=== useful < valuable
+useful , even valuable	42
+=== END

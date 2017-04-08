@@ -1,0 +1,5 @@
+=== bad > worst
+
+=== bad < worst
+bad but not the worst	55
+=== END

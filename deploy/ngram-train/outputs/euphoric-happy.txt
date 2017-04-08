@@ -1,0 +1,5 @@
+=== euphoric > happy
+happy , almost euphoric	42
+
+=== euphoric < happy
+=== END

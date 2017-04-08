@@ -1,0 +1,11 @@
+=== simple > simpler
+
+=== simple < simpler
+simple , if not simpler	47
+simple but not simpler	82
+simple , but not simpler	52
+simple but not simpler </s>	44
+simple but not simpler	82
+simple , but not simpler	52
+simple but not simpler </s>	44
+=== END

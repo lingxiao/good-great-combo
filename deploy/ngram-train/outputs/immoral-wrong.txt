@@ -1,0 +1,5 @@
+=== immoral > wrong
+wrong , even immoral	46
+
+=== immoral < wrong
+=== END

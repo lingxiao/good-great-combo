@@ -1,0 +1,5 @@
+=== qualified > skilled
+skilled and fully qualified	119
+
+=== qualified < skilled
+=== END

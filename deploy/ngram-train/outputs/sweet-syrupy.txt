@@ -1,0 +1,7 @@
+=== sweet > syrupy
+
+=== sweet < syrupy
+sweet , almost syrupy	72
+sweet but not syrupy	58
+sweet but not syrupy	58
+=== END

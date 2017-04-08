@@ -1,0 +1,15 @@
+=== safe > safer
+safer but not safe	92
+safer , but not safe	110
+safer but not safe .	49
+safer but not safe	92
+safer , but not safe	110
+safer but not safe .	49
+
+=== safe < safer
+safe or even safer	108
+safe or even safer than	92
+safe if not safer	195
+safe , if not safer	560
+safe if not safer than	158
+=== END

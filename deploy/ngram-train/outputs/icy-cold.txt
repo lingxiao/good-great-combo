@@ -1,0 +1,7 @@
+=== icy > cold
+cold , almost icy	58
+cold , but not icy	82
+cold , but not icy	82
+
+=== icy < cold
+=== END

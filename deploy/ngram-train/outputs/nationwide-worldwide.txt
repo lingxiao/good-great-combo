@@ -1,0 +1,14 @@
+=== nationwide > worldwide
+
+=== nationwide < worldwide
+nationwide , even worldwide	129
+nationwide and even worldwide	298
+nationwide or even worldwide	208
+nationwide , and even worldwide	44
+nationwide , even worldwide ,	67
+nationwide , or even worldwide	57
+nationwide and even worldwide ,	105
+nationwide and even worldwide .	107
+nationwide or even worldwide .	95
+nationwide , if not worldwide	94
+=== END

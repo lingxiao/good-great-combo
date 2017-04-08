@@ -1,0 +1,13 @@
+=== upset > angry
+upset or very angry	163
+upset or very angry :	145
+
+=== upset < angry
+upset , even angry	158
+upset and even angry	97
+upset or even angry	65
+upset , even angry ,	62
+angry or very upset	44
+upset , but not angry	58
+upset , but not angry	58
+=== END

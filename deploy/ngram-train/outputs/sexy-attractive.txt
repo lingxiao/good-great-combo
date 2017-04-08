@@ -1,0 +1,5 @@
+=== sexy > attractive
+attractive , even sexy	53
+
+=== sexy < attractive
+=== END

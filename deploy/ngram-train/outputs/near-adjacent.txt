@@ -1,0 +1,9 @@
+=== near > adjacent
+
+=== near < adjacent
+adjacent or very near	60
+near but not adjacent	82
+near but not adjacent to	79
+near but not adjacent	82
+near but not adjacent to	79
+=== END

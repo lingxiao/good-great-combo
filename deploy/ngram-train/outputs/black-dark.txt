@@ -1,0 +1,48 @@
+=== black > dark
+dark , almost black	177
+dark , almost black	4024
+dark almost black ,	44
+dark almost black .	52
+dark almost black color	43
+dark almost black hair	49
+dark and almost black	68
+dark , almost black ,	65
+dark , almost black ,	1365
+dark , almost black -	43
+dark , almost black .	472
+dark , almost black ;	48
+dark , almost black and	62
+dark , almost black color	100
+dark , almost black eyes	89
+dark , almost black foliage	132
+dark , almost black full	354
+dark , almost black hair	160
+dark , almost black in	93
+dark , even black	118
+dark or even black	152
+dark , even black .	45
+black or very dark	118
+black or very dark	1969
+a black or very dark	288
+black , or very dark	176
+black or very dark ,	57
+black or very dark .	131
+black or very dark background	80
+black or very dark blue	120
+black or very dark brown	406
+black or very dark gray	117
+black or very dark green	46
+black or very dark grey	77
+black or very dark shirts	84
+black or very dark skirt	47
+very dark or totally black	58
+dark but not black	134
+dark , but not black	120
+dark but not black .	40
+very dark or totally black	58
+dark but not black	134
+dark , but not black	120
+dark but not black .	40
+
+=== black < dark
+=== END

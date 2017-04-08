@@ -1,0 +1,8 @@
+=== spicy > zesty
+zesty but not spicy	84
+zesty but not spicy .	80
+zesty but not spicy	84
+zesty but not spicy .	80
+
+=== spicy < zesty
+=== END

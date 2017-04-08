@@ -1,0 +1,22 @@
+=== fast > faster
+faster , but not fast	85
+faster , but not fast	85
+
+=== fast < faster
+fast , even faster	246
+fast and even faster	93
+fast or even faster	445
+fast , and even faster	47
+fast , even faster than	200
+fast , or even faster	79
+fast or even faster .	49
+fast or even faster than	318
+fast if not faster	1216
+fast , if not faster	1461
+fast if not faster ,	64
+fast if not faster .	150
+fast if not faster than	745
+fast if not faster then	42
+fast , but not faster	58
+fast , but not faster	58
+=== END

@@ -1,0 +1,18 @@
+=== precise > accurate
+accurate but not precise	180
+accurate , but not precise	120
+accurate but not precise .	82
+accurate but not precise	180
+accurate , but not precise	120
+accurate but not precise .	82
+
+=== precise < accurate
+precise but not accurate	60
+precise but not accurate	230
+precise , but not accurate	72
+precise but not accurate .	135
+precise but not accurate	60
+precise but not accurate	230
+precise , but not accurate	72
+precise but not accurate .	135
+=== END

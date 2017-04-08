@@ -1,0 +1,6 @@
+=== unattractive > plain
+plain , but not unattractive	50
+plain , but not unattractive	50
+
+=== unattractive < plain
+=== END

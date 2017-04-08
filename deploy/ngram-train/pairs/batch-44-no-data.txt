@@ -1,0 +1,13 @@
+personal, secret
+smart, intelligent
+smart, clever
+homicidal, murderous
+clever, smart
+soaring, high
+clever, intelligent
+brilliant, bright
+murderous, homicidal
+secret, personal
+smart, bright
+high, soaring
+small, midget

@@ -1,0 +1,5 @@
+=== conscious > awake
+awake and fully conscious	123
+
+=== conscious < awake
+=== END

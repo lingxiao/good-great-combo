@@ -1,0 +1,17 @@
+=== feasible > possible
+possible or even feasible	119
+possible or even feasible .	43
+not only possible but feasible	41
+possible but not feasible	46
+possible , but not feasible	53
+possible but not feasible	46
+not only possible but feasible	41
+possible , but not feasible	53
+
+=== feasible < possible
+feasible or even possible	387
+feasible , or even possible	49
+feasible or even possible .	72
+feasible or even possible at	119
+feasible or even possible to	77
+=== END

@@ -1,0 +1,6 @@
+=== quiet > inaudible
+
+=== quiet < inaudible
+quiet , almost inaudible	83
+quiet , almost inaudible .	41
+=== END

@@ -1,0 +1,5 @@
+=== old > obsolete
+
+=== old < obsolete
+old and almost obsolete	50
+=== END

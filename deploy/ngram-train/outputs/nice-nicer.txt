@@ -1,0 +1,9 @@
+=== nice > nicer
+
+=== nice < nicer
+nice , even nicer	62
+nice if not nicer	215
+nice , if not nicer	250
+nice if not nicer .	46
+nice if not nicer than	136
+=== END

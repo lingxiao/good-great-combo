@@ -1,0 +1,7 @@
+=== weak > weaker
+
+=== weak < weaker
+weak , even weaker	91
+weak , even weaker |	56
+weak , if not weaker	45
+=== END

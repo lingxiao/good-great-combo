@@ -1,0 +1,17 @@
+near, nearby
+wide, full
+grave, real
+near, close
+close, near
+adjacent, nearby
+full, sufficient
+full, wide
+grave, solemn
+solemn, grave
+nearby, adjacent
+solemn, real
+sufficient, wide
+wide, sufficient
+real, grave
+real, solemn
+sufficient, full

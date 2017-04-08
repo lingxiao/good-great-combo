@@ -1,0 +1,7 @@
+=== evil > wrong
+wrong , even evil	84
+wrong or even evil	42
+wrong , even evil .	44
+
+=== evil < wrong
+=== END

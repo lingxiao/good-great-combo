@@ -1,0 +1,5 @@
+=== seventh > sixth
+sixth or even seventh	79
+
+=== seventh < sixth
+=== END

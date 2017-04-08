@@ -1,0 +1,6 @@
+=== impaired > disabled
+
+=== impaired < disabled
+impaired but not disabled	40
+impaired but not disabled	40
+=== END

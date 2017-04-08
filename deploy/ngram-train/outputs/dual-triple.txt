@@ -1,0 +1,6 @@
+=== dual > triple
+
+=== dual < triple
+dual and even triple	75
+dual or even triple	152
+=== END

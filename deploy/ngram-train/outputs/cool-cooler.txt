@@ -1,0 +1,7 @@
+=== cool > cooler
+
+=== cool < cooler
+cool , even cooler	48
+cool if not cooler	59
+cool , if not cooler	113
+=== END

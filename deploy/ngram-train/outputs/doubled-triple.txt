@@ -1,0 +1,6 @@
+=== doubled > triple
+
+=== doubled < triple
+doubled or even triple	60
+doubled or even triple in	57
+=== END

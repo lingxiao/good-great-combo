@@ -1,0 +1,6 @@
+=== close > nearby
+nearby , but not close	40
+nearby , but not close	40
+
+=== close < nearby
+=== END

@@ -1,0 +1,21 @@
+=== good > best
+best , but not good	107
+best , or even good	55
+best or even a good	118
+best or even good	113
+
+=== good < best
+good but not the best	111
+good but not best	59
+good but not the best	56
+good but not the best	765
+good or even the best	47
+good , but not best	65
+good but not the best	49
+good but not the best	1707
+good , but not best	110
+good although not the best	46
+good or even best	43
+good but not best	135
+good , even the best	47
+=== END

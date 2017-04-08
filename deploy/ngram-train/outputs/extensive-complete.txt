@@ -1,0 +1,11 @@
+=== extensive > complete
+
+=== extensive < complete
+extensive , though not complete	51
+extensive but not complete	114
+extensive , but not complete	67
+extensive but not complete .	59
+extensive but not complete	114
+extensive , but not complete	67
+extensive but not complete .	59
+=== END

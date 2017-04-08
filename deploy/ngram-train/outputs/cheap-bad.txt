@@ -1,0 +1,5 @@
+=== cheap > bad
+
+=== cheap < bad
+cheap , but not bad	83
+=== END

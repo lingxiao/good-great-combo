@@ -1,0 +1,6 @@
+=== thin > emaciated
+
+=== thin < emaciated
+thin , almost emaciated	118
+thin , almost emaciated ,	40
+=== END

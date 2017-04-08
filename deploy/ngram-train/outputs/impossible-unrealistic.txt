@@ -1,0 +1,7 @@
+=== impossible > unrealistic
+unrealistic or even impossible	48
+unrealistic if not impossible	48
+unrealistic , if not impossible	90
+
+=== impossible < unrealistic
+=== END

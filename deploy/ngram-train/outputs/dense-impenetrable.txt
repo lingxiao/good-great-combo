@@ -1,0 +1,6 @@
+=== dense > impenetrable
+
+=== dense < impenetrable
+dense , almost impenetrable	172
+dense and almost impenetrable	120
+=== END

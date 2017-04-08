@@ -1,0 +1,6 @@
+=== humbled > humiliated
+
+=== humbled < humiliated
+humbled , even humiliated	88
+humbled , even humiliated .	75
+=== END

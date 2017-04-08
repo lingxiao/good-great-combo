@@ -1,0 +1,5 @@
+=== painful > uneasy
+uneasy , if not painful	51
+
+=== painful < uneasy
+=== END

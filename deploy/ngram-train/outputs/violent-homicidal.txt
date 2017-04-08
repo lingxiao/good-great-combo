@@ -1,0 +1,5 @@
+=== violent > homicidal
+
+=== violent < homicidal
+violent , even homicidal	42
+=== END

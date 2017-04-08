@@ -1,0 +1,7 @@
+=== happy > happier
+
+=== happy < happier
+happy , even happier	49
+happy if not happier	57
+happy , if not happier	108
+=== END

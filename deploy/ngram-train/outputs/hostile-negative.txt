@@ -1,0 +1,8 @@
+=== hostile > negative
+negative , even hostile	172
+negative and even hostile	66
+negative or even hostile	61
+negative , even hostile reviews	76
+
+=== hostile < negative
+=== END

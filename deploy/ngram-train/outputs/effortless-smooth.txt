@@ -1,0 +1,5 @@
+=== effortless > smooth
+smooth , almost effortless	85
+
+=== effortless < smooth
+=== END

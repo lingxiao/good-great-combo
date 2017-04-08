@@ -1,0 +1,12 @@
+=== okay > perfect
+
+=== okay < perfect
+okay but not perfect	239
+okay , but not perfect	157
+okay but not perfect .	43
+okay but not perfect </s>	132
+okay but not perfect	239
+okay , but not perfect	157
+okay but not perfect .	43
+okay but not perfect </s>	132
+=== END

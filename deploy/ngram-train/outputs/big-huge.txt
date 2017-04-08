@@ -1,0 +1,15 @@
+=== big > huge
+
+=== big < huge
+big , even huge	54
+big or even huge	72
+big or even huge competitors	57
+big but not huge	308
+big , but not huge	269
+big but not huge ,	169
+big but not huge .	56
+big but not huge	308
+big , but not huge	269
+big but not huge ,	169
+big but not huge .	56
+=== END

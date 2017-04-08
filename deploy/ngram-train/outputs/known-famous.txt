@@ -1,0 +1,6 @@
+=== known > famous
+
+=== known < famous
+known , even famous	62
+known , if not famous	48
+=== END

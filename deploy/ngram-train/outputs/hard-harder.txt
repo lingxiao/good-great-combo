@@ -1,0 +1,20 @@
+=== hard > harder
+
+=== hard < harder
+hard , even harder	227
+hard and even harder	170
+hard even harder for	58
+hard or even harder	181
+hard , and even harder	86
+hard , even harder than	113
+hard , or even harder	63
+hard even harder for you	56
+hard or even harder than	108
+hard if not harder	882
+hard , if not harder	1447
+hard if not harder .	98
+hard if not harder than	432
+hard if not harder to	90
+hard , but not harder	65
+hard , but not harder	65
+=== END

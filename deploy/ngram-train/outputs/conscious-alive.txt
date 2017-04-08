@@ -1,0 +1,7 @@
+=== conscious > alive
+alive and fully conscious	99
+alive and fully conscious .	44
+
+=== conscious < alive
+conscious or even alive	62
+=== END

@@ -1,0 +1,6 @@
+=== astonishing > unexpected
+unexpected and even astonishing	227
+unexpected and even astonishing '	165
+
+=== astonishing < unexpected
+=== END

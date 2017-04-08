@@ -1,0 +1,5 @@
+=== famous > legendary
+
+=== famous < legendary
+famous , even legendary	46
+=== END

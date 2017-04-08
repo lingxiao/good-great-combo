@@ -1,0 +1,5 @@
+=== seductive > attractive
+attractive , even seductive	53
+
+=== seductive < attractive
+=== END

@@ -1,0 +1,8 @@
+=== attractive > beautiful
+
+=== attractive < beautiful
+attractive but not beautiful	83
+attractive , but not beautiful	62
+attractive but not beautiful	83
+attractive , but not beautiful	62
+=== END

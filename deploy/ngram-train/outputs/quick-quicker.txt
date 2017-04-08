@@ -1,0 +1,7 @@
+=== quick > quicker
+
+=== quick < quicker
+quick if not quicker	194
+quick , if not quicker	140
+quick if not quicker than	128
+=== END

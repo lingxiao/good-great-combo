@@ -1,0 +1,5 @@
+=== deep > deeper
+
+=== deep < deeper
+deep , if not deeper	121
+=== END

@@ -1,0 +1,6 @@
+=== cool > calm
+
+=== cool < calm
+cool , almost calm	73
+cool , almost calm .	40
+=== END

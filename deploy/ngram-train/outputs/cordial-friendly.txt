@@ -1,0 +1,7 @@
+=== cordial > friendly
+
+=== cordial < friendly
+cordial , even friendly	52
+cordial if not friendly	91
+cordial if not friendly ,	81
+=== END

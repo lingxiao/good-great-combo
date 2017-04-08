@@ -1,0 +1,18 @@
+=== beautiful > pretty
+pretty , even beautiful	101
+pretty or even beautiful	54
+pretty , even beautiful ;	42
+pretty or even beautiful ,	42
+pretty if not beautiful	116
+pretty if not beautiful face	83
+pretty but not beautiful	111
+pretty , but not beautiful	84
+pretty but not beautiful ,	49
+pretty but not beautiful	111
+pretty , but not beautiful	84
+pretty but not beautiful ,	49
+
+=== beautiful < pretty
+beautiful or even pretty	48
+beautiful , or even pretty	40
+=== END

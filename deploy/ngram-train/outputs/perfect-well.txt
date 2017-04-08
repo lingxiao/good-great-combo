@@ -1,0 +1,15 @@
+=== perfect > well
+well , almost perfect	235
+well , almost perfect	190
+well , almost perfect .	144
+well , almost perfect )	47
+well , almost perfect .	86
+well but not perfect	137
+well , but not perfect	91
+well but not perfect .	105
+well but not perfect	137
+well , but not perfect	91
+well but not perfect .	105
+
+=== perfect < well
+=== END

@@ -1,0 +1,6 @@
+=== extensive > comprehensive
+
+=== extensive < comprehensive
+extensive but not comprehensive	42
+extensive but not comprehensive	42
+=== END

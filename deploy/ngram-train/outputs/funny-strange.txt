@@ -1,0 +1,6 @@
+=== funny > strange
+strange or even funny	77
+strange or even funny vacation	60
+
+=== funny < strange
+=== END

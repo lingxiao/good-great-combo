@@ -1,0 +1,5 @@
+=== few > fewer
+
+=== few < fewer
+few , and even fewer	63
+=== END

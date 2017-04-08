@@ -1,0 +1,6 @@
+=== hopeless > bleak
+bleak but not hopeless	51
+bleak but not hopeless	51
+
+=== hopeless < bleak
+=== END

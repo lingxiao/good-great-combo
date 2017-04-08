@@ -1,0 +1,12 @@
+=== cheap > cheaper
+cheaper but not cheap	42
+cheaper but not cheap	42
+
+=== cheap < cheaper
+cheap , even cheaper	53
+cheap or even cheaper	114
+cheap or even cheaper than	98
+cheap if not cheaper	153
+cheap , if not cheaper	195
+cheap if not cheaper than	80
+=== END

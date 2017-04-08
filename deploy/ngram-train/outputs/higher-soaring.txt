@@ -1,0 +1,7 @@
+=== higher > soaring
+soaring even higher in	77
+soaring even higher .	99
+soaring even higher in a	77
+
+=== higher < soaring
+=== END

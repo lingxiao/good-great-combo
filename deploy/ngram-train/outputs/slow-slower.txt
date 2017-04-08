@@ -1,0 +1,13 @@
+=== slow > slower
+
+=== slow < slower
+slow and even slower	90
+slow , even slower	119
+slow and even slower	87
+slow and even slower to	90
+slow , even slower than	96
+slow and even slower .	52
+slow if not slower	96
+slow , if not slower	42
+slow if not slower than	51
+=== END

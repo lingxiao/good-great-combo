@@ -1,0 +1,8 @@
+=== ugly > plain
+plain or even ugly	69
+plain or even ugly	48
+plain or even ugly girls	68
+not ugly , just plain	126
+
+=== ugly < plain
+=== END

@@ -1,0 +1,5 @@
+=== exciting > thrilling
+
+=== exciting < thrilling
+exciting , even thrilling	44
+=== END

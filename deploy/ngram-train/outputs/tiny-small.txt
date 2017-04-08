@@ -1,0 +1,16 @@
+=== tiny > small
+small , even tiny	170
+small or even tiny	51
+small , even tiny ,	88
+small or even a tiny	46
+small but not tiny	259
+small , but not tiny	166
+small but not tiny ,	66
+small but not tiny .	48
+small but not tiny	259
+small , but not tiny	166
+small but not tiny ,	66
+small but not tiny .	48
+
+=== tiny < small
+=== END

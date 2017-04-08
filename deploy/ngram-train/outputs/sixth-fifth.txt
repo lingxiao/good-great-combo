@@ -1,0 +1,5 @@
+=== sixth > fifth
+fifth , or even sixth	40
+
+=== sixth < fifth
+=== END

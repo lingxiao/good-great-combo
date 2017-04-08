@@ -1,0 +1,7 @@
+=== little > less
+
+=== little < less
+little or even less	65
+little , and even less	40
+little , if not less	51
+=== END

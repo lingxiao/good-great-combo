@@ -1,0 +1,30 @@
+=== best > better
+better if not best	115
+better , if not best	137
+better if not best to	50
+better if not the best	237
+better but not best	63
+better but not the best	84
+better but not best	63
+better but not the best	84
+
+=== best < better
+best even better </s>	61
+best , even better	414
+best and even better	53
+best even better !	159
+best even better ,	118
+best even better .	1594
+best even better ...	40
+best even better </s>	52
+best even better ?	52
+best even better by	156
+best even better in	280
+best even better with	67
+best or even better	67
+best , even better than	351
+best even better ! </s>	158
+best even better ? </s>	48
+best even better by updating	135
+best even better in order	272
+=== END

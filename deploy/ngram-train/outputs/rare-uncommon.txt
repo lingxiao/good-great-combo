@@ -1,0 +1,24 @@
+=== rare > uncommon
+uncommon or even rare	60
+uncommon but not rare	181
+uncommon but not rare	416
+uncommon , but not rare	73
+uncommon but not rare (	70
+uncommon but not rare ,	57
+uncommon , but not rare	205
+uncommon but not rare ,	96
+uncommon but not rare .	121
+uncommon but not rare	181
+uncommon but not rare	416
+uncommon , but not rare	73
+uncommon but not rare (	70
+uncommon but not rare ,	57
+an uncommon but not rare	59
+uncommon , but not rare	205
+uncommon but not rare ,	96
+uncommon but not rare .	121
+
+=== rare < uncommon
+rare but not uncommon	76
+rare but not uncommon	76
+=== END

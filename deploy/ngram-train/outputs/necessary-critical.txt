@@ -1,0 +1,5 @@
+=== necessary > critical
+
+=== necessary < critical
+necessary , even critical	41
+=== END

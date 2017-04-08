@@ -1,0 +1,9 @@
+=== fast > fastest
+
+=== fast < fastest
+fast if not the fastest	53
+fast but not the fastest	44
+fast but not the fastest	93
+fast but not the fastest	44
+fast but not the fastest	93
+=== END

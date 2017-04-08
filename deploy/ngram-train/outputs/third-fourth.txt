@@ -1,0 +1,24 @@
+=== third > fourth
+fourth or even third	48
+
+=== third < fourth
+third , even fourth	200
+third and even fourth	944
+third or even fourth	1910
+third , and even fourth	371
+third , even a fourth	69
+third , or even fourth	749
+third and even a fourth	256
+third and even fourth generation	132
+third and even fourth time	53
+third and even the fourth	49
+third or even a fourth	582
+third or even fourth ,	44
+third or even fourth .	41
+third or even fourth generation	94
+third or even fourth hard	49
+third or even fourth language	144
+third or even fourth place	51
+third or even fourth time	107
+third or even the fourth	114
+=== END

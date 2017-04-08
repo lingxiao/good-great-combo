@@ -1,0 +1,20 @@
+=== long > longer
+
+=== long < longer
+long , even longer	125
+long and even longer	100
+long or even longer	296
+long , even longer than	63
+long , or even longer	145
+long or even longer .	101
+long or even longer than	88
+long if not longer	808
+long , if not longer	1068
+long if not longer .	243
+long if not longer than	300
+long if not longer to	49
+long but not longer	47
+long but not longer than	42
+long but not longer	47
+long but not longer than	42
+=== END

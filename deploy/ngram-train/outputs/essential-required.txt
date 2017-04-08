@@ -1,0 +1,6 @@
+=== essential > required
+required but not essential	95
+required but not essential	95
+
+=== essential < required
+=== END

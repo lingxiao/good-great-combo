@@ -1,0 +1,6 @@
+=== frightening > scary
+scary , almost frightening	46
+scary , almost frightening at	46
+
+=== frightening < scary
+=== END

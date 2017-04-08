@@ -1,0 +1,7 @@
+unreliable, suicidal
+unreliable, risky
+serene, cool
+risky, suicidal
+suicidal, unreliable
+risky, unreliable
+suicidal, risky

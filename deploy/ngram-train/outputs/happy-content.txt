@@ -1,0 +1,9 @@
+=== happy > content
+content , even happy	92
+content , even happy ,	48
+content , if not happy	84
+
+=== happy < content
+happy almost content but	109
+happy almost content but your	109
+=== END

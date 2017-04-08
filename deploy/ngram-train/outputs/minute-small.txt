@@ -1,0 +1,9 @@
+=== minute > small
+small , almost minute	97
+small , almost minute .	85
+small , even minute	41
+minute or very small	102
+minute or very small ,	98
+
+=== minute < small
+=== END

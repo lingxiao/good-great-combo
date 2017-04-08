@@ -1,0 +1,12 @@
+=== frozen > cool
+cool but not frozen	162
+cool , but not frozen	112
+cool but not frozen ,	50
+cool but not frozen .	57
+cool but not frozen	162
+cool , but not frozen	112
+cool but not frozen ,	50
+cool but not frozen .	57
+
+=== frozen < cool
+=== END

@@ -1,0 +1,14 @@
+=== bad > worse
+
+=== bad < worse
+bad and even worse	193
+bad or even worse ,	67
+bad , even worse than	127
+bad , even worse	242
+bad , or even worse	331
+bad or even worse .	172
+bad or even worse	884
+bad or even worse than	382
+bad , and even worse	74
+bad and even worse choice	45
+=== END

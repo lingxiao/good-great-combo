@@ -1,0 +1,8 @@
+=== close > adjacent
+
+=== close < adjacent
+adjacent or very close	121
+adjacent or very close to	103
+close , but not adjacent	48
+close , but not adjacent	48
+=== END

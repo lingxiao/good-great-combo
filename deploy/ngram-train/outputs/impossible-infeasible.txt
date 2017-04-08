@@ -1,0 +1,5 @@
+=== impossible > infeasible
+infeasible , if not impossible	46
+
+=== impossible < infeasible
+=== END

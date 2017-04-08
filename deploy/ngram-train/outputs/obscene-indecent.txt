@@ -1,0 +1,12 @@
+=== obscene > indecent
+indecent but not obscene	776
+indecent , but not obscene	92
+indecent but not obscene .	147
+indecent but not obscene is	479
+indecent but not obscene	776
+indecent , but not obscene	92
+indecent but not obscene .	147
+indecent but not obscene is	479
+
+=== obscene < indecent
+=== END

@@ -1,0 +1,16 @@
+spicy, flavorful
+alright, acceptable
+overflowing, stuffed
+flavorful, zesty
+overflowing, overloaded
+crushed, cracked
+overloaded, stuffed
+alright, okay
+okay, alright
+stuffed, overflowing
+overloaded, overflowing
+stuffed, overloaded
+cracked, crushed
+unstable, insane
+zesty, flavorful
+flavorful, spicy

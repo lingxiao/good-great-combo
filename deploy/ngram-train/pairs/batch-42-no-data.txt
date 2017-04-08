@@ -1,0 +1,16 @@
+critical, vital
+beautiful, seductive
+vital, critical
+ignored, forgotten
+indispensable, vital
+forgotten, ignored
+indispensable, critical
+overlooked, neglected
+obsolete, outdated
+mesmerizing, attractive
+mesmerizing, seductive
+outdated, obsolete
+neglected, overlooked
+vital, indispensable
+critical, indispensable
+attractive, mesmerizing
