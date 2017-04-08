@@ -114,10 +114,9 @@ def collect_ngram_patterns( word_path
 
     '''
         loop over pairs so we can save as data for each pair is collected
-        re-save the no_data_pairs to disk for every new 10 pairs added
+        re-save the no_data_pairs to disk for every new k pairs added
     '''
-
-    blink = 0
+    save_curr = 0
 
     for s,t in pairs:
 
@@ -136,12 +135,12 @@ def collect_ngram_patterns( word_path
 
             if not found: 
                 no_data_pairs.append((s,t))
-                blink += 1
+                save_curr += 1
 
-        if blink == 2: 
+        if save_curr == 5: 
             writer.tell('saving partial results for no-data-pairs')
             save_no_data_pairs(no_data_pairs, no_data_path)
-            blink = 0
+            save_curr = 0
 
 
     writer.tell('saving list of words with no data at ' + no_data_path)
