@@ -1,0 +1,127 @@
+=== good > great
+great or even good ...	62
+great or even a good	125
+great or even good ,	65
+good or very great	73
+great or even good .	84
+great , but not good	142
+great or even good quality	41
+good or very great evil	65
+great or even good	721
+great , or even good	455
+great but not good	82
+
+=== good < great
+good but not great </s>	752
+good but not great i	96
+good but not great --	78
+good but not great by	188
+good , almost great ,	41
+good but not great (	220
+good but not great hand	140
+good , almost great	106
+good but not great	7112
+good but not great food	51
+good , almost great <unk>	40
+good but not great effort	85
+good but not great (	63
+good but not great "	777
+good but not great -	71
+good , but not great	850
+good or even great	1097
+good but not great	160
+good but not great ;	262
+good but not great posted	80
+good but not great earnings	110
+good but not great top	222
+good but not great i	89
+good but not great .	1268
+good but not great ,	205
+good , but not great	54
+good but not great	690
+good , but not great	72
+good but not great this	47
+good but not great "	528
+good but not great "	66
+good but not great by	101
+good almost great (	42
+good , but not great	5813
+good but not great	1540
+good but not great	595
+good but not great </s>	450
+good , even great ,	478
+good but not great "	352
+good but not great movie	75
+good , even great	51
+good , almost great	50
+good but not great comment	42
+good but not great in	131
+good but not great -	274
+good , and even great	53
+good but not a great	193
+good or even a great	97
+good but not great at	46
+good , even great	1231
+good but not great comment	47
+good but not great </s>	204
+good but not great as	73
+good but not great players	58
+good but not great 3	58
+good but not great .	7095
+good , but not great	85
+good but not great -	179
+good but not great by	56
+good but not great !	137
+good but not great us	100
+good , or even great	295
+great or very good	89
+good but not great ...	158
+good but not great ?	45
+not great but still good	47
+good but not great </s>	165
+good but not great ,	51
+good but not great film	98
+good but not great ,	2431
+good but not great team	40
+good but not great ...	167
+good but not great book	92
+good , even great .	125
+good but not great album	61
+good but not great <unk>	42
+good but not great .	53
+good but not great start	268
+good but not great year	71
+good but not great "	50
+good but not great but	72
+good but not great january	42
+good but not great !	190
+good but not great job	50
+good or even great .	106
+good but not great <unk>	51
+good but not great (	259
+good but not great for	169
+good , although not great	131
+good but not great ,	987
+good almost great ( read	42
+good , even great for	43
+good but not great and	384
+good , but not great	122
+good and even great	376
+good or even great ,	98
+good but not great (	97
+good but not great	18365
+good but not great sex	55
+good but not great	206
+good , or even great	43
+good , but not great	16790
+good but not great espresso	148
+good but not great :	91
+good but not great performance	41
+good but not great great	334
+good but not great ,	104
+good , but not great	706
+good but not great player	88
+good , even the great	41
+good but not great )	211
+good but not great '	99
+=== END

@@ -10,7 +10,6 @@ from utils   import *
 from scripts import *
 
 
-
 '''
     @Use: winnow ngram files by those that contain words found in word_path
           Note if you run this on multiple batchs of words from different `word_path`
@@ -68,7 +67,7 @@ def ngram_by_words(word_path, ngram_dir, out_path, log_dir, debug = False):
 '''
 def collect_ngram_patterns(word_path, pattern_path, ngram_dir, out_dir, log_dir, debug = False):
 
-    writer = Writer(log_dir, 1)
+    writer = Writer(log_dir, 1, debug)
     writer.tell('running collect_ngram_patterns ...')
     writer.tell('found word pair path at ' + word_path)
 
@@ -76,43 +75,23 @@ def collect_ngram_patterns(word_path, pattern_path, ngram_dir, out_dir, log_dir,
     pairs     = [x.split(', ') for x in open(word_path,'rb').read().split('\n') if x]
     
     writer.tell('constructing regex for all words and patterns')
-    pair_patterns = [(s,t,compile_patterns(s,t,patterns)) \
-                     for s,t in pairs]          
 
-    results   = { (s,t) : {s + '>' + t : [], s + '<' + t : []} for s,t in pairs }
+    for s,t in pairs:
+        
+        out   = {s + '>' + t : [], s + '<' + t : []}
+        patts = compile_patterns(s,t,patterns)
 
-    if debug: msg = 'debug'
-    else:     msg = 'production'
-    writer.tell('Streaming ngrams from ' + ngram_dir +  ' in ' + msg + ' mode')
-
-    '''
-        iterate over all ngrams and parse all permutations of s R t
-        for words s,t and patterns R
-    '''
-    for gram,n in with_ngram(ngram_dir, debug):
-
-        for s,t, st_patterns in pair_patterns:
+        for gram,n in with_ngram(ngram_dir, debug):
 
             if s in gram and t in gram:
-                '''
-                    collect patterns and save
-                '''
-                s_stronger_t = [gram + '\t' + n for r in st_patterns[s + '>' + t] if r.match(gram)]
-                s_weaker_t   = [gram + '\t' + n for r in st_patterns[s + '<' + t] if r.match(gram)]
 
-                results[(s,t)][s + '>' + t] += s_stronger_t             
-                results[(s,t)][s + '<' + t] += s_weaker_t
+                s_stronger_t = [gram + '\t' + n for r in patts[s + '>' + t] if r.match(gram)]
+                s_weaker_t   = [gram + '\t' + n for r in patts[s + '<' + t] if r.match(gram)]
 
-
-    '''
-        save outputs for each s-t pairs
-        if there are any pattern matches
-    '''
-    writer.tell('saving all results ...')
-
-    for (s,t),res in results.iteritems():
-
-        if res[s + '>' + t] or res[s + '<' + t]:
+                out[s + '>' + t] += s_stronger_t             
+                out[s + '<' + t] += s_weaker_t
+        
+        if out[s + '>' + t] or out[s + '<' + t]:
 
             writer.tell('found patterns for word pair ' + s + ' and ' + t)
 
@@ -120,14 +99,13 @@ def collect_ngram_patterns(word_path, pattern_path, ngram_dir, out_dir, log_dir,
 
                 h.write('=== ' + s + ' > ' + t  + '\n')
 
-                for p in res[s + '>' + t]: h.write(p + '\n')
+                for p in out[s + '>' + t]: h.write(p + '\n')
 
                 h.write('\n=== ' + s + ' < ' + t  + '\n')
 
-                for q in res[s + '<' + t]: h.write(q + '\n')
+                for q in out[s + '<' + t]: h.write(q + '\n')
 
                 h.write('=== END')          
-
 
     writer.close()          
 
@@ -155,6 +133,59 @@ def compile_patterns(s,t, patts):
 
 
 
+
+
+'''
+    @depricated: stream over ngram once
+
+    iterate over all ngrams and parse all permutations of s R t
+    for words s,t and patterns R
+    for gram,n in with_ngram(ngram_dir, debug):
+
+    # pair_patterns = [(s,t,compile_patterns(s,t,patterns)) \
+                 # for s,t in pairs]          
+
+# results   = { (s,t) : {s + '>' + t : [], s + '<' + t : []} for s,t in pairs }
+
+writer.tell( 'Streaming ngrams from ' + ngram_dir )
+
+
+
+    for s,t, st_patterns in pair_patterns:
+
+        if s in gram and t in gram:
+                        collect patterns and save
+    
+            s_stronger_t = [gram + '\t' + n for r in st_patterns[s + '>' + t] if r.match(gram)]
+            s_weaker_t   = [gram + '\t' + n for r in st_patterns[s + '<' + t] if r.match(gram)]
+
+            results[(s,t)][s + '>' + t] += s_stronger_t             
+            results[(s,t)][s + '<' + t] += s_weaker_t
+
+
+    save outputs for each s-t pairs
+    if there are any pattern matches
+
+writer.tell('saving all results ...')
+
+for (s,t),res in results.iteritems():
+
+    if res[s + '>' + t] or res[s + '<' + t]:
+
+        writer.tell('found patterns for word pair ' + s + ' and ' + t)
+
+        with open(os.path.join(out_dir, s + '-' + t + '.txt'), 'wb') as h:
+
+            h.write('=== ' + s + ' > ' + t  + '\n')
+
+            for p in res[s + '>' + t]: h.write(p + '\n')
+
+            h.write('\n=== ' + s + ' < ' + t  + '\n')
+
+            for q in res[s + '<' + t]: h.write(q + '\n')
+
+            h.write('=== END')          
+'''
 
 
 
