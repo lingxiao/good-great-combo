@@ -61,7 +61,7 @@ def run_auto_sh(alphas):
 alphas = [0.9,0.8,0.7,0.5,0.25,0.1,0.01]
 
 run_auto_main(alphas)
-# run_auto_sh  (7)
+run_auto_sh  (alphas)
 
 
 

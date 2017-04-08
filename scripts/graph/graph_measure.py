@@ -171,6 +171,8 @@ def weight_by_neigh(gr_path, edge_path, out_path):
 
 	G, words = load_as_list(gr_path)
 
+	eps = 1e-5
+
 
 	with open(edge_path, 'rb') as h:
 		edges = [xs.split(', ') for xs in h.read().split('\n') \

@@ -45,9 +45,15 @@ ppr_dir = os.path.join(PATH['directories']['input'],'ppr-by-ppdb')
 	path to different kind of edge weights
 '''
 edge_weight_bradly_terry = os.path.join(wt_dir, 'bradley-terry')
-edge_weight_adjacency    = os.path.join(wt_dir, 'adjacency'    )
+edge_weight_adjacency    = os.path.join(wt_dir, 'neigh'    )
 
 ############################################################
+
+'''
+	right now: recomputing bradley-terry on grid
+	     next: recomputing neigh
+	     next: recompute ppr for both 
+'''
 
 G      = Graph(gr_path, wt_path, ppr_dir)
 alphas = [0.9,0.8,0.7,0.5,0.25,0.1,0.01]
