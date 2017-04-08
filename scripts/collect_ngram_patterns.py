@@ -77,58 +77,102 @@ def collect_ngram_patterns( word_path
                           , log_dir
                           , refresh = True
                           , debug   = False):
-
+    
+    # log output
     writer = Writer(log_dir, 1, debug)
+
+    '''
+        path to word_path-no-data.txt
+    '''
+    no_ngram_path = os.path.splitext(word_path)[0] + '-no-data' + '.txt'
+
+    if os.path.exists(no_ngram_path):
+
+        writer.tell('found path to list of pairs with no data at ' + no_ngram_path)
+        no_data_pairs = [x.split(', ') for x in open(no_ngram_path,'rb').read().split('\n') if x]
+
+    else:
+        writer.tell('could not locate list of pairs with no data at ' + no_ngram_path)
+        no_data_pairs = []
+
+    s_refresh = 'refresh' if refresh else 'non-refresh'
+    patterns  = read_pattern(pattern_path)
+    pairs     = [x.split(', ') for x in open(word_path,'rb').read().split('\n') if x]
+
     writer.tell('running collect_ngram_patterns ...')
     writer.tell('found word pair path at ' + word_path)
     writer.tell('found ngram directory at ' + ngram_dir)
-    s_refresh = 'refresh' if refresh else 'non-refresh'
-
-    patterns  = read_pattern(pattern_path)
-    pairs     = [x.split(', ') for x in open(word_path,'rb').read().split('\n') if x]
-    
     writer.tell('collect ngram over all words in ' + s_refresh + ' mode...')
 
+    '''
+        loop over pairs so we can save as data for each pair is collected
+    '''
     for s,t in pairs:
 
         s_t_path = os.path.join(out_dir, s + '-' + t + '.txt')
 
-        if refresh and os.path.exists(s_t_path):
+        if (s,t) in no_data_pairs:
 
-            writer.tell('patterns for ' + s + ', ' + t + ' already exists')
+            writer.tell(s + ', ' + t + ' did not have data the last time we crawled. skipping ...')
+
+        elif refresh and os.path.exists(s_t_path):
+            writer.tell('data for ' + s + ', ' + t + ' already exists. skipping ...')
 
         else:
-        
-            out   = {s + '>' + t : [], s + '<' + t : []}
-            patts = compile_patterns(s,t,patterns)
+            found = go_collect(s, t, patterns, ngram_dir, s_t_path, debug)
 
-            for gram,n in with_ngram(ngram_dir, debug):
+            if not found: no_data_pairs.append((s,t))
 
-                if s in gram and t in gram:
+    writer.tell('saving list of words with no data at ' + no_ngram_path)
 
-                    s_stronger_t = [gram + '\t' + n for r in patts[s + '>' + t] if r.match(gram)]
-                    s_weaker_t   = [gram + '\t' + n for r in patts[s + '<' + t] if r.match(gram)]
-
-                    out[s + '>' + t] += s_stronger_t             
-                    out[s + '<' + t] += s_weaker_t
-            
-            if out[s + '>' + t] or out[s + '<' + t]:
-
-                writer.tell('found patterns for word pair ' + s + ' and ' + t)
-
-                with open(s_t_path, 'wb') as h:
-
-                    h.write('=== ' + s + ' > ' + t  + '\n')
-
-                    for p in out[s + '>' + t]: h.write(p + '\n')
-
-                    h.write('\n=== ' + s + ' < ' + t  + '\n')
-
-                    for q in out[s + '<' + t]: h.write(q + '\n')
-
-                    h.write('=== END')          
+    if no_data_pairs:
+        with open(no_ngram_path,'wb') as h:
+            for s,t in no_data_pairs:
+                h.write(s + ', ' + t + '\n')
 
     writer.close()          
+
+
+'''
+    @Use: collect data for words s,t over all `patterns`
+          from ngrams found at `ngram_dir`
+          save output to `s_t_path`
+          and respect `debug` flag
+'''
+def go_collect(s, t, patterns, ngram_dir, s_t_path, debug):
+
+    out   = {s + '>' + t : [], s + '<' + t : []}
+    patts = compile_patterns(s,t,patterns)
+
+    for gram,n in with_ngram(ngram_dir, debug):
+
+        if s in gram and t in gram:
+
+            s_stronger_t = [gram + '\t' + n for r in patts[s + '>' + t] if r.match(gram)]
+            s_weaker_t   = [gram + '\t' + n for r in patts[s + '<' + t] if r.match(gram)]
+
+            out[s + '>' + t] += s_stronger_t             
+            out[s + '<' + t] += s_weaker_t
+    
+    if out[s + '>' + t] or out[s + '<' + t]:
+
+        with open(s_t_path, 'wb') as h:
+
+            h.write('=== ' + s + ' > ' + t  + '\n')
+
+            for p in out[s + '>' + t]: h.write(p + '\n')
+
+            h.write('\n=== ' + s + ' < ' + t  + '\n')
+
+            for q in out[s + '<' + t]: h.write(q + '\n')
+
+            h.write('=== END')       
+
+        return True
+    else:
+
+        return False
+
 
 
 '''

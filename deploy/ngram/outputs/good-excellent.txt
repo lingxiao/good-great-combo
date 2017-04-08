@@ -1,0 +1,68 @@
+=== good > excellent
+excellent or even good	62
+
+=== good < excellent
+good but not excellent "	43
+excellent or very good </s>	341
+excellent or very good condition	105
+excellent or very good ;	113
+excellent or very good health	138
+excellent or very good .	1794
+excellent or very good declined	46
+excellent or very good while	76
+good or even excellent value	106
+good , even excellent	512
+excellent or very good was	86
+excellent or very good general	63
+excellent or very good	70
+excellent or very good	9065
+good but not excellent ,	167
+excellent or very good </s>	813
+excellent or very good ,	67
+excellent or very good mental	47
+excellent or very good teaching	58
+good and even excellent	195
+excellent or very good job	40
+excellent or very good "	78
+excellent or very good	1050
+excellent or very good connections	44
+excellent or very good compared	78
+good , or even excellent	90
+excellent or very good by	102
+excellent or very good quality	159
+good or even excellent .	102
+excellent or very good ,	1031
+excellent or very good self	68
+excellent or very good in	430
+good but not excellent .	669
+excellent or very good (	386
+excellent or very good on	133
+excellent or very good rating	46
+good but not excellent	1513
+excellent or very good .	202
+good , even excellent .	109
+excellent or very good :	98
+good , but not excellent	1165
+good but not excellent (	92
+an excellent or very good	393
+excellent or very good for	74
+good but not excellent and	40
+excellent or very good </s>	385
+excellent or very good and	211
+excellent or very good	590
+excellent or very good )	68
+an excellent or very good	52
+excellent or very good at	42
+good , even excellent ,	213
+excellent or very good health	75
+good , although not excellent	46
+good but not excellent	208
+good or even excellent	608
+excellent or very good !	64
+excellent , or very good	49
+good , but not excellent	361
+good but not excellent ,	41
+good , almost excellent	47
+excellent or very good health	1547
+good but not excellent </s>	44
+=== END
