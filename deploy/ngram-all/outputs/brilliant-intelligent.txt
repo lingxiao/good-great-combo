@@ -1,0 +1,5 @@
+=== brilliant > intelligent
+intelligent , even brilliant	55
+
+=== brilliant < intelligent
+=== END

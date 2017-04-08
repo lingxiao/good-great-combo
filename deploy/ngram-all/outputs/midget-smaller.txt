@@ -1,0 +1,6 @@
+=== midget > smaller
+
+=== midget < smaller
+midget even smaller than	77
+midget even smaller than the	76
+=== END

@@ -1,0 +1,5 @@
+=== healthy > healthier
+
+=== healthy < healthier
+healthy , if not healthier	149
+=== END

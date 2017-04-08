@@ -1,0 +1,10 @@
+=== cheap > inexpensive
+inexpensive but not cheap	52
+inexpensive but not cheap	67
+inexpensive , but not cheap	73
+inexpensive but not cheap	52
+inexpensive but not cheap	67
+inexpensive , but not cheap	73
+
+=== cheap < inexpensive
+=== END

@@ -1,0 +1,14 @@
+=== disappointed > defeated
+
+=== disappointed < defeated
+disappointed but not defeated	79
+disappointed but not defeated	90
+disappointed but not defeated ,	54
+disappointed , but not defeated	63
+disappointed but not defeated .	44
+disappointed but not defeated	79
+disappointed but not defeated	90
+disappointed but not defeated ,	54
+disappointed , but not defeated	63
+disappointed but not defeated .	44
+=== END

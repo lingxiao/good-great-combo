@@ -1,0 +1,5 @@
+=== violent > intense
+intense , even violent	64
+
+=== violent < intense
+=== END

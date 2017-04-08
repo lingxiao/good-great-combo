@@ -1,0 +1,6 @@
+=== exciting > entertaining
+entertaining and even exciting	55
+entertaining and even exciting reading	40
+
+=== exciting < entertaining
+=== END

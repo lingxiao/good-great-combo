@@ -1,0 +1,12 @@
+=== essential > necessary
+necessary , even essential	79
+necessary , even essential ,	48
+not only necessary but essential	94
+necessary , if not essential	69
+necessary but not essential	53
+necessary but not essential	53
+not only necessary but essential	94
+
+=== essential < necessary
+essential or even necessary	46
+=== END

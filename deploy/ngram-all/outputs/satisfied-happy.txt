@@ -1,0 +1,14 @@
+=== satisfied > happy
+happy and fully satisfied	59
+happy or fully satisfied	242
+happy or fully satisfied we	238
+happy but not satisfied	106
+happy , but not satisfied	60
+happy but not satisfied .	62
+happy but not satisfied	106
+happy , but not satisfied	60
+happy but not satisfied .	62
+
+=== satisfied < happy
+satisfied or even happy	40
+=== END

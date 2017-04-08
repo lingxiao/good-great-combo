@@ -1,0 +1,6 @@
+=== brilliant > smart
+smart but not brilliant	47
+smart but not brilliant	47
+
+=== brilliant < smart
+=== END

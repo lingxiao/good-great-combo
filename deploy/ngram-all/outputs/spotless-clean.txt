@@ -1,0 +1,8 @@
+=== spotless > clean
+clean but not spotless	70
+clean , but not spotless	62
+clean but not spotless	70
+clean , but not spotless	62
+
+=== spotless < clean
+=== END

@@ -1,0 +1,5 @@
+=== painless > simple
+simple and almost painless	52
+
+=== painless < simple
+=== END

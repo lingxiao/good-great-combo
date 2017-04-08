@@ -1,0 +1,7 @@
+=== same > like
+like almost the same	338
+like almost the same as	47
+like almost the same thing	45
+
+=== same < like
+=== END

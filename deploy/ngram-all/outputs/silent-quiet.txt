@@ -1,0 +1,12 @@
+=== silent > quiet
+quiet , almost silent	112
+quiet , if not silent	50
+quiet but not silent	88
+quiet , but not silent	86
+quiet but not silent .	53
+quiet but not silent	88
+quiet , but not silent	86
+quiet but not silent .	53
+
+=== silent < quiet
+=== END

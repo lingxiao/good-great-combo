@@ -1,0 +1,18 @@
+=== good > exceptional
+
+=== good < exceptional
+good but not exceptional 19-21	560
+good but not exceptional	1872
+good but not exceptional and	46
+good or even exceptional	128
+good or even exceptional results	94
+good , but not exceptional	883
+good but not exceptional "	56
+good , but not exceptional	66
+good but not exceptional	135
+good but not exceptional .	633
+good , even exceptional	51
+good but not exceptional "	41
+good but not exceptional ,	276
+good but not exceptional	47
+=== END

@@ -1,0 +1,9 @@
+=== cracked > broken
+
+=== cracked < broken
+cracked or even broken	53
+cracked but not broken	109
+cracked , but not broken	94
+cracked but not broken	109
+cracked , but not broken	94
+=== END

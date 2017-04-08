@@ -1,0 +1,116 @@
+=== many > most
+most or even many	474
+most , or even many	255
+most or even many black	142
+most or even many of	95
+
+=== many < most
+many , even most	282
+many or even most	259
+many , even most	929
+many and even most	61
+many or even most	1976
+many , even most ,	229
+many , or even most	83
+many or even most of	86
+many , even most ,	674
+many , even most of	58
+many , even the most	73
+many , or even most	686
+many or even most cases	108
+many or even most of	638
+many or even most people	92
+many or even most users	65
+many if not most	7420
+many if not most	32526
+many , if not most	54
+many , if not most	19255
+many if not most ,	78
+many if not most </s>	65
+many if not most americans	51
+many if not most christians	45
+many if not most internet	56
+many if not most are	71
+many if not most exploit	51
+many if not most have	65
+many if not most of	2683
+many if not most people	236
+many if not most states	78
+many if not most students	46
+many if not most traditional	262
+many if not most will	50
+many , if not most	48294
+many if not most "	117
+many if not most ,	465
+many if not most .	92
+many if not most </s>	457
+many if not most <unk>	60
+many if not most american	103
+many if not most americans	321
+many if not most christians	112
+many if not most english	69
+many if not most iraqis	47
+many if not most sip	45
+many if not most western	619
+many if not most applications	48
+many if not most are	245
+many if not most areas	101
+many if not most cases	1433
+many if not most children	45
+many if not most circumstances	42
+many if not most civilian	316
+many if not most companies	99
+many if not most consumers	40
+many if not most countries	143
+many if not most cultures	45
+many if not most customers	44
+many if not most developing	69
+many if not most do	121
+many if not most enterprises	74
+many if not most folks	59
+many if not most have	102
+many if not most in	132
+many if not most individuals	82
+many if not most instances	207
+many if not most issues	611
+many if not most jurisdictions	44
+many if not most linguists	61
+many if not most major	42
+many if not most men	84
+many if not most modern	70
+many if not most new	46
+many if not most non	81
+many if not most of	10490
+many if not most or	47
+many if not most organizations	41
+many if not most other	185
+many if not most others	40
+many if not most patients	82
+many if not most people	1272
+many if not most places	50
+many if not most professional	78
+many if not most readers	58
+many if not most realistic	50
+many if not most schools	44
+many if not most scientists	49
+many if not most signs	61
+many if not most sites	47
+many if not most situations	69
+many if not most states	206
+many if not most stations	70
+many if not most students	121
+many if not most such	63
+many if not most users	112
+many if not most were	121
+many if not most western	267
+many if not most who	43
+many if not most will	179
+many if not most women	90
+many if not most would	109
+many but not most	50
+many , but not most	64
+many , but not most	80
+many but not most	50
+many , but not most	64
+many , but not most	80
+=== END

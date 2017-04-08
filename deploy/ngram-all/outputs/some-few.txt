@@ -1,0 +1,6 @@
+=== some > few
+some or very few	47
+
+=== some < few
+some even a few	47
+=== END

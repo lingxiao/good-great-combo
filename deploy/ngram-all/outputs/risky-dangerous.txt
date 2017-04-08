@@ -1,0 +1,8 @@
+=== risky > dangerous
+
+=== risky < dangerous
+risky , even dangerous	88
+risky and even dangerous	56
+risky or even dangerous	43
+risky , even dangerous ,	60
+=== END

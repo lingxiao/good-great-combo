@@ -1,0 +1,5 @@
+=== painful > hard
+hard , even painful	65
+
+=== painful < hard
+=== END

@@ -1,0 +1,6 @@
+=== micro > small
+small and even micro	41
+small or even micro	55
+
+=== micro < small
+=== END

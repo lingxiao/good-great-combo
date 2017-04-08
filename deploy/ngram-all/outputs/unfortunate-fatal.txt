@@ -1,0 +1,6 @@
+=== unfortunate > fatal
+
+=== unfortunate < fatal
+unfortunate , but not fatal	56
+unfortunate , but not fatal	56
+=== END

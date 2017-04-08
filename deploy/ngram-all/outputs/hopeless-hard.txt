@@ -1,0 +1,8 @@
+=== hopeless > hard
+hard but not hopeless	80
+hard but not hopeless (	61
+hard but not hopeless	80
+hard but not hopeless (	61
+
+=== hopeless < hard
+=== END

@@ -1,0 +1,9 @@
+=== hot > hotter
+
+=== hot < hotter
+hot and even hotter	48
+hot , even hotter than	41
+hot if not hotter	104
+hot , if not hotter	147
+hot if not hotter than	56
+=== END

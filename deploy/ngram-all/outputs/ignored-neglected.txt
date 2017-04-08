@@ -1,0 +1,5 @@
+=== ignored > neglected
+neglected or even ignored	62
+
+=== ignored < neglected
+=== END

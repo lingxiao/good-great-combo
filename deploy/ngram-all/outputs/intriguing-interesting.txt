@@ -1,0 +1,5 @@
+=== intriguing > interesting
+interesting , even intriguing	53
+
+=== intriguing < interesting
+=== END

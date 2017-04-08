@@ -1,0 +1,10 @@
+=== satisfied > pleased
+pleased but not satisfied	128
+pleased , but not satisfied	68
+pleased but not satisfied by	40
+pleased but not satisfied	128
+pleased , but not satisfied	68
+pleased but not satisfied by	40
+
+=== satisfied < pleased
+=== END

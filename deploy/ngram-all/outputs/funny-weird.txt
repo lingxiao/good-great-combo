@@ -1,0 +1,6 @@
+=== funny > weird
+weird and even funny	68
+weird and even funny facts	58
+
+=== funny < weird
+=== END

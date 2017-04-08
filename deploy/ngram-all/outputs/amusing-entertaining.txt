@@ -1,0 +1,5 @@
+=== amusing > entertaining
+entertaining , even amusing	44
+
+=== amusing < entertaining
+=== END

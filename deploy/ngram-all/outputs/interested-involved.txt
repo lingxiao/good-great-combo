@@ -1,0 +1,10 @@
+=== interested > involved
+involved or even interested	43
+involved or even interested in	41
+
+=== interested < involved
+interested and fully involved	62
+interested and fully involved in	44
+interested but not involved	48
+interested but not involved	48
+=== END

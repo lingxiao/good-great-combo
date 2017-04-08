@@ -1,0 +1,6 @@
+=== overflowing > full
+full but not overflowing	54
+full but not overflowing	54
+
+=== overflowing < full
+=== END

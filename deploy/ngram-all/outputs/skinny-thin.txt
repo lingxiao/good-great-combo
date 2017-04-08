@@ -1,0 +1,9 @@
+=== skinny > thin
+thin , almost skinny	41
+thin but not skinny	85
+thin , but not skinny	67
+thin but not skinny	85
+thin , but not skinny	67
+
+=== skinny < thin
+=== END

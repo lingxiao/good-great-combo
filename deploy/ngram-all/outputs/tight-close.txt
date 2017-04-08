@@ -1,0 +1,6 @@
+=== tight > close
+close but not tight	71
+close but not tight	71
+
+=== tight < close
+=== END

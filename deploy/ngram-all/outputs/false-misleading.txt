@@ -1,0 +1,13 @@
+=== false > misleading
+misleading and even false	69
+misleading or even false	203
+misleading or even false .	138
+misleading if not false	61
+misleading , if not false	139
+misleading and outright false	231
+misleading or outright false	158
+misleading and outright false statements	174
+misleading or outright false .	68
+
+=== false < misleading
+=== END

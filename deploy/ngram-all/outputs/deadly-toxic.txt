@@ -1,0 +1,6 @@
+=== deadly > toxic
+toxic , even deadly	43
+toxic or even deadly	40
+
+=== deadly < toxic
+=== END

@@ -1,0 +1,6 @@
+=== pleased > content
+
+=== pleased < content
+pleased but not content	40
+pleased but not content	40
+=== END

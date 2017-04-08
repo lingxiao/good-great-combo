@@ -1,0 +1,37 @@
+=== easy > simple
+simple , although not easy	44
+simple though not easy	54
+simple , though not easy	48
+simple though not easy to	51
+simple , if not easy	85
+simple but not easy	40
+simple but not easy	176
+simple but not easy	73
+simple but not easy	132
+simple but not easy	998
+simple , but not easy	426
+simple but not easy group	96
+simple but not easy this	57
+simple but not easy .	44
+simple , but not easy	2331
+simple but not easy ,	64
+simple but not easy .	556
+simple but not easy :	83
+simple but not easy to	71
+simple but not easy	40
+simple but not easy	176
+simple but not easy	73
+simple but not easy	132
+simple but not easy	998
+simple , but not easy	426
+simple but not easy group	96
+simple but not easy this	57
+simple but not easy .	44
+simple , but not easy	2331
+simple but not easy ,	64
+simple but not easy .	556
+simple but not easy :	83
+simple but not easy to	71
+
+=== easy < simple
+=== END

@@ -1,0 +1,6 @@
+=== huge > overwhelming
+
+=== huge < overwhelming
+huge , almost overwhelming	211
+huge , almost overwhelming early	182
+=== END

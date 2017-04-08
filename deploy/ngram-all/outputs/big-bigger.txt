@@ -1,0 +1,14 @@
+=== big > bigger
+
+=== big < bigger
+big , even bigger	112
+big or even bigger	212
+big , even bigger than	74
+big , or even bigger	80
+big or even bigger than	126
+big if not bigger	660
+big , if not bigger	911
+big if not a bigger	42
+big if not bigger .	61
+big if not bigger than	404
+=== END

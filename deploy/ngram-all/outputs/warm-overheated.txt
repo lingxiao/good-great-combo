@@ -1,0 +1,10 @@
+=== warm > overheated
+
+=== warm < overheated
+warm but not overheated	84
+warm , but not overheated	66
+warm but not overheated .	43
+warm but not overheated	84
+warm , but not overheated	66
+warm but not overheated .	43
+=== END

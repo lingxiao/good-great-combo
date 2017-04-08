@@ -1,0 +1,7 @@
+=== serene > calm
+calm , almost serene	150
+calm , almost serene .	62
+calm , even serene	41
+
+=== serene < calm
+=== END

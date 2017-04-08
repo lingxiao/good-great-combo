@@ -1,0 +1,9 @@
+=== good > fine
+fine , but not good	41
+fine , even good ,	44
+fine , even good .	53
+
+=== good < fine
+fine or very good	54
+fine or very good mean	44
+=== END

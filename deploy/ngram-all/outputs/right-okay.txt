@@ -1,0 +1,6 @@
+=== right > okay
+
+=== right < okay
+right or even okay	82
+right or even okay .	81
+=== END

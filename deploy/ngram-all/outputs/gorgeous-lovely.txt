@@ -1,0 +1,6 @@
+=== gorgeous > lovely
+lovely and even gorgeous	42
+lovely and even gorgeous .	42
+
+=== gorgeous < lovely
+=== END

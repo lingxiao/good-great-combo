@@ -1,0 +1,6 @@
+=== acceptable > right
+
+=== acceptable < right
+not only acceptable but right	52
+not only acceptable but right	52
+=== END

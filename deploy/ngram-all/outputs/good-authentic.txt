@@ -1,0 +1,7 @@
+=== good > authentic
+
+=== good < authentic
+good but not authentic "	59
+good but not authentic	41
+good but not authentic	66
+=== END

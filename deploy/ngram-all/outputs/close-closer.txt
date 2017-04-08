@@ -1,0 +1,10 @@
+=== close > closer
+closer , but not close	99
+closer , but not close	99
+
+=== close < closer
+close , even closer	45
+close or even closer	65
+close if not closer	81
+close , if not closer	145
+=== END

@@ -1,0 +1,6 @@
+=== young > younger
+
+=== young < younger
+young , even younger	55
+young , even younger than	46
+=== END

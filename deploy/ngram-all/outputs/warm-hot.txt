@@ -1,0 +1,53 @@
+=== warm > hot
+hot or even warm	322
+hot , or even warm	71
+hot or even warm .	52
+hot or even warm coals	47
+
+=== warm < hot
+warm , almost hot	515
+warm , almost hot ,	211
+warm , almost hot .	140
+warm , almost hot to	47
+warm or even hot	110
+warm , even hot	653
+warm and even hot	71
+warm or even hot	300
+warm or even hot water	105
+warm , even hot ,	204
+warm , even hot .	75
+warm , even hot weather	115
+warm , or even hot	1012
+warm or even hot .	66
+warm if not hot	65
+warm , if not hot	109
+hot or very warm	117
+warm but not hot	82
+warm but not hot	2843
+warm , but not hot	76
+warm , but not hot	2110
+warm but not hot (	104
+warm but not hot ,	524
+warm but not hot .	939
+warm but not hot ;	60
+warm but not hot and	109
+warm but not hot enough	72
+warm but not hot smell	50
+warm but not hot to	128
+warm but not hot water	150
+not hot , just warm	85
+warm but not hot	82
+warm but not hot	2843
+warm , but not hot	76
+a warm but not hot	133
+warm , but not hot	2110
+warm but not hot (	104
+warm but not hot ,	524
+warm but not hot .	939
+warm but not hot ;	60
+warm but not hot and	109
+warm but not hot enough	72
+warm but not hot smell	50
+warm but not hot to	128
+warm but not hot water	150
+=== END

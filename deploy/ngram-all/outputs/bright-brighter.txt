@@ -1,0 +1,6 @@
+=== bright > brighter
+
+=== bright < brighter
+bright if not brighter	65
+bright , if not brighter	85
+=== END

@@ -1,0 +1,32 @@
+=== first > second
+second and even first	62
+second or even first	327
+second , or even first	352
+second or even first place	82
+second or even the first	54
+second if not first	44
+second , if not first	54
+second but not the first	369
+second but not the first	369
+
+=== first < second
+first , and even second	57
+first , or even second	460
+first and even second choices	95
+first and even second glance	42
+first and even the second	153
+first or even a second	82
+first or even second -	41
+first or even second choice	114
+first or even second glance	78
+first or even second or	45
+first or even second time	173
+first or even second trimester	71
+first or even second year	47
+first or even the second	532
+first , but not second	51
+first but not the second	1190
+first but not second	75
+first , but not second	51
+first but not the second	1190
+=== END

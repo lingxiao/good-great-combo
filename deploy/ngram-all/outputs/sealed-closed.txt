@@ -1,0 +1,8 @@
+=== sealed > closed
+closed but not sealed	90
+closed , but not sealed	202
+closed but not sealed	90
+closed , but not sealed	202
+
+=== sealed < closed
+=== END

@@ -1,0 +1,6 @@
+=== frightening > terrifying
+
+=== frightening < terrifying
+frightening , even terrifying	86
+frightening , even terrifying .	40
+=== END

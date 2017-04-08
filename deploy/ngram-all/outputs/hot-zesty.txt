@@ -1,0 +1,6 @@
+=== hot > zesty
+zesty and even hot	197
+zesty and even hot !	197
+
+=== hot < zesty
+=== END

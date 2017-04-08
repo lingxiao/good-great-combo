@@ -1,0 +1,8 @@
+=== poor > poorer
+
+=== poor < poorer
+poor even poorer , says	49
+poor even poorer ,	110
+poor even poorer .	306
+poor or even poorer	40
+=== END

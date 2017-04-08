@@ -1,0 +1,37 @@
+=== perfect > good
+good but not perfect )	170
+good but not perfect	122
+good but not perfect	121
+good but not perfect condition	72
+good but not perfect .	117
+good , but not perfect	2759
+good or even perfect	57
+good , but not perfect	50
+good but not perfect </s>	163
+good but not perfect	45
+good but not perfect and	41
+good , but not perfect	700
+good , but not perfect	139
+perfect or very good	66
+good but not perfect .	873
+good but not perfect ,	62
+good but not perfect </s>	342
+good , but not perfect	47
+good but not perfect !	43
+good , although not perfect	182
+good although not perfect	45
+good but not perfect </s>	82
+good but not perfect "	75
+good but not perfect ...	455
+good but not perfect	3033
+good but not perfect	1290
+good , almost perfect	129
+good but not perfect (	157
+good but not perfect ,	308
+good but not perfect "	116
+good but not perfect :	48
+
+=== perfect < good
+perfect or even good	129
+perfect , or even good	105
+=== END

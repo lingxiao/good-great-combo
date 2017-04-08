@@ -1,0 +1,8 @@
+=== real > serious
+
+=== real < serious
+real but not serious	59
+real but not serious -	45
+real but not serious	59
+real but not serious -	45
+=== END

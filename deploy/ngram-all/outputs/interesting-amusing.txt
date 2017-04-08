@@ -1,0 +1,8 @@
+=== interesting > amusing
+
+=== interesting < amusing
+interesting , even amusing	95
+interesting and even amusing	148
+interesting and even amusing web	46
+interesting , if not amusing	86
+=== END

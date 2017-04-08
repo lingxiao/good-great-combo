@@ -1,0 +1,7 @@
+=== realistic > possible
+possible , but not realistic	57
+possible , but not realistic	57
+
+=== realistic < possible
+realistic or even possible	92
+=== END

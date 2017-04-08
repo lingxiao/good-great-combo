@@ -1,0 +1,12 @@
+=== awake > aware
+
+=== awake < aware
+awake , fully aware	49
+awake and fully aware	157
+awake and fully aware .	48
+awake and fully aware of	57
+awake but not aware	104
+awake but not aware of	48
+awake but not aware	104
+awake but not aware of	48
+=== END

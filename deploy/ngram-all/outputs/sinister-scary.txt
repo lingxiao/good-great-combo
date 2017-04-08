@@ -1,0 +1,6 @@
+=== sinister > scary
+scary , almost sinister	99
+scary , almost sinister about	97
+
+=== sinister < scary
+=== END

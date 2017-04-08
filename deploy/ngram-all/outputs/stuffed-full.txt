@@ -1,0 +1,10 @@
+=== stuffed > full
+full but not stuffed	121
+full , but not stuffed	62
+full but not stuffed .	70
+full but not stuffed	121
+full , but not stuffed	62
+full but not stuffed .	70
+
+=== stuffed < full
+=== END

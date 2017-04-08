@@ -1,0 +1,6 @@
+=== frustrated > disappointed
+disappointed , but not frustrated	61
+disappointed , but not frustrated	61
+
+=== frustrated < disappointed
+=== END

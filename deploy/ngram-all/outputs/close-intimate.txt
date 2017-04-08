@@ -1,0 +1,6 @@
+=== close > intimate
+
+=== close < intimate
+close , almost intimate	41
+close , even intimate	83
+=== END

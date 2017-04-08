@@ -1,0 +1,8 @@
+=== necessary > required
+required or even necessary	87
+required or even necessary .	65
+required but not necessary	50
+required but not necessary	50
+
+=== necessary < required
+=== END

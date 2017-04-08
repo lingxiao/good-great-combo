@@ -1,0 +1,7 @@
+=== vital > necessary
+necessary , even vital	102
+necessary and even vital	55
+necessary , even vital ,	71
+
+=== vital < necessary
+=== END

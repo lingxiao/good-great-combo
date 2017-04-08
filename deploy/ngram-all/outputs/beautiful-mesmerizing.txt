@@ -1,0 +1,6 @@
+=== beautiful > mesmerizing
+
+=== beautiful < mesmerizing
+beautiful , almost mesmerizing	53
+beautiful , almost mesmerizing ,	49
+=== END

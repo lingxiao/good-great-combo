@@ -1,0 +1,12 @@
+=== unusual > rare
+rare but not unusual	40
+rare , but not unusual	51
+rare but not unusual	40
+rare , but not unusual	51
+
+=== unusual < rare
+unusual but not rare	96
+unusual , but not rare	55
+unusual but not rare	96
+unusual , but not rare	55
+=== END

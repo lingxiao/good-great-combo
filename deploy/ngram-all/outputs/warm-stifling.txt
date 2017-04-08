@@ -1,0 +1,6 @@
+=== warm > stifling
+
+=== warm < stifling
+warm but not stifling	53
+warm but not stifling	53
+=== END

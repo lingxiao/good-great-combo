@@ -1,0 +1,6 @@
+=== minuscule > small
+small , even minuscule	69
+small , even minuscule ,	55
+
+=== minuscule < small
+=== END

@@ -1,0 +1,13 @@
+=== treble > double
+double and even treble	89
+double or even treble	564
+double , or even treble	58
+double or even treble .	40
+double or even treble in	69
+double or even treble the	114
+double or even treble their	50
+double if not treble	52
+double , if not treble	64
+
+=== treble < double
+=== END

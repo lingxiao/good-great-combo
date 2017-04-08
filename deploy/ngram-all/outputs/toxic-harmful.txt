@@ -1,0 +1,6 @@
+=== toxic > harmful
+harmful , even toxic	52
+harmful or even toxic	43
+
+=== toxic < harmful
+=== END

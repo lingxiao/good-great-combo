@@ -1,0 +1,8 @@
+=== friendly > intimate
+
+=== friendly < intimate
+friendly , even intimate	53
+friendly and even intimate	48
+friendly , but not intimate	40
+friendly , but not intimate	40
+=== END

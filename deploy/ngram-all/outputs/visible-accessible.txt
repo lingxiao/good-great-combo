@@ -1,0 +1,18 @@
+=== visible > accessible
+accessible but not visible	45
+accessible but not visible	65
+accessible but not visible </s>	45
+accessible but not visible	45
+accessible but not visible	65
+accessible but not visible </s>	45
+
+=== visible < accessible
+visible but not accessible	76
+visible but not accessible	189
+visible but not accessible </s>	44
+visible but not accessible .	46
+visible but not accessible	76
+visible but not accessible	189
+visible but not accessible </s>	44
+visible but not accessible .	46
+=== END

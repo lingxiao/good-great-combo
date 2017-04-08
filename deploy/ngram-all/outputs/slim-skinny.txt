@@ -1,0 +1,8 @@
+=== slim > skinny
+
+=== slim < skinny
+slim but not skinny	113
+slim , but not skinny	42
+slim but not skinny	113
+slim , but not skinny	42
+=== END

@@ -1,0 +1,13 @@
+=== strong > stronger
+
+=== strong < stronger
+strong , even stronger	166
+strong or even stronger	215
+strong , even stronger than	126
+strong , or even stronger	75
+strong or even stronger than	109
+strong if not stronger	1473
+strong , if not stronger	1730
+strong if not stronger .	74
+strong if not stronger than	1180
+=== END

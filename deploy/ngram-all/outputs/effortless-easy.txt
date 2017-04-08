@@ -1,0 +1,6 @@
+=== effortless > easy
+easy , almost effortless	85
+easy and almost effortless	75
+
+=== effortless < easy
+=== END

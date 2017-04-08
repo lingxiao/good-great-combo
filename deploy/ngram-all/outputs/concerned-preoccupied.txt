@@ -1,0 +1,8 @@
+=== concerned > preoccupied
+
+=== concerned < preoccupied
+very concerned totally preoccupied	45
+very concerned totally preoccupied </s>	45
+very concerned totally preoccupied	45
+very concerned totally preoccupied </s>	45
+=== END

@@ -1,0 +1,9 @@
+=== suicidal > dangerous
+dangerous , almost suicidal	114
+dangerous , almost suicidal pilot	107
+dangerous if not suicidal	82
+dangerous if not suicidal but	76
+dangerous if not suicidal but	76
+
+=== suicidal < dangerous
+=== END

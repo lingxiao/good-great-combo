@@ -1,0 +1,6 @@
+=== uncommon > unusual
+unusual but not uncommon	45
+unusual but not uncommon	45
+
+=== uncommon < unusual
+=== END

@@ -1,0 +1,20 @@
+=== impractical > impossible
+
+=== impractical < impossible
+impractical and almost impossible	90
+impractical and almost impossible to	54
+impractical and even impossible	78
+impractical or even impossible	457
+impractical , or even impossible	90
+impractical and even impossible .	50
+impractical or even impossible ,	57
+impractical or even impossible .	127
+impractical or even impossible for	57
+impractical or even impossible to	145
+impractical if not impossible	912
+impractical , if not impossible	2032
+impractical if not impossible ,	53
+impractical if not impossible .	363
+impractical if not impossible for	64
+impractical if not impossible to	275
+=== END

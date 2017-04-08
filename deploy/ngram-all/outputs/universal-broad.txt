@@ -1,0 +1,7 @@
+=== universal > broad
+broad , if not universal	45
+broad , but not universal	48
+broad , but not universal	48
+
+=== universal < broad
+=== END

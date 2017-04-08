@@ -1,0 +1,11 @@
+=== refrigerated > frozen
+
+=== refrigerated < frozen
+refrigerated or even frozen	43
+refrigerated but not frozen	101
+refrigerated , but not frozen	106
+refrigerated but not frozen .	48
+refrigerated but not frozen	101
+refrigerated , but not frozen	106
+refrigerated but not frozen .	48
+=== END

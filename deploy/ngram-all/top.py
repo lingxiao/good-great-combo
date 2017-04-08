@@ -19,8 +19,8 @@ from app.config import PATH
 '''
 	paths
 '''
-_root       = os.path.join(PATH['directories']['deploy'], 'ngram')
-_pair_dir   = os.path.join(_root, 'word-pairs') 
+_root       = os.path.join(PATH['directories']['deploy'], 'ngram-all')
+_pair_dir   = os.path.join(_root, 'pairs') 
 _word_dir   = os.path.join(_root, 'words')
 _output_dir = os.path.join(_root, 'outputs')
 _script_dir = os.path.join(_root ,'scripts')
@@ -125,7 +125,13 @@ def split_into_pairs(size, output_dir):
 	pwords   = to_unique_pairs(words)
 	splits   = list(chunks(pwords,size))
 
-	cnt = 1
+	'''
+		prepend debug pair file
+	'''
+	splits = [[('good','great'),('great','excellent'),('good','bad')]]  \
+ 	       + splits
+
+	cnt = 0
 
 	print('\n>> splitting words pairs into ' + str(len(splits)) + ' chunks')
 	
@@ -147,7 +153,7 @@ def split_into_pairs(size, output_dir):
 '''
 def run_auto_main(tot):
 
-	cnt = 1
+	cnt = 0
 
 	for k in xrange(tot-1):
 		src_path = os.path.join(_root, 'main-0.py')
@@ -162,7 +168,7 @@ def run_auto_main(tot):
 '''
 def run_auto_sh(tot):
 
-	cnt = 1
+	cnt = 0
 
 	for k in xrange(tot-1):
 		src_path = os.path.join(_root,'main-0.sh')

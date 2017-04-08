@@ -1,0 +1,7 @@
+=== clear > clearer
+
+=== clear < clearer
+clear , almost clearer	46
+clear , almost clearer than	46
+clear , if not clearer	65
+=== END

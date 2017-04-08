@@ -1,0 +1,6 @@
+=== strong > strongest
+
+=== strong < strongest
+strong but not the strongest	54
+strong but not the strongest	54
+=== END

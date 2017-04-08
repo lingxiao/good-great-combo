@@ -1,0 +1,5 @@
+=== evil > immoral
+immoral , even evil	48
+
+=== evil < immoral
+=== END

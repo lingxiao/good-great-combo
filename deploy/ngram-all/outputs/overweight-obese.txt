@@ -1,0 +1,32 @@
+=== overweight > obese
+obese or even overweight	65
+
+=== overweight < obese
+overweight , even obese	49
+overweight and even obese	73
+overweight or even obese	654
+overweight or even obese ,	143
+overweight or even obese .	370
+overweight or even obese ?	40
+overweight , if not obese	49
+not just overweight but obese	45
+overweight but not obese	127
+overweight but not obese	1162
+overweight but not obese </s>	97
+overweight , but not obese	392
+overweight but not obese (	97
+overweight but not obese ,	168
+overweight but not obese .	225
+overweight but not obese had	77
+overweight but not obese have	219
+overweight but not obese	127
+overweight but not obese	1162
+overweight but not obese </s>	97
+not just overweight but obese	45
+overweight , but not obese	392
+overweight but not obese (	97
+overweight but not obese ,	168
+overweight but not obese .	225
+overweight but not obese had	77
+overweight but not obese have	219
+=== END

@@ -1,0 +1,13 @@
+=== overwhelming > strong
+strong , almost overwhelming	69
+strong , if not overwhelming	50
+overwhelming or very strong	48
+strong but not overwhelming	158
+strong , but not overwhelming	98
+strong but not overwhelming .	52
+strong but not overwhelming	158
+strong , but not overwhelming	98
+strong but not overwhelming .	52
+
+=== overwhelming < strong
+=== END

@@ -1,0 +1,5 @@
+=== thin > skeletal
+
+=== thin < skeletal
+thin , almost skeletal	75
+=== END

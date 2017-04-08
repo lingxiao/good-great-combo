@@ -1,0 +1,6 @@
+=== hostile > unfriendly
+unfriendly , even hostile	61
+unfriendly or even hostile	72
+
+=== hostile < unfriendly
+=== END

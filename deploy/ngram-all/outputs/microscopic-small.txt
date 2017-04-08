@@ -1,0 +1,6 @@
+=== microscopic > small
+small , almost microscopic	96
+small , even microscopic	80
+
+=== microscopic < small
+=== END

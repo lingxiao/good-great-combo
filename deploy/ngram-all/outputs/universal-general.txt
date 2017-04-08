@@ -1,0 +1,16 @@
+=== universal > general
+general and almost universal	63
+general and almost universal rule	40
+general , although not universal	41
+general , though not universal	118
+general if not universal	58
+general , if not universal	250
+general if not the universal	80
+general but not universal	71
+general , but not universal	130
+general but not universal	71
+general , but not universal	130
+
+=== universal < general
+universal or even general	53
+=== END

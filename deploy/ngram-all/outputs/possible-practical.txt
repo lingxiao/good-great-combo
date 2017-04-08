@@ -1,0 +1,23 @@
+=== possible > practical
+practical or even possible	966
+practical , or even possible	235
+practical or even possible ,	69
+practical or even possible .	330
+practical or even possible ?	62
+practical or even possible for	71
+practical or even possible in	71
+practical or even possible to	235
+
+=== possible < practical
+possible or even practical	366
+possible or even practical .	42
+possible or even practical to	295
+not only possible but practical	107
+possible but not practical	179
+possible , but not practical	285
+possible but not practical .	62
+possible but not practical	179
+not only possible but practical	107
+possible , but not practical	285
+possible but not practical .	62
+=== END

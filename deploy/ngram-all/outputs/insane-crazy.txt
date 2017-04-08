@@ -1,0 +1,10 @@
+=== insane > crazy
+crazy but not insane	290
+crazy but not insane	51
+crazy but not insane </s>	210
+crazy but not insane	290
+crazy but not insane	51
+crazy but not insane </s>	210
+
+=== insane < crazy
+=== END

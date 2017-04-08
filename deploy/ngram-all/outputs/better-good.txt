@@ -1,0 +1,49 @@
+=== better > good
+good , even better than	529
+good , even better when	47
+good or even better in	87
+good and even better when	42
+good even better ,	64
+good even better ! </s>	41
+good and even better in	43
+good or even better solutions	41
+good and even better if	53
+good or even better	4449
+good or even better ,	139
+good even better !	42
+good or even better !	71
+good even better .	180
+good even better than	96
+good or even better .	606
+good , even better	1109
+good even better ?	48
+good , even better .	87
+good and even better	823
+good or even better at	42
+good or even better that	54
+good , but not better	44
+good , even better ,	87
+good or even a better	43
+good or even better than	2298
+good and even a better	226
+good and even better than	262
+good or even better then	99
+good but not better	339
+good , but not better	333
+good , or even better	953
+good but not better than	254
+good or even better for	48
+good , and even better	329
+good or even better as	44
+good or even better ?	57
+
+=== better < good
+better but not good	59
+better , or even good	52
+better , but not good	568
+better but not good .	79
+better , but not good	217
+better but not good enough	221
+better but not good	423
+better , but not good	178
+=== END

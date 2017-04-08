@@ -1,0 +1,7 @@
+=== ignored > overlooked
+overlooked or even ignored	73
+overlooked if not ignored	80
+overlooked if not ignored .	47
+
+=== ignored < overlooked
+=== END

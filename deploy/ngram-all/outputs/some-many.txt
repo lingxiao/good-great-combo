@@ -1,0 +1,38 @@
+=== some > many
+many , even some	43
+many , even some	230
+many , even some of	63
+
+=== some < many
+some , although not many	169
+some , though not many	70
+some , though not many	137
+some , even many	56
+some or even many	69
+some , even many	423
+some or even many	976
+some , even many ,	42
+some or even many of	42
+some , even many ,	309
+some , or even many	290
+some or even many of	345
+some or even many people	51
+some if not many	80
+some if not many	669
+some , if not many	290
+some if not many of	40
+some , if not many	1841
+some if not many of	243
+some but not many	88
+some but not many	553
+some , but not many	399
+some , but not many	1016
+some but not many .	157
+some but not many of	41
+some but not many	88
+some but not many	553
+some , but not many	399
+some , but not many	1016
+some but not many .	157
+some but not many of	41
+=== END

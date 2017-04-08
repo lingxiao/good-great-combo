@@ -1,0 +1,10 @@
+=== tall > taller
+
+=== tall < taller
+tall , even taller	125
+tall or even taller	49
+tall , even taller than	118
+tall if not taller	82
+tall , if not taller	87
+tall if not taller than	41
+=== END

@@ -1,0 +1,6 @@
+=== heavy > heavier
+
+=== heavy < heavier
+heavy or even heavier .	58
+heavy , if not heavier	56
+=== END

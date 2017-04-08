@@ -1,0 +1,10 @@
+=== small > smaller
+
+=== small < smaller
+small , even smaller	417
+small and even smaller	96
+small , and even smaller	59
+small , even smaller than	360
+small if not smaller	48
+small , if not smaller	48
+=== END

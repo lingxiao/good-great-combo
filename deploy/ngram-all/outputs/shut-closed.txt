@@ -1,0 +1,6 @@
+=== shut > closed
+closed , but not shut	68
+closed , but not shut	68
+
+=== shut < closed
+=== END

@@ -1,0 +1,6 @@
+=== short > shorter
+
+=== short < shorter
+short , even shorter	86
+short , even shorter than	62
+=== END

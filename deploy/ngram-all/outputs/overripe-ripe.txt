@@ -1,0 +1,8 @@
+=== overripe > ripe
+ripe but not overripe	87
+ripe , but not overripe	42
+ripe but not overripe	87
+ripe , but not overripe	42
+
+=== overripe < ripe
+=== END

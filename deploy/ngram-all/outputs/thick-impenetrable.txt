@@ -1,0 +1,5 @@
+=== thick > impenetrable
+
+=== thick < impenetrable
+thick , almost impenetrable	99
+=== END

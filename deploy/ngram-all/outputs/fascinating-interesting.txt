@@ -1,0 +1,11 @@
+=== fascinating > interesting
+interesting , even fascinating	212
+interesting and even fascinating	213
+interesting , even fascinating ,	89
+interesting , even fascinating .	44
+interesting and even fascinating .	150
+interesting if not fascinating	42
+interesting , if not fascinating	41
+
+=== fascinating < interesting
+=== END

@@ -1,0 +1,10 @@
+=== interesting > entertaining
+
+=== interesting < entertaining
+interesting , even entertaining	98
+interesting and even entertaining	171
+interesting , and even entertaining	74
+interesting , even entertaining ,	53
+interesting and even entertaining .	76
+interesting , if not entertaining	88
+=== END

@@ -1,0 +1,8 @@
+=== international > global
+
+=== international < global
+international , even global	61
+international and even global	126
+international or even global	161
+international , if not global	3966
+=== END

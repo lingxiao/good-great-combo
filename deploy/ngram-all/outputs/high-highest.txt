@@ -1,0 +1,6 @@
+=== high > highest
+
+=== high < highest
+high but not the highest	60
+high but not the highest	60
+=== END

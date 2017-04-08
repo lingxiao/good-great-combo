@@ -1,0 +1,14 @@
+=== double > quadruple
+
+=== double < quadruple
+double , even quadruple	85
+double and even quadruple	2047
+double or even quadruple	611
+double , even quadruple your	48
+double , or even quadruple	45
+double and even quadruple sales	1929
+double or even quadruple during	50
+double or even quadruple the	129
+double or even quadruple what	84
+double or even quadruple your	58
+=== END

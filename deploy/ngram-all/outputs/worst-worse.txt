@@ -1,0 +1,5 @@
+=== worst > worse
+
+=== worst < worse
+worst , even worse	50
+=== END

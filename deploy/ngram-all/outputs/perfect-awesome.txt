@@ -1,0 +1,12 @@
+=== perfect > awesome
+awesome but not perfect	72
+awesome but not perfect	54
+awesome but not perfect just	66
+awesome but not perfect .	51
+awesome but not perfect	72
+awesome but not perfect	54
+awesome but not perfect just	66
+awesome but not perfect .	51
+
+=== perfect < awesome
+=== END

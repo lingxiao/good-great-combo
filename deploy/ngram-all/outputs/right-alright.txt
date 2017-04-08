@@ -1,0 +1,14 @@
+=== right > alright
+alright but not right	122
+alright but not right	202
+alright , but not right	130
+alright but not right now	122
+alright but not right now	198
+alright but not right	122
+alright but not right	202
+alright , but not right	130
+alright but not right now	122
+alright but not right now	198
+
+=== right < alright
+=== END

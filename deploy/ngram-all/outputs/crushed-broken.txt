@@ -1,0 +1,6 @@
+=== crushed > broken
+broken , but not crushed	54
+broken , but not crushed	54
+
+=== crushed < broken
+=== END

@@ -1,0 +1,15 @@
+=== easy > easier
+easier , but not easy	72
+not easy , just easier	41
+easier , but not easy	72
+
+=== easy < easier
+easy , even easier	58
+easy or even easier	94
+easy , and even easier	68
+easy or even easier to	44
+easy if not easier	434
+easy , if not easier	9281
+easy if not easier than	211
+easy if not easier to	147
+=== END

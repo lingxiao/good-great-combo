@@ -1,0 +1,26 @@
+=== perfect > better
+better , although not perfect	69
+better , though not perfect	144
+better if not perfect	42
+better , if not perfect	175
+better but not perfect	81
+better but not perfect	547
+better , but not perfect	86
+better , but not perfect	720
+better but not perfect ,	61
+better but not perfect .	278
+not perfect , just better	52
+better but not perfect	81
+better but not perfect	547
+better , but not perfect	86
+better , but not perfect	720
+better but not perfect ,	61
+better but not perfect .	278
+
+=== perfect < better
+perfect , even better	120
+perfect and even better	85
+perfect or even better	53
+perfect , even better than	87
+perfect and even better than	69
+=== END

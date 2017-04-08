@@ -1,0 +1,27 @@
+=== painful > uncomfortable
+uncomfortable , almost painful	59
+uncomfortable , even painful	310
+uncomfortable and even painful	746
+uncomfortable or even painful	497
+uncomfortable , and even painful	46
+uncomfortable , even painful ,	122
+uncomfortable , even painful .	94
+uncomfortable , or even painful	72
+uncomfortable and even painful .	127
+uncomfortable and even painful condition	102
+uncomfortable and even painful symptoms	397
+uncomfortable or even painful ,	43
+uncomfortable or even painful .	269
+uncomfortable , if not painful	68
+uncomfortable but not painful	376
+uncomfortable , but not painful	249
+uncomfortable but not painful ,	82
+uncomfortable but not painful .	198
+not painful , just uncomfortable	67
+uncomfortable but not painful	376
+uncomfortable , but not painful	249
+uncomfortable but not painful ,	82
+uncomfortable but not painful .	198
+
+=== painful < uncomfortable
+=== END

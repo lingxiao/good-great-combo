@@ -1,0 +1,29 @@
+=== old > older
+older but not old	70
+older , but not old	63
+not old , just older	58
+not old , just older	139
+older but not old	70
+older , but not old	63
+
+=== old < older
+old , even older	101
+old and even older	118
+old or even older	455
+old , and even older	41
+old , even older than	82
+old , or even older	166
+old or even older ,	44
+old or even older .	211
+old or even older than	74
+old if not older	273
+old , if not older	405
+old if not older .	122
+old if not older than	69
+old but not older	127
+old , but not older	89
+old but not older than	120
+old but not older	127
+old , but not older	89
+old but not older than	120
+=== END

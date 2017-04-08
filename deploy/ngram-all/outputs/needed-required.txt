@@ -1,0 +1,8 @@
+=== needed > required
+
+=== needed < required
+needed but not required	90
+needed , but not required	47
+needed but not required	90
+needed , but not required	47
+=== END

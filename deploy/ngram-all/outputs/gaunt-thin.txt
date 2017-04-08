@@ -1,0 +1,6 @@
+=== gaunt > thin
+thin , almost gaunt	116
+thin , almost gaunt ,	50
+
+=== gaunt < thin
+=== END

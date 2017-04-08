@@ -1,0 +1,6 @@
+=== thin > thinner
+
+=== thin < thinner
+thin if not thinner	57
+thin if not thinner than	53
+=== END

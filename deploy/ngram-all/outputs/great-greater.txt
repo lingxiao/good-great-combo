@@ -1,0 +1,9 @@
+=== great > greater
+
+=== great < greater
+great , even greater	86
+great or even greater than	152
+great or even greater	325
+great , or even greater	117
+great and even greater	49
+=== END

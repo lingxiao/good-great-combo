@@ -1,0 +1,6 @@
+=== cheap > affordable
+affordable but not cheap	47
+affordable but not cheap	47
+
+=== cheap < affordable
+=== END

@@ -1,0 +1,9 @@
+=== rare > rarer
+
+=== rare < rarer
+rare , even rarer	51
+rare and even rarer	61
+rare , and even rarer	80
+rare if not rarer	61
+rare if not rarer than	57
+=== END

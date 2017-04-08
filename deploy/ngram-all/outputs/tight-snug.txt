@@ -1,0 +1,20 @@
+=== tight > snug
+snug but not tight	135
+snug but not tight	2405
+snug , but not tight	938
+snug but not tight .	135
+snug but not tight ,	69
+snug but not tight --	79
+snug but not tight .	1983
+snug but not tight and	44
+snug but not tight	135
+snug but not tight	2405
+snug , but not tight	938
+snug but not tight .	135
+snug but not tight ,	69
+snug but not tight --	79
+snug but not tight .	1983
+snug but not tight and	44
+
+=== tight < snug
+=== END

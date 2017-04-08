@@ -1,0 +1,36 @@
+=== cold > cool
+cool , almost cold	232
+cool almost cold the	57
+cool , almost cold ,	83
+cool , almost cold .	56
+cool almost cold the bed	57
+cool , even cold	316
+cool and even cold	54
+cool or even cold	178
+cool , even cold ,	190
+cool if not cold	57
+cool , if not cold	79
+cool but not cold	85
+cool but not cold	1562
+cool , but not cold	144
+cool , but not cold	992
+cool but not cold ,	314
+cool but not cold .	502
+cool but not cold and	101
+cool but not cold mornings	76
+cool but not cold water	60
+cool but not cold	85
+cool but not cold	1562
+cool , but not cold	144
+a cool but not cold	57
+cool , but not cold	992
+cool but not cold ,	314
+cool but not cold .	502
+cool but not cold and	101
+cool but not cold mornings	76
+cool but not cold water	60
+the cool but not cold	113
+
+=== cold < cool
+cold or even cool	44
+=== END

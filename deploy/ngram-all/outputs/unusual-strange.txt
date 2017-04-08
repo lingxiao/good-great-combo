@@ -1,0 +1,8 @@
+=== unusual > strange
+strange but not unusual	575
+strange but not unusual !	575
+strange but not unusual	575
+strange but not unusual !	575
+
+=== unusual < strange
+=== END

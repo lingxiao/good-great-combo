@@ -1,0 +1,5 @@
+=== obsessed > concerned
+concerned , even obsessed	42
+
+=== obsessed < concerned
+=== END

@@ -1,0 +1,14 @@
+=== chilly > cold
+cold , even chilly	220
+cold , even chilly writing	217
+
+=== chilly < cold
+chilly but not cold	102
+chilly , but not cold	40
+chilly , but not cold	97
+chilly but not cold .	45
+chilly but not cold	102
+chilly , but not cold	40
+chilly , but not cold	97
+chilly but not cold .	45
+=== END

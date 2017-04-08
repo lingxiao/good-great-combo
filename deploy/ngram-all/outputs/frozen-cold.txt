@@ -1,0 +1,14 @@
+=== frozen > cold
+cold , almost frozen	74
+cold , almost frozen ,	50
+cold or even frozen	53
+frozen or very cold	55
+cold but not frozen	202
+cold , but not frozen	134
+cold but not frozen .	105
+cold but not frozen	202
+cold , but not frozen	134
+cold but not frozen .	105
+
+=== frozen < cold
+=== END

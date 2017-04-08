@@ -16,9 +16,9 @@ from app.config import PATH
 '''
 	paths
 '''
-_root       = os.path.join(PATH['directories']['deploy'], 'ngram')
+_root       = os.path.join(PATH['directories']['deploy'], 'ngram-all')
 _word_dir   = os.path.join(_root, 'words') 
-_word_pair_dir = os.path.join(_root, 'word-pairs')
+_word_pair_dir = os.path.join(_root, 'pairs')
 _output_dir = os.path.join(_root, 'outputs')
 _script_dir = os.path.join(_root ,'scripts')
 

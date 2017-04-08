@@ -1,0 +1,7 @@
+=== busy > busier
+
+=== busy < busier
+busy if not busier	77
+busy , if not busier	77
+busy if not busier than	57
+=== END

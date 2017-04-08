@@ -1,0 +1,7 @@
+=== good > sufficient
+
+=== good < sufficient
+good but not sufficient	168
+good , but not sufficient	205
+good but not sufficient .	60
+=== END

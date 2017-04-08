@@ -1,0 +1,17 @@
+=== higher > high
+high , and even higher	84
+high , even higher than	222
+high , or even higher	229
+high and even higher than	40
+high or even higher .	52
+high or even higher than	229
+high , if not higher	1032
+high if not higher .	60
+high if not higher than	295
+high , but not higher	51
+high , but not higher	51
+
+=== higher < high
+higher , but not high	46
+higher , but not high	46
+=== END

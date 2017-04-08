@@ -1,0 +1,6 @@
+=== gorgeous > pretty
+pretty , but not gorgeous	44
+pretty , but not gorgeous	44
+
+=== gorgeous < pretty
+=== END

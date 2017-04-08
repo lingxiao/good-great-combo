@@ -1,0 +1,6 @@
+=== dark > dim
+dim but not dark	71
+dim but not dark	71
+
+=== dark < dim
+=== END

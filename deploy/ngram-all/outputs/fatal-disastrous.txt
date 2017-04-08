@@ -1,0 +1,5 @@
+=== fatal > disastrous
+disastrous , even fatal	56
+
+=== fatal < disastrous
+=== END

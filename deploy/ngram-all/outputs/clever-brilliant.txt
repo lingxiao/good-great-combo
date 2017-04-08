@@ -1,0 +1,5 @@
+=== clever > brilliant
+
+=== clever < brilliant
+clever , if not brilliant	44
+=== END

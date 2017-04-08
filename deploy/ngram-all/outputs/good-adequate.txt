@@ -1,0 +1,8 @@
+=== good > adequate
+adequate or even good	51
+adequate but not good	60
+
+=== good < adequate
+good or even adequate	98
+adequate or very good	67
+=== END
