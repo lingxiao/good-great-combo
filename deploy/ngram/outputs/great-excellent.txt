@@ -1,0 +1,6 @@
+=== great > excellent
+
+=== great < excellent
+great but not excellent entry	66
+great but not excellent	73
+=== END
