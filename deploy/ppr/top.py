@@ -19,34 +19,49 @@ from app.config import PATH
 	paths
 '''
 _root       = os.path.join(PATH['directories']['deploy'], 'ppr')
-_word_dir   = os.path.join(_root, 'words') 
-_output_dir = os.path.join(_root, 'outputs')
+_word_dir   = os.path.join(_root , 'words') 
+_output_dir = os.path.join(_root , 'outputs')
 _script_dir = os.path.join(_root ,'scripts')
-_shell_dir = os.path.join(_root ,'shell')
+_shell_dir  = os.path.join(_root ,'shell')
 gr_path     = PATH['assets']['graph']
 
+
+############################################################
+'''
+	@Use: rewrite main-#.py file
+'''
+def run_auto_main(alphas):
+
+	for k in alphas:
+		src_path = os.path.join(_root, 'main-0.py')
+		tgt_path = os.path.join(_script_dir, 'main-' + str(k) + '.py')
+		src_str  = 'alpha = 0'
+		tgt_str  = 'alpha = ' + str(k)
+		auto_gen(src_path, tgt_path, src_str, tgt_str)
 
 '''
 	@Use: rewrite main-#.sh file
 '''
-def run_auto_sh(tot):
+def run_auto_sh(alphas):
 
-	cnt = 1
-
-	for k in xrange(tot):
-		src_path = os.path.join(_shell_dir,'ppr-0.sh')
-		tgt_path = os.path.join(_shell_dir,'ppr-' + str(cnt) + '.sh')
-		src_str  = 'ppr-0'
-		tgt_str  = 'ppr-' + str(cnt) 
+	for k in alphas:
+		src_path = os.path.join(_root,'main-0.sh')
+		tgt_path = os.path.join(_shell_dir,'main-' + str(k) + '.sh')
+		src_str  = 'main-0'
+		tgt_str  = 'main-' + str(k)
 
 		auto_gen(src_path, tgt_path, src_str, tgt_str)
 
-		cnt +=1
 
+
+############################################################
 '''
 	run all
 '''
-run_auto_sh  (7)
+alphas = [0.9,0.8,0.7,0.5,0.25,0.1,0.01]
+
+run_auto_main(alphas)
+# run_auto_sh  (7)
 
 
 

@@ -37,7 +37,7 @@ def personalized_page_rank( gr_path
 	                      , log_dir
 	                      , alpha
 	                      , refresh = True
-	                      , debug = False):
+	                      , debug   = False):
 
 	if not os.path.exists(out_dir):
 		raise NameError('output directory does not exist at ' + out_dir)
@@ -46,7 +46,7 @@ def personalized_page_rank( gr_path
 
 		salpha   = str(alpha)
 		srefresh = 'refresh' if refresh else 'restart'
-		writer = Writer(log_dir, 1, debug)
+		writer   = Writer(log_dir, 1, debug)
 
 		'''
 			Read ppdb graph
@@ -93,13 +93,15 @@ def personalized_page_rank( gr_path
 			path to edges to be computed :: String
 	        path to output directory     :: String
 
+	@Note:  if one of the edges has zero weight while
+	        other doese not, then smooth by 1e-5
 
 	@output: None
 
 '''
 def weight_by_bradly_terry(gr_path, edge_path, out_path):
 
-	print('\n>> computing edge weight by bradly terry')
+	print('\n>> computing edge weight by bradley terry')
 	print('\n>> edge path: ' + edge_path)
 	
 	G, words = load_as_list(gr_path)
@@ -119,6 +121,18 @@ def weight_by_bradly_terry(gr_path, edge_path, out_path):
 		t_s = len([(x,y) for x,y,_ in G if x == t and y == s])
 
 		if s_t or t_s:
+
+			'''
+				smooth weights so we don't have 
+				edges with 0 weight
+			'''
+			if s_t == 0: 
+				s_t += eps
+				t_s -= eps
+
+			if t_s == 0:
+				s_t -= eps
+				t_s += eps
 
 			tot = float(s_t + t_s)
 			st  = s_t/tot
@@ -178,13 +192,22 @@ def weight_by_neigh(gr_path, edge_path, out_path):
 
 		if w_s_t or w_t_s:
 
+			'''
+				smooth out the zero edge
+			'''
+			if w_s_t == 0:
+				w_s_t += eps
+
+			if w_t_s == 0:
+				w_t_s += eps
+
+
 			st = s + '->' + t
 			ts = t + '->' + s
 			f.write(st + ': ' + str(w_s_t) + '\n')
 			f.write(ts + ': ' + str(w_t_s) + '\n')
 
 	f.close()
-
 
 ############################################################
 '''
