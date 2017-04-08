@@ -7,9 +7,11 @@ from graph_class   import *
 __all__ = [
            # graph_class
            'Graph'
+          , 'load_as_list'
 
            # graph_measure
           ,'personalized_page_rank'
-          ,'save_edge_by_edge_count'
+          ,'weight_by_bradly_terry'
+          ,'weight_by_neigh'
           ]
 

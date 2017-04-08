@@ -19,7 +19,6 @@ from experiments import *
 '''
 ccb    = read_gold(PATH['assets']['ccb'])
 bansal = read_gold(PATH['assets']['bansal'])
-
 '''
 	paths
 '''

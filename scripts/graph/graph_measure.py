@@ -11,6 +11,7 @@ import networkx as nx
 
 from utils   import *
 from scripts import *
+from scripts.graph import *
 
 '''
 	@Use  : compute page rank for all words in graph at 
@@ -89,26 +90,23 @@ def personalized_page_rank( gr_path
 	@Given: path to graph                :: String
 			path to edges to be computed :: String
 	        path to output directory     :: String
-	        path to log directory        :: String
-	        weighted_edge                :: [(String, String, String)] 
-		                                 -> String 
-		                                 -> String 
-		                                 -> Dict String Float
+
 
 	@output: None
-'''
-def save_weighted_edge(gr_path, unique_edge_path, out_path, weighted_edge):
 
+'''
+def weight_by_bradly_terry(gr_path, edge_path, out_path):
+	
 	edges, words = load_as_list(gr_path)
 
-	with open(unique_edge_path, 'rb') as h:
+	with open(edge_path, 'rb') as h:
 		unique_edges = [xs.split(', ') for xs in h.read().split('\n')]
 
 	f = open(out_path, 'wb')
 
 	for s,t in unique_edges:
 
-		e = weighted_edge(edges,s,t)
+		e = bradly_terry(edges,s,t)
 
 		if e:
 			st = s + '->' + t
@@ -118,11 +116,55 @@ def save_weighted_edge(gr_path, unique_edge_path, out_path, weighted_edge):
 
 	f.close()
 
+
 '''
-	save_weighted_edge where weight_edge function is edge_by_edge_count
+	@Use  : Given raw ppdb graph as list of edges of form:
+				(source, target, <edge>)
+			and vertices, output edges weighted by counting the 
+	        number of vertices going between the vertices
+
+	                   number_of_vertex(s -> t) 
+	         ---------------------------------------------------
+	         	sum_{x \in neighbor(s)} number_of_vertex(s -> x)
+
+	@NOTE: alpha smoothing parameter ensure the graph is fully
+	       connected, so there is always some probability of
+	       transitioning to any vertex in the graph
+
+	@Given: path to graph                :: String
+			path to edges to be computed :: String
+	        path to output directory     :: String
+
+	@output: None
 '''
-def save_edge_by_edge_count(gr_path, out_path, log_dir):
-	return _save_weighted_edge(gr_path, out_path, log_dir, edge_by_edge_count)
+def weight_by_neigh(gr_path, edge_path, out_path):
+
+	G, words = load_as_list(gr_path)
+
+	with open(edge_path, 'rb') as h:
+			edges = [xs.split(', ') for xs in h.read().split('\n')]
+
+	f = open(out_path, 'wb')
+
+	for s,t in edges:
+
+		# weight(s -> t)
+		neigh_s = [(x,y,z) for x,y,z in G if x == s]
+		e_s_t   = [(x,y,z) for x,y,z in neigh_s if y == t]
+		w_s_t   = (len(e_s_t) + 1e-5) / (len(neigh_s) + 1e-5)
+
+		# weight(t -> s)
+		neigh_t = [(x,y,z) for x,y,z in G if x == t]
+		e_t_s   = [(x,y,z) for x,y,z in neigh_t if y == s]
+		w_t_s   = (len(e_t_s) + 1e-5) / (len(neigh_t) + 1e-5)
+
+		st = s + '->' + t
+		ts = t + '->' + s
+		f.write(st + ': ' + str(w_s_t) + '\n')
+		f.write(ts + ': ' + str(w_t_s) + '\n')
+
+	f.close()
+
 
 
 ############################################################
@@ -150,7 +192,7 @@ def save_edge_by_edge_count(gr_path, out_path, log_dir):
 				u to v, v to u
 			or None
 '''
-def edge_by_edge_count(edges, x, y):
+def bradly_terry(edges, x, y):
 
 	eps = 1e-5
 
@@ -163,44 +205,6 @@ def edge_by_edge_count(edges, x, y):
 	else:
 		tot = float(x_y + y_x) + 2*eps
 		return {x +'->' + y: (x_y + eps)/tot, y+ '->'+x : (y_x + eps)/tot}
-
-
-'''
-	@Depricated: running this is prohitively expensive
-'''
-def _save_weighted_edge(gr_path, out_path, log_dir, weighted_edge):
-
-	writer = Writer(log_dir,1)
-
-	writer.tell('running save_edge_by_edge_count over graph found at \n\t\t'
-		       + gr_path)
-
-	edges, words = load_as_list(gr_path)
-
-	writer.tell('constructing all unique edges ...')
-
-	to_tuple     = lambda xs: (xs[0], xs[1])
-	unique_edges = set( to_tuple(sorted([u,v])) for u in words for v in words )
-
-	writer.tell('found ' + str(len(unique_edges)) + ' possible unique edges in graph.')
-
-	writer.tell('Computing weights for edges that exist in ppdb graph. This will take a while ...')
-
-	h = open(out_path, 'wb')
-
-	for s,t in list(unique_edges):
-
-		e = weighted_edge(edges,s,t)
-	
-		if e:
-			st = s + '->' + t
-			ts = t + '->' + s
-			h.write(st + ': ' + str(e[st]) + '\n')
-			h.write(ts + ': ' + str(e[ts]) + '\n')
-
-
-	h.close()
-	writer.close()
 
 
 ############################################################

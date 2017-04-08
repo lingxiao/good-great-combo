@@ -45,9 +45,12 @@ __all__ = [
           , 'superla_compare'
 
           # graph
-          , 'Graph'
           , 'personalized_page_rank'
-          , 'save_edge_by_edge_count'
+          , 'weight_by_bradly_terry'
+          , 'weight_by_neigh'          
+
+          , 'Graph'
+          , 'load_as_list'
 
           ]
 
