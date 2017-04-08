@@ -70,11 +70,12 @@ def collect_ngram_patterns(word_path, pattern_path, ngram_dir, out_dir, log_dir,
     writer = Writer(log_dir, 1, debug)
     writer.tell('running collect_ngram_patterns ...')
     writer.tell('found word pair path at ' + word_path)
+    writer.tell('found ngram directory at ' + ngram_dir)
 
     patterns  = read_pattern(pattern_path)
     pairs     = [x.split(', ') for x in open(word_path,'rb').read().split('\n') if x]
     
-    writer.tell('constructing regex for all words and patterns')
+    writer.tell('collect ngram over all words ...')
 
     for s,t in pairs:
         
