@@ -1,0 +1,8 @@
+=== a > accountable
+
+=== a < accountable
+a fully accountable	729
+a fully accountable ,	56
+a fully accountable and	114
+a fully accountable and transparent	40
+=== END

@@ -1,0 +1,55 @@
+=== good > bad
+bad , even good	53
+bad or even good	76
+bad , or even good	42
+bad if not good	88
+bad if not good ,	59
+good or very bad	2883
+good , or very bad	258
+good or very bad )	52
+good or very bad ,	479
+good or very bad -	44
+good or very bad .	1060
+good or very bad ...	46
+good or very bad acts	55
+good or very bad and	93
+good or very bad depending	57
+good or very bad for	72
+good or very bad news	43
+bad but not good	921
+bad , but not good	1207
+bad but not good ,	54
+bad but not good .	165
+bad but not good either	333
+bad but not good enough	113
+bad but not good too	48
+bad but not good	921
+bad , but not good	1207
+bad but not good ,	54
+bad but not good .	165
+bad but not good either	333
+bad but not good enough	113
+bad but not good too	48
+
+=== good < bad
+good and even bad	50
+good or even bad	113
+good , even the bad	46
+good , or even bad	48
+bad or very good	363
+bad , or very good	43
+bad or very good ,	54
+bad or very good .	104
+good but not bad	43
+good but not bad	477
+good , but not bad	655
+good but not bad .	105
+good but not bad either	123
+good but not the bad	42
+good but not bad	43
+good but not bad	477
+good , but not bad	655
+good but not bad .	105
+good but not bad either	123
+good but not the bad	42
+=== END

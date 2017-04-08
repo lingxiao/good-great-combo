@@ -1,0 +1,7 @@
+=== partial > that
+that even a partial	557
+that even the partial	72
+that even a partial exclusion	63
+
+=== partial < that
+=== END

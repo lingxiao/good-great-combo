@@ -1,0 +1,20 @@
+=== all > least
+least , almost all	148
+least almost all )	97
+least almost all ,	67
+least almost all of	278
+least almost all the	43
+least , almost all of	45
+least almost all of it	101
+least almost all of the	41
+least almost all of them	102
+least if not all	41
+least , if not all	170
+
+=== all < least
+all , even the least	121
+all but not least	40
+all , but not least	67
+all but not least	40
+all , but not least	67
+=== END
