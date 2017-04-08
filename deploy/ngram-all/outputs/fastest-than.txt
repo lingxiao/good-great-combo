@@ -1,0 +1,7 @@
+=== fastest > than
+than even the fastest	478
+than even the fastest cpus	43
+than even the fastest of	45
+
+=== fastest < than
+=== END
