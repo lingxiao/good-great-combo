@@ -179,7 +179,7 @@ def run_auto_sh(tot):
 	run all
 '''
 # n = split_into_words(250, _word_dir)
-n = split_into_pairs(200000, _pair_dir)
+n = split_into_pairs(100000, _pair_dir)
 run_auto_main(n)
 run_auto_sh  (n)
 
