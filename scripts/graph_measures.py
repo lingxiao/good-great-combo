@@ -12,7 +12,6 @@ import networkx as nx
 from utils   import *
 from scripts import *
 
-
 '''
 	@Use  : compute page rank for all words in graph at 
 	        specfied restart constant and save
