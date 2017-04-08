@@ -83,13 +83,16 @@ def collect_ngram_patterns( word_path
 
     '''
         path to word_path-no-data.txt
+        - this is created the last time we crawled and found no data
     '''
     no_ngram_path = os.path.splitext(word_path)[0] + '-no-data' + '.txt'
 
     if os.path.exists(no_ngram_path):
 
+        tup = lambda xs : (xs[0], xs[1])
+
         writer.tell('found path to list of pairs with no data at ' + no_ngram_path)
-        no_data_pairs = [x.split(', ') for x in open(no_ngram_path,'rb').read().split('\n') if x]
+        no_data_pairs = [tup(x.split(', ')) for x in open(no_ngram_path,'rb').read().split('\n') if x]
 
     else:
         writer.tell('could not locate list of pairs with no data at ' + no_ngram_path)
@@ -127,7 +130,7 @@ def collect_ngram_patterns( word_path
 
     if no_data_pairs:
         with open(no_ngram_path,'wb') as h:
-            for s,t in no_data_pairs:
+            for s,t in set(no_data_pairs):
                 h.write(s + ', ' + t + '\n')
 
     writer.close()          
