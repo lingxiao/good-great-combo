@@ -3,9 +3,7 @@ from .graph_io            import *
 from .results_io          import *
 from .ngram_io            import *
 
-from .ilp_algo            import *
 from .evaluation          import *
-from .compute_probs_table import *
 
 from .graph_measures      import *
 from .pattern_to_re       import *
@@ -31,14 +29,6 @@ __all__ = [
           # ngram_io
           , 'read_pattern'
           , 'with_ngram'
-
-          # ilp_algo
-          ,'ilp'
-          ,'ilp_each'
-
-          # compute_probs_table
-          ,'to_probs_table'
-          ,'open_probs_table'
 
           # graph measures
           ,'edge_by_edge_count'

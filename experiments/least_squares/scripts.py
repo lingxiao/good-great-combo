@@ -1,27 +1,13 @@
 ############################################################
-# Module  : base compare and superlative adjectives
+# Module  : base compare and superlative scripts
 # Date    : December 22nd
 # Author  : Xiao Ling
 # Source  : http://www.enchantedlearning.com/grammar/partsofspeech/adjectives/comparatives.shtml
 ############################################################
 
-import os
-from nltk.stem.wordnet import WordNetLemmatizer
-
 from utils import *
-from app.config import *
 
-############################################################
-'''
-    Load assets from paths
-'''
-# G :: [(String,String,String)]
-# w :: [String]
-G,words = load_as_list(PATH['assets']['graph'])
 
-# A0,b0,x_lookup0 = to_Ab(subgraph0,b_lookup0)
-
-############################################################
 '''
     @Use: construct subgraph with all base, comparatives, and superlative forms
     @Input : `graph_path` :: String path to graph 
@@ -81,9 +67,7 @@ def labeled_subgraph(graph_path):
            , 'compare' : list(compare)
            , 'superla' : list(superla)}
 
-sub_G = labeled_subgraph(PATH['assets']['graph'])
 
-############################################################
 '''
     @Use: Given subgraph of base, compariatve and superlative
           adjectives and, and the list of wordss
@@ -207,23 +191,4 @@ def save_Ab(A,b, path, A_name, b_name):
     h.close()
 
     return (A_path, b_path)
-
-x,b_lookup = init_labled_adjectives( sub_G['graph']
-                            , sub_G['base']
-                            , sub_G['compare']
-                            , sub_G['superla'])
-
-
-
-A,b = to_Ab(sub_G['graph'], x, b_lookup)
-
-# save_Ab(A,b, pdir, 'A-matrix','b-vector')
-
-
-
-    
-
-
-
-
 
