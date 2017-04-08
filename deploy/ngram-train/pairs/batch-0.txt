@@ -1,0 +1,4 @@
+large, larger
+cool, cooler
+better, largest
+close, closer

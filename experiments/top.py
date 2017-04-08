@@ -7,13 +7,11 @@
 import os
 import json
 import pickle
-import networkx as nx
 
 from app.config import PATH
 from utils   import *
 from scripts import *
 from experiments import *
-
 
 ############################################################
 '''
@@ -25,6 +23,7 @@ bansal = read_gold(PATH['assets']['bansal'])
 '''
 	paths
 '''
+
 gr_path  = PATH['assets']['graph']
 wt_path  = PATH['inputs']['graph-wt-by-edge']
 ppr_path = PATH['inputs']['ppr-by-ppdb']
@@ -33,9 +32,16 @@ log_dir  = PATH['directories']['input']
 
 ############################################################
 '''
-	construct graph
+	make list of training data 
 '''
 G = Graph(gr_path, wt_path, ppr_path)
+
+train = G.train()
+data  = set(train['base'] + train['superla'] + train['compare'])
+
+pairs = [(s,t) for s in data for t in data]
+
+
 
 
 

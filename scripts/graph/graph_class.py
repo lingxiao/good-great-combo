@@ -81,15 +81,6 @@ class Graph:
 		else:
 			raise NameError('vertex ' + s + ' not found here')
 
-	def train(self):
-
-		if self._train:
-			return self._train
-		else:
-			t = training_graph(self.raw_graph)
-			self._train = t
-			return t
-
 	def ppr(self,s,t, alpha):
 
 		ppr_dir = self.PATH['ppr']
@@ -112,6 +103,15 @@ class Graph:
 			return pickle.load(open(path,'rb'))
 		else:
 			raise NameError('No path found for ' + path)
+
+	def train(self):
+
+		if self._train:
+			return self._train
+		else:
+			t = training_graph(self.raw_graph)
+			self._train = t
+			return t
 
 
 

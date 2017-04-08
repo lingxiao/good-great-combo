@@ -1,0 +1,14 @@
+serene, calm
+serene, cool
+unreliable, dangerous
+unreliable, risky
+unreliable, suicidal
+dangerous, unreliable
+dangerous, risky
+dangerous, suicidal
+risky, unreliable
+risky, dangerous
+risky, suicidal
+suicidal, unreliable
+suicidal, dangerous
+suicidal, risky
