@@ -67,7 +67,6 @@ def labeled_subgraph(graph_path):
            , 'compare' : list(compare)
            , 'superla' : list(superla)}
 
-
 '''
     @Use: Given subgraph of base, compariatve and superlative
           adjectives and, and the list of wordss

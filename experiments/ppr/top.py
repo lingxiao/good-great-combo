@@ -43,14 +43,6 @@ ppr_dir = os.path.join(PATH['directories']['input'],'ppr-by-ppdb')
 
 
 ############################################################
-
-G_ppdb, words = load_as_digraph( gr_path, wt_path )
-alphas = [0.9,0.8,0.7,0.5,0.25,0.1,0.01]
-alpha = 0.9
-
-pprs = run_ppr(ppr_dir, ccb[3], alpha)
-
-############################################################
 '''
 	@Use: compute ppr for `gold` set at restart 
 	     constant `alpha` using files from
@@ -82,6 +74,15 @@ def ppr_wrt(ppr_dir,s,alpha):
 	else:
 		raise NameError('No path found for ' + path)
 
+
+############################################################
+
+# G_ppdb, words = load_as_digraph( gr_path, wt_path )
+# alphas = [0.9,0.8,0.7,0.5,0.25,0.1,0.01]
+
+
+# alpha  = 0.9
+# pprs   = run_ppr(ppr_dir, ccb[3], alpha)
 
 
 

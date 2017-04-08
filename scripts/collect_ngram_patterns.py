@@ -54,6 +54,7 @@ def ngram_by_words(word_path, ngram_dir, out_path, log_dir, debug = False):
 
 '''
     @Use  : find all ngrams matching "word_a pattern word_b" regex
+
     @Input: - path to words  `word_path`     :: String
             - path to pattern `pattern_path` :: String
             - path to ngrams  `ngram_dir`    :: String
@@ -137,6 +138,9 @@ def collect_ngram_patterns( word_path
                 no_data_pairs.append((s,t))
                 save_curr += 1
 
+        '''
+            update no-data-pairs on disk
+        '''
         if save_curr == 5: 
             writer.tell('saving partial results for no-data-pairs')
             save_no_data_pairs(no_data_pairs, no_data_path)

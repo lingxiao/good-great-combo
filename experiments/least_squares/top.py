@@ -71,7 +71,7 @@ instructions:
 		(3) 
 '''
 # x, b, x_path = solve_for_adverb(PATH['assets']['graph'], exp_out)
-x_vector = read_x(x_path, x)
+# x_vector = read_x(x_path, x)
     
 
 
