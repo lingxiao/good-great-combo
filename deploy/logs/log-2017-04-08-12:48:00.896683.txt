@@ -1,0 +1,11 @@
+
+	>> ========== in PRODUCTION mode ==========
+	>> could not locate list of pairs with no data at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/ngram-train/pairs/batch-49-no-data.txt
+	>> running collect_ngram_patterns ...
+	>> found word pair path at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/ngram-train/pairs/batch-49.txt
+	>> found ngram directory at /nlp/users/xiao/good-great-combo/ngrams/full
+	>> collect ngram over all words in refresh mode...
+	>> saving partial results for no-data-pairs
+	>> data for content, happy already exists. skipping ...
+	>> saving list of words with no data at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/ngram-train/pairs/batch-49-no-data.txt
+	>> END

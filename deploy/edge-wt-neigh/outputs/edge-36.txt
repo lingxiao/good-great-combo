@@ -1,0 +1,2 @@
+vulnerable->weak: 0.0483870889698
+weak->vulnerable: 0.009999999

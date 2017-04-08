@@ -1,0 +1,4 @@
+sweet->thoughtful: 0.0265486713917
+thoughtful->sweet: 0.0624999804688
+greater->much: 0.00719424408675
+much->greater: 0.00934579351908

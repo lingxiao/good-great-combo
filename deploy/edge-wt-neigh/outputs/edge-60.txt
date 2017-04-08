@@ -1,0 +1,2 @@
+contaminated->contaminated: 0.499997500012
+contaminated->contaminated: 0.499997500012

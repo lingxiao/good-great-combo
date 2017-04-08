@@ -1,0 +1,2 @@
+dependable->reliable: 0.9999900001
+reliable->dependable: 0.0833333159722

@@ -1,0 +1,2 @@
+embarrassed->sorry: 0.0357142729592
+sorry->embarrassed: 0.0173410394601

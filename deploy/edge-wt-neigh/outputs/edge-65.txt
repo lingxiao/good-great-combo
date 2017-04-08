@@ -1,0 +1,4 @@
+acute->severe: 0.1999998
+severe->acute: 0.0329670293443
+excellent->outstanding: 0.0538922123418
+outstanding->excellent: 0.11111108642

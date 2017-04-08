@@ -1,0 +1,2 @@
+challenging->difficult: 0.193548324662
+difficult->challenging: 0.0405405398557

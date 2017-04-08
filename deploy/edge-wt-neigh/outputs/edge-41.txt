@@ -1,0 +1,2 @@
+deplorable->sad: 0.12499984375
+sad->deplorable: 0.00534759329692

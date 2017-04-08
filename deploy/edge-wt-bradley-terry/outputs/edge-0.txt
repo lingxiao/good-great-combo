@@ -1,0 +1,6 @@
+good->great: 0.8
+great->good: 0.2
+good->excellent: 0.882352941176
+excellent->good: 0.117647058824
+good->bad: 0.5
+bad->good: 0.5
