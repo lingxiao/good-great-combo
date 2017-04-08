@@ -1,5 +1,0 @@
-
-	>> ========== in PRODUCTION mode ==========
-	>> running compute_ppr at constant 0.7
-	>> Done
-	>> END
