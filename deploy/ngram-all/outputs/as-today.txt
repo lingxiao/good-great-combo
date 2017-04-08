@@ -1,0 +1,5 @@
+=== as > today
+today but not as bad	46
+
+=== as < today
+=== END

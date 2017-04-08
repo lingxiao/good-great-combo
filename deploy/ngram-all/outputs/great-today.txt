@@ -1,0 +1,6 @@
+=== great > today
+
+=== great < today
+great even today .	57
+great , even today	61
+=== END

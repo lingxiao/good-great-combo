@@ -1,0 +1,10 @@
+=== fantastic > good
+good but not fantastic	413
+good but not fantastic .	234
+good , but not fantastic	40
+good but not fantastic	55
+good but not fantastic ,	45
+good , but not fantastic	357
+
+=== fantastic < good
+=== END

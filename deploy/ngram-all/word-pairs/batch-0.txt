@@ -1,0 +1,11 @@
+good, great
+great, excellent
+foo, bar
+good, excellent
+baz, bon
+bb, cc
+aa, bb
+cc, dd
+dd, ee
+ee, ff
+short, shorter

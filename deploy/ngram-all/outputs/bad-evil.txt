@@ -1,0 +1,9 @@
+=== bad > evil
+
+=== bad < evil
+bad almost evil real evil	51
+bad , but not evil	40
+bad , even evil	117
+bad or even evil	83
+bad almost evil real	51
+=== END

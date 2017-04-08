@@ -1,0 +1,8 @@
+=== no > poor
+poor or even no credit	77
+poor or even no	160
+poor , or even no	414
+no or very poor	204
+
+=== no < poor
+=== END
