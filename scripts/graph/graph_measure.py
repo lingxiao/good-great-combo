@@ -151,7 +151,7 @@ def weight_by_neigh(gr_path, edge_path, out_path):
 		# weight(s -> t)
 		neigh_s = [(x,y,z) for x,y,z in G if x == s]
 		e_s_t   = [(x,y,z) for x,y,z in neigh_s if y == t]
-		w_s_t   = (len(e_s_t) + 1e-5) / (len(neigh_s) + 1e-5)
+		w_s_t   = len(e_s_t) / float(len(neigh_s) + 1e-5)
 
 		# weight(t -> s)
 		neigh_t = [(x,y,z) for x,y,z in G if x == t]
