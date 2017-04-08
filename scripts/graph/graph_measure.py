@@ -13,6 +13,8 @@ from utils   import *
 from scripts import *
 from scripts.graph import *
 
+############################################################
+
 '''
 	@Use  : compute page rank for all words in graph at 
 	        specfied restart constant and save
@@ -127,9 +129,7 @@ def weight_by_bradly_terry(gr_path, edge_path, out_path):
 	         ---------------------------------------------------
 	         	sum_{x \in neighbor(s)} number_of_vertex(s -> x)
 
-	@NOTE: alpha smoothing parameter ensure the graph is fully
-	       connected, so there is always some probability of
-	       transitioning to any vertex in the graph
+	@NOTE: alpha smoothing parameter ensure that: |neigh(x)| >= alpha
 
 	@Given: path to graph                :: String
 			path to edges to be computed :: String
@@ -156,7 +156,7 @@ def weight_by_neigh(gr_path, edge_path, out_path):
 		# weight(t -> s)
 		neigh_t = [(x,y,z) for x,y,z in G if x == t]
 		e_t_s   = [(x,y,z) for x,y,z in neigh_t if y == s]
-		w_t_s   = (len(e_t_s) + 1e-5) / (len(neigh_t) + 1e-5)
+		w_t_s   = len(e_t_s) / float(len(neigh_t) + 1e-5)
 
 		st = s + '->' + t
 		ts = t + '->' + s
@@ -164,8 +164,6 @@ def weight_by_neigh(gr_path, edge_path, out_path):
 		f.write(ts + ': ' + str(w_t_s) + '\n')
 
 	f.close()
-
-
 
 ############################################################
 '''
@@ -205,7 +203,6 @@ def bradly_terry(edges, x, y):
 	else:
 		tot = float(x_y + y_x) + 2*eps
 		return {x +'->' + y: (x_y + eps)/tot, y+ '->'+x : (y_x + eps)/tot}
-
 
 ############################################################
 '''

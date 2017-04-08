@@ -1,7 +1,8 @@
 ############################################################
 # Module  : compute edge weight where 
-#           w(s -> t) =   | s -> t | 
-#                       -------------------
+# 
+#           			   | s -> t | 
+# w(s -> t) =          -------------------
 #                      	 sum_x  | s -> x|
 # 
 # Date    : April 2nd, 2017
@@ -24,7 +25,6 @@ _script_dir = os.path.join(_root ,'scripts')
 _shell_dir  = os.path.join(_root ,'shells' )
 
 gr_path     = PATH['assets']['graph']
-
 
 ############################################################
 '''
