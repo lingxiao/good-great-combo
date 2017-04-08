@@ -182,13 +182,42 @@ def to_Ab(subgraph, x_lookup, b_lookup):
 
     return A, b
 
+
+'''
+    Given A and b matrix, save to   
+        path/A_name.txt
+        path/b_name.txt
+'''
+def save_Ab(A,b, path, A_name, b_name):
+    '''
+        Save as text file for matlab solver
+    '''
+    row_str = lambda r : ','.join([str(x) for x in r])
+    A_path  = os.path.join(path, A_name + '.txt')
+    f       = open(A_path,'w')
+    A_save  = [row_str(r) for r in A]
+
+    save_list(f,A_save)
+    f.close()
+
+    b_path = os.path.join(path, b_name + '.txt')
+    h      = open(b_path,'w')
+    bstr   = '\n'.join(str(x) for x in b)
+    h.write(bstr)
+    h.close()
+
+    return (A_path, b_path)
+
 x,b_lookup = init_labled_adjectives( sub_G['graph']
                             , sub_G['base']
                             , sub_G['compare']
                             , sub_G['superla'])
 
 
+
 A,b = to_Ab(sub_G['graph'], x, b_lookup)
+
+# save_Ab(A,b, pdir, 'A-matrix','b-vector')
 
 
 
