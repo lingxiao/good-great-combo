@@ -1751,3 +1751,67 @@ TERM environment variable not set.
 ++ hash -r
 + python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/main-7.py
 TERM environment variable not set.
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/main-8.py
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/main-9.py
+TERM environment variable not set.
+TERM environment variable not set.
