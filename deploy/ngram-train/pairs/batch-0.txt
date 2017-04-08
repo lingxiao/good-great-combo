@@ -2,5 +2,3 @@ large, larger
 cool, cooler
 better, largest
 close, closer
-good, great
-great, excellent

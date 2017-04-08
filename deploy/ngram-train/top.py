@@ -84,7 +84,7 @@ def split_into_pairs(size, pairs, output_dir):
 '''
 def run_auto_main(tot):
 
-	cnt = 1
+	cnt = 0
 
 	for k in xrange(tot-1):
 		src_path = os.path.join(_root, 'main-0.py')
@@ -99,7 +99,7 @@ def run_auto_main(tot):
 '''
 def run_auto_sh(tot):
 
-	cnt = 1
+	cnt = 0
 
 	for k in xrange(tot-1):
 		src_path = os.path.join(_root,'main-0.sh')
@@ -115,9 +115,9 @@ def run_auto_sh(tot):
 '''
 	run all
 # '''
-n = split_into_pairs(40, pairs, _pair_dir)
+# n = split_into_pairs(40, pairs, _pair_dir)
 run_auto_main(n)
-# run_auto_sh  (n)
+run_auto_sh  (n)
 
 
 
