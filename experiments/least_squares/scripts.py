@@ -81,8 +81,8 @@ def labeled_subgraph(graph_path):
 '''
 def init_labled_adjectives(subgraph, base, compare, superla):
 
-    stride      = 1/3.0
-    base_val    = 1/3.0
+    stride      = 0.25
+    base_val    = 0.25
     compare_val = base_val + stride
     superla_val = compare_val + stride
 
@@ -166,29 +166,4 @@ def to_Ab(subgraph, x_lookup, b_lookup):
 
     return A, b
 
-
-'''
-    Given A and b matrix, save to   
-        path/A_name.txt
-        path/b_name.txt
-'''
-def save_Ab(A,b, path, A_name, b_name):
-    '''
-        Save as text file for matlab solver
-    '''
-    row_str = lambda r : ','.join([str(x) for x in r])
-    A_path  = os.path.join(path, A_name + '.txt')
-    f       = open(A_path,'w')
-    A_save  = [row_str(r) for r in A]
-
-    save_list(f,A_save)
-    f.close()
-
-    b_path = os.path.join(path, b_name + '.txt')
-    h      = open(b_path,'w')
-    bstr   = '\n'.join(str(x) for x in b)
-    h.write(bstr)
-    h.close()
-
-    return (A_path, b_path)
 

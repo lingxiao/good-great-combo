@@ -66,6 +66,8 @@ PATH = {# directories that should exist before application runs
         'ngrams' : {'full': os.path.join(data_root, 'ngrams/full')
                    ,'dummy': os.path.join(data_root, 'ngrams/dummy')}
 
+        ,'experiments': {'least-squares': os.path.join(root, 'experiments/least_squares')}                   
+
     }
 
 def setup(PATH):
