@@ -1,15 +1,15 @@
 ############################################################
-# Module  : split edges and make main-#.py
+# Module  : compute edge weight where 
+# 
+#           			   | s -> t | 
+# w(s -> t) =          ---------------------------
+#                      	 | s -> t |  + | t -> s |
+# 
 # Date    : April 2nd, 2017
 # Author  : Xiao Ling
 ############################################################
 
 import os
-import json
-import networkx as nx
-
-import re
-
 from utils   import *
 from scripts import *
 from app.config import PATH
@@ -18,48 +18,28 @@ from app.config import PATH
 '''
 	paths
 '''
-droot    = os.path.join(PATH['directories']['deploy'], 'edge-wt-bradley-terry')
-dedges   = os.path.join(droot, 'edges') 
-doutput  = os.path.join(droot, 'outputs')
-dscripts = os.path.join(droot ,'scripts')
-gr_path  = PATH['assets']['graph']
+_root       = os.path.join(PATH['directories']['deploy'], 'edge-wt-bradley-terry')
+_edge_dir   = os.path.join(_root, 'edges'  )
+_output_dir = os.path.join(_root, 'outputs')
+_script_dir = os.path.join(_root ,'scripts')
+_shell_dir  = os.path.join(_root ,'shells' )
 
+gr_path     = PATH['assets']['graph']
 
-'''
-	@Use: split edges into chunks to compute
-	      weight on remote 
-'''
-def run_split(size):
-
-	edges, words = load_as_list(gr_path)
-
-	to_tuple     = lambda xs: (xs[0], xs[1])
-	unique_edges = list(set( to_tuple(sorted([u,v])) for u in words for v in words ))
-	splits       = list(chunks(unique_edges,size))
-
-	cnt = 1
-	
-	for xs in splits:
-		path = os.path.join(dedges, 'edge-' + str(cnt) + '.txt')
-		with open(path,'wb') as h:
-			for s,t in xs:
-				h.write(s + ', ' + t + '\n')
-		cnt += 1
-
-	return cnt
-
+############################################################
 '''
 	@Use: rewrite main-#.py file
 '''
 def run_auto_main(tot):
 
-	cnt = 2
+	cnt = 0
 
-	for k in xrange(tot - 2):
-		src_path = os.path.join(dscripts, 'main-1.py')
-		tgt_path = os.path.join(dscripts, 'main-' + str(cnt) + '.py')
-		src_str  = 'batch = 1'
+	for k in xrange(tot-1):
+		src_path = os.path.join(_root, 'main-0.py')
+		tgt_path = os.path.join(_script_dir, 'main-' + str(cnt) + '.py')
+		src_str  = 'batch = 0'
 		tgt_str  = 'batch = ' + str(cnt)
+
 		auto_gen(src_path, tgt_path, src_str, tgt_str)
 		cnt += 1
 
@@ -68,12 +48,12 @@ def run_auto_main(tot):
 '''
 def run_auto_sh(tot):
 
-	cnt = 2
+	cnt = 0
 
-	for k in xrange(tot - 2):
-		src_path = os.path.join(dscripts,'main-1.sh')
-		tgt_path = os.path.join(dscripts,'main-' + str(cnt) + '.sh')
-		src_str  = 'main-1'
+	for k in xrange(tot-1):
+		src_path = os.path.join(_root,'main-0.sh')
+		tgt_path = os.path.join(_shell_dir,'main-' + str(cnt) + '.sh')
+		src_str  = 'main-0'
 		tgt_str  = 'main-' + str(cnt)
 
 		auto_gen(src_path, tgt_path, src_str, tgt_str)
@@ -81,9 +61,41 @@ def run_auto_sh(tot):
 		cnt +=1
 
 '''
+	@Use: split edges into chunks to compute
+	      weight on remote 
+'''
+def split_bradley_terry(size):
+
+	edges, words = load_as_list(gr_path)
+
+	to_tuple     = lambda xs: (xs[0], xs[1])
+	unique_edges = list(set( to_tuple(sorted([u,v])) for u in words for v in words ))
+
+	print('\n>> there are ' + str(len(unique_edges)) + ' total possible edges in graph')
+
+	splits       = list(chunks(unique_edges,size))
+
+	splits = [[('good','great'), ('good', 'excellent'),('good','bad')]] + splits
+
+	print('\n>> splitting into ' + str(len(splits)) + ' set of edges of ' 
+		  + ' of length ' + str(len(splits[2])) + ' each')
+
+	cnt = 0
+	
+	for xs in splits:
+		path = os.path.join(_edge_dir, 'edge-' + str(cnt) + '.txt')
+		with open(path,'wb') as h:
+			for s,t in xs:
+				h.write(s + ', ' + t + '\n')
+		cnt += 1
+
+	return cnt
+
+############################################################
+'''
 	run all
 '''
-n = run_split(100000)
+n = split_bradley_terry(100000)
 run_auto_main(n)
 run_auto_sh  (n)
 

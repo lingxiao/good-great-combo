@@ -1,5 +1,3 @@
 good, great
-great, excellent
+good, excellent
 good, bad
-bad, worse
-hot, scalding

@@ -98,23 +98,36 @@ def personalized_page_rank( gr_path
 
 '''
 def weight_by_bradly_terry(gr_path, edge_path, out_path):
+
+	print('\n>> computing edge weight by bradly terry')
+	print('\n>> edge path: ' + edge_path)
 	
-	edges, words = load_as_list(gr_path)
+	G, words = load_as_list(gr_path)
 
 	with open(edge_path, 'rb') as h:
-		unique_edges = [xs.split(', ') for xs in h.read().split('\n')]
+
+		edges = [xs.split(', ') for xs in h.read().split('\n') \
+		        if len(xs.split(', ')) == 2]
 
 	f = open(out_path, 'wb')
 
-	for s,t in unique_edges:
+	for s,t in edges:
 
-		e = bradly_terry(edges,s,t)
+		eps = 1e-5	
 
-		if e:
+		s_t = len([(x,y) for x,y,_ in G if x == s and y == t])
+		t_s = len([(x,y) for x,y,_ in G if x == t and y == s])
+
+		if s_t or t_s:
+
+			tot = float(s_t + t_s)
+			st  = s_t/tot
+			ts  = t_s/tot
+
 			st = s + '->' + t
 			ts = t + '->' + s
-			f.write(st + ': ' + str(e[st]) + '\n')
-			f.write(ts + ': ' + str(e[ts]) + '\n')
+			f.write(st + ': ' + str(s_t/tot) + '\n')
+			f.write(ts + ': ' + str(t_s/tot) + '\n')
 
 	f.close()
 
@@ -139,10 +152,15 @@ def weight_by_bradly_terry(gr_path, edge_path, out_path):
 '''
 def weight_by_neigh(gr_path, edge_path, out_path):
 
+	print('\n>> computing edge weight by neigh(s)')
+	print('\n>> edge path: ' + edge_path)
+
 	G, words = load_as_list(gr_path)
 
+
 	with open(edge_path, 'rb') as h:
-			edges = [xs.split(', ') for xs in h.read().split('\n')]
+		edges = [xs.split(', ') for xs in h.read().split('\n') \
+		        if len(xs.split(', ')) == 2]
 
 	f = open(out_path, 'wb')
 
@@ -158,51 +176,15 @@ def weight_by_neigh(gr_path, edge_path, out_path):
 		e_t_s   = [(x,y,z) for x,y,z in neigh_t if y == s]
 		w_t_s   = len(e_t_s) / float(len(neigh_t) + 1e-5)
 
-		st = s + '->' + t
-		ts = t + '->' + s
-		f.write(st + ': ' + str(w_s_t) + '\n')
-		f.write(ts + ': ' + str(w_t_s) + '\n')
+		if w_s_t or w_t_s:
+
+			st = s + '->' + t
+			ts = t + '->' + s
+			f.write(st + ': ' + str(w_s_t) + '\n')
+			f.write(ts + ': ' + str(w_t_s) + '\n')
 
 	f.close()
 
-############################################################
-'''
-	edge weight subroutines
-
-
-	@Use  : Given raw ppdb graph as list of edges of form:
-				(source, target, <edge>)
-			and vertices, output edges weighted by counting the 
-	        number of vertices going between the vertices
-
-	                   number_of_vertex(s -> t) 
-	         ---------------------------------------------------
-	         number_of_vertex(s -> t) + number_of_vertex(t -> s)
-
-	        If no edges observed between two verices, then 
-	        output None
-
-	@Given: edges of graph         :: [(String,String,String)]
-			vertiex in the graph u :: String
-			vertiex in the graph v :: String
-
-	@output: dict of weight from:
-				u to v, v to u
-			or None
-'''
-def bradly_terry(edges, x, y):
-
-	eps = 1e-5
-
-	x_y = len([(s,t,e) for s,t,e in edges if s == x and t == y])
-	y_x = len([(s,t,e) for s,t,e in edges if s == y and t == x])
-
-	if not x_y and not y_x:
-		return None
-
-	else:
-		tot = float(x_y + y_x) + 2*eps
-		return {x +'->' + y: (x_y + eps)/tot, y+ '->'+x : (y_x + eps)/tot}
 
 ############################################################
 '''
