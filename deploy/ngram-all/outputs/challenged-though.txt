@@ -1,0 +1,8 @@
+=== challenged > though
+
+=== challenged < though
+challenged , even though	206
+challenged even though ,	323
+challenged , even though the	57
+challenged even though , to	323
+=== END

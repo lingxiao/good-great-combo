@@ -1,0 +1,6 @@
+=== inexcusable > simple
+simple or even inexcusable	40
+simple , or even inexcusable	101
+
+=== inexcusable < simple
+=== END

@@ -1,0 +1,28 @@
+=== for > open
+open , even for	511
+open even for a	83
+open even for the	139
+open , even for a	222
+open , even for the	61
+open if not for	161
+open if not for prohibition	144
+open fully for	476
+open fully for easier	109
+open fully for easy	150
+open fully for easier access	93
+open fully for easy access	52
+open fully for easy loading	65
+open but not for	241
+open , but not for	64
+open , but not for	178
+open but not for read	68
+open but not for write	117
+open but not for	241
+open , but not for	64
+open , but not for	178
+open but not for read	68
+open but not for write	117
+
+=== for < open
+for fully open	254
+=== END

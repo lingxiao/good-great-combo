@@ -1,0 +1,9 @@
+=== by > late
+late , even by	207
+late even by a	48
+late , even by a	58
+late , but not by	48
+late , but not by	48
+
+=== by < late
+=== END

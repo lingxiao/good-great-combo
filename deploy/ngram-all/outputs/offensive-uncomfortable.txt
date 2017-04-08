@@ -1,0 +1,5 @@
+=== offensive > uncomfortable
+uncomfortable or even offensive	45
+
+=== offensive < uncomfortable
+=== END

@@ -1,0 +1,41 @@
+=== being > informed
+
+=== being < informed
+being fully informed	42
+being fully informed	299
+being fully informed	5924
+being fully informed about	56
+being fully informed of	40
+being fully informed ,	490
+being fully informed .	453
+being fully informed </s>	92
+being fully informed about	1087
+being fully informed and	346
+being fully informed as	107
+being fully informed before	53
+being fully informed by	330
+being fully informed concerning	51
+being fully informed in	175
+being fully informed is	80
+being fully informed of	1643
+being fully informed on	153
+being fully informed under	438
+being fully informed , i	77
+being fully informed , and	128
+being fully informed about every	163
+being fully informed about the	495
+being fully informed about what	45
+being fully informed and aware	88
+being fully informed as to	94
+being fully informed by the	264
+being fully informed concerning the	50
+being fully informed in the	114
+being fully informed is your	44
+being fully informed of all	251
+being fully informed of his	114
+being fully informed of its	87
+being fully informed of the	759
+being fully informed of their	89
+being fully informed on the	80
+being fully informed under no	438
+=== END

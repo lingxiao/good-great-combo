@@ -1,0 +1,9 @@
+=== as > odd
+odd , almost as	75
+odd , almost as if	66
+odd or even as	71
+odd , but not as	70
+odd , but not as	70
+
+=== as < odd
+=== END

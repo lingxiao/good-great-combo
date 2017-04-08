@@ -1,0 +1,14 @@
+=== little > to
+to even a little	310
+to even the little	73
+to even a little bit	82
+
+=== little < to
+little , even to	119
+little , and even to	93
+little but not to	167
+little , but not to	313
+little but not to	167
+a little but not to	162
+little , but not to	313
+=== END

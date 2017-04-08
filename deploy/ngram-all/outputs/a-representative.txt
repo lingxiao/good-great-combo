@@ -1,0 +1,32 @@
+=== a > representative
+representative but not a	52
+representative , but not a	40
+
+=== a < representative
+a fully representative	130
+a fully representative	3490
+a fully representative ,	295
+a fully representative </s>	111
+a fully representative iraqi	136
+a fully representative national	92
+a fully representative and	274
+a fully representative body	94
+a fully representative government	487
+a fully representative national	45
+a fully representative picture	47
+a fully representative sample	330
+a fully representative system	42
+a fully representative workforce	56
+a fully representative , broad	58
+a fully representative , multi	56
+a fully representative , non	75
+a fully representative iraqi government	66
+a fully representative national convention	92
+a fully representative and broad	84
+a fully representative and empowered	46
+a fully representative government .	100
+a fully representative government can	97
+a fully representative picture of	41
+a fully representative sample .	43
+a fully representative sample of	221
+=== END

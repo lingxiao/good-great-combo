@@ -1,0 +1,19 @@
+=== impossible > with
+with , but not impossible	102
+with , but not impossible	102
+
+=== impossible < with
+impossible , even with	1134
+impossible even with a	98
+impossible even with the	213
+impossible , and even with	40
+impossible , even with a	123
+impossible , even with the	327
+impossible even with the best	45
+impossible but not with	102
+impossible , but not with	1701
+impossible but not with this	71
+impossible but not with	102
+impossible , but not with	1701
+impossible but not with this	71
+=== END

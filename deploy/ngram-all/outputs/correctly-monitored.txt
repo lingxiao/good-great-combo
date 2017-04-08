@@ -1,0 +1,6 @@
+=== correctly > monitored
+
+=== correctly < monitored
+correctly and fully monitored	69
+correctly and fully monitored .	67
+=== END

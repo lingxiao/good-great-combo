@@ -1,0 +1,5 @@
+=== even > naked
+
+=== even < naked
+even almost naked .	468
+=== END

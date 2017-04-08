@@ -1,0 +1,8 @@
+=== performed > required
+required but not performed	135
+required but not performed )	100
+required but not performed	135
+required but not performed )	100
+
+=== performed < required
+=== END

@@ -1,0 +1,12 @@
+=== distinct > separate
+
+=== distinct < separate
+distinct but not separate	254
+distinct , but not separate	111
+distinct but not separate .	76
+distinct but not separate from	45
+distinct but not separate	254
+distinct , but not separate	111
+distinct but not separate .	76
+distinct but not separate from	45
+=== END

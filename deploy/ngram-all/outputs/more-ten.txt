@@ -1,0 +1,21 @@
+=== more > ten
+ten , even more	56
+ten and even more	54
+ten or even more	361
+ten , even more treasures	46
+ten , or even more	194
+ten or even more years	48
+ten , if not more	50
+ten but not more	44
+ten but not more	581
+ten but not more than	42
+ten , but not more	109
+ten but not more than	562
+ten but not more	44
+ten but not more	581
+ten but not more than	42
+ten , but not more	109
+ten but not more than	562
+
+=== more < ten
+=== END

@@ -1,0 +1,10 @@
+=== performed > to
+
+=== performed < to
+performed , even to	290
+performed , even to the	279
+performed but not to	55
+performed but not to propagate	43
+performed but not to	55
+performed but not to propagate	43
+=== END

@@ -1,0 +1,8 @@
+=== by > looking
+looking , even by	43
+not by just looking	96
+not by just looking at	82
+
+=== by < looking
+by even looking at	98
+=== END

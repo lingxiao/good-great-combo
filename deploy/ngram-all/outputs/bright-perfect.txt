@@ -1,0 +1,6 @@
+=== bright > perfect
+
+=== bright < perfect
+perfect or very bright	56
+perfect or very bright ,	56
+=== END

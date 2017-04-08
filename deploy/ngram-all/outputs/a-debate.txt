@@ -1,0 +1,6 @@
+=== a > debate
+debate but not a	49
+debate , but not a	120
+
+=== a < debate
+=== END

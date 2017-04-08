@@ -1,0 +1,7 @@
+=== at > resistant
+resistant , even at	64
+resistant even at sub	146
+resistant even at sub -	145
+
+=== at < resistant
+=== END

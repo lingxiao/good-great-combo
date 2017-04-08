@@ -1,0 +1,6 @@
+=== severe > unfriendly
+
+=== severe < unfriendly
+severe though not unfriendly	86
+severe though not unfriendly ...	52
+=== END

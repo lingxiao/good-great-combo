@@ -1,0 +1,5 @@
+=== all > asked
+asked , almost all	62
+
+=== all < asked
+=== END

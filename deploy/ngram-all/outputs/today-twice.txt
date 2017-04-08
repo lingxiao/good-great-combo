@@ -1,0 +1,6 @@
+=== today > twice
+
+=== today < twice
+today almost twice that	53
+today almost twice that of	53
+=== END

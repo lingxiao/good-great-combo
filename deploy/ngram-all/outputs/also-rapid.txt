@@ -1,0 +1,6 @@
+=== also > rapid
+not only rapid but also	40
+not only rapid but also	40
+
+=== also < rapid
+=== END

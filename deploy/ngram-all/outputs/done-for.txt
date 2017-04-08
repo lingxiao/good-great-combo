@@ -1,0 +1,24 @@
+=== done > for
+not done just for	272
+not done just for the	104
+
+=== done < for
+done , even for	433
+done even for a	83
+done even for local	138
+done even for my	309
+done even for the	117
+done , even for a	80
+done , even for the	50
+done even for local variables	67
+done even for my client	304
+done if not for	411
+done , if not for	89
+done if not for the	153
+done but not for	51
+done but not for	133
+done , but not for	286
+done but not for	51
+done but not for	133
+done , but not for	286
+=== END

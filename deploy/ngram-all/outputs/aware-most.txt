@@ -1,0 +1,6 @@
+=== aware > most
+most fully aware	59
+most fully aware of	42
+
+=== aware < most
+=== END

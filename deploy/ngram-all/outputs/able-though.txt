@@ -1,0 +1,5 @@
+=== able > though
+
+=== able < though
+able , even though	210
+=== END

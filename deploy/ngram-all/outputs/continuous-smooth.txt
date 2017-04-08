@@ -1,0 +1,6 @@
+=== continuous > smooth
+
+=== continuous < smooth
+continuous but not smooth	70
+continuous but not smooth	70
+=== END

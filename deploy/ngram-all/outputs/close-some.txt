@@ -1,0 +1,5 @@
+=== close > some
+some even close to	57
+
+=== close < some
+=== END

@@ -1,0 +1,8 @@
+=== as > weak
+weak , almost as	63
+weak , even as	78
+weak , but not as	77
+weak , but not as	77
+
+=== as < weak
+=== END

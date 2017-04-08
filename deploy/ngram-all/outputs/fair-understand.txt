@@ -1,0 +1,7 @@
+=== fair > understand
+understand fully fair	91
+understand fully fair knowledge	91
+understand fully fair knowledge need	91
+
+=== fair < understand
+=== END

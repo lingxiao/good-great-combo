@@ -1,0 +1,10 @@
+=== find > here
+here , even find the	42
+
+=== find < here
+find , even here at	81
+find , even here in	50
+find even here you probably	60
+find , but not here	104
+find , but not here	104
+=== END

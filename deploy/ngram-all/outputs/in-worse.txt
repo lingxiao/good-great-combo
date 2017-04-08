@@ -1,0 +1,57 @@
+=== in > worse
+worse , even in	49
+worse , even in	247
+worse even in the	105
+worse , even in the	71
+
+=== in < worse
+in , even worse	61
+in even a worse	224
+in even the worse	72
+in even worse .	86
+in even worse </s>	70
+in even worse circumstances	78
+in even worse condition	712
+in even worse conditions	344
+in even worse economic	42
+in even worse financial	158
+in even worse form	51
+in even worse nasal	91
+in even worse physical	78
+in even worse plight	62
+in even worse shape	3842
+in even worse situations	73
+in even worse state	43
+in even worse straits	252
+in even worse taste	82
+in even worse than	47
+in even worse trouble	541
+in even worse ways	67
+in , even worse than	41
+in , or even worse	62
+in even a worse situation	47
+in even the worse of	43
+in even worse condition ,	68
+in even worse condition .	229
+in even worse condition than	277
+in even worse conditions .	102
+in even worse conditions than	64
+in even worse financial shape	69
+in even worse nasal congestion	91
+in even worse physical condition	74
+in even worse shape ,	318
+in even worse shape .	1184
+in even worse shape :	42
+in even worse shape and	52
+in even worse shape as	46
+in even worse shape if	68
+in even worse shape in	66
+in even worse shape now	40
+in even worse shape than	1421
+in even worse shape today	43
+in even worse shape when	41
+in even worse straits .	98
+in even worse straits than	81
+in even worse trouble .	189
+in even worse trouble than	192
+=== END

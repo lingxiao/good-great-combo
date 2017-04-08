@@ -1,0 +1,7 @@
+=== also > twice
+
+=== also < twice
+also almost twice as	297
+also almost twice the	68
+also almost twice as likely	161
+=== END

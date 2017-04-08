@@ -1,0 +1,5 @@
+=== but > considered
+but not even considered	42
+
+=== but < considered
+=== END

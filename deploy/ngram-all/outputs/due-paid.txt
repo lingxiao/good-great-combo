@@ -1,0 +1,36 @@
+=== due > paid
+paid though not due	48
+paid but not due	159
+paid but not due	159
+
+=== due < paid
+due if not paid	403
+due if not paid by	145
+due if not paid within	167
+due but not paid	1444
+due , but not paid	70
+due but not paid ,	168
+due but not paid .	192
+due but not paid ;	83
+due but not paid </s>	104
+due but not paid as	69
+due but not paid at	79
+due but not paid by	85
+due but not paid from	79
+due but not paid in	66
+due but not paid on	70
+due but not paid to	114
+due but not paid	1444
+due , but not paid	70
+due but not paid ,	168
+due but not paid .	192
+due but not paid ;	83
+due but not paid </s>	104
+due but not paid as	69
+due but not paid at	79
+due but not paid by	85
+due but not paid from	79
+due but not paid in	66
+due but not paid on	70
+due but not paid to	114
+=== END

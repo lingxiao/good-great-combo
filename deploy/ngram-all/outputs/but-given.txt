@@ -1,0 +1,31 @@
+=== but > given
+
+=== but < given
+but , even given	233
+but even given a	199
+but even given all	197
+but even given my	43
+but even given that	470
+but even given the	497
+but even given these	107
+but even given this	165
+but even given those	45
+but , even given	67
+but even given that	346
+but even given the	237
+but even given this	73
+but , even given that	57
+but , even given the	55
+but even given a more	119
+but even given all of	60
+but even given all that	78
+but even given that ,	234
+but even given the video	40
+but even given that ,	214
+but if not given	64
+but if not given	161
+but if not given in	60
+but if not given	64
+but if not given	161
+but if not given in	60
+=== END

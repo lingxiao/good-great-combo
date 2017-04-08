@@ -1,0 +1,6 @@
+=== shallow > with
+
+=== shallow < with
+shallow , even with	111
+shallow , even with its	108
+=== END
