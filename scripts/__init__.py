@@ -11,6 +11,8 @@ from .graph_measures      import *
 from .pattern_to_re       import *
 from .collect_ngram_patterns   import *
 
+from .base_compare_superla import *
+
 __all__ = [
             # gold_io
            'read_gold'
@@ -56,5 +58,12 @@ __all__ = [
           , 'ngram_by_words'
           , 'compile_patterns'
 
+          # base_compare_superla
+          , 'base_compare'
+          , 'compare_base'
+          , 'base_superla'
+          , 'superla_base'
+          , 'compare_superla'
+          , 'superla_compare'
           ]
 
