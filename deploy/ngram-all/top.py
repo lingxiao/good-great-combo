@@ -156,8 +156,8 @@ def run_auto_main(tot):
 	cnt = 0
 
 	for k in xrange(tot-1):
-		src_path = os.path.join(_root, 'main-0.py')
-		tgt_path = os.path.join(_script_dir, 'main-' + str(cnt) + '.py')
+		src_path = os.path.join(_root, 'ngram-0.py')
+		tgt_path = os.path.join(_script_dir, 'ngram-' + str(cnt) + '.py')
 		src_str  = 'batch = 0'
 		tgt_str  = 'batch = ' + str(cnt)
 		auto_gen(src_path, tgt_path, src_str, tgt_str)
@@ -171,10 +171,10 @@ def run_auto_sh(tot):
 	cnt = 0
 
 	for k in xrange(tot-1):
-		src_path = os.path.join(_root,'main-0.sh')
-		tgt_path = os.path.join(_shell_dir,'main-' + str(cnt) + '.sh')
-		src_str  = 'main-0'
-		tgt_str  = 'main-' + str(cnt)
+		src_path = os.path.join(_root,'ngram-0.sh')
+		tgt_path = os.path.join(_shell_dir,'ngram-' + str(cnt) + '.sh')
+		src_str  = 'ngram-0'
+		tgt_str  = 'ngram-' + str(cnt)
 
 		auto_gen(src_path, tgt_path, src_str, tgt_str)
 

@@ -67,7 +67,7 @@ def personalized_page_rank( gr_path
 			out_path = os.path.join(out_dir, w + '-' + salpha + '.pkl')
 
 			if os.path.exists(out_path) and refresh:
-				pass
+				writer.tell('skipping exiting file: ' + out_path)
 			else:
 
 				personal    = {w : 0 for w in words}
