@@ -51,8 +51,9 @@ edge_weight_adjacency    = os.path.join(wt_dir, 'neigh'    )
 
 '''
 	right now: recompute ppr for bradley-terry
-	     next: recompute ppr for neigh
+	            recompute ppr for neigh
 	     		word2vec for all words in graph
+	     		ngram for all words
 
 '''
 

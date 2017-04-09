@@ -23,8 +23,9 @@ if root[0:6] == '/Users':
 elif root[0:5] == '/mnt/':
     data_root = '/nlp/users/xiao/good-great-combo'
 
+# tesla
 else:
-    data_root = ''
+    data_root = '/data2/xiao/good-great'
 
 '''
     System Environment
