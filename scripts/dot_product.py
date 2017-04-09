@@ -19,7 +19,7 @@ from utils import *
 
 	@Returns: None			
 '''
-def dot(word_2_vec_path, word_pair_path, out_path):
+def dot(word_2_vec_path, word_pair_path, out_dir):
 
 
 	vector,ws = read_vector(word_2_vec_path)
@@ -27,11 +27,10 @@ def dot(word_2_vec_path, word_pair_path, out_path):
 	pairs     = [x.split(', ') for x in open(word_pair_path,'rb').read().split('\n') \
 	            if len(x.split(', ')) == 2]
 
-	with open(out_path,'wb') as h:
-		for s,t in pairs:
-			v = np.dot(vector[s], vector[t])
-			h.write(s + '-' + t + ': ' + str(v) + '\n')
-		h.write('=== END')
+	for s,t in pairs:
+		v = np.dot(vector[s], vector[t])
+		with open(os.path.join(out_dir, s +'-' + t + '.txt'),'wb') as h:
+			h.write(str(v))
 
 def read_vector(word_2_vec_path):
 

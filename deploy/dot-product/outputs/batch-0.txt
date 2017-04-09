@@ -1,4 +1,0 @@
-good-great: 0.299
-great-excellent: 0.1495
-good-bad: 0.0299
-=== END

@@ -27,7 +27,7 @@ word_2_vec_sm  = PATH['inputs']['word2vec-sm']
 word_pair_path = os.path.join(_pair_dir  , 'batch-' + str(batch) + '.txt')
 out_path       = os.path.join(_output_dir, 'batch-' + str(batch) + '.txt')
 
-dot(word_2_vec_big, word_pair_path, out_path)
+dot(word_2_vec_sm, word_pair_path, _output_dir)
 
 
 
