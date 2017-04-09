@@ -1,0 +1,5 @@
+=== between > mean
+
+=== between < mean
+not mean just between	41
+=== END

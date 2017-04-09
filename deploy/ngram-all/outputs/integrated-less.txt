@@ -1,0 +1,5 @@
+=== integrated > less
+less fully integrated	133
+
+=== integrated < less
+=== END

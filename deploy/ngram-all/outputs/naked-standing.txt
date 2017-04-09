@@ -1,0 +1,5 @@
+=== naked > standing
+standing fully naked	42
+
+=== naked < standing
+=== END

@@ -1,0 +1,17 @@
+=== others > ourselves
+not only ourselves but others	149
+not only ourselves but others	149
+
+=== others < ourselves
+others and even ourselves	102
+others or even ourselves	104
+others , and even ourselves	40
+others , or even ourselves	54
+others and even ourselves .	50
+not only others but ourselves	115
+others but not ourselves	59
+others , but not ourselves	57
+others but not ourselves	59
+not only others but ourselves	115
+others , but not ourselves	57
+=== END

@@ -1,0 +1,7 @@
+=== expensive > to
+
+=== expensive < to
+expensive , even to	92
+expensive but not to	43
+expensive but not to	43
+=== END

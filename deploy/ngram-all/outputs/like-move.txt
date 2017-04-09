@@ -1,0 +1,6 @@
+=== like > move
+move , almost like	41
+
+=== like < move
+not move , just like	45
+=== END

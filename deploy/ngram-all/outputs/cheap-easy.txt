@@ -1,0 +1,14 @@
+=== cheap > easy
+easy but not cheap	52
+easy but not cheap	86
+easy but not cheap !	42
+easy , but not cheap	50
+easy but not cheap	52
+easy but not cheap	86
+easy but not cheap !	42
+easy , but not cheap	50
+
+=== cheap < easy
+cheap , but not easy	66
+cheap , but not easy	66
+=== END

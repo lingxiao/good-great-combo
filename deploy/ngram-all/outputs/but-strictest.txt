@@ -1,0 +1,5 @@
+=== but > strictest
+
+=== but < strictest
+but even the strictest	73
+=== END

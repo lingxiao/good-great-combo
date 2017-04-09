@@ -1,0 +1,5 @@
+=== lower > up
+up , or even lower	49
+
+=== lower < up
+=== END

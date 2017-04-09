@@ -1,0 +1,8 @@
+=== almost > restored
+
+=== almost < restored
+almost fully restored	564
+almost fully restored ,	139
+almost fully restored .	96
+almost fully restored , displays	86
+=== END

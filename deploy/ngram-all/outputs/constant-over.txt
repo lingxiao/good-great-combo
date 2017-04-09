@@ -1,0 +1,5 @@
+=== constant > over
+
+=== constant < over
+constant , even over	42
+=== END

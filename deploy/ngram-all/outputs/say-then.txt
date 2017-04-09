@@ -1,0 +1,10 @@
+=== say > then
+
+=== say < then
+say , even then	91
+say and even then	48
+say even then ,	195
+say , and even then	50
+say even then , when	179
+not then just say	60
+=== END

@@ -1,0 +1,10 @@
+=== added > all
+
+=== added < all
+added , almost all	61
+added almost all of	69
+added almost all the	64
+added , though not all	48
+added but not all	56
+added but not all	56
+=== END

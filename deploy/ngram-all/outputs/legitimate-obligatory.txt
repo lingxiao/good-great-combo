@@ -1,0 +1,6 @@
+=== legitimate > obligatory
+
+=== legitimate < obligatory
+legitimate and even obligatory	60
+legitimate and even obligatory to	42
+=== END

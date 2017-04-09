@@ -1,0 +1,6 @@
+=== acquainted > yet
+yet fully acquainted	82
+yet fully acquainted with	69
+
+=== acquainted < yet
+=== END

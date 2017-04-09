@@ -1,0 +1,6 @@
+=== get > resolved
+
+=== get < resolved
+get fully resolved	142
+get fully resolved .	43
+=== END

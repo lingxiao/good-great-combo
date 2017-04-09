@@ -1,0 +1,8 @@
+=== individual > small
+individual or very small	210
+an individual or very small	66
+individual or very small group	89
+
+=== individual < small
+individual or even a small	109
+=== END

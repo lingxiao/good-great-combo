@@ -50,16 +50,17 @@ edge_weight_adjacency    = os.path.join(wt_dir, 'neigh'    )
 ############################################################
 
 '''
-	right now: recomputing neigh
-          	   recompute ppr for bradley-terry
+	right now: recompute ppr for bradley-terry
 	     next: recompute ppr for neigh
+	     		word2vec for all words in graph
+
 '''
 
 G      = Graph(gr_path, wt_path, ppr_dir)
 alphas = [0.9,0.8,0.7,0.5,0.25,0.1,0.01]
 
 alpha = 0.9
-gold = [['good'],['great'], ['excellent']]
+gold  = [['good'],['great'], ['excellent']]
 
 words = join(gold)
 pairs = [(s,t) for s in words for t in words if s != t]

@@ -5,7 +5,7 @@
 ############################################################
 
 import os
-import shutil
+import glob
 from utils import Writer
 
 ############################################################
@@ -30,21 +30,21 @@ else:
     System Environment
 '''
 PATH = {# directories that should exist before application runs
-        'directories': {
-            'deploy' : os.path.join(root, 'deploy'     )
-           ,'log'    : os.path.join(root, 'deploy/logs')
-           ,'input'  : os.path.join(root, 'inputs'     )
-           ,'results': os.path.join(root, 'results'    )
+        'directories'      : {
+            'deploy'       : os.path.join(root, 'deploy'     )
+           ,'log'          : os.path.join(root, 'deploy/logs')
+           ,'input'        : os.path.join(root, 'inputs'     )
+           ,'results'      : os.path.join(root, 'results'    )
 
         },
 
         # path to files that must exist before application runs
         'assets': {
             # test sets
-            'ccb'      : os.path.join(root, 'inputs/test/ccb.txt'    )
-           ,'bansal'   : os.path.join(root, 'inputs/test/bansal.txt' )
-           ,'anne-25'  : os.path.join(root, 'inputs/test/anne-25.txt' )
-           ,'anne-125' : os.path.join(root, 'inputs/test/anne-125.txt')
+            'ccb'         : os.path.join(root, 'inputs/test/ccb.txt'    )
+           ,'bansal'      : os.path.join(root, 'inputs/test/bansal.txt' )
+           ,'anne-25'     : os.path.join(root, 'inputs/test/anne-25.txt' )
+           ,'anne-125'    : os.path.join(root, 'inputs/test/anne-125.txt')
 
            # graph
            , 'graph'      : os.path.join(root, 'inputs/raw-graph/graph.json')
@@ -58,9 +58,9 @@ PATH = {# directories that should exist before application runs
 
         # path to files created by application or ones that are not critical
         'inputs': {
-              'edge-weight'      : os.path.join(root, 'inputs/edge-weight')
-            , 'ppr-by-ppdb'      : os.path.join(root, 'inputs/ppr-by-ppdb')
-            , 'ppr-by-ppdb-ngram': ''
+               'edge-weight': os.path.join(root, 'inputs/edge-weight')
+              ,'word2vec'   : os.path.join(data_root, 'word2vec/GoogleNews-vectors-negative300.txt')
+              ,'word2vec-sm': os.path.join(data_root, 'word2vec/small.txt')
         },
 
         'ngrams' : {'full': os.path.join(data_root, 'ngrams/full')
@@ -77,7 +77,7 @@ def setup(PATH):
     log_dir = PATH['directories']['log']
 
     if not os.path.exists(log_dir):
-        os.mkdir(log_dir)
+      os.mkdir(log_dir)
 
     writer = Writer(log_dir)
     writer.tell('Initializing application [ good-great-combo ] ...')

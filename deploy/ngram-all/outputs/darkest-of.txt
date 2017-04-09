@@ -1,0 +1,5 @@
+=== darkest > of
+of even the darkest	180
+
+=== darkest < of
+=== END

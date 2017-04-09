@@ -1,0 +1,8 @@
+=== common > widespread
+widespread but not common	89
+widespread but not common	66
+widespread but not common	89
+widespread but not common	66
+
+=== common < widespread
+=== END

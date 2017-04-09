@@ -1,0 +1,8 @@
+=== get > immediate
+
+=== get < immediate
+get almost immediate feedback	111
+get almost immediate respones	101
+get almost immediate results	60
+get almost immediate respones and	101
+=== END

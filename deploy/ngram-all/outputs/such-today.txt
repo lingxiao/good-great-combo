@@ -1,0 +1,5 @@
+=== such > today
+
+=== such < today
+such even today .	47
+=== END

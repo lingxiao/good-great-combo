@@ -1,0 +1,5 @@
+=== first > stated
+
+=== first < stated
+first fully stated	44
+=== END

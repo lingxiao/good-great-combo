@@ -1,0 +1,24 @@
+=== better > year
+year , even better	403
+year and even better	119
+year even better !	356
+year even better ,	196
+year even better .	544
+year even better for	152
+year even better than	279
+year or even better	143
+year , and even better	84
+year , even better than	301
+year , or even better	60
+year even better ! </s>	353
+year even better , 7am	40
+year even better , i	82
+year even better for you	112
+year even better than last	59
+year even better than the	133
+year or even better value	80
+year if not better	68
+year , if not better	175
+
+=== better < year
+=== END

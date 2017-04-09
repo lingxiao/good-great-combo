@@ -1,0 +1,7 @@
+=== faster > smaller
+
+=== faster < smaller
+faster , even smaller	402
+faster , and even smaller	92
+faster , even smaller ,	383
+=== END

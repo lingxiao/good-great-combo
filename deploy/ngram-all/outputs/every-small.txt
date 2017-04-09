@@ -1,0 +1,5 @@
+=== every > small
+small , almost every	56
+
+=== every < small
+=== END

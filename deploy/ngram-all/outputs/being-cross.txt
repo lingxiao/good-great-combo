@@ -1,0 +1,5 @@
+=== being > cross
+
+=== being < cross
+being fully cross	45
+=== END

@@ -1,0 +1,5 @@
+=== brighter > it
+it even brighter .	85
+
+=== brighter < it
+=== END

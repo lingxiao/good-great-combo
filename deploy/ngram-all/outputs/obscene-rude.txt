@@ -1,0 +1,5 @@
+=== obscene > rude
+rude , or even obscene	1895
+
+=== obscene < rude
+=== END

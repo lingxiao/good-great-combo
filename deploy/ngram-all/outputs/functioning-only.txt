@@ -1,0 +1,5 @@
+=== functioning > only
+only fully functioning	267
+
+=== functioning < only
+=== END

@@ -1,0 +1,36 @@
+=== find > you
+you almost find yourself	50
+you almost find yourself	147
+you even find a	84
+you even find out	64
+you even find yourself	90
+you even find wausau	42
+you even find a	494
+you even find it	177
+you even find me	50
+you even find one	75
+you even find out	342
+you even find such	74
+you even find that	152
+you even find the	326
+you even find them	724
+you even find this	119
+you even find time	41
+you even find your	77
+you even find yourself	159
+you even find wausau paper	42
+you even find it ?	49
+you even find out about	85
+you even find out what	51
+you even find such a	65
+you even find them all	71
+you even find them or	564
+
+=== find < you
+not you just find	1424
+not you just find a	261
+not you just find another	56
+not you just find it	721
+not you just find out	58
+not you just find that	57
+=== END

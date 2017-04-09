@@ -1,0 +1,7 @@
+=== here > later
+later , even here	60
+later , even here in	52
+
+=== here < later
+here even later , "	67
+=== END

@@ -1,0 +1,5 @@
+=== remaining > same
+
+=== remaining < same
+remaining almost the same	80
+=== END

@@ -1,0 +1,17 @@
+=== surely > you
+you almost surely have	77
+you almost surely want	61
+you almost surely will	70
+you almost surely want the	50
+
+=== surely < you
+surely , even you	111
+surely even you can	205
+surely even you must	59
+surely , even you	48
+surely even you can	160
+surely even you would	44
+surely even you can not	50
+surely even you can see	70
+surely even you can see	72
+=== END

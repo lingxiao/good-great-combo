@@ -1,0 +1,6 @@
+=== furthermore > today
+
+=== furthermore < today
+furthermore , even today	81
+furthermore , even today ,	58
+=== END

@@ -1,0 +1,12 @@
+=== it > single
+
+=== it < single
+it almost single -	231
+it , almost single	45
+it almost single -	302
+it almost single handedly	51
+it almost single - handedly	230
+it almost single - handedly	274
+it even a single	70
+it , even a single	48
+=== END

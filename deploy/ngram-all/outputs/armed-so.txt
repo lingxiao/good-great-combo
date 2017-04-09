@@ -1,0 +1,5 @@
+=== armed > so
+so fully armed	56
+
+=== armed < so
+=== END

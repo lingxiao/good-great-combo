@@ -1,0 +1,6 @@
+=== ridiculous > that
+
+=== ridiculous < that
+not that just ridiculous	88
+not that just ridiculous ?	79
+=== END

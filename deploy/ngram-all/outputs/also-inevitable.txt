@@ -1,0 +1,8 @@
+=== also > inevitable
+not only inevitable but also	405
+not only inevitable but also	405
+
+=== also < inevitable
+also almost inevitable with	52
+also almost inevitable with binary	49
+=== END

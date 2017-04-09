@@ -1,0 +1,10 @@
+=== ill > mad
+mad but not ill	161
+mad but not ill "	51
+mad but not ill .	108
+mad but not ill	161
+mad but not ill "	51
+mad but not ill .	108
+
+=== ill < mad
+=== END

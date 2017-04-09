@@ -1,0 +1,5 @@
+=== magnificent > restored
+
+=== magnificent < restored
+magnificent fully restored	40
+=== END

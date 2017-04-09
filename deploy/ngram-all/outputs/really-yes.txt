@@ -1,0 +1,10 @@
+=== really > yes
+yes but not really	70
+yes , but not really	218
+yes , but not really	476
+yes but not really	70
+yes , but not really	218
+yes , but not really	476
+
+=== really < yes
+=== END

@@ -1,0 +1,6 @@
+=== also > criminal
+not only criminal but also	57
+not only criminal but also	57
+
+=== also < criminal
+=== END

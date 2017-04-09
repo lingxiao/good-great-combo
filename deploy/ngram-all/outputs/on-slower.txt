@@ -1,0 +1,6 @@
+=== on > slower
+
+=== on < slower
+on even slower computers	51
+on even slower computers .	49
+=== END

@@ -1,0 +1,8 @@
+=== left > much
+
+=== left < much
+left but not much	63
+left , but not much	134
+left but not much	63
+left , but not much	134
+=== END

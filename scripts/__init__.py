@@ -4,10 +4,10 @@ from .results_io          import *
 from .ngram_io            import *
 from .pattern_to_re       import *
 from .collect_ngram_patterns   import *
-from .adjective import *
+from .adjective           import *
+from .dot_product         import *
 
 from .evaluation          import *
-
 from .graph import *
 
 
@@ -52,5 +52,7 @@ __all__ = [
           , 'Graph'
           , 'load_as_list'
 
+          # dot_product
+          , 'dot'
           ]
 

@@ -1,0 +1,9 @@
+=== elevated > to
+
+=== elevated < to
+elevated almost to the	130
+elevated but not to	47
+elevated , but not to	56
+elevated but not to	47
+elevated , but not to	56
+=== END

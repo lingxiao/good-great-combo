@@ -1,0 +1,9 @@
+=== everything > than
+than almost everything else	371
+than almost everything on	49
+than almost everything else .	94
+than almost everything else in	60
+than almost everything else on	43
+
+=== everything < than
+=== END

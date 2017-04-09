@@ -1,0 +1,10 @@
+=== crucial > sufficient
+
+=== crucial < sufficient
+crucial but not sufficient	151
+crucial , but not sufficient	61
+crucial but not sufficient alone	114
+crucial but not sufficient	151
+crucial , but not sufficient	61
+crucial but not sufficient alone	114
+=== END

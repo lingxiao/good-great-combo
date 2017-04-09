@@ -1,0 +1,10 @@
+=== compulsory > desirable
+desirable but not compulsory	254
+desirable , but not compulsory	53
+desirable but not compulsory .	172
+desirable but not compulsory	254
+desirable , but not compulsory	53
+desirable but not compulsory .	172
+
+=== compulsory < desirable
+=== END

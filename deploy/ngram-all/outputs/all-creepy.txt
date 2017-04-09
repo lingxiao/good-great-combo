@@ -1,0 +1,8 @@
+=== all > creepy
+creepy but not all	75
+creepy but not all to	72
+creepy but not all	75
+creepy but not all to	72
+
+=== all < creepy
+=== END

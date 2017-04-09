@@ -1,0 +1,10 @@
+=== clean > very
+
+=== clean < very
+clean but not very	184
+clean , but not very	90
+clean but not very	184
+clean , but not very	90
+clean but not very	184
+clean , but not very	90
+=== END

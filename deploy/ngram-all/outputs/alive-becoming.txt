@@ -1,0 +1,7 @@
+=== alive > becoming
+becoming fully alive	69
+becoming fully alive	181
+becoming fully alive .	41
+
+=== alive < becoming
+=== END

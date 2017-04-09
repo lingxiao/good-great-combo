@@ -1,0 +1,9 @@
+=== available > work
+work fully available	44
+work but not available	158
+work but not available to	109
+work but not available	158
+work but not available to	109
+
+=== available < work
+=== END

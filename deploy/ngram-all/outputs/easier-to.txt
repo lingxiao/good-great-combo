@@ -1,0 +1,8 @@
+=== easier > to
+to and even easier	54
+to and even easier to	53
+not easier just to	47
+
+=== easier < to
+easier , even to	48
+=== END

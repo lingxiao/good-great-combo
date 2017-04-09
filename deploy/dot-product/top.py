@@ -34,16 +34,7 @@ bansal      = read_gold(PATH['assets']['bansal'])
 '''
 def split_into_pairs(size, output_dir):
 
-	'''
-		remove all files that is in output_dir
-	'''
-	print('\n>> First, removing all existing .txt files from ' + output_dir)
 
-	ls = glob.glob('*.txt')
-
-	for f in glob.glob('*.txt'):
-		print('\n>> removing ' + f)
-		os.remove(f)
 
 	'''
 		get all words

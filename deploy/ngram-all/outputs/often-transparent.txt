@@ -1,0 +1,6 @@
+=== often > transparent
+
+=== often < transparent
+often fully transparent	64
+often fully transparent .	60
+=== END

@@ -1,0 +1,12 @@
+=== non > now
+now almost non -	739
+now almost non existent	55
+now almost non - existant	56
+now almost non - existent	621
+now , even non	55
+now even non -	51
+now even non -	79
+now , even non -	49
+
+=== non < now
+=== END

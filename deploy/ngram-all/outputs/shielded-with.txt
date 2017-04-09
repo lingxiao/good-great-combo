@@ -1,0 +1,7 @@
+=== shielded > with
+with fully shielded	539
+with fully shielded connectors	260
+with fully shielded connectors .	237
+
+=== shielded < with
+=== END

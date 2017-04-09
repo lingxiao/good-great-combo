@@ -1,0 +1,5 @@
+=== anything > traffic
+
+=== anything < traffic
+anything , even a traffic	70
+=== END

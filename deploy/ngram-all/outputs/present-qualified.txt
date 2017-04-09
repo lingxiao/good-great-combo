@@ -1,0 +1,12 @@
+=== present > qualified
+
+=== present < qualified
+present but not qualified	228
+present but not qualified	7323
+present but not qualified a	228
+present but not qualified a	7319
+present but not qualified	228
+present but not qualified	7323
+present but not qualified a	228
+present but not qualified a	7319
+=== END

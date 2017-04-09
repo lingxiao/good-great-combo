@@ -1,0 +1,5 @@
+=== further > reduction
+reduction even further .	40
+
+=== further < reduction
+=== END

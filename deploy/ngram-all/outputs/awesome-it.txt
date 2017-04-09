@@ -1,0 +1,6 @@
+=== awesome > it
+
+=== awesome < it
+not it just awesome	104
+not it just awesome ?	42
+=== END

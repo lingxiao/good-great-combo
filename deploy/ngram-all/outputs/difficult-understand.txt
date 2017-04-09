@@ -1,0 +1,6 @@
+=== difficult > understand
+understand even difficult specialized	167
+understand even difficult specialized terms	167
+
+=== difficult < understand
+=== END

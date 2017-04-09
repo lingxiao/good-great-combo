@@ -1,0 +1,5 @@
+=== a > predictable
+
+=== a < predictable
+a fully predictable	192
+=== END

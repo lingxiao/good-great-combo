@@ -1,0 +1,7 @@
+=== harder > to
+to and even harder	86
+to , and even harder	50
+to and even harder to	67
+
+=== harder < to
+=== END

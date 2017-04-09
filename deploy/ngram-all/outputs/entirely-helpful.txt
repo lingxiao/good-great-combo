@@ -1,0 +1,7 @@
+=== entirely > helpful
+helpful , but not entirely	56
+helpful but not entirely	71
+helpful , but not entirely	56
+
+=== entirely < helpful
+=== END

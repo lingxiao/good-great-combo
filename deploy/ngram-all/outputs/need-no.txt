@@ -1,0 +1,10 @@
+=== need > no
+
+=== need < no
+need almost no attention	60
+need almost no maintenance	56
+need almost no other	56
+need almost no stabilizer	72
+need almost no other piece	53
+need almost no stabilizer assistance	72
+=== END

@@ -1,0 +1,7 @@
+=== by > environment
+environment fully by	67
+environment fully by mid	64
+environment fully by mid 2006	64
+
+=== by < environment
+=== END
