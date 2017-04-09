@@ -1,0 +1,1 @@
+the output directory here contains files of form s-t.txt, inside is the dot product of s and t's google-news vectors
