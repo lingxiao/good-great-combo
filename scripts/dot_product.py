@@ -16,21 +16,37 @@ from utils import *
 			`word_pair_path`  :: String, path to .txt with word pairs in form:
 											word1, word2
 			`output_dir`      :: String, path to save results										
+			`refresh`         :: Bool, if true do not recompute value
 
 	@Returns: None			
 '''
-def dot(word_2_vec_path, word_pair_path, out_dir):
+def dot(word_2_vec_path, word_pair_path, out_dir, refresh):
 
+	print('\n>> running `dot` with refresh = ' + str(refresh))
 
 	vector,ws = read_vector(word_2_vec_path)
 
 	pairs     = [x.split(', ') for x in open(word_pair_path,'rb').read().split('\n') \
 	            if len(x.split(', ')) == 2]
 
+	print('\n>> found ' + str(len(pairs)) + ' total pairs that need to be computed')
+
+	if refresh: 
+		# exists = [to_path(s,t,out_dir) for s,t in pairs]          
+		pairs  = [(s,t) for (s,t) in pairs \
+		          if not os.path.exists(to_path(s,t,out_dir))]
+
+	print('\n>> found ' + str(len(pairs)) + ' pairs that need to be computed still')	          
+
 	for s,t in pairs:
 		v = np.dot(vector[s], vector[t])
-		with open(os.path.join(out_dir, s +'-' + t + '.txt'),'wb') as h:
+		with open(to_path(s,t,out_dir),'wb') as h:
 			h.write(str(v))
+
+
+def to_path(s,t,out_dir):
+	return os.path.join(out_dir, s +'-' + t + '.txt')
+
 
 def read_vector(word_2_vec_path):
 
