@@ -1,0 +1,361 @@
+%
+% University of Pennsylvania thesis style
+% Dept. of Computer Information and Science
+%
+% Last edit Friday Oct. 8 2010 
+% Last edit by Nikhil Dinesh
+% Modification:
+%   Changed format of title page
+%   Added comments in various places
+%
+% penndiss.sty
+% PENNDISS DOCUMENT-STYLE OPTION - released July, 1988
+% for LaTeX version 2.09
+% Author: Haim Levkowitz (modified from the Stanford U. style)
+% University of Pennsylvania PhD thesis style -- option to the report style
+% Note: This file is the .STY file. The file penndiss.DOC serves as
+% documentation.
+% Whenever there are discrepancies between the two file,
+% this is the CORRECT thing. It has been fine-tuned for the precise
+% margin requirement. It ``passed the test'' on Friday, July 29, 1988, when
+% my dissertation, formated with it, was accepted.
+% Haim Levkowitz, July 30, 1988.
+% For an example, see [levkowitz.clr]dissroot.tex
+
+%Double spacing
+\renewcommand{\baselinestretch}{1.5}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Define various constants needed for title page
+% See Dissertation.tex for how to define them
+
+\def\dept#1{\gdef\@dept{#1}}
+\def\@dept{}
+\def\mydept{\expandafter{\@dept}}
+
+\def\submityear#1{\gdef\@submityear{#1}} 
+\def\@submityear{}
+
+
+\def\copyrightyear#1{\gdef\@copyrightyear{#1}} 
+\def\@copyrightyear{}
+
+\def\@title{}
+\def\@author{}
+
+\def\supervisorname#1{\gdef\@supervisorname{#1}}
+\def\@supervisorname{}
+\def\supervisorposition#1{\gdef\@supervisorposition{#1}}
+\def\@supervisorposition{}
+\def\supervisordept#1{\gdef\@supervisordept{#1}}
+\def\@supervisordept{}
+
+\newif\ifcosupervised
+\def\cosupervisorname#1{\gdef\@cosupervisorname{#1}}
+\def\@cosupervisorname{}
+\def\cosupervisorposition#1{\gdef\@cosupervisorposition{#1}}
+\def\@cosupervisorposition{}
+\def\cosupervisordept#1{\gdef\@cosupervisordept{#1}}
+\def\@cosupervisordept{}
+
+
+\def\@groupchair{}%
+\def\groupchairname#1{\gdef\@groupchairname{#1}}
+\def\@groupchairname{}
+\def\groupchairdept#1{\gdef\@groupchairdept{#1}}
+\def\@groupchairdept{}
+\def\groupchairposition#1{\gdef\@groupchairposition{#1}}
+\def\@groupchairposition{}
+
+\def\commA#1{\gdef\@commA{#1}}
+\def\@commA{}
+
+\def\commB#1{\gdef\@commB{#1}}
+\def\@commB{}
+
+\def\commC#1{\gdef\@commC{#1}}
+\def\@commC{}
+
+\def\commD#1{\gdef\@commD{#1}}
+\def\@commD{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Declare conditionals for copyright page,
+% list of figures and tables pages
+\newif\ifcopyright 
+\newif\iffigurespage 
+\newif\iftablespage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Activate list of figures and tables
+\figurespagetrue \tablespagetrue
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Graduate group chair signature
+\long\def\groupchairsignature{%
+{\footnotesize
+\noindent
+Graduate Group Chairperson
+\vskip0.05in
+\noindent
+\vrule width 2.5in height 0.35pt\\
+\expandafter{\@groupchairname, \@groupchairposition, \@groupchairdept}
+}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Advisors' signatures
+%Co-Supervisor is optional
+\long\def\supervisorsignature{%
+{\footnotesize
+\noindent
+\begin{tabular}{@{}ll@{}}
+Supervisor of Dissertation & \ifcosupervised Co-Supervisor of Dissertation \fi \\
+   &    \\
+\parbox{3in}{\vrule width 2.5in height 0.35pt} & \ifcosupervised \parbox{3in}{\vrule width 2.5in height 0.35pt} \fi \\
+\expandafter{\@supervisorname} & \ifcosupervised \expandafter{\@cosupervisorname} \fi \\
+\expandafter{\@supervisorposition, \@supervisordept} & \ifcosupervised \expandafter{\@cosupervisorposition, \@cosupervisordept}  \fi \\ 
+\end{tabular}
+}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%List of committee members
+\long\def\committee{%
+{\footnotesize
+\noindent
+Dissertation Committee:\\
+\expandafter{\@commA}\\
+\expandafter{\@commB}\\
+\expandafter{\@commC}\\
+\expandafter{\@commD}\\
+}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%The title page
+\def\titlep{%
+\thispagestyle{empty}%
+%\null\vskip.07in%
+\begin{center}
+\uppercase\expandafter{\@title}
+\vskip.05in%
+{\footnotesize \expandafter{\@author}}
+\vskip.05in%
+A DISSERTATION PROPOSAL \\
+\vskip.05in%
+in
+\vskip.05in%
+\expandafter{\@dept}
+\vskip.05in%
+Presented to the Faculties of the University of Pennsylvania
+\vskip.05in%
+in
+\vskip.05in% 
+Partial Fulfillment of the Requirements for the 
+\vskip.05in%
+Degree of Doctor of Philosophy
+\vskip.05in%
+%\expandafter{\@submityear}
+\@copyrightyear
+%\vskip.02in
+%---
+\end{center}
+%\vfill
+\supervisorsignature
+%\vskip0.15in%
+\vskip0.01in%
+\groupchairsignature
+%\vskip0.15in%
+\vskip0.01in%
+\committee
+\newpage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The Copyright page
+\def\copyrightpage{%
+\thispagestyle{empty}%
+\null\vfill
+\noindent
+\uppercase\expandafter{\@title}
+\vskip0.2in%
+\noindent
+COPYRIGHT
+\vskip0.2in%
+\noindent
+\expandafter{\@copyrightyear}
+\vskip0.2in%
+\noindent
+\expandafter{\@author}
+\vfill\newpage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Setting the style for the preface
+\def\beforepreface{%
+\pagenumbering{roman}%
+\pagestyle{plain}%
+\titlep%
+\ifcopyright\copyrightpage\fi}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% For (optional) acknowledgements
+\def\prefacesection#1{%
+\chapter*{#1}
+\addcontentsline{toc}{chapter}{#1}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Abstract
+\def\abstractp{%
+\begin{center}
+{\uppercase{ABSTRACT}}
+\vskip0.2in
+{\uppercase\expandafter{\@title}} \\
+{\@author \value{saveparindent}} \\
+{\@supervisorname\ }\\
+{\ifcosupervised \@cosupervisorname \fi}
+%{\@supervisorname\ \ifcosupervised and \@cosupervisorname \fi}\\
+\end{center}
+\input{abstract}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Style for the rest of the thesis
+% After the preface
+\def\afterpreface{
+\newpage
+
+\tableofcontents
+
+\newpage 
+
+\listoftables
+
+\newpage 
+\renewcommand\listfigurename{List of Illustrations}
+\listoffigures
+
+\newpage 
+\pagenumbering{arabic}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% bibliography from acl2015.sty
+
+\def\thebibliography#1{\section*{References}
+  \global\def\@listi{\leftmargin\leftmargini
+               \labelwidth\leftmargini \advance\labelwidth-\labelsep
+               \topsep 1pt plus 2pt minus 1pt
+               \parsep 0.25ex plus 1pt \itemsep 0.25ex plus 1pt}
+  \list {[\arabic{enumi}]}{\settowidth\labelwidth{[#1]}\leftmargin\labelwidth
+    \advance\leftmargin\labelsep\usecounter{enumi}}
+    \def\newblock{\hskip .11em plus .33em minus -.07em}
+    \sloppy
+    \sfcode`\.=1000\relax}
+
+\def\@up#1{\raise.2ex\hbox{#1}}
+
+% most of cite format is from aclsub.sty by SMS
+
+% don't box citations, separate with ; and a space
+% also, make the penalty between citations negative: a good place to break
+% changed comma back to semicolon pj 2/1/90
+% \def\@citex[#1]#2{\if@filesw\immediate\write\@auxout{\string\citation{#2}}\fi
+% \def\@citea{}\@cite{\@for\@citeb:=#2\do
+%   {\@citea\def\@citea{;\penalty\@citeseppen\ }\@ifundefined
+%      {b@\@citeb}{{\bf ?}\@warning
+%      {Citation `\@citeb' on page \thepage \space undefined}}%
+% {\csname b@\@citeb\endcsname}}}{#1}}
+
+% don't box citations, separate with ; and a space
+% Replaced for multiple citations (pj) 
+% don't box citations and also add space, semicolon between multiple citations
+\def\@citex[#1]#2{\if@filesw\immediate\write\@auxout{\string\citation{#2}}\fi
+  \def\@citea{}\@cite{\@for\@citeb:=#2\do
+     {\@citea\def\@citea{; }\@ifundefined
+       {b@\@citeb}{{\bf ?}\@warning
+        {Citation `\@citeb' on page \thepage \space undefined}}%
+ {\csname b@\@citeb\endcsname}}}{#1}}
+
+% Allow short (name-less) citations, when used in
+% conjunction with a bibliography style that creates labels like
+%       \citename{<names>, }<year>
+% 
+\let\@internalcite\cite
+\def\cite{\def\citename##1{##1, }\@internalcite}
+\def\shortcite{\def\citename##1{}\@internalcite}
+\def\newcite{\def\citename##1{{\frenchspacing##1} (}\@internalciteb}
+
+% Macros for \newcite, which leaves name in running text, and is
+% otherwise like \shortcite.
+\def\@citexb[#1]#2{\if@filesw\immediate\write\@auxout{\string\citation{#2}}\fi
+  \def\@citea{}\@newcite{\@for\@citeb:=#2\do
+    {\@citea\def\@citea{;\penalty\@m\ }\@ifundefined
+       {b@\@citeb}{{\bf ?}\@warning
+       {Citation `\@citeb' on page \thepage \space undefined}}%
+{\csname b@\@citeb\endcsname}}}{#1}}
+\def\@internalciteb{\@ifnextchar [{\@tempswatrue\@citexb}{\@tempswafalse\@citexb[]}}
+
+\def\@newcite#1#2{{#1\if@tempswa, #2\fi)}}
+
+\def\@biblabel#1{\def\citename##1{##1}[#1]\hfill}
+
+%%% More changes made by SMS (originals in latex.tex)
+% Use parentheses instead of square brackets in the text.
+\def\@cite#1#2{({#1\if@tempswa , #2\fi})}
+
+% Don't put a label in the bibliography at all.  Just use the unlabeled format
+% instead.
+\def\thebibliography#1{\vskip\parskip%
+\vskip\baselineskip%
+\def\baselinestretch{1}%
+\ifx\@currsize\normalsize\@normalsize\else\@currsize\fi%
+\vskip-\parskip%
+\vskip-\baselineskip%
+\section*{References\@mkboth
+ {References}{References}}\list
+ {}{\setlength{\labelwidth}{0pt}\setlength{\leftmargin}{\parindent}
+ \setlength{\itemindent}{-\parindent}}
+ \def\newblock{\hskip .11em plus .33em minus -.07em}
+ \sloppy\clubpenalty4000\widowpenalty4000
+ \sfcode`\.=1000\relax}
+\let\endthebibliography=\endlist
+
+% Allow for a bibliography of sources of attested examples
+\def\thesourcebibliography#1{\vskip\parskip%
+\vskip\baselineskip%
+\def\baselinestretch{1}%
+\ifx\@currsize\normalsize\@normalsize\else\@currsize\fi%
+\vskip-\parskip%
+\vskip-\baselineskip%
+\section*{Sources of Attested Examples\@mkboth
+ {Sources of Attested Examples}{Sources of Attested Examples}}\list
+ {}{\setlength{\labelwidth}{0pt}\setlength{\leftmargin}{\parindent}
+ \setlength{\itemindent}{-\parindent}}
+ \def\newblock{\hskip .11em plus .33em minus -.07em}
+ \sloppy\clubpenalty4000\widowpenalty4000
+ \sfcode`\.=1000\relax}
+\let\endthesourcebibliography=\endlist
+
+\def\@lbibitem[#1]#2{\item[]\if@filesw 
+      { \def\protect##1{\string ##1\space}\immediate
+        \write\@auxout{\string\bibcite{#2}{#1}}\fi\ignorespaces}}
+
+\def\@bibitem#1{\item\if@filesw \immediate\write\@auxout
+       {\string\bibcite{#1}{\the\c@enumi}}\fi\ignorespaces}
+
+

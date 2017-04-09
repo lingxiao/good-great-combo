@@ -1,0 +1,57 @@
+
+
+\section{Problem Formulation}
+
+This section presents three formulations of the ranking problem. We show derivations when possible, otherwise qualitative argument is given.
+
+\subsection{Global Ranking with Two Sided Patterns}
+
+Bansal and de Melo \newcite{demelo:13} use pairwise co-occurence of adjective pairs around the paraphrases found in table 1 to infer the relative strength between the adjectives. Because this data is missing for most pairs, they confronted this problem by computing pairwise rankings when possible, and using the transitive property of partial rankings to infer the missing relationships. Pairwise ranking is computed as:
+
+\[ score(a_1, a_2) = \frac{(W_1 - S_1) - (W_2 - S_2)}{cnt(a_1) \cdot cnt(a_2)}, \]
+
+where:
+
+\[ W_1 = \frac{1}{P_1} \sum_{p \in P_{ws}} cnt(p(a_1, a_2))\]
+
+\[ W_2 = \frac{1}{P_1} \sum_{p \in P_{ws}} cnt(p(a_2, a_1))\]
+
+\[ S_1 = \frac{1}{P_2} \sum_{p \in P_{sw}} cnt(p(a_1, a_2))\]
+
+\[ S_2 = \frac{1}{P_2} \sum_{p \in P_{sw}} cnt(p(a_2, a_1)),\]
+
+with:
+
+\[ P_1 = \sum_{p \in P_{ws}} cnt(p(*, *))\]
+
+\[ P_2 = \sum_{p \in P_{sw}} cnt(p(*, *)).\]
+
+
+Observe $W_1$ measures the likelihood of encountering the phrase $a_1 p a_2$ conditioned on the fact that the corpus is composed 
+entirely of phrases of form $* p *$; a similar interpretation holds for $W_2$, $S_1$, and $S_2$. Furthermore, $(W_1 - S_1) - (W_2 - S_2)$ is positive when $a_1$ occurs more often on the weaker side of the intensity scale relative to $a_2$, hence $score(a_1, a_2)$ is an $cardinal$ measure how much weaker $a_1$ is relative to $a_2$. The denominator $cnt(a_1) \cdot cnt(a_2)$ penalizes high absolute value of the numerator due to higher frequency of certain words, thus normalizing the score over all pair of adjectives, and therefore global comparison is well defined over some cardinal scale. Finally, observe that $score(a_1, a_2) = - score(a_1, a_2)$.
+
+Given pairwise scores over a cluster of adjectives where a global ranking is known to exist, Bansal then aim to recover the ranking using mixed integer linear programming. Assuming we are given $N$ input words $A = \{a_1, ..., a_N\}$, the MILP formulation places them on a scale $[0,1]$ by assigning each $a_i$ a value $x_i \in [0,1]$. The objective function is formulated so that if $score(a_i, a_j)$ is greater than zero, then we know $a_i$ is weaker than $a_j$ and the optimal solution should have $x_i < x_j$. The entire formulation is reproduced below:
+
+{\bf Maximize}
+
+\[ \sum_{i,j} (w_{ij} - s_{ij}) \cdot score(a_i, a_j)\]
+
+{\bf s.t}
+
+\begin{align*}
+  d_{ij} &= x_j - x_i          &\forall i,j \in \{1,...,N\}\\
+  d_{ij} &- w_{ij}C \leq 0     &\forall i,j \in \{1,...,N\}\\
+  d_{ij} &+ (1 - w_{ij})C > 0  &\quad \forall i,j \in \{1,...,N\}\\
+  d_{ij} &+ s_{ij}C \geq 0     &\forall i,j \in \{1,...,N\}\\
+  d_{ij} &- (1 - s_{ij})C < 0  &\forall i,j \in \{1,...,N\}\\
+  x_i    &\in [0,1]            &\forall i,j \in \{1,...,N\}\\
+  w_{ij} &\in \{0,1\}          &\forall i,j \in \{1,...,N\}\\
+  s_{ij} &\in \{0,1\}          &\forall i,j \in \{1,...,N\}.
+\end{align*}
+
+
+Note $d_{ij}$ captures the difference between $x_i$ and $x_j$, $C$ is a very large constant greater than $\sum_{i,j} |score(a_i,a_j)|$. If the variable $w_{ij} = 1$, then we conclude $a_i < a_j$, and vice versa for $s_{ij}$. The objective function encourages $w_{ij} = 1$  for $score(a_i,a_j) > 0$ and $w_{ij} = 0$ otherwise. Furthermore, note either $s_{ij}$ or $w_{ij}$ can be one, thus the optimal solution does not have ties. Bansal then extended the objective to incorporate synonymy information over the $N$ adjectives, defined by $E \subseteq \{1,...,N\} \times \{1,...,N\}$. The objective is now to maximize:
+
+\[ \sum_{(i,j) \not\in E} (w_{ij} - s_{ij}) \cdot score(a_i, a_j) - \sum_{(i,j) \in E} (w_{ij} + s_{ij}) \cdot C,\]
+
+while the constraints remain unchanged. The additional set of terms encourages both $s_{ij}$ and $w_{ij}$ to be zero if both $a_i$ and $a_j$ are in $E$, thus the optimal solution may contain synonyms. We discuss the benefits and draw back of this approach in section four, but for now it suffices to say that in practice we observe $score(a_i, a_j) = 0$ for most pairs of adjectives within a cluster, this data sparsity motivates our next formulation.

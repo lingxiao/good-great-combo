@@ -1,0 +1,96 @@
+\section{Data Preparation}
+
+This section contains a detailed description of how the data is procured and preprocessed, as well as how the training and test sets are created. For ease of reproduction, all data used for this paper is distributed in the project source file (https://github.com/lingxiao/good-great).
+
+\begin{table}
+\small
+\centering
+\begin{tabular}{|l|rl|}
+\hline \bf Strong-Weak Patterns & \bf Weak-Strong Patterns & \\ \hline
+not  * (,) just *           &  * (,) but not *         & \\
+not  * (,) but just *       &  * (,) if not *          & \\
+not  * (,) still *          &  * (,) although not *    &  \\
+not  * (,) but still *      &  * (,) though not *      & \\
+not  * (,) although still * &  * (,) (and,or) even *   & \\
+not  * (,) though still *   &  * (,) (and,or) almost * & \\
+* (,) or very *             & not only * but *         & \\
+not  * (,) just *           & not just * but *         & \\
+\hline
+\end{tabular}
+\caption{\label{font-table} Bansal and de Melo's linguistic patterns. Note the syntax (and,or) means either one of ``and" or ``or" are allowed to appear, or not appear at all. Similarly, (,) denotes a comman is allowed to appear. Additionally, articles such as ``a", ``an", and ``the" are may also appear before the wildcards. Wildcards matches any string.}
+\end{table}
+
+\begin{table}
+\small
+\centering
+\begin{tabular}{|l|rl|}
+\hline \bf Strong-Weak Patterns & \bf Weak-Strong Patterns & \\ \hline
+* (,) unbelievably *     &  very * (and,or) totally *   & \\
+* not even *             &  * (,) yet still *           & \\
+                         &  * (,) (and,or) fully *      & \\
+                         &  * (,) (and,or) outright *   & \\
+\hline
+\end{tabular}
+\caption{\label{font-table} The weak-strong patterns were found by Sheinman. We mined for the strong-weak patterns from google N-gram corpus.}
+\end{table}
+
+\subsection{Extracting Intensity Patterns}
+
+Both \newcite{demelo:13} and \newcite{sheinman2012refining} showed that linguistic patterns connecting two adjectives reveal semantic intensities of these adjectives. Sheinman extracted the patterns by first compiling pairs of seed words where the relative intensity between each pair is known.
+Then they collected patterns of the form ``a * b" for each pair from an online search engine, where * is a wildcard denoting one or more words, and word ``a" is fixed to be weaker than word ``b". Sheinman then took the intersection of all wildcard phrases appearing between all pairs of words, thereby revealing a set of ``weak-strong" patterns $P_{ws}$ where words appearing in front of the pattern is always weaker than the word appearing behind. Table 2 shows the weak-strong patterns extracted by Sheinman. Bansal used a similar approach but used the Google N-gram corpus \cite{brants2006web} as the source of patterns. Additionally, they also considered ``strong-weak" patterns $P_{sw}$ where words appearing in front of the pattern are stronger than those appearing behind. See table 1 for the set of strong-weak and weak-strong patterns mined by Bansal. Finally, during the course of the project, we found additional strong-weak patterns in the N-gram corpus that increased the accuracy of our results, they are found in table 2.
+
+\subsection{Collecting Pattern Statistics from N-grams}
+
+We used Google N-gram Web 1T 5-gram Version 1, publicly distributed by the Linguistic Data Consortium to replicate Bansal's results. Because we aggressively downsized the N-gram corpus, a detail account of our process is given here. The entire N-gram corpus was first normalized by case folding and white-space stripping. Then for each linguistic pattern in tables 1 and 2, we grepped the corpus for key words appearing in each pattern. Both the grep commands and their corresponding grepped ngrams are located in the raw-data directory of project folder. The grepped ngram corpus is several times smaller than the original corpus, thus dramatically increasing the number of experiments we can perform.
+
+Next, we crawled the grepped corpus for the patterns found in tables 1 and 2. Specifically, for each pattern of form $* P *$ and pairs of words $a_1$ and $a_2$, we collect statistics for $a_1 P a_2$ and $a_2 P a_1$. In a departure from Bansal's method, we also collected statistics for $* P a_1$, $* P a_2$, $a_1 P *$, and $a_2 P *$, where $*$ is allowed to be any string. Finally, we also count the occurences of each pattern $* P *$.
+
+\subsection{Extracting PPDB Adverb Patterns}
+
+While \newcite{demelo:13} and \newcite{sheinman2012refining} only considered patterns that relate adjectives within a phrase, we also considered pairs of adjectives that paraphrases each other when one of them is intensified by an adverb. Qualitatively speaking, if ``very good" is a paraphrase of ``great", and we know that "very" intensifies the adjective following it, then we can conclude that ``good" is less intense than ``great". We use the paraphrase database (PPDB) \cite{pavlick-EtAl:2015:ACL-IJCNLP3} to conduct this study. The database relate english utterances of similar meaning. Section 3.3 gives a detailed account of how we infer orderings from the database. We test our assignment on manually curated and ranked adjectives clusters. 
+
+TODO: describe how the adverb pairs are filtered by their dot product wrt word embeddings. Reference Veronica's work.
+
+% We hypothesized that the adverbs can be roughly separated into three classes: intensifying, deintensifying, and netural. For example, we suspect the adverb ``extremely" might intensify adjectives such as ``good" in the phrase ``extremely good", while ``slightly" would deintensify adjectives it modifies. In general however, neither the class in which adverbs belong to nor the degree in which they modify adjectives are clear, thus both need to be learned from corpora. 
+
+% Next, for each labeled pair we use the aforemention PPDB data to collect the set of adverbs modifying $a_1$ so that it becomes a paraphrase of $a_2$, and vice versa for $a_2$. 
+
+ % note this example is selected because the adverbs modify the adjectives in ways we expect. For instance, we expect ``absolutely" to be in an intensifier, and co-occurence with a weak adjective ``beautiful" strengthens it so that the bigram paraphrases ``gorgeous". table 5 shows a counterexample with the same adverbs, but their role is reversed. Such variability in usage necessitates a learning process where the most likely role of the adverb in corpus is determined. Hence we assume each adverb could be labled with one of three categories: intensifier, deintensifer, or neutral; see section 3.3 for justification for these labels. Finally, the training set is constructed in the following manner: each time we observe that the adverb adjective phrase $adverb_i \: a1$ is a paraphrase of $a2$, and the turks label $a1 < a2$, then we assume the adverb acts as an intensifier, and we output the labled pair $(adverb_i, intensifier)$. On the other hand if we observe $a1 > a2$, then we say $adverb_i$ is a deintensifier, and we have $(adverb_i, deintensifier)$. Finally if the turks label $a1 = a2$, then we have $(adverb_i, neutral)$. For example, tables 3 and 4 would output the training set:
+
+
+% \begin{table}
+% \small
+% \centering
+% \begin{tabular}{|l|rl|}
+% \hline \bf similar & \bf identical   & \\ \hline
+% substantially  &  somewhat            & \\
+% really         &                      & \\
+% \hline
+% \end{tabular}
+% \caption{\label{font-table} An example from the labeled training set where the adverbs conform to our prior expectation of how they should modify adjectives. Amazon mechanical turks judged ``beautiful" one is weaker than
+% "gorgeous". And PPDB corpus reveals that the phrase ``absolutely beautiful" is a paraphrase of ``gorgeous", while ``somewhat gorgeous" paraphrases ``beautiful".}
+% \end{table}
+
+% \begin{table}
+% \small
+% \centering
+% \begin{tabular}{|l|rl|}
+% \hline \bf adjective1 & \bf  adjective2 & \\ \hline
+% absolutely     &  adverb1              & \\
+% really     &  adverb2            & \\
+% \hline
+% \end{tabular}
+% \caption{\label{font-table} An negative example from the labeled training set where adverbs modify adjectives in unexpected ways.}
+% \end{table}
+
+
+
+% \begin{align*}
+%   &\{(absolutely, intensifier), (really, intensifier), \\
+%   &(somewhat, deintensifier), (absolutely, intensifier), \\
+%   &(really, intensifier)\}.
+% \end{align*}
+
+% \subsection{Test Set}
+
+% We used the test set distributed by Bansal to replicate and extend his work, and to evaluate our approach using PPDB adverb data. See [k] for a detailed description of how Bansal prepared the data set. Chris, how should I expand this section? Should I just summarize how Bansal made their data? As it stands it seems woefully underdeveloped.
