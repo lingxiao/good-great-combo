@@ -80,10 +80,10 @@ def assert_all_ppr(ppr_dir, gr_path, alpha):
 	run all
 '''
 alphas = [0.9,0.8,0.7,0.5,0.25,0.1,0.01]
-# run_auto_main(alphas)
-# run_auto_sh  (alphas)
+run_auto_main(alphas)
+run_auto_sh  (alphas)
 
-[assert_all_ppr(_output_dir, gr_path, a) for a in alphas]
+# [assert_all_ppr(_output_dir, gr_path, a) for a in alphas]
 
 
 

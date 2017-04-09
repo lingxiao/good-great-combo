@@ -1,0 +1,5 @@
+
+	>> ========== in DEBUG mode ==========
+	>> running compute_ppr at constant 0.8 in refresh mode
+	>> Done
+	>> END

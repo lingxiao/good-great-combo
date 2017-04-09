@@ -14,8 +14,9 @@ from app.config import PATH
 '''
 	paths
 '''
-_root    = os.path.join(PATH['directories']['deploy'], 'ppr')
-_out_dir = os.path.join(_root, 'outputs')
+_root          = os.path.join(PATH['directories']['deploy'], 'ppr')
+_neigh_out_dir = os.path.join(_root, 'neigh-outputs')
+_brad_out_dir  = os.path.join(_root, 'bradley-outputs')
 
 log_dir = PATH['directories']['log']
 gr_path = PATH['assets']['graph']
@@ -33,8 +34,14 @@ wt_dir_bradley = os.path.join(PATH['directories']['deploy']
 alpha = 0
 
 personalized_page_rank( gr_path
-	                  , wt_dir_bradley
-	                  , _out_dir
+	                  , wt_dir_neigh
+	                  , _neigh_out_dir
 	                  , log_dir
 	                  , alpha )
-	                  # , debug = True)
+
+personalized_page_rank( gr_path
+	                  , wt_dir_bradley
+	                  , _brad_out_dir
+	                  , log_dir
+	                  , alpha )
+
