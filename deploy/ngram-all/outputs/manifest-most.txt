@@ -1,0 +1,5 @@
+=== manifest > most
+most fully manifest	53
+
+=== manifest < most
+=== END

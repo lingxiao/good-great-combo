@@ -1,0 +1,7 @@
+=== it > short
+short and even it	47
+short and even it does	46
+not it just a short	64
+
+=== it < short
+=== END

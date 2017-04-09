@@ -1,0 +1,8 @@
+=== largely > only
+
+=== largely < only
+largely but not only	73
+largely , but not only	77
+largely but not only	73
+largely , but not only	77
+=== END

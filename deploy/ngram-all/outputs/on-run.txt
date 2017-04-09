@@ -1,0 +1,24 @@
+=== on > run
+run , even on	222
+run even on a	250
+run even on old	66
+run even on slow	107
+run even on the	197
+run even on very	215
+run , even on a	45
+run , even on the	52
+run even on a fast	44
+run even on slow computers	103
+run even on very old	79
+run even on very older	124
+run fully on	234
+run fully on a	54
+run even on very	215
+run even on very old	79
+run even on very older	124
+run but not on	56
+run but not on	56
+
+=== on < run
+not run just on	40
+=== END

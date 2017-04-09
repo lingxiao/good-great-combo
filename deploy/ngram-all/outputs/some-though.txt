@@ -1,0 +1,22 @@
+=== some > though
+though , even some	97
+though even some of	194
+though even some of the	61
+
+=== some < though
+some , even though	45
+some , even though	875
+some even though i	72
+some even though it	58
+some even though they	52
+some even though u	294
+some , and even though	45
+some , even though i	115
+some , even though equipment	43
+some , even though he	65
+some , even though it	100
+some , even though the	76
+some , even though they	137
+some , even though you	43
+some even though u need	293
+=== END

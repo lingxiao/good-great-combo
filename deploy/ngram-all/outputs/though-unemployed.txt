@@ -1,0 +1,8 @@
+=== though > unemployed
+unemployed , even though	249
+unemployed even though they	49
+unemployed , even though the	60
+unemployed , even though they	71
+
+=== though < unemployed
+=== END

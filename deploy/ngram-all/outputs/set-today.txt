@@ -1,0 +1,5 @@
+=== set > today
+
+=== set < today
+set even today ,	41
+=== END

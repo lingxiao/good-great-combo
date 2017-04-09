@@ -1,0 +1,11 @@
+=== faster > than
+
+=== faster < than
+faster even than a	54
+faster even than in	90
+faster even than that	47
+faster even than the	556
+faster even than in a	58
+faster even than the chip	71
+faster even than the original	83
+=== END

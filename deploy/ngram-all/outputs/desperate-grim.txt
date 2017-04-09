@@ -1,0 +1,6 @@
+=== desperate > grim
+grim , even desperate	68
+grim , even desperate image	64
+
+=== desperate < grim
+=== END

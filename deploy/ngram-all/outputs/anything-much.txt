@@ -1,0 +1,8 @@
+=== anything > much
+much almost anything to	50
+much almost anything to work	50
+much or even anything	56
+much , or even anything	40
+
+=== anything < much
+=== END

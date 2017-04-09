@@ -1,0 +1,6 @@
+=== immediately > met
+met almost immediately .	108
+met almost immediately by	42
+
+=== immediately < met
+=== END

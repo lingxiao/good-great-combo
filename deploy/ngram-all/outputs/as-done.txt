@@ -1,0 +1,44 @@
+=== as > done
+done almost as a	40
+done , almost as	49
+done almost as a	83
+done almost as an	49
+done almost as much	502
+done almost as soon	55
+done almost as well	261
+done almost as much as	124
+done almost as much damage	108
+done almost as much to	123
+done almost as soon as	55
+done almost as well .	43
+done almost as well as	76
+done , although not as	62
+done , though not as	82
+done , even as	42
+done , even as	404
+done even as i	53
+done even as moses	47
+done even as he	82
+done even as she	52
+done even as the	67
+done even as thou	63
+done even as we	61
+done , even as she	40
+done , and even as	80
+done , even as i	56
+done , even as the	45
+done even as moses said	47
+done fully as	40
+done but not as	162
+done , but not as	454
+done but not as much	47
+done but not as	162
+done , but not as	454
+done but not as much	47
+
+=== as < done
+as if not done	100
+as if not done )	41
+not done just as	265
+not done just as well	239
+=== END

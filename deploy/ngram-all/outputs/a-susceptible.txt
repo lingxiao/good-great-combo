@@ -1,0 +1,6 @@
+=== a > susceptible
+
+=== a < susceptible
+a fully susceptible	275
+a fully susceptible population	93
+=== END

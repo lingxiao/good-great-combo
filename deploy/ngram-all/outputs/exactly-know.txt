@@ -1,0 +1,13 @@
+=== exactly > know
+know almost exactly how	91
+know almost exactly what	309
+know almost exactly when	59
+know almost exactly where	83
+know almost exactly what i	44
+
+=== exactly < know
+not know just exactly	499
+not know just exactly how	109
+not know just exactly what	262
+not know just exactly where	49
+=== END

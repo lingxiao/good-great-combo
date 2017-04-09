@@ -1,0 +1,6 @@
+=== exactly > friendly
+friendly , but not exactly	48
+friendly , but not exactly	48
+
+=== exactly < friendly
+=== END

@@ -1,0 +1,8 @@
+=== correct > newsworthy
+newsworthy but not correct	131
+newsworthy but not correct !	131
+newsworthy but not correct	131
+newsworthy but not correct !	131
+
+=== correct < newsworthy
+=== END

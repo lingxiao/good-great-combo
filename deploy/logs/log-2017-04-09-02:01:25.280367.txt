@@ -1,0 +1,5 @@
+
+>> ========== in PRODUCTION mode ==========
+>> Initializing application [ good-great-combo ] ...
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+>> making directory at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results

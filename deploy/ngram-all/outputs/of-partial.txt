@@ -1,0 +1,7 @@
+=== of > partial
+
+=== of < partial
+of even a partial	258
+of even partial lists	168
+of even partial lists which	168
+=== END

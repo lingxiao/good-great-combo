@@ -1,0 +1,8 @@
+=== course > necessarily
+
+=== course < necessarily
+course but not necessarily	70
+course , but not necessarily	326
+course but not necessarily	70
+course , but not necessarily	326
+=== END

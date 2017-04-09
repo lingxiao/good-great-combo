@@ -1,0 +1,6 @@
+=== ensure > most
+
+=== ensure < most
+ensure even the most	388
+ensure even the most prosaic	132
+=== END

@@ -1,0 +1,5 @@
+=== funded > virtually
+virtually fully funded	43
+
+=== funded < virtually
+=== END

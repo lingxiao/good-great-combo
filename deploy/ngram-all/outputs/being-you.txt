@@ -1,0 +1,18 @@
+=== being > you
+you even being found	54
+you , even being	40
+you even being aware	567
+you even being there	99
+you even being found on	54
+you even being aware of	432
+you even being aware that	43
+you even being there .	49
+you but not being	43
+you , but not being	89
+you but not being	43
+you , but not being	89
+
+=== being < you
+not you just being	146
+not you just being a	40
+=== END

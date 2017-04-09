@@ -1,0 +1,9 @@
+=== of > touching
+
+=== of < touching
+of even touching a	166
+of even touching the	87
+of even touching a man	122
+of , but not touching	51
+of , but not touching	51
+=== END

@@ -1,0 +1,7 @@
+=== this > three
+
+=== this < three
+this almost three -	74
+this almost three years	127
+this almost three years ago	91
+=== END

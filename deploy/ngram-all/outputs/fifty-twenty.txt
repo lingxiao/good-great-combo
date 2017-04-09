@@ -1,0 +1,11 @@
+=== fifty > twenty
+twenty , even fifty	75
+twenty or even fifty	209
+twenty , even fifty years	43
+twenty , or even fifty	343
+twenty or even fifty years	88
+
+=== fifty < twenty
+fifty , or even twenty	60
+fifty or even twenty years	65
+=== END

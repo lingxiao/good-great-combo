@@ -1,0 +1,9 @@
+=== as > safer
+safer , even as	231
+safer , even as it	203
+safer , but not as	51
+safer , but not as	51
+
+=== as < safer
+as , if not safer	148
+=== END

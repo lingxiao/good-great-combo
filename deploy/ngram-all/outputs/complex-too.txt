@@ -1,0 +1,8 @@
+=== complex > too
+
+=== complex < too
+complex but not too	82
+complex , but not too	121
+complex but not too	82
+complex , but not too	121
+=== END

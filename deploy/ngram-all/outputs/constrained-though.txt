@@ -1,0 +1,5 @@
+=== constrained > though
+
+=== constrained < though
+constrained , even though	45
+=== END

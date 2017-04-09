@@ -1,0 +1,6 @@
+=== protected > registered
+registered and fully protected	99
+registered and fully protected under	99
+
+=== protected < registered
+=== END

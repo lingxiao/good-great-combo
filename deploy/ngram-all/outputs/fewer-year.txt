@@ -1,0 +1,6 @@
+=== fewer > year
+year and even fewer	79
+year , and even fewer	88
+
+=== fewer < year
+=== END

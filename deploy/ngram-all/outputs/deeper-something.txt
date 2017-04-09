@@ -1,0 +1,9 @@
+=== deeper > something
+something even deeper ,	115
+something even deeper .	116
+something even deeper and	52
+something even deeper than	148
+something even deeper than that	40
+
+=== deeper < something
+=== END

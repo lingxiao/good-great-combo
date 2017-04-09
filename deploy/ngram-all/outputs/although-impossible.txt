@@ -1,0 +1,7 @@
+=== although > impossible
+
+=== although < impossible
+although almost impossible to	43
+although almost impossible to	104
+although almost impossible to prove	40
+=== END

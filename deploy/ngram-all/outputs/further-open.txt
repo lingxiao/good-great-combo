@@ -1,0 +1,8 @@
+=== further > open
+open even further ,	43
+open even further .	177
+open even further the	40
+open even further with	50
+
+=== further < open
+=== END

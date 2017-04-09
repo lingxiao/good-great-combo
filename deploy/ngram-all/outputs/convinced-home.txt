@@ -1,0 +1,7 @@
+=== convinced > home
+home fully convinced	66
+home fully convinced we	53
+home fully convinced we have	53
+
+=== convinced < home
+=== END

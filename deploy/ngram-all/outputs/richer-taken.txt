@@ -1,0 +1,5 @@
+=== richer > taken
+taken , and even richer	94
+
+=== richer < taken
+=== END

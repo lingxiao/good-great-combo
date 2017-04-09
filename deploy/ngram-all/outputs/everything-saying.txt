@@ -1,0 +1,5 @@
+=== everything > saying
+saying almost everything about	46
+
+=== everything < saying
+=== END

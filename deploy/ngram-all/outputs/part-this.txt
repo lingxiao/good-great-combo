@@ -1,0 +1,8 @@
+=== part > this
+
+=== part < this
+part , but not this	48
+not this just part	79
+not this just part of	77
+part , but not this	48
+=== END

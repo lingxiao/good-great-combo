@@ -1,0 +1,5 @@
+=== own > single
+
+=== own < single
+own even a single	88
+=== END

@@ -1,0 +1,6 @@
+=== entertaining > helpful
+not only helpful but entertaining	58
+not only helpful but entertaining	58
+
+=== entertaining < helpful
+=== END

@@ -1,0 +1,6 @@
+=== about > like
+
+=== about < like
+about , almost like	47
+about or even like	75
+=== END

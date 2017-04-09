@@ -1,0 +1,6 @@
+=== searchable > time
+time and fully searchable	78
+time and fully searchable by	78
+
+=== searchable < time
+=== END

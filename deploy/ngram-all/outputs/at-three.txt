@@ -1,0 +1,17 @@
+=== at > three
+
+=== at < three
+at almost three hours	102
+at almost three -	59
+at almost three hours	274
+at almost three hundred	52
+at almost three months	55
+at almost three pounds	58
+at almost three times	913
+at almost three years	82
+at almost three hours ,	53
+at almost three hours ,	134
+at almost three pounds ,	42
+at almost three times that	41
+at almost three times the	726
+=== END

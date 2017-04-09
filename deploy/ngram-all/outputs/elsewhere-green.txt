@@ -1,0 +1,6 @@
+=== elsewhere > green
+green , but not elsewhere	52
+green , but not elsewhere	52
+
+=== elsewhere < green
+=== END

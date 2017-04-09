@@ -1,0 +1,6 @@
+=== bad > seen
+seen , but not bad	47
+seen , but not bad	47
+
+=== bad < seen
+=== END

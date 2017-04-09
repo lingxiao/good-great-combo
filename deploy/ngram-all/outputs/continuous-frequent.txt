@@ -1,0 +1,5 @@
+=== continuous > frequent
+continuous or very frequent	43
+
+=== continuous < frequent
+=== END

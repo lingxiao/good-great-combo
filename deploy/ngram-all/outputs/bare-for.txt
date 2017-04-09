@@ -1,0 +1,7 @@
+=== bare > for
+for even a bare	78
+for even the bare	43
+for even a bare bones	58
+
+=== bare < for
+=== END

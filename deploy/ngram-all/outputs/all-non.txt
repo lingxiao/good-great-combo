@@ -1,0 +1,7 @@
+=== all > non
+
+=== all < non
+all , even non	144
+all , even non -	137
+all , even the non	45
+=== END

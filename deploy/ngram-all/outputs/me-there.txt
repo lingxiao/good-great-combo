@@ -1,0 +1,13 @@
+=== me > there
+there but not me	42
+there , but not me	99
+there but not me	42
+there , but not me	99
+
+=== me < there
+me , even there	126
+me even there !	57
+me even there ,	44
+me even there .	115
+me even there ! </s>	57
+=== END

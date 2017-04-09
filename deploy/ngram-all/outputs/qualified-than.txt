@@ -1,0 +1,6 @@
+=== qualified > than
+than fully qualified	480
+than fully qualified teachers	70
+
+=== qualified < than
+=== END

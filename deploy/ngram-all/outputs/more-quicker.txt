@@ -1,0 +1,7 @@
+=== more > quicker
+quicker and even more	90
+not only quicker but more	240
+not only quicker but more	240
+
+=== more < quicker
+=== END

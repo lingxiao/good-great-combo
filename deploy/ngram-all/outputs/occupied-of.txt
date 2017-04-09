@@ -1,0 +1,5 @@
+=== occupied > of
+of fully occupied	181
+
+=== occupied < of
+=== END

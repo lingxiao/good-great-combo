@@ -1,0 +1,7 @@
+=== first > non
+
+=== first < non
+first fully non	278
+first fully non -	269
+first fully non - fiction	215
+=== END

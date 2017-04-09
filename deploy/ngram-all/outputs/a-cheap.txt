@@ -1,0 +1,6 @@
+=== a > cheap
+cheap but not a	40
+cheap , but not a	95
+
+=== a < cheap
+=== END

@@ -1,0 +1,5 @@
+=== found > small
+
+=== found < small
+found even a small	72
+=== END

@@ -1,0 +1,8 @@
+=== at > precise
+
+=== at < precise
+at almost the precise	68
+at almost the precise	137
+at almost the precise moment	45
+at almost the precise moment	70
+=== END

@@ -1,0 +1,7 @@
+=== at > provided
+provided , even at	47
+provided , but not at	40
+provided , but not at	40
+
+=== at < provided
+=== END

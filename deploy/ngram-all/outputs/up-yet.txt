@@ -1,0 +1,19 @@
+=== up > yet
+yet fully up	241
+yet fully up and	65
+yet fully up to	114
+yet fully up and running	58
+yet fully up to speed	43
+not up just yet	230
+not up just yet ,	49
+not up just yet .	109
+
+=== up < yet
+up fully yet	83
+up but not yet	496
+up , but not yet	340
+up but not yet tested	43
+up but not yet	496
+up , but not yet	340
+up but not yet tested	43
+=== END

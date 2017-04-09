@@ -1,0 +1,6 @@
+=== automated > controlled
+controlled , fully automated	110
+controlled and fully automated	65
+
+=== automated < controlled
+=== END

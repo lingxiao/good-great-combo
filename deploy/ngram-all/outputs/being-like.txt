@@ -1,0 +1,11 @@
+=== being > like
+like almost being there	54
+like almost being there .	43
+like , if not being	55
+not being just like	77
+
+=== being < like
+being , almost like	47
+being almost like a	216
+not like just being	89
+=== END

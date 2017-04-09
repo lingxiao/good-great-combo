@@ -1,0 +1,6 @@
+=== managed > some
+some even managed to	154
+some even managed to	188
+
+=== managed < some
+=== END

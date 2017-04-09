@@ -1,0 +1,5 @@
+=== opposite > out
+out even opposite kinds	47
+
+=== opposite < out
+=== END

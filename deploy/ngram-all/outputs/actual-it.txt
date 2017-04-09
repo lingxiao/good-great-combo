@@ -1,0 +1,6 @@
+=== actual > it
+it but not the actual	42
+it but not the actual	42
+
+=== actual < it
+=== END

@@ -1,0 +1,6 @@
+=== full > inspirational
+not only inspirational but full	40
+not only inspirational but full	40
+
+=== full < inspirational
+=== END

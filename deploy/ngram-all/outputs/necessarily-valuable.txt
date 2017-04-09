@@ -1,0 +1,8 @@
+=== necessarily > valuable
+valuable but not necessarily	55
+valuable , but not necessarily	60
+valuable but not necessarily	55
+valuable , but not necessarily	60
+
+=== necessarily < valuable
+=== END

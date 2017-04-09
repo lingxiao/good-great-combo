@@ -1,0 +1,8 @@
+=== more > simpler
+simpler , even more	47
+simpler and even more	855
+simpler and even more organised	630
+simpler and even more organized	88
+
+=== more < simpler
+=== END

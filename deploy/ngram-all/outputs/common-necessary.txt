@@ -1,0 +1,8 @@
+=== common > necessary
+
+=== common < necessary
+common but not necessary	70
+common , but not necessary	137
+common but not necessary	70
+common , but not necessary	137
+=== END

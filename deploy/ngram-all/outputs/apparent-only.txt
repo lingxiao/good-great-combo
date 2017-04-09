@@ -1,0 +1,5 @@
+=== apparent > only
+only fully apparent	55
+
+=== apparent < only
+=== END

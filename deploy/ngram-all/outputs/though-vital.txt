@@ -1,0 +1,6 @@
+=== though > vital
+vital , even though	137
+vital , even though it	56
+
+=== though < vital
+=== END

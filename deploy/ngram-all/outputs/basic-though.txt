@@ -1,0 +1,6 @@
+=== basic > though
+
+=== basic < though
+basic , even though	89
+basic , even though	58
+=== END

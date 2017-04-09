@@ -1,0 +1,6 @@
+=== also > imprecise
+not only imprecise but also	44
+not only imprecise but also	44
+
+=== also < imprecise
+=== END

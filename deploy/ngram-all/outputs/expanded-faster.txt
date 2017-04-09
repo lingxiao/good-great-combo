@@ -1,0 +1,6 @@
+=== expanded > faster
+
+=== expanded < faster
+expanded even faster ,	56
+expanded even faster than	76
+=== END

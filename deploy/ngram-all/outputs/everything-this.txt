@@ -1,0 +1,10 @@
+=== everything > this
+this , almost everything	64
+this , but not everything	44
+this , but not everything	44
+
+=== everything < this
+everything , even this	153
+everything , but not this	109
+everything , but not this	109
+=== END

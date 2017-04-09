@@ -1,0 +1,6 @@
+=== ok > same
+
+=== ok < same
+ok but not the same	72
+ok but not the same	72
+=== END

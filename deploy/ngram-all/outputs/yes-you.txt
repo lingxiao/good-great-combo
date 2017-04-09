@@ -1,0 +1,36 @@
+=== yes > you
+
+=== yes < you
+yes , even you	161
+yes , even you	174
+yes , even you	242
+yes , even you	205
+yes , even you	2154
+yes even you can	309
+yes , even you	85
+yes , even you	2260
+yes even you ...	87
+yes even you !	43
+yes even you ,	78
+yes even you ^	77
+yes , even you !	153
+yes , even you ...	88
+yes , even you can	43
+yes , even you can	237
+yes , even you !	161
+yes , even you !	145
+yes , even you ,	220
+yes , even you .	313
+yes , even you can	717
+yes , even you people	122
+yes even you can take	308
+yes , even you !	229
+yes , even you )	153
+yes , even you ,	317
+yes , even you -	40
+yes , even you .	123
+yes , even you coders	318
+yes , even you or	248
+yes even you ... todd	86
+yes even you ^ <unk>	77
+=== END

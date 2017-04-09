@@ -1,0 +1,6 @@
+=== as > irrelevant
+irrelevant , even as	57
+
+=== as < irrelevant
+as almost irrelevant .	40
+=== END

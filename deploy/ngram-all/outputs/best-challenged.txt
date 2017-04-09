@@ -1,0 +1,6 @@
+=== best > challenged
+challenged even the best	108
+challenged even the best jazz	45
+
+=== best < challenged
+=== END

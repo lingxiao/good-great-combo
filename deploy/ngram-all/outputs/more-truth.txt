@@ -1,0 +1,12 @@
+=== more > truth
+truth , even more	81
+truth and even more	80
+truth even more .	67
+truth even more incomprehensible	134
+truth even more than	81
+truth , and even more	44
+truth and even more have	42
+truth even more incomprehensible '	102
+
+=== more < truth
+=== END

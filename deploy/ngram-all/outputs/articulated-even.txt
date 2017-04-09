@@ -1,0 +1,5 @@
+=== articulated > even
+even if not articulated	43
+
+=== articulated < even
+=== END

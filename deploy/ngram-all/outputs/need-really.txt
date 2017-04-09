@@ -1,0 +1,16 @@
+=== need > really
+really even need a	312
+really even need an	64
+really even need it	41
+really even need the	174
+really even need to	1125
+really even need to ask	46
+really even need to be	106
+really even need to know	49
+really even need to look	103
+really even need to read	44
+really even need to say	78
+
+=== need < really
+need or even really	46
+=== END

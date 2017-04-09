@@ -1,0 +1,7 @@
+=== for > narrow
+narrow , even for	85
+narrow even for a	41
+narrow even for the	43
+
+=== for < narrow
+=== END

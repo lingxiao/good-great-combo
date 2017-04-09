@@ -1,0 +1,5 @@
+=== firm > most
+
+=== firm < most
+firm even the most stubborn	50
+=== END

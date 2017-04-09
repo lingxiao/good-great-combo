@@ -1,0 +1,5 @@
+=== something > touching
+
+=== something < touching
+something almost touching in	48
+=== END

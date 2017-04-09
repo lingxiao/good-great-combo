@@ -1,0 +1,2403 @@
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-0.py
+TERM environment variable not set.
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+	>> ========== in PRODUCTION mode ==========
+
+	>> could not locate list of pairs with no data at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/pairs/batch-0-no-data.txt
+
+	>> running collect_ngram_patterns ...
+
+	>> found word pair path at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/pairs/batch-0.txt
+
+	>> found ngram directory at /nlp/users/xiao/good-great-combo/ngrams/full
+
+	>> collect ngram over all words in refresh mode...
+
+	>> data for good, great already exists. skipping ...
+
+	>> data for great, excellent already exists. skipping ...
+
+	>> data for good, bad already exists. skipping ...
+
+	>> saving list of words with no data at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/pairs/batch-0-no-data.txt
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-10.py
+TERM environment variable not set.
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
+++ deactivate nondestructive
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
+++ unset pydoc
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ deactivate nondestructive
+++ deactivate nondestructive
+++ deactivate nondestructive
+++ deactivate nondestructive
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ deactivate nondestructive
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ deactivate nondestructive
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ deactivate nondestructive
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ deactivate nondestructive
+++ unset pydoc
+++ unset pydoc
+++ unset pydoc
+++ deactivate nondestructive
+++ unset pydoc
+++ unset pydoc
+++ unset pydoc
+++ unset pydoc
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ deactivate nondestructive
+++ unset pydoc
+++ deactivate nondestructive
+++ deactivate nondestructive
+++ unset pydoc
+++ unset pydoc
+++ deactivate nondestructive
+++ unset pydoc
+++ unset pydoc
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ unset pydoc
+++ '[' -n '' ']'
+++ unset pydoc
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ hash -r
+++ hash -r
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ hash -r
+++ hash -r
+++ hash -r
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ hash -r
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ hash -r
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ hash -r
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV
+++ '[' -n '' ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' -n '' ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ unset VIRTUAL_ENV
+++ '[' -n '' ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ export VIRTUAL_ENV
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ unset VIRTUAL_ENV
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ unset VIRTUAL_ENV
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' '!' nondestructive = nondestructive ']'
+++ unset VIRTUAL_ENV
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export VIRTUAL_ENV
+++ export VIRTUAL_ENV
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' '!' nondestructive = nondestructive ']'
+++ export VIRTUAL_ENV
+++ export VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ export VIRTUAL_ENV
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ export VIRTUAL_ENV
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' '!' nondestructive = nondestructive ']'
+++ export VIRTUAL_ENV
+++ export VIRTUAL_ENV
+++ export VIRTUAL_ENV
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ export VIRTUAL_ENV
+++ export VIRTUAL_ENV
+++ export VIRTUAL_ENV
+++ export VIRTUAL_ENV
+++ export VIRTUAL_ENV
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export VIRTUAL_ENV
+++ export VIRTUAL_ENV
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export VIRTUAL_ENV
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export VIRTUAL_ENV
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export VIRTUAL_ENV
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export VIRTUAL_ENV
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ '[' -n '' ']'
+++ export PATH
+++ export PATH
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ export PATH
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ export PATH
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ export PATH
+++ export PATH
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ export PATH
+++ export PATH
+++ export PATH
+++ export PATH
+++ export PATH
+++ '[' -z '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ export PATH
+++ export PATH
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ '[' -n '' ']'
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ export PATH
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' -z '' ']'
+++ '[' -z '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ export PATH
+++ '[' -z '' ']'
+++ '[' -z '' ']'
+++ export PATH
+++ '[' -z '' ']'
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ '[' -z '' ']'
+++ '[' -n '' ']'
+++ export PATH
+++ '[' -z '' ']'
+++ '[' -z '' ']'
+++ '[' -z '' ']'
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ '[' -z '' ']'
+++ '[' -z '' ']'
+++ '[' -z '' ']'
+++ '[' -z '' ']'
+++ '[' -z '' ']'
+++ '[' x '!=' x ']'
+++ _OLD_VIRTUAL_PS1=
+++ _OLD_VIRTUAL_PS1=
+++ '[' -z '' ']'
+++ '[' -z '' ']'
+++ '[' -n '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ _OLD_VIRTUAL_PS1=
+++ '[' -n '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ _OLD_VIRTUAL_PS1=
+++ '[' -z '' ']'
+++ '[' -n '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ _OLD_VIRTUAL_PS1=
+++ _OLD_VIRTUAL_PS1=
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ _OLD_VIRTUAL_PS1=
+++ _OLD_VIRTUAL_PS1=
+++ _OLD_VIRTUAL_PS1=
+++ _OLD_VIRTUAL_PS1=
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
+++ '[' x '!=' x ']'
+++ _OLD_VIRTUAL_PS1=
+++ _OLD_VIRTUAL_PS1=
+++ '[' -z '' ']'
+++ '[' x '!=' x ']'
+++ '[' x '!=' x ']'
+++ '[' -z '' ']'
+++ '[' x '!=' x ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
+++ '[' x '!=' x ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' -z '' ']'
+++ '[' x '!=' x ']'
+++ '[' x '!=' x ']'
+++ '[' x '!=' x ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
+++ '[' x '!=' x ']'
+++ '[' x '!=' x ']'
+++ '[' x '!=' x ']'
+++ '[' x '!=' x ']'
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' x '!=' x ']'
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ _OLD_VIRTUAL_PS1=
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ _OLD_VIRTUAL_PS1=
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' x '!=' x ']'
+++ _OLD_VIRTUAL_PS1=
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' x '!=' x ']'
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' x '!=' x ']'
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ PS1='(tensorflow-1.0.0)'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ PS1='(tensorflow-1.0.0)'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ alias 'pydoc=python -m pydoc'
+++ PS1='(tensorflow-1.0.0)'
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ PS1='(tensorflow-1.0.0)'
+++ PS1='(tensorflow-1.0.0)'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export PS1
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ export PS1
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ export PS1
+++ PS1='(tensorflow-1.0.0)'
+++ alias 'pydoc=python -m pydoc'
+++ export PS1
+++ PS1='(tensorflow-1.0.0)'
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ PS1='(tensorflow-1.0.0)'
+++ PS1='(tensorflow-1.0.0)'
+++ PS1='(tensorflow-1.0.0)'
+++ alias 'pydoc=python -m pydoc'
+++ alias 'pydoc=python -m pydoc'
+++ PS1='(tensorflow-1.0.0)'
+++ PS1='(tensorflow-1.0.0)'
+++ PS1='(tensorflow-1.0.0)'
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ hash -r
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ alias 'pydoc=python -m pydoc'
+++ export PS1
+++ PS1='(tensorflow-1.0.0)'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ alias 'pydoc=python -m pydoc'
+++ export PS1
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ export PS1
+++ export PS1
+++ export PS1
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ export PS1
+++ export PS1
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ PS1='(tensorflow-1.0.0)'
+++ PS1='(tensorflow-1.0.0)'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ PS1='(tensorflow-1.0.0)'
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ alias 'pydoc=python -m pydoc'
+++ export PS1
+++ hash -r
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ alias 'pydoc=python -m pydoc'
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ alias 'pydoc=python -m pydoc'
+++ alias 'pydoc=python -m pydoc'
+++ alias 'pydoc=python -m pydoc'
+++ hash -r
+++ PS1='(tensorflow-1.0.0)'
+++ alias 'pydoc=python -m pydoc'
+++ alias 'pydoc=python -m pydoc'
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-32.py
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ export PS1
+++ export PS1
+++ hash -r
+++ export PS1
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-12.py
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ hash -r
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ alias 'pydoc=python -m pydoc'
+++ hash -r
+++ '[' -n /pkg/bin/bash -o -n '' ']'
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-31.py
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ export PS1
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-24.py
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ alias 'pydoc=python -m pydoc'
+++ alias 'pydoc=python -m pydoc'
+++ alias 'pydoc=python -m pydoc'
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-26.py
+++ hash -r
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-27.py
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ hash -r
+++ hash -r
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-20.py
+++ hash -r
+++ alias 'pydoc=python -m pydoc'
+++ hash -r
+++ hash -r
+++ hash -r
+++ '[' -n /pkg/bin/bash -o -n '' ']'
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-15.py
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-17.py
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-19.py
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-23.py
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-14.py
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-21.py
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-11.py
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-33.py
+++ '[' -n /pkg/bin/bash -o -n '' ']'
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-1.py
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-13.py
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-18.py
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-16.py
+++ hash -r
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-30.py
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-29.py
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-22.py
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-2.py
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-25.py
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-28.py
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+quota: ++ deactivate nondestructive
+error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+++ unset pydoc
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' -n '' ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ unset VIRTUAL_ENV
+++ export VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export VIRTUAL_ENV
+++ export PATH
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ '[' -n '' ']'
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ '[' -z '' ']'
+++ export PATH
+++ _OLD_VIRTUAL_PS1=
+++ '[' -n '' ']'
+++ '[' x '!=' x ']'
+++ '[' -z '' ']'
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
+++ _OLD_VIRTUAL_PS1=
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
+++ '[' x '!=' x ']'
++ cd /home1/l/lingxiao/xiao/good-great-combo
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+++ '[' tensorflow-1.0.0 = __ ']'
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' -n '' ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' -n /pkg/bin/bash -o -n '' ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ hash -r
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ '[' -n '' ']'
+++ alias 'pydoc=python -m pydoc'
+++ PS1='(tensorflow-1.0.0)'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ export PS1
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ alias 'pydoc=python -m pydoc'
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-35.py
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ hash -r
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-34.py
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-36.py
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-37.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-38.py
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-39.py
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-3.py
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-40.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-41.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-42.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-43.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-44.py
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-45.py
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ alias 'pydoc=python -m pydoc'
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-47.py
+++ '[' -n '' ']'
+++ deactivate nondestructive
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ unset pydoc
+++ hash -r
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ unset VIRTUAL_ENV
+++ hash -r
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ '[' -n '' ']'
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ unset VIRTUAL_ENV
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ '[' '!' nondestructive = nondestructive ']'
+++ export PATH
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' -n '' ']'
+++ export VIRTUAL_ENV
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PS1=
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ '[' x '!=' x ']'
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-48.py
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-46.py
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-49.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-50.py
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' -n '' ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ hash -r
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+quota: ++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+++ export PATH
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-51.py
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-4.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-52.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-53.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-54.py
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-55.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-56.py
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-57.py
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ '[' -n '' ']'
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ unset VIRTUAL_ENV
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ '[' '!' nondestructive = nondestructive ']'
+++ export PATH
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' -n '' ']'
+++ export VIRTUAL_ENV
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ '[' x '!=' x ']'
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ PS1='(tensorflow-1.0.0)'
+++ '[' tensorflow-1.0.0 = __ ']'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ deactivate nondestructive
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ unset pydoc
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-59.py
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ PS1='(tensorflow-1.0.0)'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export PS1
+++ export VIRTUAL_ENV
+++ alias 'pydoc=python -m pydoc'
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-58.py
+++ '[' -z '' ']'
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-5.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-60.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-61.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: ++ deactivate nondestructive
+error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-62.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ deactivate nondestructive
+++ '[' -z '' ']'
+++ unset pydoc
+++ _OLD_VIRTUAL_PS1=
+++ '[' -n '' ']'
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
+++ '[' x '!=' x ']'
+++ '[' -n '' ']'
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ '[' -n /pkg/bin/bash -o -n '' ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ hash -r
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' tensorflow-1.0.0 = __ ']'
+++ unset VIRTUAL_ENV
+++ hash -r
+++ '[' '!' nondestructive = nondestructive ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ '[' -n '' ']'
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ unset VIRTUAL_ENV
+++ export PATH
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' -n '' ']'
+++ PS1='(tensorflow-1.0.0)'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' -z '' ']'
+++ export PS1
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
+++ alias 'pydoc=python -m pydoc'
+quota: ++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ '[' -n /pkg/bin/bash -o -n '' ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ hash -r
+++ '[' -n '' ']'
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-64.py
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-63.py
+++ '[' tensorflow-1.0.0 = __ ']'
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-65.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-66.py
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+quota: ++ hash -r
+error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-67.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-68.py
+quota: quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ '[' tensorflow-1.0.0 = __ ']'
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-6.py
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-69.py
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-70.py
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ deactivate nondestructive
+++ unset pydoc
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ unset pydoc
+++ unset VIRTUAL_ENV
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n '' ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ hash -r
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ export VIRTUAL_ENV
+++ hash -r
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ '[' -n '' ']'
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ unset VIRTUAL_ENV
+++ '[' -n '' ']'
+++ export PATH
+++ '[' '!' nondestructive = nondestructive ']'
+++ unset VIRTUAL_ENV
+++ '[' -n '' ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' -z '' ']'
+++ export VIRTUAL_ENV
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ _OLD_VIRTUAL_PS1=
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export VIRTUAL_ENV
+++ '[' x '!=' x ']'
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ '[' -n '' ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export PATH
+++ '[' -z '' ']'
+++ '[' -n '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' -z '' ']'
+++ '[' x '!=' x ']'
+++ _OLD_VIRTUAL_PS1=
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-8.py
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ PS1='(tensorflow-1.0.0)'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ export PS1
+++ hash -r
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-71.py
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-7.py
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/ngram-all/scripts/ngram-9.py
+TERM environment variable not set.

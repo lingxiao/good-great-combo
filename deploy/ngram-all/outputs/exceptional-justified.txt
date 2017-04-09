@@ -1,0 +1,5 @@
+=== exceptional > justified
+
+=== exceptional < justified
+exceptional and fully justified	40
+=== END

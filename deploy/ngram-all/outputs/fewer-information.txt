@@ -1,0 +1,5 @@
+=== fewer > information
+information and even fewer	47
+
+=== fewer < information
+=== END

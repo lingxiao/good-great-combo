@@ -1,0 +1,9 @@
+=== immediately > so
+so , almost immediately	49
+so , almost immediately	64
+so almost immediately ,	60
+so almost immediately .	119
+so almost immediately after	54
+
+=== immediately < so
+=== END

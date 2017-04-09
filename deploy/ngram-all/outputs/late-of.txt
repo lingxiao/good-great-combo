@@ -1,0 +1,6 @@
+=== late > of
+of even late -	48
+of even the late	44
+
+=== late < of
+=== END

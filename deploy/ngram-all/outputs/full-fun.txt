@@ -1,0 +1,7 @@
+=== full > fun
+
+=== full < fun
+full fully fun	91
+full fully fun funny	51
+full fully fun funny fuz	48
+=== END

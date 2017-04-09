@@ -1,0 +1,5 @@
+=== angry > uncomfortable
+uncomfortable , even angry	52
+
+=== angry < uncomfortable
+=== END

@@ -1,0 +1,6 @@
+=== entirely > lengthy
+lengthy and almost entirely	61
+lengthy and almost entirely futile	60
+
+=== entirely < lengthy
+=== END

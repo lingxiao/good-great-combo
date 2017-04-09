@@ -1,0 +1,7 @@
+=== next > today
+today or even next	135
+today , or even next	40
+today or even next year	95
+
+=== next < today
+=== END

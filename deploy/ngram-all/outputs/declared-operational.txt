@@ -1,0 +1,10 @@
+=== declared > operational
+
+=== declared < operational
+declared fully operational	671
+declared fully operational .	118
+declared fully operational for	88
+declared fully operational in	107
+declared fully operational on	77
+declared fully operational for gps	43
+=== END

@@ -1,0 +1,6 @@
+=== 19 > all
+
+=== 19 < all
+19 but not all	115
+19 but not all ,	103
+=== END

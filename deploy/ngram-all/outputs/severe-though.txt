@@ -1,0 +1,7 @@
+=== severe > though
+
+=== severe < though
+severe , even though	186
+severe even though the	73
+severe , even though the	50
+=== END

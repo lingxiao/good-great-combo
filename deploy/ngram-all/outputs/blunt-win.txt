@@ -1,0 +1,5 @@
+=== blunt > win
+win , if not blunt	65
+
+=== blunt < win
+=== END

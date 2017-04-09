@@ -1,0 +1,8 @@
+=== deadly > painful
+painful and even deadly	43
+painful or even deadly	43
+painful but not deadly	41
+painful but not deadly	41
+
+=== deadly < painful
+=== END

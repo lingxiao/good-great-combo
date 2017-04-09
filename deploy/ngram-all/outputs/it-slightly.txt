@@ -1,0 +1,13 @@
+=== it > slightly
+not it just slightly	45
+
+=== it < slightly
+it , even slightly	136
+it even slightly ,	42
+it even slightly .	87
+it even slightly amusing	49
+it even slightly realistic	61
+it even slightly wrong	49
+it , even slightly ,	78
+it even slightly realistic .	61
+=== END

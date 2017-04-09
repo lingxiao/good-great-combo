@@ -1,0 +1,7 @@
+=== for > obscure
+obscure , even for	97
+obscure even for a	61
+obscure even for a blog	43
+
+=== for < obscure
+=== END

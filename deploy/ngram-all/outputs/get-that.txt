@@ -1,0 +1,18 @@
+=== get > that
+
+=== get < that
+get even that ,	66
+get even that .	358
+get even that close	40
+get even that far	267
+get even that greasy	111
+get even that much	272
+get even that wrong	54
+get even that far ,	54
+get even that far .	123
+get even that greasy lasagna	109
+get even that much .	55
+get even that wrong .	48
+not that just get	162
+not that just get you	41
+=== END

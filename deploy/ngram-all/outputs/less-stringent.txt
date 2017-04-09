@@ -1,0 +1,6 @@
+=== less > stringent
+stringent , but not less	41
+stringent , but not less	41
+
+=== less < stringent
+=== END

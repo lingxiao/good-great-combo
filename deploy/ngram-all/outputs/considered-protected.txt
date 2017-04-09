@@ -1,0 +1,5 @@
+=== considered > protected
+
+=== considered < protected
+considered fully protected	87
+=== END

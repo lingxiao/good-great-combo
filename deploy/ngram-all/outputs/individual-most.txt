@@ -1,0 +1,5 @@
+=== individual > most
+
+=== individual < most
+individual , even the most	64
+=== END

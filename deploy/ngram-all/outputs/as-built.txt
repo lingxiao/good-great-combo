@@ -1,0 +1,10 @@
+=== as > built
+built almost as sturdy	64
+built almost as sturdy &	63
+built , even as	109
+built , but not as	82
+built , but not as	82
+
+=== as < built
+as fully built	92
+=== END

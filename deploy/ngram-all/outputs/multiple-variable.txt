@@ -1,0 +1,5 @@
+=== multiple > variable
+
+=== multiple < variable
+multiple or even a variable	178
+=== END

@@ -1,0 +1,8 @@
+=== get > single
+not get just a single	661
+
+=== get < single
+get even a single	923
+get even a single "	49
+get even a single good	70
+=== END

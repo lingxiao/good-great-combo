@@ -1,0 +1,5 @@
+=== most > specified
+
+=== most < specified
+most fully specified	77
+=== END

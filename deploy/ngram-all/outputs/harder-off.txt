@@ -1,0 +1,5 @@
+=== harder > off
+off even harder .	40
+
+=== harder < off
+=== END

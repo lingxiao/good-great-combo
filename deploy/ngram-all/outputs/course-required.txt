@@ -1,0 +1,8 @@
+=== course > required
+
+=== course < required
+course but not required	46
+course , but not required	80
+course but not required	46
+course , but not required	80
+=== END

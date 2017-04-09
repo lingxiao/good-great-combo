@@ -1,0 +1,5 @@
+=== even > get
+
+=== even < get
+even fully get	50
+=== END

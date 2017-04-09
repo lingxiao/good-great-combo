@@ -1,0 +1,5 @@
+=== closer > way
+way even closer to	44
+
+=== closer < way
+=== END

@@ -1,0 +1,12 @@
+=== other > too
+
+=== other < too
+other but not too	723
+other but not too	48
+other but not too serious	723
+other , but not too	124
+other but not too	723
+other but not too	48
+other but not too serious	723
+other , but not too	124
+=== END

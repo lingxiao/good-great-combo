@@ -1,0 +1,5 @@
+=== explained > same
+same fully explained	40
+
+=== explained < same
+=== END

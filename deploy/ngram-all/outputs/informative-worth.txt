@@ -1,0 +1,8 @@
+=== informative > worth
+
+=== informative < worth
+informative but not worth	51
+informative but not worth $	50
+informative but not worth	51
+informative but not worth $	50
+=== END

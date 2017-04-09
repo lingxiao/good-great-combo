@@ -1,0 +1,6 @@
+=== as > prerequisite
+prerequisite , but not as	83
+prerequisite , but not as	83
+
+=== as < prerequisite
+=== END

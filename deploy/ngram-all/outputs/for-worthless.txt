@@ -1,0 +1,5 @@
+=== for > worthless
+worthless if not for	48
+
+=== for < worthless
+=== END

@@ -1,0 +1,8 @@
+=== too > yourself
+yourself but not too	40
+yourself , but not too	124
+yourself but not too	40
+yourself , but not too	124
+
+=== too < yourself
+=== END

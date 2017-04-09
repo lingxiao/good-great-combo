@@ -1,0 +1,10 @@
+=== convenient > very
+
+=== convenient < very
+convenient but not very	60
+convenient , but not very	67
+convenient but not very	60
+convenient , but not very	67
+convenient but not very	60
+convenient , but not very	67
+=== END

@@ -1,0 +1,16 @@
+=== granted > though
+
+=== granted < though
+granted , even though	126
+granted , even though	743
+granted even though a	43
+granted even though it	74
+granted even though the	553
+granted even though they	78
+granted , even though eventually	52
+granted , even though it	88
+granted , even though most	54
+granted , even though the	119
+granted , even though they	73
+granted even though the original	149
+=== END

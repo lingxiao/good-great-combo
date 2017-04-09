@@ -1,0 +1,7 @@
+=== close > me
+me even close to	138
+me , but not close	59
+me , but not close	59
+
+=== close < me
+=== END

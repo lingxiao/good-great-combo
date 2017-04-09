@@ -1,0 +1,6 @@
+=== like > okay
+okay , but not like	79
+okay , but not like	79
+
+=== like < okay
+=== END

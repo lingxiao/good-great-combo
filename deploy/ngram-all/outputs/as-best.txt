@@ -1,0 +1,17 @@
+=== as > best
+best , almost as	88
+best , almost as good	55
+best , even as	200
+best and fully as	42
+best but not as	52
+best , but not as	108
+best but not as	52
+best , but not as	108
+
+=== as < best
+as even the best	62
+as even the best	1154
+as even the best -	60
+as even the best of	165
+as even the best terms	134
+=== END

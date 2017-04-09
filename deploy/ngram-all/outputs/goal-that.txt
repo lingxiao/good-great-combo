@@ -1,0 +1,6 @@
+=== goal > that
+that even a goal	75
+that even the goal	52
+
+=== goal < that
+=== END

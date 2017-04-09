@@ -1,0 +1,5 @@
+=== yes > yourself
+
+=== yes < yourself
+yes , even yourself	57
+=== END

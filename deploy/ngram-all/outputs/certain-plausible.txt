@@ -1,0 +1,6 @@
+=== certain > plausible
+plausible but not certain	50
+plausible but not certain	50
+
+=== certain < plausible
+=== END

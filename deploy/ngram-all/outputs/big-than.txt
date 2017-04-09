@@ -1,0 +1,6 @@
+=== big > than
+than even a big	45
+than even the big	124
+
+=== big < than
+=== END

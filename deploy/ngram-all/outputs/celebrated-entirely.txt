@@ -1,0 +1,6 @@
+=== celebrated > entirely
+
+=== celebrated < entirely
+celebrated almost entirely at	40
+celebrated almost entirely at home	40
+=== END

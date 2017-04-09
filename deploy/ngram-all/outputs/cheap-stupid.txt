@@ -1,0 +1,8 @@
+=== cheap > stupid
+
+=== cheap < stupid
+cheap but not stupid	67
+cheap but not stupid !	67
+cheap but not stupid	67
+cheap but not stupid !	67
+=== END

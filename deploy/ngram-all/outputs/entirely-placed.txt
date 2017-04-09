@@ -1,0 +1,6 @@
+=== entirely > placed
+placed almost entirely on	108
+placed almost entirely on the	65
+
+=== entirely < placed
+=== END

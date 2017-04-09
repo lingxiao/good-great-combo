@@ -1,0 +1,7 @@
+=== adequate > with
+with fully adequate	80
+
+=== adequate < with
+adequate , even with	116
+adequate , even with the	44
+=== END

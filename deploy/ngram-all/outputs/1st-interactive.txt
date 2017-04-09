@@ -1,0 +1,7 @@
+=== 1st > interactive
+
+=== 1st < interactive
+1st fully interactive	44
+1st fully interactive community	40
+1st fully interactive community online	40
+=== END

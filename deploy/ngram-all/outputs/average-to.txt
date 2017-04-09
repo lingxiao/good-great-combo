@@ -1,0 +1,8 @@
+=== average > to
+to even an average	66
+to even the average	185
+
+=== average < to
+average , but not to	52
+average , but not to	52
+=== END

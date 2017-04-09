@@ -1,0 +1,6 @@
+=== three > well
+well , almost three	57
+well , almost three	83
+
+=== three < well
+=== END

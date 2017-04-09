@@ -1,0 +1,6 @@
+=== cold > outside
+outside , but not cold	55
+outside , but not cold	55
+
+=== cold < outside
+=== END

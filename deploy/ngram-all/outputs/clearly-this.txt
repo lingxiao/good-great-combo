@@ -1,0 +1,5 @@
+=== clearly > this
+
+=== clearly < this
+clearly , even this	41
+=== END

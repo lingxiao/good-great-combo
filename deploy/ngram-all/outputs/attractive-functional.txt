@@ -1,0 +1,10 @@
+=== attractive > functional
+not only functional but attractive	50
+not only functional but attractive	50
+
+=== attractive < functional
+not only attractive but functional	61
+attractive , fully functional	66
+attractive and fully functional	110
+not only attractive but functional	61
+=== END

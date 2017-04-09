@@ -1,0 +1,25 @@
+=== already > yet
+
+=== already < yet
+already but not yet	79
+already but not yet	274
+already but not yet	508
+already but not yet '	65
+already but not yet "	43
+already but not yet </s>	105
+already , but not yet	204
+already but not yet "	182
+already but not yet '	40
+already but not yet .	89
+already but not yet	79
+already but not yet	274
+already but not yet	508
+already but not yet '	65
+already but not yet "	43
+already but not yet </s>	105
+already , but not yet	204
+already but not yet "	182
+already but not yet '	40
+already but not yet .	89
+the already but not yet	64
+=== END

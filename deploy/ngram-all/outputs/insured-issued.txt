@@ -1,0 +1,6 @@
+=== insured > issued
+issued or fully insured	67
+issued or fully insured or	67
+
+=== insured < issued
+=== END

@@ -1,0 +1,5 @@
+=== closer > placed
+placed even closer to	41
+
+=== closer < placed
+=== END

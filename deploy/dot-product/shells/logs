@@ -1,0 +1,1736 @@
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' -n '' ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ unset VIRTUAL_ENV
+++ export VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+quota: ++ export PATH
+++ '[' -n '' ']'
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
+error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+++ '[' -z '' ']'
++ cd /home1/l/lingxiao/xiao/good-great-combo
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-54.py
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-55.py
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-53.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-56.py
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-57.py
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-58.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-59.py
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-5.py
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
++ cd /home1/l/lingxiao/xiao/good-great-combo
+++ unset pydoc
+++ deactivate nondestructive
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ '[' -n '' ']'
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n /pkg/bin/bash -o -n '' ']'
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' -n '' ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ deactivate nondestructive
+++ unset VIRTUAL_ENV
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ unset pydoc
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ unset VIRTUAL_ENV
+++ _OLD_VIRTUAL_PS1=
+++ '[' -n '' ']'
+++ export VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' x '!=' x ']'
+++ '[' -n '' ']'
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
+++ export VIRTUAL_ENV
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+++ '[' -n '' ']'
++ cd /home1/l/lingxiao/xiao/good-great-combo
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ '[' tensorflow-1.0.0 = __ ']'
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' '!' nondestructive = nondestructive ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-61.py
+++ '[' tensorflow-1.0.0 = __ ']'
+++ alias 'pydoc=python -m pydoc'
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' -n /pkg/bin/bash -o -n '' ']'
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-63.py
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-60.py
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-62.py
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-64.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-65.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-66.py
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ cd /home1/l/lingxiao/xiao/good-great-combo
+++ deactivate nondestructive
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
+++ unset pydoc
+++ deactivate nondestructive
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
+++ '[' -n '' ']'
+++ unset pydoc
+++ deactivate nondestructive
++ cd /home1/l/lingxiao/xiao/good-great-combo
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ unset pydoc
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ '[' -n '' ']'
+++ deactivate nondestructive
+++ hash -r
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ unset VIRTUAL_ENV
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
+++ '[' tensorflow-1.0.0 = __ ']'
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-67.py
+++ '[' tensorflow-1.0.0 = __ ']'
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-6.py
+++ '[' -n /pkg/bin/bash -o -n '' ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-69.py
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-68.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-70.py
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-71.py
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> making directory at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results
+Traceback (most recent call last):
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> making directory at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-67.py", line 12, in <module>
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> making directory at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results
+Traceback (most recent call last):
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> making directory at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results
+    Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-55.py", line 12, in <module>
+Traceback (most recent call last):
+    from app.config import PATH
+from app.config import PATH
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-66.py", line 12, in <module>
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-59.py", line 12, in <module>
+  File "/home1/l/lingxiao/xiao/good-great-combo/app/config.py", line 107, in <module>
+  File "/home1/l/lingxiao/xiao/good-great-combo/app/config.py", line 107, in <module>
+        from app.config import PATH
+  File "/home1/l/lingxiao/xiao/good-great-combo/app/config.py", line 107, in <module>
+    setup(PATH)
+from app.config import PATH
+  File "/home1/l/lingxiao/xiao/good-great-combo/app/config.py", line 107, in <module>
+    setup(PATH)
+    setup(PATH)
+  File "/home1/l/lingxiao/xiao/good-great-combo/app/config.py", line 89, in setup
+  File "/home1/l/lingxiao/xiao/good-great-combo/app/config.py", line 89, in setup
+        os.mkdir(path)
+  File "/home1/l/lingxiao/xiao/good-great-combo/app/config.py", line 89, in setup
+    os.mkdir(path)
+OSError: [Errno 17] File exists: '/mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results'
+    setup(PATH)
+OSErroros.mkdir(path)
+  File "/home1/l/lingxiao/xiao/good-great-combo/app/config.py", line 89, in setup
+: [Errno 17] File exists: '/mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results'OSError
+    os.mkdir(path)
+: OSError[Errno 17] File exists: '/mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results'
+: [Errno 17] File exists: '/mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results'
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-7.py
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-8.py
+quota: error while getting quota from nlpgridio3.seas.upenn.edu:/data for lingxiao (id 15210): Connection refused
++ export PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ PYTHONPATH=/home1/l/lingxiao/xiao/good-great-combo
++ cd /home1/l/lingxiao/xiao/good-great-combo
++ source /home1/l/lingxiao/xiao/tensorflow-1.0.0/bin/activate
+++ deactivate nondestructive
+++ unset pydoc
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ '[' '!' nondestructive = nondestructive ']'
+++ VIRTUAL_ENV=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ export VIRTUAL_ENV
+++ _OLD_VIRTUAL_PATH=/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ PATH=/mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0/bin:/home1/s/sgeadmin/ogs-2011p1/bin/linux-x64:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/local/bowtie/bin:/usr/local/bowtie2/bin:/usr/local/homer/bin:/usr/lib/mit/bin:/usr/local/mirnylib/bin:/usr/local/Qt5.4.0/Tools/QtCreator/bin:/usr/lib/qt3/bin:/usr/local/samtools/bin:/usr/local/sra-toolkit/bin:/usr/local/tophat/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ '[' x '!=' x ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ '[' tensorflow-1.0.0 = __ ']'
++++ basename /mnt/castor/seas_home/l/lingxiao/xiao/tensorflow-1.0.0
+++ PS1='(tensorflow-1.0.0)'
+++ export PS1
+++ alias 'pydoc=python -m pydoc'
+++ '[' -n /pkg/bin/bash -o -n '' ']'
+++ hash -r
++ python /home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-9.py
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 99989 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-8.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'non-competitive'
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 99999 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-9.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: "'sgoing"
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 99997 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-61.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'inter-dependent'
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 99998 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-60.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'neighbours'
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 100000 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-65.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'pitch-black'
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 99998 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-62.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'better-iooking'
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 99992 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-70.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'non-exclusive'
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 99988 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-53.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: "n'tunderstand"
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 99997 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-6.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'well-received'
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 99991 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-71.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'well-coordinated'
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 99997 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-56.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'life-threatening'
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 99992 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-64.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'beautifui'
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 99995 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-7.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'neighbours'
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 99992 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-54.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'muchfor'
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 99995 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-68.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'thanan'
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 99996 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-58.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'across-the-board'
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 99999 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-5.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'cattled'
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> making directory at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 100000 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-57.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'well-targeted'
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 100000 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-69.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'pitch-dark'
+
+>> ========== in PRODUCTION mode ==========
+
+>> Initializing application [ good-great-combo ] ...
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/results already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy/logs already exists
+
+>> directory /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/deploy already exists
+
+>> Located critical asset two-sided-patterns.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/patterns/two-sided-patterns.txt
+
+>> Located critical asset anne-125.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-125.txt
+
+>> Located critical asset graph-ngram.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph-ngram.txt
+
+>> Located critical asset graph_or.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_or.json
+
+>> Located critical asset anne-25.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/anne-25.txt
+
+>> Located critical asset graph.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph.json
+
+>> Located critical asset bansal.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/bansal.txt
+
+>> Located critical asset graph_and.json at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/raw-graph/graph_and.json
+
+>> Located critical asset ccb.txt at /mnt/castor/seas_home/l/lingxiao/xiao/good-great-combo/inputs/test/ccb.txt
+
+>> complete application setup!
+
+>> running `dot` with refresh = True
+
+>> found 100000 total pairs that need to be computed
+
+>> found 99988 pairs that need to be computed still
+Traceback (most recent call last):
+  File "/home1/l/lingxiao/xiao/good-great-combo/deploy/dot-product/scripts/main-63.py", line 30, in <module>
+    dot(word_2_vec_big, word_pair_path, _output_dir, refresh = True)
+  File "/home1/l/lingxiao/xiao/good-great-combo/scripts/dot_product.py", line 42, in dot
+    v = np.dot(vector[s], vector[t])
+KeyError: 'all-inclusive'

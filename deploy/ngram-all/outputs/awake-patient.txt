@@ -1,0 +1,5 @@
+=== awake > patient
+patient fully awake	67
+
+=== awake < patient
+=== END

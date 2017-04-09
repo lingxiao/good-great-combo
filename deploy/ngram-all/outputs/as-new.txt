@@ -1,0 +1,20 @@
+=== as > new
+new , even as	126
+new but not as	47
+new , but not as	54
+new , but not as	56
+new but not as	47
+new , but not as	54
+new , but not as	56
+
+=== as < new
+as almost a new	60
+as almost new .	59
+as even the new	41
+as even the new	58
+as even the new	162
+as even the new	71
+as even the new york	41
+as even the new york	51
+as even the new york	130
+=== END

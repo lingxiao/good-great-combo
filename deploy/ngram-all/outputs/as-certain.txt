@@ -1,0 +1,14 @@
+=== as > certain
+certain , even as	51
+
+=== as < certain
+as almost certain ,	43
+as almost certain .	41
+as almost certain and	50
+as almost certain that	93
+as almost certain to	140
+as almost certain and immediate	43
+as almost certain to force	63
+as if not certain	92
+as if not certain of	50
+=== END

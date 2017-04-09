@@ -1,0 +1,7 @@
+=== commercial > developing
+developing fully commercial	180
+developing fully commercial software	179
+developing fully commercial software :	179
+
+=== commercial < developing
+=== END

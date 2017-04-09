@@ -1,0 +1,11 @@
+=== in > unique
+unique , even in	436
+unique even in the	420
+unique , even in a	139
+unique , even in the	123
+unique even in the world	214
+unique , but not in	42
+unique , but not in	42
+
+=== in < unique
+=== END

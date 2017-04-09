@@ -1,0 +1,8 @@
+=== principal > though
+
+=== principal < though
+principal , even though	280
+principal even though he	41
+principal even though the	84
+principal , even though the	70
+=== END

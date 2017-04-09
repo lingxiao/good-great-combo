@@ -1,0 +1,6 @@
+=== proud > satisfied
+
+=== proud < satisfied
+proud but not satisfied	41
+proud but not satisfied	41
+=== END

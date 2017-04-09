@@ -1,0 +1,6 @@
+=== consistent > remaining
+remaining fully consistent	49
+remaining fully consistent with	44
+
+=== consistent < remaining
+=== END

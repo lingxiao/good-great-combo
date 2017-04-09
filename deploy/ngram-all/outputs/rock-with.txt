@@ -1,0 +1,7 @@
+=== rock > with
+with even the rock	55
+with even the rock stars	55
+
+=== rock < with
+rock , even with	89
+=== END

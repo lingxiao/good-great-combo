@@ -1,0 +1,6 @@
+=== daily > equipped
+
+=== daily < equipped
+daily , fully equipped	109
+daily , fully equipped kitchen	94
+=== END
