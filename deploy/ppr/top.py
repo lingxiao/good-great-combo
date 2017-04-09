@@ -25,7 +25,6 @@ _script_dir = os.path.join(_root ,'scripts')
 _shell_dir  = os.path.join(_root ,'shell')
 gr_path     = PATH['assets']['graph']
 
-
 ############################################################
 '''
 	@Use: rewrite main-#.py file
@@ -53,15 +52,38 @@ def run_auto_sh(alphas):
 		auto_gen(src_path, tgt_path, src_str, tgt_str)
 
 
+'''
+	@Use: assert all ppr probs for all words have been computed
+		  ie.	assert_all_ppr(_output_dir, gr_path, 0.9)
+'''
+def assert_all_ppr(ppr_dir, gr_path, alpha):
+	
+	_, words = load_as_list(gr_path)
+
+	bad = []
+
+	for s in words:
+		name = s + '-' + str(alpha) + '.pkl'
+		path = os.path.join(ppr_dir,name)
+
+		if not os.path.exists(path):
+			bad.append(s)
+
+	if bad:
+		print('\n>> !!ERROR: missing ' + str(len(bad)) + ' words for ' + str(alpha))
+	else:
+		print('\n>> found ppr for all words at ' + str(alpha))
+
 
 ############################################################
 '''
 	run all
 '''
 alphas = [0.9,0.8,0.7,0.5,0.25,0.1,0.01]
+# run_auto_main(alphas)
+# run_auto_sh  (alphas)
 
-run_auto_main(alphas)
-run_auto_sh  (alphas)
+[assert_all_ppr(_output_dir, gr_path, a) for a in alphas]
 
 
 

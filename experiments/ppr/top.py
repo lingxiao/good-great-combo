@@ -50,9 +50,9 @@ edge_weight_adjacency    = os.path.join(wt_dir, 'neigh'    )
 ############################################################
 
 '''
-	right now: recomputing bradley-terry on grid
-	     next: recomputing neigh
-	     next: recompute ppr for both 
+	right now: recomputing neigh
+          	   recompute ppr for bradley-terry
+	     next: recompute ppr for neigh
 '''
 
 G      = Graph(gr_path, wt_path, ppr_dir)
